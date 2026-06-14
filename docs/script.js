@@ -57,7 +57,7 @@ function makeCard(item) {
     imgHtml = `
       <div class="card-img" style="background:${grad}">
         <img src="${item.image}" alt="" loading="lazy"
-             onload="var r=this.naturalWidth/this.naturalHeight;if(r>3||r<0.5)this.style.objectFit='contain'"
+             onload="var r=this.naturalWidth/this.naturalHeight;if(r>2.5||r<0.5)this.style.objectFit='contain'"
              onerror="this.parentNode.classList.add('card-img--err');this.remove()" />
         <div class="card-img-fallback">${item.source}</div>
       </div>`;

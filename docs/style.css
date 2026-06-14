@@ -865,6 +865,9 @@ main {
 .radio-logo--frcn       { background: linear-gradient(135deg, #004d00, #007000); }
 .radio-logo--talksport  { background: linear-gradient(135deg, #7b0000, #b71c1c); }
 .radio-logo--bbc5       { background: linear-gradient(135deg, #003087, #1565c0); }
+.radio-logo--bbcws      { background: linear-gradient(135deg, #b71c1c, #d32f2f); }
+.radio-logo--voa        { background: linear-gradient(135deg, #003087, #1565c0); }
+.radio-logo--dw         { background: linear-gradient(135deg, #006d8f, #0097a7); }
 .radio-logo--rhythm     { background: linear-gradient(135deg, #e65100, #ff6d00); }
 .radio-logo--capitalfm  { background: linear-gradient(135deg, #4a148c, #7b1fa2); }
 .radio-logo--1xtra      { background: linear-gradient(135deg, #212121, #424242); }

@@ -818,6 +818,76 @@ main {
   border-top: 1px solid var(--border);
 }
 
+/* ── Radio cards ── */
+.radio-card {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0.9rem 1rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s, transform 0.2s;
+}
+.radio-card:hover {
+  border-color: var(--green);
+  background: var(--bg-hover);
+  transform: translateY(-2px);
+}
+
+.radio-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  font-weight: 800;
+  color: #fff;
+  flex-shrink: 0;
+  letter-spacing: 0.3px;
+}
+
+.radio-logo--ch         { background: linear-gradient(135deg, #e31e24, #c0151a); }
+.radio-logo--info       { background: linear-gradient(135deg, #1a237e, #283593); }
+.radio-logo--lagostalks { background: linear-gradient(135deg, #1b5e20, #2e7d32); }
+.radio-logo--raypower   { background: linear-gradient(135deg, #e65100, #f57c00); }
+.radio-logo--cool       { background: linear-gradient(135deg, #006064, #00838f); }
+.radio-logo--beat       { background: linear-gradient(135deg, #4a148c, #6a1b9a); }
+.radio-logo--smooth     { background: linear-gradient(135deg, #880e4f, #ad1457); }
+.radio-logo--wazobiafm  { background: linear-gradient(135deg, #33691e, #558b2f); }
+.radio-logo--naijafm    { background: linear-gradient(135deg, #bf360c, #e64a19); }
+.radio-logo--classic    { background: linear-gradient(135deg, #4e342e, #6d4c41); }
+.radio-logo--brila      { background: linear-gradient(135deg, #006400, #008000); }
+
+.radio-info { flex: 1; min-width: 0; }
+
+.radio-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 0.2rem;
+}
+
+.radio-freq {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.radio-onair {
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  color: #fff;
+  background: #008751;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  flex-shrink: 0;
+  animation: pulse 2s ease-in-out infinite;
+}
+
 /* ── Ad slots ── */
 .ad-leaderboard {
   background: #0a0d18;

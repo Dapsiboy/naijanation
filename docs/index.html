@@ -57,6 +57,7 @@
     <button class="tab-btn"        data-tab="editorials" role="tab">✍️ Editorials</button>
     <button class="tab-btn"        data-tab="finance"  role="tab">📈 Investment &amp; Stocks</button>
     <button class="tab-btn"        data-tab="livetv"   role="tab">📺 Live TV</button>
+    <button class="tab-btn"        data-tab="radio"    role="tab">📻 Radio</button>
     <button class="tab-btn"        data-tab="rates"    role="tab">💱 Exchange Rates</button>
     <button class="tab-btn"        data-tab="crypto"   role="tab">₿ Crypto</button>
     <button class="tab-btn"        data-tab="trending" role="tab">🔥 Trending</button>
@@ -264,6 +265,133 @@
       <p class="tv-disclaimer">
         All streams are hosted by the respective broadcasters. Naija Digest Online does not host any video content.
         If a stream is offline, check the channel's official website or YouTube page directly.
+      </p>
+    </section>
+
+    <!-- ── Radio ── -->
+    <section id="tab-radio" class="tab-panel" role="tabpanel">
+      <div class="tv-intro">
+        <h2>📻 Nigerian Radio Stations</h2>
+        <p>Click any station to listen live — opens in a new tab. Stream availability depends on the station's online service.</p>
+      </div>
+
+      <h3 class="tv-category-heading">🗞️ News &amp; Talk</h3>
+      <div class="tv-grid">
+
+        <div class="radio-card" onclick="listenRadio('https://www.channelstv.com/live-radio/')">
+          <div class="radio-logo radio-logo--ch">95.1</div>
+          <div class="radio-info">
+            <div class="radio-name">Channels Radio</div>
+            <div class="radio-freq">95.1 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.nigeriainfofm.com/listen-live/')">
+          <div class="radio-logo radio-logo--info">99.3</div>
+          <div class="radio-info">
+            <div class="radio-name">Nigeria Info</div>
+            <div class="radio-freq">99.3 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.lagostalks.com/listen/')">
+          <div class="radio-logo radio-logo--lagostalks">91.3</div>
+          <div class="radio-info">
+            <div class="radio-name">Lagos Talks</div>
+            <div class="radio-freq">91.3 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.raypower.com.ng/')">
+          <div class="radio-logo radio-logo--raypower">100.5</div>
+          <div class="radio-info">
+            <div class="radio-name">Raypower FM</div>
+            <div class="radio-freq">100.5 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+      </div>
+
+      <h3 class="tv-category-heading" style="margin-top:2rem">🎵 Music &amp; Entertainment</h3>
+      <div class="tv-grid">
+
+        <div class="radio-card" onclick="listenRadio('https://www.coolfm.com.ng/')">
+          <div class="radio-logo radio-logo--cool">96.9</div>
+          <div class="radio-info">
+            <div class="radio-name">Cool FM</div>
+            <div class="radio-freq">96.9 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.thebeatfm.com/')">
+          <div class="radio-logo radio-logo--beat">97.9</div>
+          <div class="radio-info">
+            <div class="radio-name">Beat FM</div>
+            <div class="radio-freq">97.9 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://smooth981fm.com/listen-live/')">
+          <div class="radio-logo radio-logo--smooth">98.1</div>
+          <div class="radio-info">
+            <div class="radio-name">Smooth FM</div>
+            <div class="radio-freq">98.1 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.wazobiafm.com/listen-live/')">
+          <div class="radio-logo radio-logo--wazobiafm">94.1</div>
+          <div class="radio-info">
+            <div class="radio-name">Wazobia FM</div>
+            <div class="radio-freq">94.1 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.naijafm.com/listen-live/')">
+          <div class="radio-logo radio-logo--naijafm">102.7</div>
+          <div class="radio-info">
+            <div class="radio-name">Naija FM</div>
+            <div class="radio-freq">102.7 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+        <div class="radio-card" onclick="listenRadio('https://www.classic973.com/listen-live/')">
+          <div class="radio-logo radio-logo--classic">97.3</div>
+          <div class="radio-info">
+            <div class="radio-name">Classic FM</div>
+            <div class="radio-freq">97.3 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+      </div>
+
+      <h3 class="tv-category-heading" style="margin-top:2rem">🏆 Sports</h3>
+      <div class="tv-grid">
+
+        <div class="radio-card" onclick="listenRadio('https://www.brilafm.com/listen-live/')">
+          <div class="radio-logo radio-logo--brila">88.9</div>
+          <div class="radio-info">
+            <div class="radio-name">Brila FM</div>
+            <div class="radio-freq">88.9 FM · Lagos</div>
+          </div>
+          <span class="radio-onair">ON AIR</span>
+        </div>
+
+      </div>
+
+      <p class="tv-disclaimer">
+        All streams are hosted by the respective broadcasters. Naija Digest Online does not host any audio content.
+        If a stream is offline, visit the station's website directly.
       </p>
     </section>
 

@@ -327,6 +327,10 @@ function watchTV(url) {
   window.open(url, "_blank", "noopener,noreferrer");
 }
 
+function listenRadio(url) {
+  window.open(url, "_blank", "noopener,noreferrer");
+}
+
 // ─── Countdown ────────────────────────────────────────────────────────────────
 
 function startCountdown(nextIso) {

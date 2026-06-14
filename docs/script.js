@@ -166,8 +166,9 @@ async function load() {
     document.getElementById("last-updated").textContent = `Updated: ${fmtDate(data.last_updated)}`;
     startCountdown(data.next_update);
 
-    fillGrid("news-grid",  data.general_news, "No general headlines available.");
-    fillGrid("tech-grid",  data.tech_news,    "No tech headlines available.");
+    fillGrid("news-grid",      data.general_news,  "No general headlines available.");
+    fillGrid("tech-grid",      data.tech_news,     "No tech headlines available.");
+    fillGrid("football-grid",  data.football_news, "No football news available.");
     fillEvents(data.events);
 
     const t = data.trending || {};

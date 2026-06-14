@@ -43,6 +43,19 @@ TECH_FEEDS = {
     "Hacker News": "https://hnrss.org/frontpage",
 }
 
+FOOTBALL_FEEDS = {
+    "Completesports": "https://www.completesports.com/feed/",
+    "Brila FM": "https://www.brilafm.com/feed/",
+    "SportingLife NG": "https://www.sportinglife.ng/feed/",
+    "BBC Sport Football": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+    "Sky Sports Football": "https://www.skysports.com/rss/12040",
+    "Goal.com": "https://www.goal.com/feeds/en/news",
+    "ESPN Soccer": "https://www.espn.com/espn/rss/soccer/news",
+    "SuperSport": "https://supersport.com/rss/football",
+    "Punch Sports": "https://punchng.com/category/sports/football/feed/",
+    "Vanguard Sports": "https://www.vanguardngr.com/category/sports/feed/",
+}
+
 EVENT_KEYWORDS = [
     "seminar", "conference", "workshop", "webinar", "hackathon",
     "summit", "forum", "bootcamp", "training", "fellowship",
@@ -203,6 +216,15 @@ def main():
 
     print(f"  [--] {len(tech_news)} tech articles, {len(events)} events/seminars")
 
+    print("\n── Football ──")
+    football_news = []
+    for name, url in FOOTBALL_FEEDS.items():
+        football_news.extend(fetch_feed(name, url, limit=12))
+        time.sleep(0.4)
+    football_news.sort(key=lambda x: x["published"], reverse=True)
+    football_news = football_news[:60]
+    print(f"  [--] {len(football_news)} football articles")
+
     print("\n── Trending ──")
     google_trends = fetch_google_trends()
     reddit = fetch_reddit()
@@ -214,6 +236,7 @@ def main():
         "general_news": general_news,
         "tech_news": tech_news,
         "events": events,
+        "football_news": football_news,
         "trending": {
             "google_trends": google_trends,
             "reddit": reddit,
@@ -226,7 +249,7 @@ def main():
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"\nSaved → docs/data/headlines.json")
-    print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}")
+    print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}, Football: {len(football_news)}")
     print(f"  Google Trends: {len(google_trends)}, Reddit: {len(reddit)}, YouTube: {len(youtube)}")
 
 

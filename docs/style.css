@@ -531,6 +531,118 @@ main {
   100% { background-position: -200% 0; }
 }
 
+/* ── Live TV ── */
+.tv-intro {
+  text-align: center;
+  padding: 1.5rem 1rem 1rem;
+}
+.tv-intro h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 0.4rem;
+}
+.tv-intro p { font-size: 0.85rem; color: var(--text-muted); }
+
+.tv-category-heading {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.tv-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 0.85rem;
+}
+
+.tv-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, transform 0.15s;
+  position: relative;
+}
+.tv-card:hover {
+  border-color: var(--green);
+  background: var(--bg-hover);
+  transform: translateY(-2px);
+}
+
+.tv-logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: #fff;
+  flex-shrink: 0;
+  letter-spacing: 0.5px;
+}
+
+.tv-logo--channels  { background: linear-gradient(135deg, #e31e24, #c0151a); }
+.tv-logo--arise     { background: linear-gradient(135deg, #1a237e, #283593); }
+.tv-logo--tvc       { background: linear-gradient(135deg, #006400, #008000); }
+.tv-logo--ait       { background: linear-gradient(135deg, #b71c1c, #d32f2f); }
+.tv-logo--nta       { background: linear-gradient(135deg, #1b5e20, #2e7d32); }
+.tv-logo--galaxy    { background: linear-gradient(135deg, #4a148c, #6a1b9a); }
+.tv-logo--ltv       { background: linear-gradient(135deg, #006064, #00838f); }
+.tv-logo--silverbird{ background: linear-gradient(135deg, #bf360c, #e64a19); }
+.tv-logo--wazobia   { background: linear-gradient(135deg, #33691e, #558b2f); }
+.tv-logo--rstv      { background: linear-gradient(135deg, #880e4f, #ad1457); }
+.tv-logo--rave      { background: linear-gradient(135deg, #e65100, #f57c00); }
+.tv-logo--ekiti     { background: linear-gradient(135deg, #1a237e, #0d47a1); }
+
+.tv-info { flex: 1; min-width: 0; }
+
+.tv-name {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 0.2rem;
+}
+
+.tv-desc {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  line-height: 1.3;
+}
+
+.tv-live-badge {
+  font-size: 0.62rem;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+  color: #fff;
+  background: #e31e24;
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+  flex-shrink: 0;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.tv-disclaimer {
+  margin-top: 2rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  text-align: center;
+  line-height: 1.6;
+  padding: 1rem;
+  border-top: 1px solid var(--border);
+}
+
 /* ── Ad slots ── */
 .ad-leaderboard {
   background: #0a0d18;

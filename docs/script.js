@@ -202,6 +202,12 @@ function fillYoutube(items) {
   box.appendChild(frag);
 }
 
+// ─── Live TV ──────────────────────────────────────────────────────────────────
+
+function watchTV(url) {
+  window.open(url, "_blank", "noopener,noreferrer");
+}
+
 // ─── Countdown ────────────────────────────────────────────────────────────────
 
 function startCountdown(nextIso) {

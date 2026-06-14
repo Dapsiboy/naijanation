@@ -55,6 +55,7 @@
     <button class="tab-btn"        data-tab="football" role="tab">⚽ Football</button>
     <button class="tab-btn"        data-tab="worldcup" role="tab">🏆 World Cup 2026</button>
     <button class="tab-btn"        data-tab="finance"  role="tab">📈 Investment &amp; Stocks</button>
+    <button class="tab-btn"        data-tab="livetv"   role="tab">📺 Live TV</button>
     <button class="tab-btn"        data-tab="trending" role="tab">🔥 Trending</button>
   </nav>
 
@@ -121,6 +122,137 @@
     <!-- ── Investment & Stocks ── -->
     <section id="tab-finance" class="tab-panel" role="tabpanel">
       <div id="finance-grid" class="card-grid"></div>
+    </section>
+
+    <!-- ── Live TV ── -->
+    <section id="tab-livetv" class="tab-panel" role="tabpanel">
+      <div class="tv-intro">
+        <h2>📺 Nigerian Live TV</h2>
+        <p>Click any channel to watch live. Opens in a new tab.</p>
+      </div>
+
+      <h3 class="tv-category-heading">📡 News Channels</h3>
+      <div class="tv-grid">
+
+        <div class="tv-card" onclick="watchTV('https://www.channelstv.com/home/live-tv/')">
+          <div class="tv-logo tv-logo--channels">CH</div>
+          <div class="tv-info">
+            <div class="tv-name">Channels TV</div>
+            <div class="tv-desc">Nigeria's leading news network</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.arise.tv/live-tv/')">
+          <div class="tv-logo tv-logo--arise">AR</div>
+          <div class="tv-info">
+            <div class="tv-name">Arise TV</div>
+            <div class="tv-desc">International news from Nigeria</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.tvcnews.tv/live-tv/')">
+          <div class="tv-logo tv-logo--tvc">TVC</div>
+          <div class="tv-info">
+            <div class="tv-name">TVC News</div>
+            <div class="tv-desc">Television Continental News</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://aitonline.tv/livetv/')">
+          <div class="tv-logo tv-logo--ait">AIT</div>
+          <div class="tv-info">
+            <div class="tv-name">AIT</div>
+            <div class="tv-desc">Africa Independent Television</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.nta.ng/live/')">
+          <div class="tv-logo tv-logo--nta">NTA</div>
+          <div class="tv-info">
+            <div class="tv-name">NTA News 24</div>
+            <div class="tv-desc">Nigerian Television Authority</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@GalaxyTVNigeria/live')">
+          <div class="tv-logo tv-logo--galaxy">GAL</div>
+          <div class="tv-info">
+            <div class="tv-name">Galaxy TV</div>
+            <div class="tv-desc">Galaxy Television Nigeria</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@LagosTelevisionNigeria/live')">
+          <div class="tv-logo tv-logo--ltv">LTV</div>
+          <div class="tv-info">
+            <div class="tv-name">Lagos Television</div>
+            <div class="tv-desc">LTV 8 — Lagos State TV</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@TVCNewsNigeria/live')">
+          <div class="tv-logo tv-logo--silverbird">SB</div>
+          <div class="tv-info">
+            <div class="tv-name">Silverbird TV</div>
+            <div class="tv-desc">Entertainment &amp; News</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+      </div>
+
+      <h3 class="tv-category-heading" style="margin-top:2rem">🎬 Entertainment Channels</h3>
+      <div class="tv-grid">
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@WazobiaTVNigeria/live')">
+          <div class="tv-logo tv-logo--wazobia">WAZ</div>
+          <div class="tv-info">
+            <div class="tv-name">Wazobia TV</div>
+            <div class="tv-desc">Pidgin entertainment &amp; culture</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@AbiaStateTelevision/live')">
+          <div class="tv-logo tv-logo--rstv">RSTV</div>
+          <div class="tv-info">
+            <div class="tv-name">Ray Power / RSTV</div>
+            <div class="tv-desc">Daar Communications</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@TheNationNigeria/live')">
+          <div class="tv-logo tv-logo--rave">RAVE</div>
+          <div class="tv-info">
+            <div class="tv-name">Rave TV</div>
+            <div class="tv-desc">Youth entertainment &amp; music</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://www.youtube.com/@ekititelevisionnigeria/live')">
+          <div class="tv-logo tv-logo--ekiti">BCOS</div>
+          <div class="tv-info">
+            <div class="tv-name">BCOS TV</div>
+            <div class="tv-desc">Broadcasting Service of Oyo State</div>
+          </div>
+          <span class="tv-live-badge">LIVE</span>
+        </div>
+
+      </div>
+
+      <p class="tv-disclaimer">
+        All streams are hosted by the respective broadcasters. Naija Digest Online does not host any video content.
+        If a stream is offline, check the channel's official website or YouTube page directly.
+      </p>
     </section>
 
     <!-- ── Trending ── -->

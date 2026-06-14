@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NaijaNation — Nigerian Headlines Hub</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="flag">🇳🇬</span>
+        <div>
+          <h1>NaijaNation</h1>
+          <p class="tagline">Headlines · Tech · Trends — All in One Place</p>
+        </div>
+      </div>
+      <div class="update-box">
+        <div id="last-updated">Loading…</div>
+        <div id="next-update"></div>
+      </div>
+    </div>
+  </header>
+
+  <nav class="tab-nav" role="tablist">
+    <button class="tab-btn active" data-tab="news"     role="tab">📰 General News</button>
+    <button class="tab-btn"        data-tab="tech"     role="tab">💻 Naija Tech News</button>
+    <button class="tab-btn"        data-tab="trending" role="tab">🔥 Trending</button>
+  </nav>
+
+  <main>
+
+    <!-- ── General News ── -->
+    <section id="tab-news" class="tab-panel active" role="tabpanel">
+      <div id="news-grid" class="card-grid">
+        <div class="skeleton-grid">
+          <div class="skeleton"></div><div class="skeleton"></div>
+          <div class="skeleton"></div><div class="skeleton"></div>
+          <div class="skeleton"></div><div class="skeleton"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── Naija Tech News ── -->
+    <section id="tab-tech" class="tab-panel" role="tabpanel">
+      <div class="tech-layout">
+        <div class="tech-main">
+          <h2 class="section-heading">Tech Headlines</h2>
+          <div id="tech-grid" class="card-grid"></div>
+        </div>
+        <aside class="tech-sidebar">
+          <h2 class="section-heading">📅 Events &amp; Seminars</h2>
+          <div id="events-list"></div>
+        </aside>
+      </div>
+    </section>
+
+    <!-- ── Trending ── -->
+    <section id="tab-trending" class="tab-panel" role="tabpanel">
+      <div class="trending-grid">
+
+        <div class="trend-card">
+          <h2 class="section-heading">🔍 Google Trends Nigeria</h2>
+          <ol id="google-trends"></ol>
+        </div>
+
+        <div class="trend-card">
+          <h2 class="section-heading">👾 Reddit</h2>
+          <div id="reddit-list"></div>
+        </div>
+
+        <div class="trend-card">
+          <h2 class="section-heading">▶ YouTube Trending Nigeria</h2>
+          <div id="youtube-list"></div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>NaijaNation aggregates public headlines and links to original sources — no content is reproduced.</p>
+    <p>Auto-updates every 3 hours via GitHub Actions &nbsp;·&nbsp; Open source on GitHub</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

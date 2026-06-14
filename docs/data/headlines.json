@@ -1,0 +1,12 @@
+{
+  "last_updated": "1970-01-01T00:00:00+00:00",
+  "next_update":  "1970-01-01T03:00:00+00:00",
+  "general_news": [],
+  "tech_news":    [],
+  "events":       [],
+  "trending": {
+    "google_trends": [],
+    "reddit":        [],
+    "youtube":       []
+  }
+}

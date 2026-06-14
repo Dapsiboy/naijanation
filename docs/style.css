@@ -1,16 +1,16 @@
 /* ── Variables ── */
 :root {
   --green:        #008751;
-  --green-light:  #00b86b;
-  --green-dim:    #1a3d2b;
-  --bg:           #0c0f1a;
-  --bg-card:      #141720;
-  --bg-hover:     #1c2030;
-  --border:       #232840;
-  --text:         #e6e8f0;
-  --text-muted:   #7a7f98;
-  --badge-bg:     #173028;
-  --badge-text:   #4ed898;
+  --green-light:  #007a49;
+  --green-dim:    #e4f5ec;
+  --bg:           #f4f6fb;
+  --bg-card:      #ffffff;
+  --bg-hover:     #eef1f8;
+  --border:       #dde1ed;
+  --text:         #1a1d2e;
+  --text-muted:   #64698a;
+  --badge-bg:     #e4f5ec;
+  --badge-text:   #006840;
   --radius:       10px;
   --font:         'Inter', system-ui, sans-serif;
 }
@@ -81,9 +81,14 @@ header {
 #last-updated { color: var(--green-light); margin-bottom: 2px; }
 #next-update  { color: var(--text-muted); }
 
+/* keep header accent text bright on dark header bg */
+header .tagline,
+header #last-updated,
+header .ng-map { color: #4ed898; }
+
 /* ── Tab nav ── */
 .tab-nav {
-  background: #0a0d18;
+  background: var(--bg-card);
   border-bottom: 1px solid var(--border);
   display: flex;
   padding: 0 2rem;
@@ -147,6 +152,7 @@ main {
   transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
   text-decoration: none;
   color: inherit;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
 }
 .card:hover {
   border-color: var(--green);
@@ -245,8 +251,8 @@ main {
 
 /* ── World Cup hero ── */
 .wc-hero {
-  background: linear-gradient(135deg, #0a1a08 0%, #102a1a 50%, #1a1200 100%);
-  border: 1px solid #2a4020;
+  background: linear-gradient(135deg, #e8f5ee 0%, #f4fff9 50%, #fffef0 100%);
+  border: 1px solid #c8e6cc;
   border-radius: 12px;
   padding: 1.5rem 2rem;
   text-align: center;
@@ -267,7 +273,7 @@ main {
 .wc-hero h2 {
   font-size: 1.6rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text);
   margin-bottom: 0.4rem;
 }
 
@@ -325,7 +331,7 @@ main {
 .fixture-score {
   font-size: 1.5rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text);
   line-height: 1;
 }
 
@@ -544,7 +550,7 @@ main {
 .rates-header h2 {
   font-size: 1.4rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text);
   margin-bottom: 0.25rem;
 }
 
@@ -572,13 +578,13 @@ main {
   display: flex;
   align-items: flex-start;
   gap: 0.6rem;
-  background: #1a1500;
-  border: 1px solid #3a3000;
+  background: #fffbea;
+  border: 1px solid #f5e6a0;
   border-left: 3px solid #f5a623;
   border-radius: 8px;
   padding: 0.7rem 1rem;
   font-size: 0.8rem;
-  color: #c8a860;
+  color: #7a5c10;
   margin-bottom: 1.25rem;
   line-height: 1.5;
 }
@@ -635,7 +641,7 @@ main {
 .rate-value {
   font-size: 1.2rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text);
   line-height: 1;
   margin-bottom: 0.2rem;
 }
@@ -690,7 +696,7 @@ main {
 .crypto-ngn {
   font-size: 1.1rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text);
   line-height: 1;
   margin-bottom: 0.3rem;
 }
@@ -714,7 +720,7 @@ main {
 .tv-intro h2 {
   font-size: 1.5rem;
   font-weight: 800;
-  color: #fff;
+  color: var(--text);
   margin-bottom: 0.4rem;
 }
 .tv-intro p { font-size: 0.85rem; color: var(--text-muted); }
@@ -900,7 +906,7 @@ main {
 
 /* ── Ad slots ── */
 .ad-leaderboard {
-  background: #0a0d18;
+  background: var(--bg);
   border-bottom: 1px solid var(--border);
   padding: 0.6rem 2rem;
   display: flex;
@@ -924,7 +930,7 @@ main {
 
 .ad-placeholder:hover {
   border-color: var(--green);
-  background: #0f1f16;
+  background: var(--green-dim);
 }
 
 .ad-placeholder-text {

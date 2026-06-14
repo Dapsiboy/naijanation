@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#008751"/>
+  <!-- Nigeria map outline -->
+  <path d="M11,6 L32,3 L50,5 L58,10 L59,20 L57,33 L53,44 L46,53 L36,58 L25,57 L16,51 L8,42 L5,29 L7,16 Z"
+        fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linejoin="round" opacity="0.35"/>
+  <!-- ND text -->
+  <text x="32" y="40" font-family="system-ui,sans-serif" font-size="22" font-weight="800"
+        fill="#ffffff" text-anchor="middle" letter-spacing="-1">ND</text>
+</svg>

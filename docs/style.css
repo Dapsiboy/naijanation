@@ -51,6 +51,14 @@ header {
 .logo { display: flex; align-items: center; gap: 0.75rem; }
 .flag { font-size: 2rem; line-height: 1; }
 
+.ng-map {
+  width: 36px;
+  height: 34px;
+  color: var(--green-light);
+  opacity: 0.85;
+  flex-shrink: 0;
+}
+
 .logo h1 {
   font-size: 1.55rem;
   font-weight: 800;

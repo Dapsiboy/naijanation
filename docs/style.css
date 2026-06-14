@@ -140,17 +140,62 @@ main {
 .card {
   display: flex;
   flex-direction: column;
-  gap: 0.45rem;
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 1rem;
-  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+  overflow: hidden;
+  transition: border-color 0.15s, transform 0.15s, box-shadow 0.15s;
+  text-decoration: none;
+  color: inherit;
 }
 .card:hover {
-  background: var(--bg-hover);
   border-color: var(--green);
   transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,135,81,0.12);
+}
+
+/* Card image */
+.card-img {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s;
+}
+
+.card:hover .card-img img { transform: scale(1.04); }
+
+.card-img-fallback {
+  position: absolute;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgba(255,255,255,0.35);
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.card-img--err .card-img-fallback { display: flex; }
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 0.85rem 1rem;
+  flex: 1;
 }
 
 .card-meta {
@@ -196,6 +241,134 @@ main {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+/* ── World Cup hero ── */
+.wc-hero {
+  background: linear-gradient(135deg, #0a1a08 0%, #102a1a 50%, #1a1200 100%);
+  border: 1px solid #2a4020;
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.wc-hero::before {
+  content: "⚽";
+  position: absolute;
+  font-size: 8rem;
+  opacity: 0.05;
+  right: -1rem;
+  top: -1rem;
+  line-height: 1;
+}
+
+.wc-hero h2 {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 0.4rem;
+}
+
+.wc-hero p {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  letter-spacing: 1px;
+}
+
+/* ── Fixture cards ── */
+.fixtures-strip {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem;
+}
+
+.fixture-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1rem;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  transition: border-color 0.15s, background 0.15s;
+}
+.fixture-card:hover { border-color: var(--green); background: var(--bg-hover); }
+
+.fixture-teams {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.fixture-team {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2rem;
+  flex: 1;
+}
+
+.fixture-team--away {
+  align-items: flex-end;
+}
+
+.fixture-name {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.fixture-score {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #fff;
+  line-height: 1;
+}
+
+.fixture-mid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  padding: 0 0.5rem;
+}
+
+.fixture-status {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background: var(--bg-hover);
+}
+
+.fixture-status--live {
+  color: #ff4444;
+  background: rgba(255,68,68,0.15);
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+.fixture-status--done {
+  color: var(--green-light);
+  background: var(--green-dim);
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.6; }
+}
+
+.fixture-meta {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: 0.15rem;
+  text-align: center;
 }
 
 /* ── Tech layout ── */

@@ -4,8 +4,8 @@ const DATA_URL = "data/headlines.json";
 
 function timeAgo(iso) {
   const secs = Math.floor((Date.now() - new Date(iso).getTime()) / 1000);
-  if (secs < 60)   return `${secs}s ago`;
-  if (secs < 3600) return `${Math.floor(secs / 60)}m ago`;
+  if (secs < 60)    return `${secs}s ago`;
+  if (secs < 3600)  return `${Math.floor(secs / 60)}m ago`;
   if (secs < 86400) return `${Math.floor(secs / 3600)}h ago`;
   return `${Math.floor(secs / 86400)}d ago`;
 }
@@ -14,10 +14,18 @@ function fmtDate(iso) {
   return new Date(iso).toLocaleString("en-NG", { dateStyle: "medium", timeStyle: "short" });
 }
 
+function fmtFixtureDate(iso) {
+  if (!iso) return "";
+  return new Date(iso).toLocaleString("en-NG", {
+    weekday: "short", month: "short", day: "numeric",
+    hour: "2-digit", minute: "2-digit",
+  });
+}
+
 function el(tag, cls, html) {
   const e = document.createElement(tag);
   if (cls) e.className = cls;
-  if (html) e.innerHTML = html;
+  if (html !== undefined) e.innerHTML = html;
   return e;
 }
 
@@ -29,17 +37,46 @@ function link(href, cls, html) {
   return a;
 }
 
-// ─── Renderers ────────────────────────────────────────────────────────────────
+// Deterministic gradient per source name
+function sourceGradient(name) {
+  let h = 0;
+  for (let i = 0; i < name.length; i++) h = Math.imul(31, h) + name.charCodeAt(i) | 0;
+  const hue  = Math.abs(h) % 360;
+  const hue2 = (hue + 45) % 360;
+  return `linear-gradient(135deg, hsl(${hue},40%,14%) 0%, hsl(${hue2},35%,20%) 100%)`;
+}
+
+// ─── Card renderer (with image) ───────────────────────────────────────────────
 
 function makeCard(item) {
   const a = link(item.url, "card");
+  const grad = sourceGradient(item.source);
+
+  let imgHtml = "";
+  if (item.image) {
+    imgHtml = `
+      <div class="card-img" style="background:${grad}">
+        <img src="${item.image}" alt="" loading="lazy"
+             onerror="this.parentNode.classList.add('card-img--err');this.remove()" />
+        <div class="card-img-fallback">${item.source}</div>
+      </div>`;
+  } else {
+    imgHtml = `
+      <div class="card-img card-img--err" style="background:${grad}">
+        <div class="card-img-fallback">${item.source}</div>
+      </div>`;
+  }
+
   a.innerHTML = `
-    <div class="card-meta">
-      <span class="badge" title="${item.source}">${item.source}</span>
-      <span class="time">${timeAgo(item.published)}</span>
+    ${imgHtml}
+    <div class="card-body">
+      <div class="card-meta">
+        <span class="badge" title="${item.source}">${item.source}</span>
+        <span class="time">${timeAgo(item.published)}</span>
+      </div>
+      <div class="card-title">${item.title}</div>
+      ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
     </div>
-    <div class="card-title">${item.title}</div>
-    ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
   `;
   return a;
 }
@@ -53,8 +90,11 @@ function makeEventItem(item) {
   return a;
 }
 
+// ─── Grid & list fillers ──────────────────────────────────────────────────────
+
 function fillGrid(id, items, emptyMsg) {
   const grid = document.getElementById(id);
+  if (!grid) return;
   grid.innerHTML = "";
   if (!items?.length) {
     grid.appendChild(el("div", "empty", emptyMsg || "Nothing to show right now."));
@@ -77,25 +117,57 @@ function fillEvents(items) {
   box.appendChild(frag);
 }
 
+// ─── World Cup fixtures ───────────────────────────────────────────────────────
+
+function fillFixtures(fixtures) {
+  const box = document.getElementById("wc-fixtures");
+  box.innerHTML = "";
+  if (!fixtures?.length) {
+    box.appendChild(el("div", "empty", "No fixtures data available right now."));
+    return;
+  }
+  const frag = document.createDocumentFragment();
+  fixtures.forEach(f => {
+    const card = f.url ? link(f.url, "fixture-card") : el("div", "fixture-card");
+    const isLive    = !f.completed && f.home_score !== "";
+    const isDone    = f.completed;
+    const statusCls = isLive ? "fixture-status--live" : isDone ? "fixture-status--done" : "";
+
+    card.innerHTML = `
+      <div class="fixture-teams">
+        <div class="fixture-team">
+          <span class="fixture-name">${f.home}</span>
+          <span class="fixture-score">${f.home_score !== "" ? f.home_score : "-"}</span>
+        </div>
+        <div class="fixture-mid">
+          <span class="fixture-status ${statusCls}">${f.status || "vs"}</span>
+        </div>
+        <div class="fixture-team fixture-team--away">
+          <span class="fixture-score">${f.away_score !== "" ? f.away_score : "-"}</span>
+          <span class="fixture-name">${f.away}</span>
+        </div>
+      </div>
+      ${f.venue ? `<div class="fixture-meta">${f.venue}</div>` : ""}
+      ${f.date  ? `<div class="fixture-meta">${fmtFixtureDate(f.date)}</div>` : ""}
+    `;
+    frag.appendChild(card);
+  });
+  box.appendChild(frag);
+}
+
+// ─── Trending ─────────────────────────────────────────────────────────────────
+
 function fillGoogleTrends(trends) {
   const list = document.getElementById("google-trends");
   list.innerHTML = "";
-  if (!trends?.length) {
-    list.appendChild(el("li", "empty", "No trend data available."));
-    return;
-  }
-  trends.forEach(topic => {
-    list.appendChild(el("li", null, topic));
-  });
+  if (!trends?.length) { list.appendChild(el("li", "empty", "No trend data available.")); return; }
+  trends.forEach(topic => list.appendChild(el("li", null, topic)));
 }
 
 function fillReddit(items) {
   const box = document.getElementById("reddit-list");
   box.innerHTML = "";
-  if (!items?.length) {
-    box.appendChild(el("div", "empty", "No Reddit posts available."));
-    return;
-  }
+  if (!items?.length) { box.appendChild(el("div", "empty", "No Reddit posts available.")); return; }
   const frag = document.createDocumentFragment();
   items.forEach(item => {
     const div = el("div", "trend-item");
@@ -166,10 +238,15 @@ async function load() {
     document.getElementById("last-updated").textContent = `Updated: ${fmtDate(data.last_updated)}`;
     startCountdown(data.next_update);
 
-    fillGrid("news-grid",      data.general_news,  "No general headlines available.");
-    fillGrid("tech-grid",      data.tech_news,     "No tech headlines available.");
-    fillGrid("football-grid",  data.football_news, "No football news available.");
+    fillGrid("news-grid",     data.general_news,  "No general headlines available.");
+    fillGrid("tech-grid",     data.tech_news,      "No tech headlines available.");
+    fillGrid("football-grid", data.football_news,  "No football news available.");
+    fillGrid("finance-grid",  data.finance_news,   "No finance news available.");
     fillEvents(data.events);
+
+    const wc = data.worldcup || {};
+    fillFixtures(wc.fixtures);
+    fillGrid("wc-grid", wc.news, "No World Cup news available.");
 
     const t = data.trending || {};
     fillGoogleTrends(t.google_trends);
@@ -185,11 +262,11 @@ async function load() {
 
 load();
 
-// Reload the page automatically when the next update time arrives
+// Auto-reload when next update arrives
 fetch(`${DATA_URL}?t=${Date.now()}`)
   .then(r => r.json())
   .then(d => {
-    const delay = new Date(d.next_update).getTime() - Date.now() + 30_000; // +30s buffer
+    const delay = new Date(d.next_update).getTime() - Date.now() + 30_000;
     if (delay > 0) setTimeout(() => location.reload(), delay);
   })
   .catch(() => {});

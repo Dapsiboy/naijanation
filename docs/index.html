@@ -53,6 +53,8 @@
     <button class="tab-btn active" data-tab="news"     role="tab">📰 General News</button>
     <button class="tab-btn"        data-tab="tech"     role="tab">💻 Naija Tech News</button>
     <button class="tab-btn"        data-tab="football" role="tab">⚽ Football</button>
+    <button class="tab-btn"        data-tab="worldcup" role="tab">🏆 World Cup 2026</button>
+    <button class="tab-btn"        data-tab="finance"  role="tab">📈 Investment &amp; Stocks</button>
     <button class="tab-btn"        data-tab="trending" role="tab">🔥 Trending</button>
   </nav>
 
@@ -100,6 +102,25 @@
     <!-- ── Football ── -->
     <section id="tab-football" class="tab-panel" role="tabpanel">
       <div id="football-grid" class="card-grid"></div>
+    </section>
+
+    <!-- ── World Cup 2026 ── -->
+    <section id="tab-worldcup" class="tab-panel" role="tabpanel">
+      <div class="wc-hero">
+        <div class="wc-hero-text">
+          <h2>🏆 FIFA World Cup 2026</h2>
+          <p>USA &nbsp;·&nbsp; Canada &nbsp;·&nbsp; Mexico</p>
+        </div>
+      </div>
+      <h2 class="section-heading" style="margin-top:1.5rem">Today's Fixtures &amp; Scores</h2>
+      <div id="wc-fixtures" class="fixtures-strip"></div>
+      <h2 class="section-heading" style="margin-top:1.5rem">Latest News, Gossip &amp; Analysis</h2>
+      <div id="wc-grid" class="card-grid"></div>
+    </section>
+
+    <!-- ── Investment & Stocks ── -->
+    <section id="tab-finance" class="tab-panel" role="tabpanel">
+      <div id="finance-grid" class="card-grid"></div>
     </section>
 
     <!-- ── Trending ── -->

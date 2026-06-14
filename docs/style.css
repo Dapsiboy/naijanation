@@ -863,6 +863,8 @@ main {
 .radio-logo--brila      { background: linear-gradient(135deg, #006400, #008000); }
 .radio-logo--adaba      { background: linear-gradient(135deg, #1565c0, #1976d2); }
 .radio-logo--frcn       { background: linear-gradient(135deg, #004d00, #007000); }
+.radio-logo--talksport  { background: linear-gradient(135deg, #7b0000, #b71c1c); }
+.radio-logo--bbc5       { background: linear-gradient(135deg, #003087, #1565c0); }
 
 .radio-info { flex: 1; min-width: 0; }
 

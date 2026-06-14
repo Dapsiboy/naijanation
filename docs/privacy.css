@@ -1,0 +1,116 @@
+.back-link {
+  font-size: 0.85rem;
+  color: var(--green-light);
+  text-decoration: none;
+  font-weight: 600;
+}
+.back-link:hover { color: #fff; }
+
+.policy-main {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2.5rem 2rem;
+}
+
+.policy-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.policy-header h2 {
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: #fff;
+  margin-bottom: 0.3rem;
+}
+
+.policy-date {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.policy-intro {
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 2rem;
+  padding: 1rem 1.25rem;
+  background: var(--bg-card);
+  border-left: 3px solid var(--green);
+  border-radius: 0 8px 8px 0;
+}
+
+.policy-section {
+  margin-bottom: 2rem;
+}
+
+.policy-section h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--green-light);
+  margin-bottom: 0.75rem;
+}
+
+.policy-section p {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  line-height: 1.7;
+  margin-bottom: 0.75rem;
+}
+
+.policy-section ul {
+  padding-left: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.policy-section li {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+  padding-left: 1.25rem;
+  position: relative;
+}
+
+.policy-section li::before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: var(--green);
+  font-size: 0.75rem;
+  top: 3px;
+}
+
+.policy-section a {
+  color: var(--green-light);
+  text-decoration: underline;
+}
+
+.contact-box {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  margin-top: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.contact-box p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.email-link {
+  color: var(--green-light);
+}
+
+@media (max-width: 600px) {
+  .policy-main { padding: 1.25rem 1rem; }
+  .policy-header h2 { font-size: 1.4rem; }
+}

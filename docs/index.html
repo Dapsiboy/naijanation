@@ -4,19 +4,19 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Naija Digest Online — Nigerian Headlines Hub</title>
-  <meta name="description" content="Naija Digest Online aggregates the latest headlines from major Nigerian print and electronic media, tech news, football updates, and trending topics — all in one place, updated every 3 hours." />
+  <meta name="description" content="Naija Digest Online aggregates the latest headlines from major Nigerian print and electronic media, tech news, football updates, and trending topics — all in one place, updated every 15 minutes." />
 
   <!-- Open Graph / WhatsApp / Facebook -->
   <meta property="og:type"        content="website" />
   <meta property="og:url"         content="https://naijadigest.ng/" />
   <meta property="og:title"       content="Naija Digest Online — Nigerian Headlines Hub" />
-  <meta property="og:description" content="Latest Nigerian news, tech, football and trending topics — all in one place, updated every 3 hours." />
+  <meta property="og:description" content="Latest Nigerian news, tech, football and trending topics — all in one place, updated every 15 minutes." />
   <meta property="og:image"       content="https://dapsiboy.github.io/naijanation/favicon.svg" />
 
   <!-- Twitter / X Card -->
   <meta name="twitter:card"        content="summary" />
   <meta name="twitter:title"       content="Naija Digest Online" />
-  <meta name="twitter:description" content="Latest Nigerian news, tech, football and trending topics — updated every 3 hours." />
+  <meta name="twitter:description" content="Latest Nigerian news, tech, football and trending topics — updated every 15 minutes." />
   <meta name="twitter:image"       content="https://dapsiboy.github.io/naijanation/favicon.svg" />
 
   <link rel="canonical" href="https://naijadigest.ng/" />
@@ -54,6 +54,7 @@
     <button class="tab-btn"        data-tab="tech"     role="tab">💻 Naija Tech News</button>
     <button class="tab-btn"        data-tab="football" role="tab">⚽ Football</button>
     <button class="tab-btn"        data-tab="worldcup" role="tab">🏆 World Cup 2026</button>
+    <button class="tab-btn"        data-tab="editorials" role="tab">✍️ Editorials</button>
     <button class="tab-btn"        data-tab="finance"  role="tab">📈 Investment &amp; Stocks</button>
     <button class="tab-btn"        data-tab="livetv"   role="tab">📺 Live TV</button>
     <button class="tab-btn"        data-tab="rates"    role="tab">💱 Exchange Rates</button>
@@ -119,6 +120,15 @@
       <div id="wc-fixtures" class="fixtures-strip"></div>
       <h2 class="section-heading" style="margin-top:1.5rem">Latest News, Gossip &amp; Analysis</h2>
       <div id="wc-grid" class="card-grid"></div>
+    </section>
+
+    <!-- ── Editorials ── -->
+    <section id="tab-editorials" class="tab-panel" role="tabpanel">
+      <div class="editorials-intro">
+        <h2>✍️ Editorials &amp; Opinion</h2>
+        <p>The voice of Nigeria's newspapers — editorials, columns and opinion pieces from major publications, updated throughout the day.</p>
+      </div>
+      <div id="editorial-grid" class="card-grid"></div>
     </section>
 
     <!-- ── Investment & Stocks ── -->

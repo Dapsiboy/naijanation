@@ -75,6 +75,21 @@ FINANCE_FEEDS = {
     "Bloomberg Markets":     "https://feeds.bloomberg.com/markets/news.rss",
 }
 
+EDITORIAL_FEEDS = {
+    "Punch Editorial":       "https://punchng.com/category/editorial/feed/",
+    "Vanguard Opinion":      "https://www.vanguardngr.com/category/opinion/feed/",
+    "Guardian NG Opinion":   "https://guardian.ng/category/opinion/feed/",
+    "ThisDay Editorial":     "https://www.thisdaylive.com/category/editorial/feed/",
+    "Daily Trust Opinion":   "https://dailytrust.com/category/opinion/feed",
+    "Premium Times Opinion": "https://www.premiumtimesng.com/category/opinion/feed",
+    "The Cable Opinion":     "https://www.thecable.ng/category/opinion/feed",
+    "BusinessDay Opinion":   "https://businessday.ng/opinion/feed/",
+    "The Nation Editorial":  "https://thenationonlineng.net/category/editorial/feed/",
+    "Tribune Opinion":       "https://tribuneonlineng.com/category/opinion/feed/",
+    "The Sun Editorial":     "https://www.sunnewsonline.com/category/editorial/feed/",
+    "Nairametrics Opinion":  "https://nairametrics.com/category/opinion/feed/",
+}
+
 FOOTBALL_FEEDS = {
     "Completesports": "https://www.completesports.com/feed/",
     "Brila FM": "https://www.brilafm.com/feed/",
@@ -293,7 +308,7 @@ def fetch_youtube_trending():
 
 def main():
     now = datetime.now(timezone.utc)
-    next_update = now + timedelta(hours=3)
+    next_update = now + timedelta(minutes=15)
 
     print("── General news ──")
     general_news = []
@@ -344,6 +359,15 @@ def main():
     wc_fixtures = fetch_wc_fixtures()
     print(f"  [--] {len(wc_news)} WC articles, {len(wc_fixtures)} fixtures")
 
+    print("\n── Editorials ──")
+    editorial_news = []
+    for name, url in EDITORIAL_FEEDS.items():
+        editorial_news.extend(fetch_feed(name, url, limit=8))
+        time.sleep(0.4)
+    editorial_news.sort(key=lambda x: x["published"], reverse=True)
+    editorial_news = editorial_news[:60]
+    print(f"  [--] {len(editorial_news)} editorials")
+
     print("\n── Finance & Stocks ──")
     finance_news = []
     for name, url in FINANCE_FEEDS.items():
@@ -369,6 +393,7 @@ def main():
             "news": wc_news,
             "fixtures": wc_fixtures,
         },
+        "editorial_news": editorial_news,
         "finance_news": finance_news,
         "trending": {
             "google_trends": google_trends,
@@ -382,7 +407,7 @@ def main():
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"\nSaved → docs/data/headlines.json")
-    print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}, Football: {len(football_news)}")
+    print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}, Editorials: {len(editorial_news)}, Football: {len(football_news)}")
     print(f"  Google Trends: {len(google_trends)}, Reddit: {len(reddit)}, YouTube: {len(youtube)}")
 
 

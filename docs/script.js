@@ -337,7 +337,8 @@ function startCountdown(nextIso) {
     const h = Math.floor(diff / 3_600_000);
     const m = Math.floor((diff % 3_600_000) / 60_000);
     const s = Math.floor((diff % 60_000) / 1_000);
-    el.textContent = `Next update in ${h}h ${String(m).padStart(2,"0")}m ${String(s).padStart(2,"0")}s`;
+    const parts = h > 0 ? `${h}h ${String(m).padStart(2,"0")}m` : `${String(m).padStart(2,"0")}m ${String(s).padStart(2,"0")}s`;
+    el.textContent = `Next update in ${parts}`;
     setTimeout(tick, 1000);
   })();
 }
@@ -363,10 +364,11 @@ async function load() {
     document.getElementById("last-updated").textContent = `Updated: ${fmtDate(data.last_updated)}`;
     startCountdown(data.next_update);
 
-    fillGrid("news-grid",     data.general_news,  "No general headlines available.");
-    fillGrid("tech-grid",     data.tech_news,      "No tech headlines available.");
-    fillGrid("football-grid", data.football_news,  "No football news available.");
-    fillGrid("finance-grid",  data.finance_news,   "No finance news available.");
+    fillGrid("news-grid",      data.general_news,   "No general headlines available.");
+    fillGrid("tech-grid",      data.tech_news,       "No tech headlines available.");
+    fillGrid("editorial-grid", data.editorial_news,  "No editorials available right now.");
+    fillGrid("football-grid",  data.football_news,   "No football news available.");
+    fillGrid("finance-grid",   data.finance_news,    "No finance news available.");
     fillEvents(data.events);
 
     const wc = data.worldcup || {};

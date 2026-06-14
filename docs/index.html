@@ -25,6 +25,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
+  <!-- Google AdSense: replace ca-pub-XXXXXXXXXX with your publisher ID after approval -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script> -->
 </head>
 <body>
 
@@ -55,6 +57,14 @@
     <button class="tab-btn"        data-tab="trending" role="tab">🔥 Trending</button>
   </nav>
 
+  <!-- ── Leaderboard Ad Slot ── -->
+  <div class="ad-leaderboard" id="ad-leaderboard">
+    <a href="advertise.html" class="ad-placeholder">
+      <span class="ad-placeholder-text">Your Ad Here — Reach thousands of Nigerian readers daily</span>
+      <span class="ad-placeholder-cta">Advertise with Us →</span>
+    </a>
+  </div>
+
   <main>
 
     <!-- ── General News ── -->
@@ -78,6 +88,12 @@
         <aside class="tech-sidebar">
           <h2 class="section-heading">📅 Events &amp; Seminars</h2>
           <div id="events-list"></div>
+          <div class="ad-sidebar">
+            <a href="advertise.html" class="ad-placeholder ad-placeholder--sidebar">
+              <span class="ad-placeholder-text">Advertise Here</span>
+              <span class="ad-placeholder-cta">Learn More →</span>
+            </a>
+          </div>
         </aside>
       </div>
     </section>
@@ -113,7 +129,7 @@
 
   <footer>
     <p>Naija Digest Online aggregates public headlines and links to original sources — no content is reproduced.</p>
-    <p>Auto-updates every 3 hours via GitHub Actions &nbsp;·&nbsp; Open source on GitHub</p>
+    <p>Auto-updates every 3 hours &nbsp;·&nbsp; <a href="advertise.html" class="footer-link">Advertise with Us</a></p>
   </footer>
 
   <script src="script.js"></script>

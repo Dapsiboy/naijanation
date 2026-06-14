@@ -358,6 +358,66 @@ main {
   100% { background-position: -200% 0; }
 }
 
+/* ── Ad slots ── */
+.ad-leaderboard {
+  background: #0a0d18;
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.ad-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  width: 100%;
+  max-width: 728px;
+  min-height: 60px;
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  padding: 0.6rem 1.25rem;
+  text-decoration: none;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.ad-placeholder:hover {
+  border-color: var(--green);
+  background: #0f1f16;
+}
+
+.ad-placeholder-text {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.ad-placeholder-cta {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--green-light);
+  white-space: nowrap;
+}
+
+.ad-sidebar {
+  margin-top: 1.25rem;
+}
+
+.ad-placeholder--sidebar {
+  max-width: 100%;
+  min-height: 120px;
+  flex-direction: column;
+  text-align: center;
+  gap: 0.5rem;
+}
+
+.footer-link {
+  color: var(--green-light);
+  text-decoration: none;
+  font-weight: 600;
+}
+.footer-link:hover { text-decoration: underline; }
+
 /* ── Footer ── */
 footer {
   border-top: 1px solid var(--border);

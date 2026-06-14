@@ -861,6 +861,7 @@ main {
 .radio-logo--naijafm    { background: linear-gradient(135deg, #bf360c, #e64a19); }
 .radio-logo--classic    { background: linear-gradient(135deg, #4e342e, #6d4c41); }
 .radio-logo--brila      { background: linear-gradient(135deg, #006400, #008000); }
+.radio-logo--adaba      { background: linear-gradient(135deg, #1565c0, #1976d2); }
 
 .radio-info { flex: 1; min-width: 0; }
 

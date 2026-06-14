@@ -368,7 +368,9 @@ async function load() {
     document.getElementById("last-updated").textContent = `Updated: ${fmtDate(data.last_updated)}`;
     startCountdown(data.next_update);
 
-    fillGrid("news-grid",      data.general_news,   "No general headlines available.");
+    fillGrid("nigerian-news-grid", data.general_news,  "No Nigerian headlines available.");
+    fillGrid("africa-news-grid",   data.africa_news,   "No Africa news available.");
+    fillGrid("world-news-grid",    data.world_news,    "No world news available.");
     fillGrid("tech-grid",      data.tech_news,       "No tech headlines available.");
     fillGrid("editorial-grid", data.editorial_news,  "No editorials available right now.");
     fillGrid("football-grid",  data.football_news,   "No football news available.");
@@ -386,7 +388,7 @@ async function load() {
 
   } catch (err) {
     console.error("Failed to load headlines:", err);
-    document.getElementById("news-grid").innerHTML =
+    document.getElementById("nigerian-news-grid").innerHTML =
       `<div class="empty">Could not load headlines — please refresh or check back soon.</div>`;
   }
 }

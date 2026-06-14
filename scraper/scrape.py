@@ -75,6 +75,24 @@ FINANCE_FEEDS = {
     "Bloomberg Markets":     "https://feeds.bloomberg.com/markets/news.rss",
 }
 
+AFRICA_FEEDS = {
+    "AllAfrica":         "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
+    "The Africa Report": "https://www.theafricareport.com/feed/",
+    "Daily Maverick":    "https://www.dailymaverick.co.za/feed/",
+    "The East African":  "https://www.theeastafrican.co.ke/tea/rss.xml",
+    "African Business":  "https://african.business/feed/",
+    "Pulse Africa":      "https://www.pulse.africa/feed/",
+}
+
+WORLD_FEEDS = {
+    "BBC News World":  "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "Reuters":         "https://feeds.reuters.com/reuters/worldNews",
+    "Al Jazeera":      "https://www.aljazeera.com/xml/rss/all.xml",
+    "AP News":         "https://apnews.com/hub/world-news?format=rss",
+    "The Guardian":    "https://www.theguardian.com/world/rss",
+    "France 24":       "https://www.france24.com/en/rss",
+}
+
 EDITORIAL_FEEDS = {
     "Punch Editorial":       "https://punchng.com/category/editorial/feed/",
     "Vanguard Opinion":      "https://www.vanguardngr.com/category/opinion/feed/",
@@ -319,6 +337,24 @@ def main():
     general_news.sort(key=lambda x: x["published"], reverse=True)
     general_news = general_news[:80]
 
+    print("\n── Africa News ──")
+    africa_news = []
+    for name, url in AFRICA_FEEDS.items():
+        africa_news.extend(fetch_feed(name, url, limit=10))
+        time.sleep(0.4)
+    africa_news.sort(key=lambda x: x["published"], reverse=True)
+    africa_news = africa_news[:50]
+    print(f"  [--] {len(africa_news)} Africa articles")
+
+    print("\n── World News ──")
+    world_news = []
+    for name, url in WORLD_FEEDS.items():
+        world_news.extend(fetch_feed(name, url, limit=10))
+        time.sleep(0.4)
+    world_news.sort(key=lambda x: x["published"], reverse=True)
+    world_news = world_news[:60]
+    print(f"  [--] {len(world_news)} world articles")
+
     print("\n── Tech & events ──")
     tech_raw = []
     for name, url in TECH_FEEDS.items():
@@ -386,6 +422,8 @@ def main():
         "last_updated": now.isoformat(),
         "next_update": next_update.isoformat(),
         "general_news": general_news,
+        "africa_news": africa_news,
+        "world_news": world_news,
         "tech_news": tech_news,
         "events": events,
         "football_news": football_news,

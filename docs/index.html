@@ -56,6 +56,8 @@
     <button class="tab-btn"        data-tab="worldcup" role="tab">🏆 World Cup 2026</button>
     <button class="tab-btn"        data-tab="finance"  role="tab">📈 Investment &amp; Stocks</button>
     <button class="tab-btn"        data-tab="livetv"   role="tab">📺 Live TV</button>
+    <button class="tab-btn"        data-tab="rates"    role="tab">💱 Exchange Rates</button>
+    <button class="tab-btn"        data-tab="crypto"   role="tab">₿ Crypto</button>
     <button class="tab-btn"        data-tab="trending" role="tab">🔥 Trending</button>
   </nav>
 
@@ -253,6 +255,44 @@
         All streams are hosted by the respective broadcasters. Naija Digest Online does not host any video content.
         If a stream is offline, check the channel's official website or YouTube page directly.
       </p>
+    </section>
+
+    <!-- ── Exchange Rates ── -->
+    <section id="tab-rates" class="tab-panel" role="tabpanel">
+      <div class="rates-header">
+        <div>
+          <h2>💱 Naira Exchange Rates</h2>
+          <p class="rates-timestamp" id="rates-timestamp">Loading…</p>
+        </div>
+        <button class="refresh-btn" onclick="loadRates()">↻ Refresh</button>
+      </div>
+      <div class="parallel-notice">
+        <span>⚠️</span>
+        <span>Rates below reflect open market / interbank prices. <strong>Parallel market (black market)</strong> rates may differ. Always verify with your bank or bureau de change.</span>
+      </div>
+      <div id="rates-grid" class="rates-grid">
+        <div class="loading-pulse"></div><div class="loading-pulse"></div>
+        <div class="loading-pulse"></div><div class="loading-pulse"></div>
+        <div class="loading-pulse"></div><div class="loading-pulse"></div>
+      </div>
+      <p class="rates-note">Source: Open Exchange Rates API · For official CBN rates visit <strong>cbn.gov.ng</strong> · Auto-refreshes every 5 minutes</p>
+    </section>
+
+    <!-- ── Crypto ── -->
+    <section id="tab-crypto" class="tab-panel" role="tabpanel">
+      <div class="rates-header">
+        <div>
+          <h2>₿ Crypto Prices in Naira</h2>
+          <p class="rates-timestamp" id="crypto-timestamp">Loading…</p>
+        </div>
+        <button class="refresh-btn" onclick="loadCrypto()">↻ Refresh</button>
+      </div>
+      <div id="crypto-grid" class="crypto-grid">
+        <div class="loading-pulse"></div><div class="loading-pulse"></div>
+        <div class="loading-pulse"></div><div class="loading-pulse"></div>
+        <div class="loading-pulse"></div><div class="loading-pulse"></div>
+      </div>
+      <p class="rates-note">Source: CoinGecko API · Prices in NGN and USD · 24h change shown · Not financial advice · Auto-refreshes every 5 minutes</p>
     </section>
 
     <!-- ── Trending ── -->

@@ -202,6 +202,124 @@ function fillYoutube(items) {
   box.appendChild(frag);
 }
 
+// ─── Exchange Rates ───────────────────────────────────────────────────────────
+
+const CURRENCIES = [
+  { code: "USD", flag: "🇺🇸", name: "US Dollar" },
+  { code: "GBP", flag: "🇬🇧", name: "British Pound" },
+  { code: "EUR", flag: "🇪🇺", name: "Euro" },
+  { code: "CAD", flag: "🇨🇦", name: "Canadian Dollar" },
+  { code: "AUD", flag: "🇦🇺", name: "Australian Dollar" },
+  { code: "CNY", flag: "🇨🇳", name: "Chinese Yuan" },
+  { code: "JPY", flag: "🇯🇵", name: "Japanese Yen" },
+  { code: "SAR", flag: "🇸🇦", name: "Saudi Riyal" },
+  { code: "AED", flag: "🇦🇪", name: "UAE Dirham" },
+  { code: "ZAR", flag: "🇿🇦", name: "South African Rand" },
+  { code: "GHS", flag: "🇬🇭", name: "Ghanaian Cedi" },
+  { code: "INR", flag: "🇮🇳", name: "Indian Rupee" },
+];
+
+async function loadRates() {
+  const grid = document.getElementById("rates-grid");
+  const ts   = document.getElementById("rates-timestamp");
+  grid.innerHTML = `<div class="loading-pulse"></div><div class="loading-pulse"></div><div class="loading-pulse"></div><div class="loading-pulse"></div>`;
+
+  try {
+    const res  = await fetch("https://open.er-api.com/v6/latest/USD");
+    const data = await res.json();
+    if (data.result !== "success") throw new Error("API error");
+
+    const ngnPerUsd = data.rates.NGN;
+    grid.innerHTML = "";
+    const frag = document.createDocumentFragment();
+
+    CURRENCIES.forEach(({ code, flag, name }) => {
+      const rate = data.rates[code];
+      if (!rate) return;
+      const ngnPer1 = code === "USD" ? ngnPerUsd : ngnPerUsd / rate;
+      const card = el("div", "rate-card");
+      card.innerHTML = `
+        <div class="rate-flag">${flag}</div>
+        <div class="rate-info">
+          <div class="rate-name">${name} <span class="rate-code">${code}</span></div>
+          <div class="rate-value">₦${ngnPer1.toLocaleString("en-NG", { minimumFractionDigits: 2, maximumFractionDigits: 2 })}</div>
+          <div class="rate-sub">per 1 ${code}</div>
+        </div>
+      `;
+      frag.appendChild(card);
+    });
+
+    grid.appendChild(frag);
+    ts.textContent = `Live · Updated ${new Date().toLocaleTimeString("en-NG")} · Auto-refreshes every 5 min`;
+  } catch {
+    grid.innerHTML = `<div class="empty">Could not load rates — check your connection and try again.</div>`;
+    ts.textContent = "Failed to load";
+  }
+}
+
+// ─── Crypto ───────────────────────────────────────────────────────────────────
+
+const COINS = [
+  { id: "bitcoin",      symbol: "BTC",  name: "Bitcoin",  icon: "₿",  color: "#f7931a" },
+  { id: "ethereum",     symbol: "ETH",  name: "Ethereum", icon: "Ξ",  color: "#627eea" },
+  { id: "tether",       symbol: "USDT", name: "Tether",   icon: "₮",  color: "#26a17b" },
+  { id: "binancecoin",  symbol: "BNB",  name: "BNB",      icon: "◈",  color: "#f3ba2f" },
+  { id: "solana",       symbol: "SOL",  name: "Solana",   icon: "◎",  color: "#9945ff" },
+  { id: "ripple",       symbol: "XRP",  name: "XRP",      icon: "✕",  color: "#346aa9" },
+  { id: "dogecoin",     symbol: "DOGE", name: "Dogecoin", icon: "Ð",  color: "#c2a633" },
+  { id: "cardano",      symbol: "ADA",  name: "Cardano",  icon: "₳",  color: "#0033ad" },
+  { id: "usd-coin",     symbol: "USDC", name: "USD Coin", icon: "◉",  color: "#2775ca" },
+  { id: "tron",         symbol: "TRX",  name: "TRON",     icon: "◆",  color: "#ef0027" },
+  { id: "litecoin",     symbol: "LTC",  name: "Litecoin", icon: "Ł",  color: "#345d9d" },
+  { id: "chainlink",    symbol: "LINK", name: "Chainlink",icon: "⬡",  color: "#2a5ada" },
+];
+
+async function loadCrypto() {
+  const grid = document.getElementById("crypto-grid");
+  const ts   = document.getElementById("crypto-timestamp");
+  grid.innerHTML = `<div class="loading-pulse"></div><div class="loading-pulse"></div><div class="loading-pulse"></div><div class="loading-pulse"></div>`;
+
+  const ids = COINS.map(c => c.id).join(",");
+  try {
+    const res  = await fetch(
+      `https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=ngn,usd&include_24hr_change=true`
+    );
+    const data = await res.json();
+
+    grid.innerHTML = "";
+    const frag = document.createDocumentFragment();
+
+    COINS.forEach(({ id, symbol, name, icon, color }) => {
+      const coin = data[id];
+      if (!coin) return;
+      const ngn    = coin.ngn  || 0;
+      const usd    = coin.usd  || 0;
+      const change = coin.usd_24h_change || 0;
+      const up     = change >= 0;
+
+      const card = el("div", "crypto-card");
+      card.innerHTML = `
+        <div class="crypto-icon" style="background:${color}20;color:${color}">${icon}</div>
+        <div class="crypto-info">
+          <div class="crypto-name">${name} <span class="crypto-symbol">${symbol}</span></div>
+          <div class="crypto-ngn">₦${ngn.toLocaleString("en-NG", { maximumFractionDigits: 2 })}</div>
+          <div class="crypto-meta">
+            <span class="crypto-usd">$${usd.toLocaleString("en-US", { maximumFractionDigits: 4 })}</span>
+            <span class="${up ? "crypto-up" : "crypto-down"}">${up ? "▲" : "▼"} ${Math.abs(change).toFixed(2)}%</span>
+          </div>
+        </div>
+      `;
+      frag.appendChild(card);
+    });
+
+    grid.appendChild(frag);
+    ts.textContent = `Live · Updated ${new Date().toLocaleTimeString("en-NG")} · Auto-refreshes every 5 min`;
+  } catch {
+    grid.innerHTML = `<div class="empty">Could not load crypto prices — CoinGecko may be rate-limiting. Try again shortly.</div>`;
+    ts.textContent = "Failed to load";
+  }
+}
+
 // ─── Live TV ──────────────────────────────────────────────────────────────────
 
 function watchTV(url) {
@@ -267,6 +385,12 @@ async function load() {
 }
 
 load();
+loadRates();
+loadCrypto();
+
+// Refresh rates and crypto every 5 minutes
+setInterval(loadRates,  5 * 60 * 1000);
+setInterval(loadCrypto, 5 * 60 * 1000);
 
 // Auto-reload when next update arrives
 fetch(`${DATA_URL}?t=${Date.now()}`)

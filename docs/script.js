@@ -158,23 +158,29 @@ function fillFixtures(fixtures) {
 
 // ─── Trending ─────────────────────────────────────────────────────────────────
 
-function fillGoogleTrends(trends) {
-  const list = document.getElementById("google-trends");
-  list.innerHTML = "";
-  if (!trends?.length) { list.appendChild(el("li", "empty", "No trend data available.")); return; }
-  trends.forEach(topic => list.appendChild(el("li", null, topic)));
+function fillXTrending(items) {
+  const box = document.getElementById("x-trending-list");
+  box.innerHTML = "";
+  if (!items?.length) { box.appendChild(el("div", "empty", "No X trending data available.")); return; }
+  const frag = document.createDocumentFragment();
+  items.forEach(item => {
+    const div = el("div", "trend-item");
+    div.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.tag}</a>`;
+    frag.appendChild(div);
+  });
+  box.appendChild(frag);
 }
 
-function fillReddit(items) {
-  const box = document.getElementById("reddit-list");
+function fillTikTok(items) {
+  const box = document.getElementById("tiktok-list");
   box.innerHTML = "";
-  if (!items?.length) { box.appendChild(el("div", "empty", "No Reddit posts available.")); return; }
+  if (!items?.length) { box.appendChild(el("div", "empty", "No TikTok trends available.")); return; }
   const frag = document.createDocumentFragment();
   items.forEach(item => {
     const div = el("div", "trend-item");
     div.innerHTML = `
-      <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-      <div class="trend-sub">r/${item.subreddit} &middot; ${item.upvotes.toLocaleString()} upvotes</div>
+      <a href="${item.url}" target="_blank" rel="noopener noreferrer">#${item.tag}</a>
+      <div class="trend-sub">${Number(item.views).toLocaleString()} views</div>
     `;
     frag.appendChild(div);
   });
@@ -382,9 +388,11 @@ async function load() {
     fillGrid("wc-grid", wc.news, "No World Cup news available.");
 
     const t = data.trending || {};
-    fillGoogleTrends(t.google_trends);
-    fillReddit(t.reddit);
+    fillXTrending(t.x_trending);
+    fillTikTok(t.tiktok);
     fillYoutube(t.youtube);
+    fillGrid("celeb-list", data.celeb_news, "No celebrity news available.");
+    fillGrid("music-list", data.music_news, "No music news available.");
 
   } catch (err) {
     console.error("Failed to load headlines:", err);

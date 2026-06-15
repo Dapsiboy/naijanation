@@ -6,6 +6,7 @@ import re
 from datetime import datetime, timezone, timedelta
 
 import requests
+from bs4 import BeautifulSoup
 
 # ─── FEEDS ────────────────────────────────────────────────────────────────────
 
@@ -121,6 +122,20 @@ FOOTBALL_FEEDS = {
     "Vanguard Sports": "https://www.vanguardngr.com/category/sports/feed/",
 }
 
+CELEB_FEEDS = {
+    "Linda Ikeji":  "https://www.lindaikejisblog.com/feeds/posts/default?alt=rss",
+    "BellaNaija":   "https://www.bellanaija.com/feed/",
+    "SDK Celeb":    "http://www.stelladimokokorkus.com/feeds/posts/default?alt=rss",
+    "YNaija":       "https://ynaija.com/feed/",
+}
+
+MUSIC_FEEDS = {
+    "NotJustOk":    "https://www.notjustok.com/feed/",
+    "Tooxclusive":  "https://www.tooxclusive.com/feed/",
+    "360nobs":      "https://www.360nobs.com/feed/",
+    "Jaguda":       "https://www.jaguda.com/feed/",
+}
+
 EVENT_KEYWORDS = [
     "seminar", "conference", "workshop", "webinar", "hackathon",
     "summit", "forum", "bootcamp", "training", "fellowship",
@@ -213,45 +228,52 @@ def fetch_feed(name, url, limit=15):
         return []
 
 
-def fetch_google_trends():
+def fetch_x_trending():
     try:
-        from pytrends.request import TrendReq
-        pt = TrendReq(hl="en-NG", tz=60)
-        df = pt.trending_searches(pn="nigeria")
-        results = df[0].tolist()[:20]
-        print(f"  [OK ] Google Trends: {len(results)} topics")
-        return results
+        r = requests.get(
+            "https://trends24.in/nigeria/",
+            headers={"User-Agent": UA},
+            timeout=10,
+        )
+        soup = BeautifulSoup(r.text, "html.parser")
+        items = []
+        for a in soup.select(".trend-card__list li a")[:20]:
+            tag = a.get_text(strip=True)
+            if tag:
+                items.append({
+                    "tag": tag,
+                    "url": f"https://x.com/search?q={requests.utils.quote(tag)}&src=trend_click",
+                })
+        print(f"  [OK ] X Trending: {len(items)} topics")
+        return items
     except Exception as e:
-        print(f"  [ERR] Google Trends: {e}")
+        print(f"  [ERR] X Trending: {e}")
         return []
 
 
-def fetch_reddit():
-    items = []
-    subreddits = ["Nigeria", "naijatechguide", "Africa", "technology"]
-    headers = {"User-Agent": UA}
-    for sub in subreddits:
-        try:
-            r = requests.get(
-                f"https://www.reddit.com/r/{sub}/hot.json?limit=10",
-                headers=headers,
-                timeout=10,
-            )
-            if r.status_code == 200:
-                for post in r.json()["data"]["children"]:
-                    d = post["data"]
-                    if not d.get("stickied") and d.get("title"):
-                        items.append({
-                            "title": d["title"],
-                            "url": f"https://reddit.com{d['permalink']}",
-                            "subreddit": sub,
-                            "upvotes": d.get("ups", 0),
-                        })
-            time.sleep(1.5)
-        except Exception as e:
-            print(f"  [ERR] Reddit r/{sub}: {e}")
-    print(f"  [OK ] Reddit: {len(items)} posts")
-    return items
+def fetch_tiktok_trending():
+    try:
+        url = "https://ads.tiktok.com/creative_radar_api/v1/popular_trend/hashtag/list"
+        params = {"period": 7, "page": 1, "limit": 20, "country_code": "NG"}
+        headers = {
+            "User-Agent": UA,
+            "Referer": "https://ads.tiktok.com/business/creativecenter/trends/hashtag/pad/en",
+        }
+        r = requests.get(url, params=params, headers=headers, timeout=10)
+        items = []
+        for h in r.json().get("data", {}).get("list", []):
+            tag = h.get("hashtag_name", "")
+            if tag:
+                items.append({
+                    "tag": tag,
+                    "url": f"https://www.tiktok.com/tag/{tag}",
+                    "views": h.get("video_views", 0),
+                })
+        print(f"  [OK ] TikTok: {len(items)} hashtags")
+        return items
+    except Exception as e:
+        print(f"  [ERR] TikTok: {e}")
+        return []
 
 
 def fetch_wc_fixtures():
@@ -413,9 +435,25 @@ def main():
     finance_news = finance_news[:60]
     print(f"  [--] {len(finance_news)} finance articles")
 
+    print("\n── Celebrity Gossip ──")
+    celeb_news = []
+    for name, url in CELEB_FEEDS.items():
+        celeb_news.extend(fetch_feed(name, url, limit=10))
+        time.sleep(0.4)
+    celeb_news.sort(key=lambda x: x["published"], reverse=True)
+    celeb_news = celeb_news[:40]
+
+    print("\n── Naija Music ──")
+    music_news = []
+    for name, url in MUSIC_FEEDS.items():
+        music_news.extend(fetch_feed(name, url, limit=10))
+        time.sleep(0.4)
+    music_news.sort(key=lambda x: x["published"], reverse=True)
+    music_news = music_news[:40]
+
     print("\n── Trending ──")
-    google_trends = fetch_google_trends()
-    reddit = fetch_reddit()
+    x_trending = fetch_x_trending()
+    tiktok = fetch_tiktok_trending()
     youtube = fetch_youtube_trending()
 
     data = {
@@ -433,9 +471,11 @@ def main():
         },
         "editorial_news": editorial_news,
         "finance_news": finance_news,
+        "celeb_news": celeb_news,
+        "music_news": music_news,
         "trending": {
-            "google_trends": google_trends,
-            "reddit": reddit,
+            "x_trending": x_trending,
+            "tiktok": tiktok,
             "youtube": youtube,
         },
     }
@@ -446,7 +486,7 @@ def main():
 
     print(f"\nSaved → docs/data/headlines.json")
     print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}, Editorials: {len(editorial_news)}, Football: {len(football_news)}")
-    print(f"  Google Trends: {len(google_trends)}, Reddit: {len(reddit)}, YouTube: {len(youtube)}")
+    print(f"  X Trending: {len(x_trending)}, TikTok: {len(tiktok)}, YouTube: {len(youtube)}")
 
 
 if __name__ == "__main__":

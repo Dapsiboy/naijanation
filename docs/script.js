@@ -161,12 +161,25 @@ function fillFixtures(fixtures) {
 function fillXTrending(items) {
   const box = document.getElementById("x-trending-list");
   box.innerHTML = "";
-  if (!items?.length) { box.appendChild(el("div", "empty", "No X trending data available.")); return; }
+  if (!items?.length) { box.appendChild(el("div", "empty", "No X data available.")); return; }
   const frag = document.createDocumentFragment();
-  items.forEach(item => {
-    const div = el("div", "trend-item");
-    div.innerHTML = `<a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.tag}</a>`;
-    frag.appendChild(div);
+  items.forEach((item, i) => {
+    if (item.type === "tweet") {
+      const div = el("div", "yt-item");
+      div.innerHTML = `
+        ${item.image ? `<img class="yt-thumb" src="${item.image}" alt="" loading="lazy" />` : ""}
+        <div class="yt-info">
+          <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.text}</a>
+          <div class="trend-sub">${item.author}</div>
+        </div>`;
+      frag.appendChild(div);
+    } else {
+      const div = el("div", "x-trend-item");
+      div.innerHTML = `
+        <span class="x-trend-rank">${i + 1}</span>
+        <a class="x-trend-tag" href="${item.url}" target="_blank" rel="noopener noreferrer">${item.tag}</a>`;
+      frag.appendChild(div);
+    }
   });
   box.appendChild(frag);
 }

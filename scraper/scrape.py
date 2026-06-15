@@ -228,7 +228,51 @@ def fetch_feed(name, url, limit=15):
         return []
 
 
-def fetch_x_trending():
+def fetch_x_data():
+    token = os.environ.get("TWITTER_BEARER_TOKEN", "")
+    if token:
+        try:
+            r = requests.get(
+                "https://api.twitter.com/2/tweets/search/recent",
+                headers={"Authorization": f"Bearer {token}"},
+                params={
+                    "query": "Nigeria OR Naija has:media -is:retweet lang:en",
+                    "max_results": 10,
+                    "tweet.fields": "text,public_metrics",
+                    "expansions": "attachments.media_keys,author_id",
+                    "media.fields": "url,preview_image_url,type",
+                    "user.fields": "name,username",
+                },
+                timeout=10,
+            )
+            data = r.json()
+            media_map = {m["media_key"]: m for m in data.get("includes", {}).get("media", [])}
+            user_map = {u["id"]: u for u in data.get("includes", {}).get("users", [])}
+            items = []
+            for tweet in data.get("data", []):
+                media_keys = tweet.get("attachments", {}).get("media_keys", [])
+                image_url = ""
+                for mk in media_keys:
+                    m = media_map.get(mk, {})
+                    if m.get("type") == "photo":
+                        image_url = m.get("url", "")
+                        break
+                    elif m.get("preview_image_url"):
+                        image_url = m.get("preview_image_url", "")
+                        break
+                author = user_map.get(tweet.get("author_id", ""), {})
+                items.append({
+                    "type": "tweet",
+                    "text": tweet.get("text", "")[:200],
+                    "url": f"https://x.com/i/web/status/{tweet['id']}",
+                    "image": image_url,
+                    "author": f"@{author.get('username', '')}" if author else "",
+                })
+            print(f"  [OK ] X Posts: {len(items)} tweets with media")
+            return items
+        except Exception as e:
+            print(f"  [ERR] X Posts (Twitter API): {e} — falling back to trends")
+
     try:
         r = requests.get(
             "https://trends24.in/nigeria/",
@@ -241,10 +285,11 @@ def fetch_x_trending():
             tag = a.get_text(strip=True)
             if tag:
                 items.append({
+                    "type": "trend",
                     "tag": tag,
                     "url": f"https://x.com/search?q={requests.utils.quote(tag)}&src=trend_click",
                 })
-        print(f"  [OK ] X Trending: {len(items)} topics")
+        print(f"  [OK ] X Trending (fallback): {len(items)} topics")
         return items
     except Exception as e:
         print(f"  [ERR] X Trending: {e}")
@@ -465,7 +510,7 @@ def main():
     music_news = music_news[:40]
 
     print("\n── Trending ──")
-    x_trending = fetch_x_trending()
+    x_trending = fetch_x_data()
     naija_creators = fetch_naija_creators()
     youtube = fetch_youtube_trending()
 

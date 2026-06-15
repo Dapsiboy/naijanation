@@ -85,8 +85,8 @@
 }
 
 .pkg-card {
-  background: var(--bg-card);
-  border: 1px solid var(--border);
+  background: #111827;
+  border: 1px solid #1e2a3a;
   border-radius: 12px;
   padding: 1.5rem;
   position: relative;
@@ -95,9 +95,18 @@
   gap: 1rem;
 }
 
+.pkg-card:not(.pkg-card--featured):first-of-type {
+  border-top: 3px solid #3b82f6;
+}
+
 .pkg-card--featured {
   border-color: var(--green);
+  border-top: 3px solid var(--green);
   background: #0f1f16;
+}
+
+.pkg-card:not(.pkg-card--featured):last-of-type {
+  border-top: 3px solid #a855f7;
 }
 
 .pkg-badge-top {
@@ -183,12 +192,8 @@
 .price-row strong {
   font-size: 1rem;
   font-weight: 700;
-  color: var(--text);
-  flex: 1;
-}
-
-.pkg-card--featured .price-row strong {
   color: #fff;
+  flex: 1;
 }
 
 .pay-btn {

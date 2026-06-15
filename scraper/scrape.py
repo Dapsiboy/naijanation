@@ -229,14 +229,15 @@ def fetch_feed(name, url, limit=15):
 
 
 def fetch_x_data():
-    token = os.environ.get("TWITTER_BEARER_TOKEN", "")
+    import urllib.parse
+    token = urllib.parse.unquote(os.environ.get("TWITTER_BEARER_TOKEN", ""))
     if token:
         try:
             r = requests.get(
                 "https://api.twitter.com/2/tweets/search/recent",
                 headers={"Authorization": f"Bearer {token}"},
                 params={
-                    "query": "Nigeria OR Naija has:media -is:retweet lang:en",
+                    "query": "Nigeria OR Naija -is:retweet lang:en",
                     "max_results": 10,
                     "tweet.fields": "text,public_metrics",
                     "expansions": "attachments.media_keys,author_id",

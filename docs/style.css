@@ -415,8 +415,10 @@ main {
 
 /* ── Trending ── */
 .trending-grid {
-  columns: 3 340px;
-  column-gap: 1.25rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
 }
 
 .trend-card {
@@ -424,11 +426,6 @@ main {
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 1.25rem;
-  break-inside: avoid;
-  margin-bottom: 1.25rem;
-  display: inline-block;
-  width: 100%;
-  box-sizing: border-box;
 }
 
 /* Google Trends list */
@@ -1027,5 +1024,5 @@ footer p + p { margin-top: 0.3rem; }
   .tab-nav { padding: 0 0.5rem; }
   .tab-btn { padding: 0.7rem 0.9rem; font-size: 0.8rem; }
   .card-grid { grid-template-columns: 1fr; }
-  .trending-grid { columns: 1; }
+  .trending-grid { grid-template-columns: 1fr; }
 }

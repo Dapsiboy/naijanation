@@ -331,37 +331,40 @@ def fetch_naija_creators():
     if not api_key:
         print("  [SKP] Naija Creators: no API key")
         return []
-    try:
-        r = requests.get(
-            "https://www.googleapis.com/youtube/v3/search",
-            params={
-                "part": "snippet",
-                "q": "Nigeria skit comedy creator vlog lifestyle music naija",
-                "type": "video",
-                "regionCode": "NG",
-                "relevanceLanguage": "en",
-                "order": "date",
-                "maxResults": 25,
-                "key": api_key,
-            },
-            timeout=10,
-        )
-        items = []
-        for item in r.json().get("items", []):
-            s = item.get("snippet", {})
-            vid_id = item.get("id", {}).get("videoId", "")
-            if vid_id:
-                items.append({
-                    "title": s.get("title", ""),
-                    "channel": s.get("channelTitle", ""),
-                    "url": f"https://www.youtube.com/watch?v={vid_id}",
-                    "thumbnail": s.get("thumbnails", {}).get("medium", {}).get("url", ""),
-                })
-        print(f"  [OK ] Naija Creators: {len(items)} videos")
-        return items
-    except Exception as e:
-        print(f"  [ERR] Naija Creators: {e}")
-        return []
+    # Fetch top videos per category: Music(10), Comedy(23), Entertainment(24), Gaming(20)
+    items = []
+    seen = set()
+    for cat_id in ["10", "23", "24", "20"]:
+        try:
+            r = requests.get(
+                "https://www.googleapis.com/youtube/v3/videos",
+                params={
+                    "part": "snippet",
+                    "chart": "mostPopular",
+                    "regionCode": "NG",
+                    "videoCategoryId": cat_id,
+                    "maxResults": 10,
+                    "key": api_key,
+                },
+                timeout=10,
+            )
+            for v in r.json().get("items", []):
+                s = v.get("snippet", {})
+                vid_id = v.get("id", "")
+                url = f"https://youtube.com/watch?v={vid_id}"
+                if vid_id and url not in seen:
+                    seen.add(url)
+                    items.append({
+                        "title": s.get("title", ""),
+                        "channel": s.get("channelTitle", ""),
+                        "url": url,
+                        "thumbnail": s.get("thumbnails", {}).get("medium", {}).get("url", ""),
+                    })
+            time.sleep(0.3)
+        except Exception as e:
+            print(f"  [ERR] Naija Creators cat {cat_id}: {e}")
+    print(f"  [OK ] Naija Creators: {len(items)} videos")
+    return items[:25]
 
 
 def fetch_wc_fixtures():

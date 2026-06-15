@@ -251,28 +251,41 @@ def fetch_x_trending():
         return []
 
 
-def fetch_tiktok_trending():
+def fetch_naija_creators():
+    api_key = os.environ.get("YOUTUBE_API_KEY")
+    if not api_key:
+        print("  [SKP] Naija Creators: no API key")
+        return []
     try:
-        url = "https://ads.tiktok.com/creative_radar_api/v1/popular_trend/hashtag/list"
-        params = {"period": 7, "page": 1, "limit": 20, "country_code": "NG"}
-        headers = {
-            "User-Agent": UA,
-            "Referer": "https://ads.tiktok.com/business/creativecenter/trends/hashtag/pad/en",
-        }
-        r = requests.get(url, params=params, headers=headers, timeout=10)
+        r = requests.get(
+            "https://www.googleapis.com/youtube/v3/search",
+            params={
+                "part": "snippet",
+                "q": "Nigeria skit comedy creator vlog lifestyle",
+                "type": "video",
+                "regionCode": "NG",
+                "relevanceLanguage": "en",
+                "order": "date",
+                "maxResults": 10,
+                "key": api_key,
+            },
+            timeout=10,
+        )
         items = []
-        for h in r.json().get("data", {}).get("list", []):
-            tag = h.get("hashtag_name", "")
-            if tag:
+        for item in r.json().get("items", []):
+            s = item.get("snippet", {})
+            vid_id = item.get("id", {}).get("videoId", "")
+            if vid_id:
                 items.append({
-                    "tag": tag,
-                    "url": f"https://www.tiktok.com/tag/{tag}",
-                    "views": h.get("video_views", 0),
+                    "title": s.get("title", ""),
+                    "channel": s.get("channelTitle", ""),
+                    "url": f"https://www.youtube.com/watch?v={vid_id}",
+                    "thumbnail": s.get("thumbnails", {}).get("medium", {}).get("url", ""),
                 })
-        print(f"  [OK ] TikTok: {len(items)} hashtags")
+        print(f"  [OK ] Naija Creators: {len(items)} videos")
         return items
     except Exception as e:
-        print(f"  [ERR] TikTok: {e}")
+        print(f"  [ERR] Naija Creators: {e}")
         return []
 
 
@@ -453,7 +466,7 @@ def main():
 
     print("\n── Trending ──")
     x_trending = fetch_x_trending()
-    tiktok = fetch_tiktok_trending()
+    naija_creators = fetch_naija_creators()
     youtube = fetch_youtube_trending()
 
     data = {
@@ -475,7 +488,7 @@ def main():
         "music_news": music_news,
         "trending": {
             "x_trending": x_trending,
-            "tiktok": tiktok,
+            "naija_creators": naija_creators,
             "youtube": youtube,
         },
     }
@@ -486,7 +499,7 @@ def main():
 
     print(f"\nSaved → docs/data/headlines.json")
     print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}, Editorials: {len(editorial_news)}, Football: {len(football_news)}")
-    print(f"  X Trending: {len(x_trending)}, TikTok: {len(tiktok)}, YouTube: {len(youtube)}")
+    print(f"  X Trending: {len(x_trending)}, Naija Creators: {len(naija_creators)}, YouTube: {len(youtube)}")
 
 
 if __name__ == "__main__":

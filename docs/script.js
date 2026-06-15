@@ -171,17 +171,19 @@ function fillXTrending(items) {
   box.appendChild(frag);
 }
 
-function fillTikTok(items) {
-  const box = document.getElementById("tiktok-list");
+function fillNaijaCreators(items) {
+  const box = document.getElementById("naija-creators-list");
   box.innerHTML = "";
-  if (!items?.length) { box.appendChild(el("div", "empty", "No TikTok trends available.")); return; }
+  if (!items?.length) { box.appendChild(el("div", "empty", "No creator videos available.")); return; }
   const frag = document.createDocumentFragment();
   items.forEach(item => {
-    const div = el("div", "trend-item");
+    const div = el("div", "yt-item");
     div.innerHTML = `
-      <a href="${item.url}" target="_blank" rel="noopener noreferrer">#${item.tag}</a>
-      <div class="trend-sub">${Number(item.views).toLocaleString()} views</div>
-    `;
+      ${item.thumbnail ? `<img class="yt-thumb" src="${item.thumbnail}" alt="" loading="lazy" />` : ""}
+      <div class="yt-info">
+        <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+        <div class="trend-sub">${item.channel}</div>
+      </div>`;
     frag.appendChild(div);
   });
   box.appendChild(frag);
@@ -373,7 +375,7 @@ async function load() {
 
     const t = data.trending || {};
     fillXTrending(t.x_trending);
-    fillTikTok(t.tiktok);
+    fillNaijaCreators(t.naija_creators);
     fillYoutube(t.youtube);
     fillGrid("celeb-list", data.celeb_news, "No celebrity news available.");
     fillGrid("music-list", data.music_news, "No music news available.");

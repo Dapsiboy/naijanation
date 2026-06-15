@@ -526,18 +526,18 @@ def main():
     print("\n── Celebrity Gossip ──")
     celeb_news = []
     for name, url in CELEB_FEEDS.items():
-        celeb_news.extend(fetch_feed(name, url, limit=10))
+        celeb_news.extend(fetch_feed(name, url, limit=15))
         time.sleep(0.4)
     celeb_news.sort(key=lambda x: x["published"], reverse=True)
-    celeb_news = celeb_news[:8]
+    celeb_news = celeb_news[:25]
 
     print("\n── Naija Music ──")
     music_news = []
     for name, url in MUSIC_FEEDS.items():
-        music_news.extend(fetch_feed(name, url, limit=10))
+        music_news.extend(fetch_feed(name, url, limit=15))
         time.sleep(0.4)
     music_news.sort(key=lambda x: x["published"], reverse=True)
-    music_news = music_news[:8]
+    music_news = music_news[:25]
 
     print("\n── Trending ──")
     x_trending = fetch_x_data()

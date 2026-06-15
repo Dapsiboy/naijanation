@@ -337,21 +337,6 @@ function listenRadio(url) {
   window.open(url, "_blank", "noopener,noreferrer");
 }
 
-// ─── Countdown ────────────────────────────────────────────────────────────────
-
-function startCountdown(nextIso) {
-  const el = document.getElementById("next-update");
-  (function tick() {
-    const diff = new Date(nextIso).getTime() - Date.now();
-    if (diff <= 0) { el.textContent = "Updating soon…"; return; }
-    const h = Math.floor(diff / 3_600_000);
-    const m = Math.floor((diff % 3_600_000) / 60_000);
-    const s = Math.floor((diff % 60_000) / 1_000);
-    const parts = h > 0 ? `${h}h ${String(m).padStart(2,"0")}m` : `${String(m).padStart(2,"0")}m ${String(s).padStart(2,"0")}s`;
-    el.textContent = `Next update in ${parts}`;
-    setTimeout(tick, 1000);
-  })();
-}
 
 // ─── Tabs ─────────────────────────────────────────────────────────────────────
 
@@ -372,7 +357,6 @@ async function load() {
     const data = await res.json();
 
     document.getElementById("last-updated").textContent = `Updated: ${fmtDate(data.last_updated)}`;
-    startCountdown(data.next_update);
 
     fillGrid("nigerian-news-grid", data.general_news,  "No Nigerian headlines available.");
     fillGrid("africa-news-grid",   data.africa_news,   "No Africa news available.");

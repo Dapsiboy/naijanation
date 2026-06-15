@@ -317,7 +317,7 @@ def fetch_x_data():
                 "tag": tag,
                 "url": f"https://x.com/search?q={requests.utils.quote(tag)}&src=trend_click",
             }
-            for _, tag in all_items[:15]
+            for _, tag in all_items[:10]
         ]
         print(f"  [OK ] X Trending (fallback): {len(items)} topics")
         return items
@@ -341,7 +341,7 @@ def fetch_naija_creators():
                 "regionCode": "NG",
                 "relevanceLanguage": "en",
                 "order": "date",
-                "maxResults": 10,
+                "maxResults": 8,
                 "key": api_key,
             },
             timeout=10,
@@ -411,7 +411,7 @@ def fetch_youtube_trending():
                 "part": "snippet",
                 "chart": "mostPopular",
                 "regionCode": "NG",
-                "maxResults": 10,
+                "maxResults": 8,
                 "key": api_key,
             },
             timeout=10,
@@ -529,7 +529,7 @@ def main():
         celeb_news.extend(fetch_feed(name, url, limit=10))
         time.sleep(0.4)
     celeb_news.sort(key=lambda x: x["published"], reverse=True)
-    celeb_news = celeb_news[:40]
+    celeb_news = celeb_news[:8]
 
     print("\n── Naija Music ──")
     music_news = []
@@ -537,7 +537,7 @@ def main():
         music_news.extend(fetch_feed(name, url, limit=10))
         time.sleep(0.4)
     music_news.sort(key=lambda x: x["published"], reverse=True)
-    music_news = music_news[:40]
+    music_news = music_news[:8]
 
     print("\n── Trending ──")
     x_trending = fetch_x_data()

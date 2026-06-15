@@ -184,41 +184,19 @@ function fillXTrending(items) {
   box.appendChild(frag);
 }
 
-function fillNaijaCreators(items) {
-  const box = document.getElementById("naija-creators-list");
+function fillTrendList(id, items, titleKey, sourceKey, emptyMsg) {
+  const box = document.getElementById(id);
   box.innerHTML = "";
-  if (!items?.length) { box.appendChild(el("div", "empty", "No creator videos available.")); return; }
+  if (!items?.length) { box.appendChild(el("div", "empty", emptyMsg)); return; }
   const frag = document.createDocumentFragment();
-  items.forEach(item => {
-    const div = el("div", "yt-item");
+  items.forEach((item, i) => {
+    const div = el("div", "trend-list-item");
     div.innerHTML = `
-      ${item.thumbnail ? `<img class="yt-thumb" src="${item.thumbnail}" alt="" loading="lazy" />` : ""}
-      <div class="yt-info">
-        <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-        <div class="trend-sub">${item.channel}</div>
+      <span class="trend-list-num">${i + 1}</span>
+      <div class="trend-list-body">
+        <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item[titleKey]}</a>
+        ${item[sourceKey] ? `<div class="trend-list-source">${item[sourceKey]}</div>` : ""}
       </div>`;
-    frag.appendChild(div);
-  });
-  box.appendChild(frag);
-}
-
-function fillYoutube(items) {
-  const box = document.getElementById("youtube-list");
-  box.innerHTML = "";
-  if (!items?.length) {
-    box.appendChild(el("div", "empty", "YouTube data not available — add a YOUTUBE_API_KEY secret to enable it."));
-    return;
-  }
-  const frag = document.createDocumentFragment();
-  items.forEach(item => {
-    const div = el("div", "yt-item");
-    div.innerHTML = `
-      ${item.thumbnail ? `<img class="yt-thumb" src="${item.thumbnail}" alt="" loading="lazy" />` : ""}
-      <div class="yt-info">
-        <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.title}</a>
-        <div class="yt-channel">${item.channel}</div>
-      </div>
-    `;
     frag.appendChild(div);
   });
   box.appendChild(frag);
@@ -388,10 +366,10 @@ async function load() {
 
     const t = data.trending || {};
     fillXTrending(t.x_trending);
-    fillNaijaCreators(t.naija_creators);
-    fillYoutube(t.youtube);
-    fillGrid("celeb-list", data.celeb_news, "No celebrity news available.");
-    fillGrid("music-list", data.music_news, "No music news available.");
+    fillTrendList("naija-creators-list", t.naija_creators, "title", "channel", "No creator videos available.");
+    fillTrendList("youtube-list", t.youtube, "title", "channel", "No YouTube data available.");
+    fillTrendList("celeb-list", data.celeb_news, "title", "source", "No celebrity news available.");
+    fillTrendList("music-list", data.music_news, "title", "source", "No music news available.");
 
   } catch (err) {
     console.error("Failed to load headlines:", err);

@@ -26,6 +26,7 @@ jobs:
       - name: Run scraper
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
         run: python scraper/scrape.py
 
       - name: Commit updated headlines

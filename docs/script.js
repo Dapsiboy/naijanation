@@ -48,6 +48,8 @@ function sourceGradient(name) {
 
 // ─── Card renderer (with image) ───────────────────────────────────────────────
 
+const SHARE_ICON = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>`;
+
 function makeCard(item) {
   const a = link(item.url, "card");
   const grad = sourceGradient(item.source);
@@ -73,12 +75,26 @@ function makeCard(item) {
     <div class="card-body">
       <div class="card-meta">
         <span class="badge" title="${item.source}">${item.source}</span>
-        <span class="time">${timeAgo(item.published)}</span>
+        <div class="card-meta-right">
+          <span class="time">${timeAgo(item.published)}</span>
+        </div>
       </div>
       <div class="card-title">${item.title}</div>
       ${item.summary ? `<div class="card-summary">${item.summary}</div>` : ""}
     </div>
   `;
+
+  const shareBtn = document.createElement("button");
+  shareBtn.className = "card-share";
+  shareBtn.title = "Share this article";
+  shareBtn.innerHTML = SHARE_ICON;
+  shareBtn.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    shareArticle(item.url, item.title);
+  });
+  a.querySelector(".card-meta-right").appendChild(shareBtn);
+
   return a;
 }
 
@@ -89,6 +105,33 @@ function makeEventItem(item) {
     <div class="event-meta">${item.source} &middot; ${timeAgo(item.published)}</div>
   `;
   return a;
+}
+
+// ─── Share ────────────────────────────────────────────────────────────────────
+
+function shareArticle(url, title) {
+  const text = `${title} — via Naija Digest Online`;
+  if (navigator.share) {
+    navigator.share({ title, text, url }).catch(() => {});
+  } else {
+    navigator.clipboard.writeText(url)
+      .then(() => showToast("Link copied!"))
+      .catch(() => showToast("Could not copy link"));
+  }
+}
+
+function showToast(msg) {
+  let toast = document.getElementById("share-toast");
+  if (!toast) {
+    toast = document.createElement("div");
+    toast.id = "share-toast";
+    toast.className = "share-toast";
+    document.body.appendChild(toast);
+  }
+  toast.textContent = msg;
+  toast.classList.add("show");
+  clearTimeout(toast._t);
+  toast._t = setTimeout(() => toast.classList.remove("show"), 2200);
 }
 
 // ─── Grid & list fillers ──────────────────────────────────────────────────────

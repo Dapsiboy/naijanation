@@ -211,6 +211,55 @@ main {
   gap: 0.5rem;
 }
 
+.card-meta-right {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-shrink: 0;
+}
+
+.card-share {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.25rem 0.4rem;
+  cursor: pointer;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+  line-height: 1;
+}
+.card-share:hover {
+  color: var(--green-light);
+  border-color: var(--green);
+  background: var(--green-dim);
+}
+
+.share-toast {
+  position: fixed;
+  bottom: 90px;
+  left: 50%;
+  transform: translateX(-50%) translateY(12px);
+  background: #1a1d2e;
+  color: #fff;
+  padding: 0.5rem 1.25rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  pointer-events: none;
+  z-index: 600;
+  white-space: nowrap;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+}
+.share-toast.show {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
 .badge {
   background: var(--badge-bg);
   color: var(--badge-text);

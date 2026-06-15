@@ -281,15 +281,44 @@ def fetch_x_data():
             timeout=10,
         )
         soup = BeautifulSoup(r.text, "html.parser")
-        items = []
-        for a in soup.select(".trend-card__list li a")[:20]:
+        politics_keywords = [
+            # Politicians
+            "tinubu", "peter obi", "atiku", "kwankwaso", "wike", "el-rufai", "obi",
+            "fubara", "shettima", "ganduje", "makinde", "sanwo-olu", "soludo",
+            "obidient", "jagaban", "emilokan",
+            # Parties
+            "apc", "pdp", "labour party", "nnpp", "adc", "ndc", "sdp", "ypp", "apga",
+            # Institutions & Government
+            "inec", "efcc", "icpc", "cbn", "nass", "dss", "aso rock", "presidency",
+            "senate", "house of rep", "national assembly", "supreme court", "tribunal",
+            "minister", "governor", "commissioner",
+            # Issues
+            "election", "voting", "impeach", "recall", "corruption", "probe",
+            "budget", "fuel subsidy", "naira", "forex", "tax reform", "palliative",
+            "protest", "insecurity", "bandits", "boko haram", "coup", "democracy",
+            "constituency", "bill", "policy", "abuja",
+        ]
+        all_items = []
+        for a in soup.select(".trend-card__list li a")[:30]:
             tag = a.get_text(strip=True)
-            if tag:
-                items.append({
-                    "type": "trend",
-                    "tag": tag,
-                    "url": f"https://x.com/search?q={requests.utils.quote(tag)}&src=trend_click",
-                })
+            if not tag:
+                continue
+            score = 1
+            tag_lower = tag.lower()
+            for kw in politics_keywords:
+                if kw in tag_lower:
+                    score = 2
+                    break
+            all_items.append((score, tag))
+        all_items.sort(key=lambda x: x[0], reverse=True)
+        items = [
+            {
+                "type": "trend",
+                "tag": tag,
+                "url": f"https://x.com/search?q={requests.utils.quote(tag)}&src=trend_click",
+            }
+            for _, tag in all_items[:15]
+        ]
         print(f"  [OK ] X Trending (fallback): {len(items)} topics")
         return items
     except Exception as e:

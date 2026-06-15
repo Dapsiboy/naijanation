@@ -184,22 +184,28 @@ function fillXTrending(items) {
   box.appendChild(frag);
 }
 
-function fillTrendList(id, items, titleKey, sourceKey, emptyMsg) {
+function fillMediaRow(id, items, titleKey, sourceKey, imageKey, emptyMsg) {
   const box = document.getElementById(id);
   box.innerHTML = "";
   if (!items?.length) { box.appendChild(el("div", "empty", emptyMsg)); return; }
-  const frag = document.createDocumentFragment();
-  items.forEach((item, i) => {
-    const div = el("div", "trend-list-item");
-    div.innerHTML = `
-      <span class="trend-list-num">${i + 1}</span>
-      <div class="trend-list-body">
-        <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item[titleKey]}</a>
-        ${item[sourceKey] ? `<div class="trend-list-source">${item[sourceKey]}</div>` : ""}
-      </div>`;
-    frag.appendChild(div);
+  const row = el("div", "trend-scroll-row");
+  items.forEach(item => {
+    const a = document.createElement("a");
+    a.className = "trend-media-card";
+    a.href = item.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    const grad = sourceGradient(item[sourceKey] || "");
+    const imgHtml = item[imageKey]
+      ? `<img class="trend-media-img" src="${item[imageKey]}" alt="" loading="lazy" onerror="this.outerHTML='<div class=\\'trend-media-img-fallback\\' style=\\'background:${grad}\\'>${item[sourceKey] || ""}</div>'" />`
+      : `<div class="trend-media-img-fallback" style="background:${grad}">${item[sourceKey] || ""}</div>`;
+    a.innerHTML = `
+      ${imgHtml}
+      <div class="trend-media-title">${item[titleKey]}</div>
+      ${item[sourceKey] ? `<div class="trend-media-source">${item[sourceKey]}</div>` : ""}`;
+    row.appendChild(a);
   });
-  box.appendChild(frag);
+  box.appendChild(row);
 }
 
 // ─── Exchange Rates ───────────────────────────────────────────────────────────
@@ -366,10 +372,10 @@ async function load() {
 
     const t = data.trending || {};
     fillXTrending(t.x_trending);
-    fillTrendList("naija-creators-list", t.naija_creators, "title", "channel", "No creator videos available.");
-    fillTrendList("youtube-list", t.youtube, "title", "channel", "No YouTube data available.");
-    fillTrendList("celeb-list", data.celeb_news, "title", "source", "No celebrity news available.");
-    fillTrendList("music-list", data.music_news, "title", "source", "No music news available.");
+    fillMediaRow("naija-creators-list", t.naija_creators, "title", "channel", "thumbnail", "No creator videos available.");
+    fillMediaRow("youtube-list", t.youtube, "title", "channel", "thumbnail", "No YouTube data available.");
+    fillMediaRow("celeb-list", data.celeb_news, "title", "source", "image", "No celebrity news available.");
+    fillMediaRow("music-list", data.music_news, "title", "source", "image", "No music news available.");
 
   } catch (err) {
     console.error("Failed to load headlines:", err);

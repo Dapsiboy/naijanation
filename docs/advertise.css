@@ -183,8 +183,12 @@
 .price-row strong {
   font-size: 1rem;
   font-weight: 700;
-  color: #fff;
+  color: var(--text);
   flex: 1;
+}
+
+.pkg-card--featured .price-row strong {
+  color: #fff;
 }
 
 .pay-btn {

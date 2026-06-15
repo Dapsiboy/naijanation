@@ -348,7 +348,7 @@ def fetch_youtube_trending():
 
 def main():
     now = datetime.now(timezone.utc)
-    next_update = now + timedelta(minutes=15)
+    next_update = now + timedelta(hours=1)
 
     print("── General news ──")
     general_news = []

@@ -299,7 +299,7 @@ def fetch_x_data():
             "constituency", "bill", "policy", "abuja",
         ]
         all_items = []
-        for a in soup.select(".trend-card__list li a")[:30]:
+        for a in soup.select(".trend-card__list li a")[:50]:
             tag = a.get_text(strip=True)
             if not tag:
                 continue
@@ -317,7 +317,7 @@ def fetch_x_data():
                 "tag": tag,
                 "url": f"https://x.com/search?q={requests.utils.quote(tag)}&src=trend_click",
             }
-            for _, tag in all_items[:10]
+            for _, tag in all_items[:25]
         ]
         print(f"  [OK ] X Trending (fallback): {len(items)} topics")
         return items
@@ -336,12 +336,12 @@ def fetch_naija_creators():
             "https://www.googleapis.com/youtube/v3/search",
             params={
                 "part": "snippet",
-                "q": "Nigeria skit comedy creator vlog lifestyle",
+                "q": "Nigeria skit comedy creator vlog lifestyle music naija",
                 "type": "video",
                 "regionCode": "NG",
                 "relevanceLanguage": "en",
                 "order": "date",
-                "maxResults": 8,
+                "maxResults": 25,
                 "key": api_key,
             },
             timeout=10,

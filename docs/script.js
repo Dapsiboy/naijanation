@@ -332,9 +332,75 @@ function watchTV(url) {
   window.open(url, "_blank", "noopener,noreferrer");
 }
 
-function listenRadio(url) {
-  window.open(url, "_blank", "noopener,noreferrer");
+// ─── Inline Radio Player ──────────────────────────────────────────────────────
+
+let _radioStream = "";
+
+function playRadio(name, freq, streamUrl) {
+  const audio  = document.getElementById("radio-audio");
+  const player = document.getElementById("radio-player");
+  const btn    = document.getElementById("rp-play");
+  const status = document.getElementById("rp-status");
+
+  if (_radioStream === streamUrl && !audio.paused) {
+    audio.pause();
+    return;
+  }
+
+  audio.pause();
+  audio.src    = streamUrl;
+  _radioStream = streamUrl;
+  audio.volume = parseFloat(document.getElementById("rp-vol").value);
+
+  document.getElementById("rp-name").textContent = name;
+  document.getElementById("rp-freq").textContent = freq;
+  status.textContent = "Connecting…";
+  btn.textContent = "⏸";
+
+  player.style.display = "flex";
+  document.body.classList.add("radio-playing");
+
+  audio.play().catch(() => {
+    status.textContent = "Could not connect — stream may be offline";
+    btn.textContent = "▶";
+  });
 }
+
+function toggleRadioPlay() {
+  const audio = document.getElementById("radio-audio");
+  const btn   = document.getElementById("rp-play");
+  if (audio.paused) {
+    audio.play();
+    btn.textContent = "⏸";
+  } else {
+    audio.pause();
+    btn.textContent = "▶";
+  }
+}
+
+function stopRadio() {
+  const audio = document.getElementById("radio-audio");
+  audio.pause();
+  audio.src = "";
+  _radioStream = "";
+  document.getElementById("radio-player").style.display = "none";
+  document.body.classList.remove("radio-playing");
+}
+
+function setRadioVolume(val) {
+  document.getElementById("radio-audio").volume = parseFloat(val);
+}
+
+(function wireRadioEvents() {
+  const audio  = document.getElementById("radio-audio");
+  const status = document.getElementById("rp-status");
+  const btn    = document.getElementById("rp-play");
+  if (!audio) return;
+  audio.addEventListener("waiting", () => { status.textContent = "Buffering…"; });
+  audio.addEventListener("playing", () => { status.textContent = "● Live"; });
+  audio.addEventListener("pause",   () => { btn.textContent = "▶"; status.textContent = "Paused"; });
+  audio.addEventListener("error",   () => { status.textContent = "Stream error — try again"; btn.textContent = "▶"; });
+})();
 
 
 // ─── Tabs ─────────────────────────────────────────────────────────────────────

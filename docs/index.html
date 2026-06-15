@@ -281,7 +281,7 @@
     <section id="tab-radio" class="tab-panel" role="tabpanel">
       <div class="tv-intro">
         <h2>📻 Nigerian Radio Stations</h2>
-        <p>Click any station to listen live — opens in a new tab.</p>
+        <p>Stations marked <strong style="color:#008751">▶ STREAM</strong> play directly in your browser — no new tab needed. Stations marked <strong>↗ SITE</strong> open the station's website.</p>
       </div>
 
       <h3 class="tv-category-heading">🗞️ News &amp; Talk</h3>
@@ -293,7 +293,7 @@
             <div class="radio-name">Channels Radio</div>
             <div class="radio-freq">95.1 FM · Lagos</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.nigeriainfofm.com/')">
@@ -302,7 +302,7 @@
             <div class="radio-name">Nigeria Info</div>
             <div class="radio-freq">99.3 FM · Lagos</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.radionigeria.gov.ng/')">
@@ -311,7 +311,7 @@
             <div class="radio-name">Radio Nigeria</div>
             <div class="radio-freq">FRCN · National</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.adabafm.com.ng/')">
@@ -320,16 +320,16 @@
             <div class="radio-name">Adaba FM</div>
             <div class="radio-freq">93.1 FM · Akure</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
-        <div class="tv-card" onclick="watchTV('https://www.bbc.co.uk/sounds/play/live:bbc_world_service')">
+        <div class="tv-card" onclick="playRadio('BBC World Service','Global news · analysis','https://stream.live.vc.bbcmedia.co.uk/bbc_world_service')">
           <div class="radio-logo radio-logo--bbcws">BBC</div>
           <div class="radio-info">
             <div class="radio-name">BBC World Service</div>
             <div class="radio-freq">Global news &amp; analysis</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.voanews.com/')">
@@ -338,16 +338,16 @@
             <div class="radio-name">Voice of America</div>
             <div class="radio-freq">Africa &amp; world news</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
-        <div class="tv-card" onclick="watchTV('https://www.dw.com/en/media-center/')">
+        <div class="tv-card" onclick="playRadio('Deutsche Welle','Africa · International news','https://dw.audiostream.io/dw/1027/mp3/64/dw08')">
           <div class="radio-logo radio-logo--dw">DW</div>
           <div class="radio-info">
             <div class="radio-name">Deutsche Welle</div>
             <div class="radio-freq">Africa &amp; international news</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
       </div>
@@ -361,25 +361,7 @@
             <div class="radio-name">Cool FM</div>
             <div class="radio-freq">96.9 FM · Lagos</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
-        </div>
-
-        <div class="tv-card" onclick="watchTV('https://www.thebeatfm.com/')">
-          <div class="radio-logo radio-logo--beat">97.9</div>
-          <div class="radio-info">
-            <div class="radio-name">Beat FM</div>
-            <div class="radio-freq">97.9 FM · Lagos</div>
-          </div>
-          <span class="radio-onair">ON AIR</span>
-        </div>
-
-        <div class="tv-card" onclick="watchTV('https://smooth981fm.com/')">
-          <div class="radio-logo radio-logo--smooth">98.1</div>
-          <div class="radio-info">
-            <div class="radio-name">Smooth FM</div>
-            <div class="radio-freq">98.1 FM · Lagos</div>
-          </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.wazobiafm.com/')">
@@ -388,7 +370,16 @@
             <div class="radio-name">Wazobia FM</div>
             <div class="radio-freq">94.1 FM · Lagos</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
+        </div>
+
+        <div class="tv-card" onclick="watchTV('https://smooth981fm.com/')">
+          <div class="radio-logo radio-logo--smooth">98.1</div>
+          <div class="radio-info">
+            <div class="radio-name">Smooth FM</div>
+            <div class="radio-freq">98.1 FM · Lagos</div>
+          </div>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.rhythm937.com/')">
@@ -397,7 +388,7 @@
             <div class="radio-name">Rhythm FM</div>
             <div class="radio-freq">93.7 FM · Lagos</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
         <div class="tv-card" onclick="watchTV('https://www.capitalfm.com.ng/')">
@@ -406,16 +397,16 @@
             <div class="radio-name">Capital FM</div>
             <div class="radio-freq">92.9 FM · Abuja</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-site">↗ SITE</span>
         </div>
 
-        <div class="tv-card" onclick="watchTV('https://www.bbc.co.uk/sounds/play/live:bbc_1xtra')">
+        <div class="tv-card" onclick="playRadio('BBC Radio 1Xtra','Afrobeats · Urban · Global','https://stream.live.vc.bbcmedia.co.uk/bbc_1xtra')">
           <div class="radio-logo radio-logo--1xtra">1X</div>
           <div class="radio-info">
             <div class="radio-name">BBC Radio 1Xtra</div>
             <div class="radio-freq">Afrobeats · Urban · Global</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
       </div>
@@ -423,40 +414,99 @@
       <h3 class="tv-category-heading" style="margin-top:2rem">🏆 Sports</h3>
       <div class="tv-grid">
 
-        <div class="tv-card" onclick="watchTV('https://www.brilafm.com/listen-live/')">
+        <div class="tv-card" onclick="playRadio('Brila FM','88.9 FM · Lagos · Nigeria\'s #1 sports radio','https://atunwadigital.streamguys1.com/brilafm')">
           <div class="radio-logo radio-logo--brila">88.9</div>
           <div class="radio-info">
             <div class="radio-name">Brila FM</div>
             <div class="radio-freq">88.9 FM · Lagos</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
-        <div class="tv-card" onclick="watchTV('https://www.brilafm.com/listen-live/')">
+        <div class="tv-card" onclick="playRadio('Brila FM Abuja','90.4 FM · Abuja · Nigeria\'s #1 sports radio','https://atunwadigital.streamguys1.com/brilafm')">
           <div class="radio-logo radio-logo--brila">90.4</div>
           <div class="radio-info">
-            <div class="radio-name">Brila FM</div>
+            <div class="radio-name">Brila FM Abuja</div>
             <div class="radio-freq">90.4 FM · Abuja</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
-        <div class="tv-card" onclick="watchTV('https://talksport.com/listen-live/')">
+        <div class="tv-card" onclick="playRadio('talkSPORT','Premier League · Football · UK','https://radio.talksport.com/stream')">
           <div class="radio-logo radio-logo--talksport">TS</div>
           <div class="radio-info">
             <div class="radio-name">talkSPORT</div>
             <div class="radio-freq">Premier League · Football</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
-        <div class="tv-card" onclick="watchTV('https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live')">
+        <div class="tv-card" onclick="playRadio('BBC Radio 5 Live','Sports news · commentary · UK','https://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live')">
           <div class="radio-logo radio-logo--bbc5">5L</div>
           <div class="radio-info">
             <div class="radio-name">BBC Radio 5 Live</div>
             <div class="radio-freq">Sports news &amp; commentary</div>
           </div>
-          <span class="radio-onair">ON AIR</span>
+          <span class="radio-stream">▶ STREAM</span>
+        </div>
+
+      </div>
+
+      <h3 class="tv-category-heading" style="margin-top:2rem">🌐 More Nigerian Internet Radio</h3>
+      <div class="tv-grid">
+
+        <div class="tv-card" onclick="playRadio('GoRadio Nigeria','Entertainment · Music · Talk','https://online.goradio.com.ng/listen/gr/radio.mp3')">
+          <div class="radio-logo radio-logo--cool">GO</div>
+          <div class="radio-info">
+            <div class="radio-name">GoRadio Nigeria</div>
+            <div class="radio-freq">Entertainment · Music · Talk</div>
+          </div>
+          <span class="radio-stream">▶ STREAM</span>
+        </div>
+
+        <div class="tv-card" onclick="playRadio('FAD FM Nigeria','Nigerian Music &amp; Entertainment','https://radio.gotright.net/listen/fadfm/radio.mp3')">
+          <div class="radio-logo radio-logo--naijafm">FAD</div>
+          <div class="radio-info">
+            <div class="radio-name">FAD FM</div>
+            <div class="radio-freq">Nigerian Music &amp; Entertainment</div>
+          </div>
+          <span class="radio-stream">▶ STREAM</span>
+        </div>
+
+        <div class="tv-card" onclick="playRadio('Blast 98.3 FM','Naija Music &amp; Entertainment','https://stream.zeno.fm/94a8u4h2uhhvv')">
+          <div class="radio-logo radio-logo--beat">98.3</div>
+          <div class="radio-info">
+            <div class="radio-name">Blast 98.3 FM</div>
+            <div class="radio-freq">Naija Music &amp; Entertainment</div>
+          </div>
+          <span class="radio-stream">▶ STREAM</span>
+        </div>
+
+        <div class="tv-card" onclick="playRadio('Konga 103.7 FM','Music &amp; Talk','https://lunar.citrus3.com:8124/stream')">
+          <div class="radio-logo radio-logo--rhythm">103.7</div>
+          <div class="radio-info">
+            <div class="radio-name">Konga 103.7 FM</div>
+            <div class="radio-freq">Music &amp; Talk</div>
+          </div>
+          <span class="radio-stream">▶ STREAM</span>
+        </div>
+
+        <div class="tv-card" onclick="playRadio('Afrofusion Gospel Radio','Gospel · Praise &amp; Worship','https://a3.asurahosting.com/listen/afrofusion_gospel_radio/radio.mp3')">
+          <div class="radio-logo radio-logo--frcn">GOD</div>
+          <div class="radio-info">
+            <div class="radio-name">Afrofusion Gospel Radio</div>
+            <div class="radio-freq">Gospel · Praise &amp; Worship</div>
+          </div>
+          <span class="radio-stream">▶ STREAM</span>
+        </div>
+
+        <div class="tv-card" onclick="playRadio('KCity Radio','Naija Music &amp; Entertainment','https://radio.gotright.net/radio/8010/radio.mp3')">
+          <div class="radio-logo radio-logo--smooth">KC</div>
+          <div class="radio-info">
+            <div class="radio-name">KCity Radio</div>
+            <div class="radio-freq">Naija Music &amp; Entertainment</div>
+          </div>
+          <span class="radio-stream">▶ STREAM</span>
         </div>
 
       </div>
@@ -543,6 +593,23 @@
     <p>Naija Digest Online aggregates public headlines and links to original sources — no content is reproduced.</p>
     <p>Auto-updates every 3 hours &nbsp;·&nbsp; <a href="advertise.html" class="footer-link">Advertise with Us</a> &nbsp;·&nbsp; <a href="privacy.html" class="footer-link">Privacy Policy</a></p>
   </footer>
+
+  <!-- ── Inline Radio Player Bar ── -->
+  <div id="radio-player">
+    <span class="rp-icon">📻</span>
+    <div class="rp-info">
+      <div class="rp-name" id="rp-name">Loading…</div>
+      <div class="rp-freq" id="rp-freq"></div>
+      <div class="rp-status" id="rp-status">Connecting…</div>
+    </div>
+    <div class="rp-controls">
+      <button class="rp-btn" id="rp-play" onclick="toggleRadioPlay()" aria-label="Play / Pause">⏸</button>
+    </div>
+    <input type="range" class="rp-vol" id="rp-vol" min="0" max="1" step="0.05" value="0.8"
+           oninput="setRadioVolume(this.value)" aria-label="Volume" />
+    <button class="rp-close" onclick="stopRadio()" title="Stop &amp; close">✕</button>
+    <audio id="radio-audio" preload="none"></audio>
+  </div>
 
   <script src="script.js"></script>
 </body>

@@ -2,7 +2,7 @@ name: Scrape & Deploy
 
 on:
   schedule:
-    - cron: '0 * * * *'  # every hour
+    - cron: '0 * * * *'  # run every hour on the hour
   workflow_dispatch:          # manual trigger from GitHub UI
 
 permissions:

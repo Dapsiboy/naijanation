@@ -31,6 +31,11 @@ GENERAL_FEEDS = {
     "Tribune": "https://tribuneonlineng.com/feed/",
     "PM News": "https://www.pmnewsnigeria.com/feed/",
     "Daily Post": "https://dailypost.ng/feed/",
+    "Leadership": "https://leadership.ng/feed/",
+    "New Telegraph": "https://www.newtelegraphng.com/feed/",
+    "Ripples Nigeria": "https://ripplesnigeria.com/feed/",
+    "ICIR Nigeria": "https://www.icirnigeria.org/feed/",
+    "The Whistler": "https://thewhistler.ng/feed/",
 }
 
 TECH_FEEDS = {
@@ -124,13 +129,16 @@ FOOTBALL_FEEDS = {
     "SuperSport": "https://supersport.com/rss/football",
     "Punch Sports": "https://punchng.com/category/sports/football/feed/",
     "Vanguard Sports": "https://www.vanguardngr.com/category/sports/feed/",
+    "Soccernet NG": "https://soccernet.ng/feed/",
+    "Tribune Sports": "https://tribuneonlineng.com/category/sports/feed/",
 }
 
 CELEB_FEEDS = {
     "Linda Ikeji":  "https://www.lindaikejisblog.com/feeds/posts/default?alt=rss",
     "BellaNaija":   "https://www.bellanaija.com/feed/",
-    "SDK Celeb":    "http://www.stelladimokokorkus.com/feeds/posts/default?alt=rss",
-    "YNaija":       "https://ynaija.com/feed/",
+    "SDK Celeb":          "http://www.stelladimokokorkus.com/feeds/posts/default?alt=rss",
+    "YNaija":             "https://ynaija.com/feed/",
+    "Information Nigeria": "https://www.informationng.com/feed",
 }
 
 MUSIC_FEEDS = {

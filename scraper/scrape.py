@@ -4,6 +4,8 @@ import os
 import time
 import re
 from datetime import datetime, timezone, timedelta
+from email.utils import format_datetime
+from xml.sax.saxutils import escape
 
 import requests
 from bs4 import BeautifulSoup
@@ -578,6 +580,101 @@ def main():
     print(f"\nSaved → docs/data/headlines.json")
     print(f"  General: {len(general_news)}, Tech: {len(tech_news)}, Events: {len(events)}, Editorials: {len(editorial_news)}, Football: {len(football_news)}")
     print(f"  X Trending: {len(x_trending)}, Naija Creators: {len(naija_creators)}, YouTube: {len(youtube)}")
+
+    generate_rss(data)
+
+
+def generate_rss(data):
+    """Write docs/feed.xml from the aggregated headlines data."""
+
+    def to_rfc822(iso):
+        try:
+            dt = datetime.fromisoformat(iso)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return format_datetime(dt)
+        except Exception:
+            return format_datetime(datetime.now(timezone.utc))
+
+    # Merge all article sections, tag each with a category
+    sections = [
+        ("general_news",   "Nigerian News"),
+        ("tech_news",      "Naija Tech"),
+        ("football_news",  "Football"),
+        ("editorial_news", "Editorials"),
+        ("finance_news",   "Investment & Stocks"),
+        ("africa_news",    "Africa News"),
+        ("world_news",     "World News"),
+        ("celeb_news",     "Celebrity"),
+        ("music_news",     "Naija Music"),
+    ]
+
+    items = []
+    for key, category in sections:
+        for art in data.get(key, []):
+            items.append({**art, "_category": category})
+
+    # Deduplicate by URL, sort newest first, cap at 100
+    seen = set()
+    unique = []
+    for it in sorted(items, key=lambda x: x.get("published", ""), reverse=True):
+        if it["url"] not in seen:
+            seen.add(it["url"])
+            unique.append(it)
+    unique = unique[:100]
+
+    build_date = to_rfc822(data.get("last_updated", datetime.now(timezone.utc).isoformat()))
+
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<rss version="2.0"',
+        '  xmlns:atom="http://www.w3.org/2005/Atom"',
+        '  xmlns:media="http://search.yahoo.com/mrss/"',
+        '  xmlns:dc="http://purl.org/dc/elements/1.1/">',
+        "  <channel>",
+        "    <title>Naija Digest Online</title>",
+        "    <link>https://naijadigest.ng/</link>",
+        "    <description>Nigeria&#x2019;s one-stop hub for breaking news, tech, football, celebrity gossip, Naija music, live TV, exchange rates and trending topics.</description>",
+        "    <language>en-ng</language>",
+        f"    <lastBuildDate>{build_date}</lastBuildDate>",
+        "    <ttl>60</ttl>",
+        '    <atom:link href="https://naijadigest.ng/feed.xml" rel="self" type="application/rss+xml"/>',
+        "    <image>",
+        "      <url>https://naijadigest.ng/social-card.png</url>",
+        "      <title>Naija Digest Online</title>",
+        "      <link>https://naijadigest.ng/</link>",
+        "    </image>",
+    ]
+
+    for it in unique:
+        title   = escape(it.get("title", "").strip())
+        url     = escape(it.get("url", "").strip())
+        summary = escape((it.get("summary") or "").strip()[:500])
+        source  = escape(it.get("source", "").strip())
+        cat     = escape(it.get("_category", "News"))
+        pub     = to_rfc822(it.get("published", ""))
+        image   = it.get("image", "")
+
+        lines.append("    <item>")
+        lines.append(f"      <title>{title}</title>")
+        lines.append(f"      <link>{url}</link>")
+        lines.append(f"      <guid isPermaLink=\"true\">{url}</guid>")
+        lines.append(f"      <pubDate>{pub}</pubDate>")
+        lines.append(f"      <dc:creator>{source}</dc:creator>")
+        lines.append(f"      <category>{cat}</category>")
+        if summary:
+            lines.append(f"      <description>{summary}</description>")
+        if image:
+            lines.append(f"      <media:content url=\"{escape(image)}\" medium=\"image\"/>")
+        lines.append("    </item>")
+
+    lines += ["  </channel>", "</rss>"]
+
+    os.makedirs("docs", exist_ok=True)
+    with open("docs/feed.xml", "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+    print(f"Saved → docs/feed.xml  ({len(unique)} items)")
 
 
 if __name__ == "__main__":

@@ -29,6 +29,8 @@ GENERAL_FEEDS = {
     "The Sun": "https://www.sunnewsonline.com/feed/",
     "The Nation": "https://thenationonlineng.net/feed/",
     "Tribune": "https://tribuneonlineng.com/feed/",
+    "PM News": "https://www.pmnewsnigeria.com/feed/",
+    "Daily Post": "https://dailypost.ng/feed/",
 }
 
 TECH_FEEDS = {

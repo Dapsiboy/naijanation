@@ -113,12 +113,20 @@ function makeCard(item) {
 }
 
 function makeEventItem(item) {
+  const wrap = el("div", "event-item-wrap");
   const a = link(item.url, "event-item");
   a.innerHTML = `
     <div class="event-title">${item.title}</div>
     <div class="event-meta">${item.source} &middot; ${timeAgo(item.published)}</div>
   `;
-  return a;
+  const waBtn = document.createElement("button");
+  waBtn.className = "card-wa";
+  waBtn.title = "Share on WhatsApp";
+  waBtn.innerHTML = WA_ICON;
+  waBtn.addEventListener("click", () => whatsAppShare(item.url, item.title));
+  wrap.appendChild(a);
+  wrap.appendChild(waBtn);
+  return wrap;
 }
 
 // ─── Share ────────────────────────────────────────────────────────────────────
@@ -234,6 +242,12 @@ function fillXTrending(items) {
           <a href="${item.url}" target="_blank" rel="noopener noreferrer">${item.text}</a>
           <div class="trend-sub">${item.author}</div>
         </div>`;
+      const waBtn = document.createElement("button");
+      waBtn.className = "card-wa";
+      waBtn.title = "Share on WhatsApp";
+      waBtn.innerHTML = WA_ICON;
+      waBtn.addEventListener("click", () => whatsAppShare(item.url, item.text));
+      div.querySelector(".yt-info").appendChild(waBtn);
       frag.appendChild(div);
     } else {
       const div = el("div", "x-trend-item");
@@ -252,6 +266,7 @@ function fillMediaRow(id, items, titleKey, sourceKey, imageKey, emptyMsg) {
   if (!items?.length) { box.appendChild(el("div", "empty", emptyMsg)); return; }
   const row = el("div", "trend-scroll-row");
   items.forEach(item => {
+    const wrap = el("div", "trend-media-wrap");
     const a = document.createElement("a");
     a.className = "trend-media-card";
     a.href = item.url;
@@ -265,7 +280,14 @@ function fillMediaRow(id, items, titleKey, sourceKey, imageKey, emptyMsg) {
       ${imgHtml}
       <div class="trend-media-title">${item[titleKey]}</div>
       ${item[sourceKey] ? `<div class="trend-media-source">${item[sourceKey]}</div>` : ""}`;
-    row.appendChild(a);
+    const waBtn = document.createElement("button");
+    waBtn.className = "card-wa";
+    waBtn.title = "Share on WhatsApp";
+    waBtn.innerHTML = WA_ICON;
+    waBtn.addEventListener("click", () => whatsAppShare(item.url, item[titleKey]));
+    wrap.appendChild(a);
+    wrap.appendChild(waBtn);
+    row.appendChild(wrap);
   });
   box.appendChild(row);
 }

@@ -13,55 +13,47 @@ from bs4 import BeautifulSoup
 # ─── FEEDS ────────────────────────────────────────────────────────────────────
 
 GENERAL_FEEDS = {
-    "Punch": "https://punchng.com/feed/",
-    "Vanguard": "https://www.vanguardngr.com/feed/",
-    "The Guardian NG": "https://guardian.ng/feed/",
-    "ThisDay": "https://www.thisdaylive.com/index.php/feed/",
-    "Daily Trust": "https://dailytrust.com/feed",
-    "Premium Times": "https://www.premiumtimesng.com/feed",
-    "The Cable": "https://www.thecable.ng/feed",
+    "Punch":          "https://punchng.com/feed/",
+    "Vanguard":       "https://www.vanguardngr.com/feed/",
+    "ThisDay":        "https://www.thisdaylive.com/index.php/feed/",
+    "Daily Trust":    "https://dailytrust.com/feed",
+    "Premium Times":  "https://www.premiumtimesng.com/feed",
     "Sahara Reporters": "https://saharareporters.com/rss.xml",
-    "Channels TV": "https://www.channelstv.com/feed/",
-    "TVC News": "https://www.tvcnews.tv/feed/",
-    "AIT News": "https://www.aitonline.tv/feed/",
-    "BusinessDay": "https://businessday.ng/feed/",
-    "Nairametrics": "https://nairametrics.com/feed/",
-    "The Sun": "https://www.sunnewsonline.com/feed/",
-    "The Nation": "https://thenationonlineng.net/feed/",
-    "Tribune": "https://tribuneonlineng.com/feed/",
-    "PM News": "https://www.pmnewsnigeria.com/feed/",
-    "Daily Post": "https://dailypost.ng/feed/",
-    "Leadership": "https://leadership.ng/feed/",
-    "New Telegraph": "https://www.newtelegraphng.com/feed/",
+    "Channels TV":    "https://www.channelstv.com/feed/",
+    "TVC News":       "https://www.tvcnews.tv/feed/",
+    "AIT News":       "https://www.aitonline.tv/feed/",
+    "BusinessDay":    "https://businessday.ng/feed/",
+    "Nairametrics":   "https://nairametrics.com/feed/",
+    "The Sun":        "https://www.sunnewsonline.com/feed/",
+    "Tribune":        "https://tribuneonlineng.com/feed/",
+    "PM News":        "https://www.pmnewsnigeria.com/feed/",
+    "Daily Post":     "https://dailypost.ng/feed/",
+    "Leadership":     "https://leadership.ng/feed/",
+    "New Telegraph":  "https://www.newtelegraphng.com/feed/",
     "Ripples Nigeria": "https://ripplesnigeria.com/feed/",
-    "ICIR Nigeria": "https://www.icirnigeria.org/feed/",
-    "The Whistler": "https://thewhistler.ng/feed/",
+    "ICIR Nigeria":   "https://www.icirnigeria.org/feed/",
+    "The Whistler":   "https://thewhistler.ng/feed/",
 }
 
 TECH_FEEDS = {
-    "TechCabal": "https://techcabal.com/feed/",
+    "TechCabal":        "https://techcabal.com/feed/",
     "Techpoint Africa": "https://techpoint.africa/feed/",
-    "TechEconomy": "https://techeconomy.ng/feed/",
-    "Disrupt Africa": "https://disrupt-africa.com/feed/",
-    "Naijatechguide": "https://www.naijatechguide.com/feed",
-    "IT Edge News": "https://itedgenews.ng/feed/",
-    "Technext": "https://technext24.com/feed/",
+    "TechEconomy":      "https://techeconomy.ng/feed/",
+    "Disrupt Africa":   "https://disrupt-africa.com/feed/",
+    "Naijatechguide":   "https://www.naijatechguide.com/feed",
+    "Technext":         "https://technext24.com/feed/",
     "BusinessDay Tech": "https://businessday.ng/technology/feed/",
-    "Nairametrics Tech": "https://nairametrics.com/category/technology/feed/",
-    "TechCrunch": "https://techcrunch.com/feed/",
-    "The Verge": "https://www.theverge.com/rss/index.xml",
-    "Hacker News": "https://hnrss.org/frontpage",
+    "TechCrunch":       "https://techcrunch.com/feed/",
+    "The Verge":        "https://www.theverge.com/rss/index.xml",
+    "Hacker News":      "https://hnrss.org/frontpage",
 }
 
 WORLDCUP_FEEDS = {
-    "BBC Sport WC":    "https://feeds.bbci.co.uk/sport/football/world-cup/rss.xml",
-    "Sky Sports":      "https://www.skysports.com/rss/12040",
-    "Goal.com":        "https://www.goal.com/feeds/en/news",
-    "ESPN Soccer":     "https://www.espn.com/espn/rss/soccer/news",
-    "AP Sports":       "https://apnews.com/sports/rss",
-    "Completesports":  "https://www.completesports.com/feed/",
-    "Brila FM":        "https://www.brilafm.com/feed/",
-    "Marca (English)": "https://www.marca.com/en/rss/world_cup.xml",
+    "BBC Sport WC":   "https://feeds.bbci.co.uk/sport/football/world-cup/rss.xml",
+    "Sky Sports":     "https://www.skysports.com/rss/12040",
+    "ESPN Soccer":    "https://www.espn.com/espn/rss/soccer/news",
+    "AP Sports":      "https://apnews.com/hub/sports?format=rss",
+    "Completesports": "https://www.completesports.com/feed/",
 }
 
 WC_KEYWORDS = [
@@ -73,79 +65,59 @@ WC_KEYWORDS = [
 ]
 
 FINANCE_FEEDS = {
-    "Nairametrics Markets":  "https://nairametrics.com/category/stock-market-2/feed/",
-    "BusinessDay Markets":   "https://businessday.ng/markets/feed/",
-    "BusinessDay Finance":   "https://businessday.ng/finance/feed/",
-    "Punch Business":        "https://punchng.com/category/business/feed/",
-    "The Cable Business":    "https://www.thecable.ng/category/business/feed",
-    "MarketWatch":           "https://feeds.marketwatch.com/marketwatch/topstories/",
-    "Yahoo Finance":         "https://finance.yahoo.com/news/rssindex",
-    "Investopedia":          "https://www.investopedia.com/feedbuilder/feed/getfeed?feedName=rss_headline",
-    "Reuters Business":      "https://feeds.reuters.com/reuters/businessNews",
-    "Bloomberg Markets":     "https://feeds.bloomberg.com/markets/news.rss",
+    "BusinessDay Markets":  "https://businessday.ng/markets/feed/",
+    "BusinessDay Finance":  "https://businessday.ng/finance/feed/",
+    "Punch Business":       "https://punchng.com/category/business/feed/",
+    "MarketWatch":          "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "Yahoo Finance":        "https://finance.yahoo.com/news/rssindex",
+    "Bloomberg Markets":    "https://feeds.bloomberg.com/markets/news.rss",
 }
 
 AFRICA_FEEDS = {
     "AllAfrica":         "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf",
     "The Africa Report": "https://www.theafricareport.com/feed/",
-    "Daily Maverick":    "https://www.dailymaverick.co.za/feed/",
-    "The East African":  "https://www.theeastafrican.co.ke/tea/rss.xml",
-    "African Business":  "https://african.business/feed/",
-    "Pulse Africa":      "https://www.pulse.africa/feed/",
 }
 
 WORLD_FEEDS = {
-    "BBC News World":  "https://feeds.bbci.co.uk/news/world/rss.xml",
-    "Reuters":         "https://feeds.reuters.com/reuters/worldNews",
-    "Al Jazeera":      "https://www.aljazeera.com/xml/rss/all.xml",
-    "AP News":         "https://apnews.com/hub/world-news?format=rss",
-    "The Guardian":    "https://www.theguardian.com/world/rss",
-    "France 24":       "https://www.france24.com/en/rss",
+    "BBC News World": "https://feeds.bbci.co.uk/news/world/rss.xml",
+    "Al Jazeera":     "https://www.aljazeera.com/xml/rss/all.xml",
+    "AP News":        "https://apnews.com/hub/world-news?format=rss",
+    "The Guardian":   "https://www.theguardian.com/world/rss",
+    "France 24":      "https://www.france24.com/en/rss",
 }
 
 EDITORIAL_FEEDS = {
-    "Punch Editorial":       "https://punchng.com/category/editorial/feed/",
     "Vanguard Opinion":      "https://www.vanguardngr.com/category/opinion/feed/",
     "Guardian NG Opinion":   "https://guardian.ng/category/opinion/feed/",
     "ThisDay Editorial":     "https://www.thisdaylive.com/category/editorial/feed/",
     "Daily Trust Opinion":   "https://dailytrust.com/category/opinion/feed",
     "Premium Times Opinion": "https://www.premiumtimesng.com/category/opinion/feed",
-    "The Cable Opinion":     "https://www.thecable.ng/category/opinion/feed",
     "BusinessDay Opinion":   "https://businessday.ng/opinion/feed/",
-    "The Nation Editorial":  "https://thenationonlineng.net/category/editorial/feed/",
     "Tribune Opinion":       "https://tribuneonlineng.com/category/opinion/feed/",
     "The Sun Editorial":     "https://www.sunnewsonline.com/category/editorial/feed/",
-    "Nairametrics Opinion":  "https://nairametrics.com/category/opinion/feed/",
 }
 
 FOOTBALL_FEEDS = {
-    "Completesports": "https://www.completesports.com/feed/",
-    "Brila FM": "https://www.brilafm.com/feed/",
-    "SportingLife NG": "https://www.sportinglife.ng/feed/",
+    "Completesports":    "https://www.completesports.com/feed/",
+    "SportingLife NG":   "https://www.sportinglife.ng/feed/",
     "BBC Sport Football": "https://feeds.bbci.co.uk/sport/football/rss.xml",
     "Sky Sports Football": "https://www.skysports.com/rss/12040",
-    "Goal.com": "https://www.goal.com/feeds/en/news",
-    "ESPN Soccer": "https://www.espn.com/espn/rss/soccer/news",
-    "SuperSport": "https://supersport.com/rss/football",
-    "Punch Sports": "https://punchng.com/category/sports/football/feed/",
-    "Vanguard Sports": "https://www.vanguardngr.com/category/sports/feed/",
-    "Soccernet NG": "https://soccernet.ng/feed/",
-    "Tribune Sports": "https://tribuneonlineng.com/category/sports/feed/",
+    "ESPN Soccer":       "https://www.espn.com/espn/rss/soccer/news",
+    "Vanguard Sports":   "https://www.vanguardngr.com/category/sports/feed/",
+    "Soccernet NG":      "https://soccernet.ng/feed/",
+    "Tribune Sports":    "https://tribuneonlineng.com/category/sports/feed/",
 }
 
 CELEB_FEEDS = {
-    "Linda Ikeji":  "https://www.lindaikejisblog.com/feeds/posts/default?alt=rss",
-    "BellaNaija":   "https://www.bellanaija.com/feed/",
+    "BellaNaija":         "https://www.bellanaija.com/feed/",
     "SDK Celeb":          "http://www.stelladimokokorkus.com/feeds/posts/default?alt=rss",
     "YNaija":             "https://ynaija.com/feed/",
     "Information Nigeria": "https://www.informationng.com/feed",
 }
 
 MUSIC_FEEDS = {
-    "NotJustOk":    "https://www.notjustok.com/feed/",
-    "Tooxclusive":  "https://www.tooxclusive.com/feed/",
-    "360nobs":      "https://www.360nobs.com/feed/",
-    "Jaguda":       "https://www.jaguda.com/feed/",
+    "NotJustOk":   "https://www.notjustok.com/feed/",
+    "Tooxclusive": "https://www.tooxclusive.com/feed/",
 }
 
 EVENT_KEYWORDS = [

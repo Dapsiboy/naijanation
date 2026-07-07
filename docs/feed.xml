@@ -8,7 +8,7 @@
     <link>https://naijadigest.ng/</link>
     <description>Nigeria&#x2019;s one-stop hub for breaking news, tech, football, celebrity gossip, Naija music, live TV, exchange rates and trending topics.</description>
     <language>en-ng</language>
-    <lastBuildDate>Tue, 07 Jul 2026 04:47:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:19:20 +0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://naijadigest.ng/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
@@ -17,28 +17,65 @@
       <link>https://naijadigest.ng/</link>
     </image>
     <item>
-      <title>Who's to blame for USMNT's World Cup exit? Rating ...</title>
-      <link>https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit</guid>
-      <pubDate>Tue, 07 Jul 2026 05:29:39 +0000</pubDate>
-      <dc:creator>ESPN Soccer</dc:creator>
-      <category>Football</category>
-      <description>This USMNT was supposed to be special, but terrible performances throughout the U.S. roster led to a bitter World Cup exit in the round of 16.</description>
+      <title>Zimbabwe restores power after national grid collapse</title>
+      <link>https://punchng.com/zimbabwe-restores-power-after-national-grid-collapse/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/zimbabwe-restores-power-after-national-grid-collapse/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 09:09:54 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Zimbabwe has restored electricity to most of the country after a nationwide blackout. Learn how Zimbabwe power was restored following the grid collapse.
+
+Read More: https://punchng.com/zimbabwe-restores-power-after-national-grid-collapse/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
     </item>
     <item>
-      <title>Belgium handed U.S. a World Cup reality check -- a...</title>
-      <link>https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check</guid>
-      <pubDate>Tue, 07 Jul 2026 05:29:39 +0000</pubDate>
+      <title>Abia gets Nigeria’s first university innovation hub for manufacturing</title>
+      <link>https://punchng.com/abia-gets-nigerias-first-university-innovation-hub-for-manufacturing/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/abia-gets-nigerias-first-university-innovation-hub-for-manufacturing/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 09:09:25 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Abia State launches Nigeria&amp;#8217;s first Manufacturing Technology University Innovation Pod (Manu-Tech UniPod), a landmark project set to boost innovation and j
+
+Read More: https://punchng.com/abia-gets-nigerias-first-university-innovation-hub-for-manufacturing/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>'It was pretty shocking' - Norris, McLaren detail scale of gap to rivals</title>
+      <link>https://www.skysports.com/f1/news/12040/13561067/lando-norris-mclaren-driver-reflects-on-pretty-shocking-british-gp-pace-as-andrea-stella-details-gap-to-mercedes-ferrari</link>
+      <guid isPermaLink="true">https://www.skysports.com/f1/news/12040/13561067/lando-norris-mclaren-driver-reflects-on-pretty-shocking-british-gp-pace-as-andrea-stella-details-gap-to-mercedes-ferrari</guid>
+      <pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
+      <dc:creator>Sky Sports Football</dc:creator>
+      <category>Football</category>
+      <description>Lando Norris says McLaren have "a hell of a lot to improve" after "pretty shocking" pace in the British Grand Prix despite finishing a solid fourth.</description>
+      <media:content url="https://e1.365dm.com/26/07/1920x1080/skysports-lando-norris-mclaren_7291607.jpg?20260706231235" medium="image"/>
+    </item>
+    <item>
+      <title>ADC dismisses dissolution of Kano executives</title>
+      <link>https://punchng.com/adc-dismisses-dissolution-of-kano-executives/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/adc-dismisses-dissolution-of-kano-executives/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 08:55:57 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>The ADC Kano State chapter dismisses reports of its executive committee&amp;#8217;s dissolution, calling the claims false and unconstitutional. Learn more about the
+
+Read More: https://punchng.com/adc-dismisses-dissolution-of-kano-executives/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>'Overturn this': Belgium troll U.S. after dominant...</title>
+      <link>https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49292810/belgium-trolls-united-states-2026-world-cup-victory-round-16</guid>
+      <pubDate>Tue, 07 Jul 2026 08:41:08 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
-      <description>The U.S.'s World Cup dream went up in smoke on Monday, comprehensively dismantled 4-1 by Belgium.</description>
+      <description>Belgium defeated the USMNT 4-1 in the 2026 World Cup round-of-16 match Monday night -- and poked fun at the U.S. afterward.</description>
     </item>
     <item>
       <title>Poch mum on U.S. future; tells fans to keep faith</title>
       <link>https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49292813/mauricio-pochettino-usa-coach-future-2026-world-cup-belgium</guid>
-      <pubDate>Tue, 07 Jul 2026 05:24:28 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:40:21 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>Mauricio Pochettino would not offer an indication about whether he wants to remain as coach of the United States men's national team following the Americans' exit from the World Cup here on Monday.</description>
@@ -47,7 +84,7 @@
       <title>Scaloni: 'No truly dominant team' at World Cup</title>
       <link>https://www.espn.com/soccer/story/_/id/49290873/argentina-scaloni-warns-truly-dominant-team-world-cup</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49290873/argentina-scaloni-warns-truly-dominant-team-world-cup</guid>
-      <pubDate>Tue, 07 Jul 2026 05:24:28 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:40:21 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>Argentina manager Lionel Scaloni said the 2026 World Cup is presenting a strong challenge for the tournament favorites, who are struggling to overcome lower-ranked opponents</description>
@@ -56,25 +93,52 @@
       <title>USMNT's World Cup dream crushed by Belgium</title>
       <link>https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291529/usa-belgium-20206-fifa-world-cup</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:44 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>Even with Folarin Balogun back up front, the United States men's national team crashed out of the World Cup in the round of 16 again.</description>
     </item>
     <item>
+      <title>Pulisic forced off injured for USMNT vs. Belgium</title>
+      <link>https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup</guid>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
+      <dc:creator>ESPN Soccer</dc:creator>
+      <category>Football</category>
+      <description>Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss  against Belgium.</description>
+    </item>
+    <item>
       <title>Ronaldo exits in tears as Spain end final World Cu...</title>
       <link>https://www.espn.com/soccer/story/_/id/49290017/cristiano-ronaldo-portugal-spain-last-world-cup-2026</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49290017/cristiano-ronaldo-portugal-spain-last-world-cup-2026</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:44 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>An emotional Cristiano Ronaldo said he had a "clear conscience" as he exited his final World Cup as Portugal were eliminated 1-0 by Spain in the round of 16 in Arlington, Texas, on Monday.</description>
     </item>
     <item>
+      <title>Martinez steps down, says Portugal 'didn't fail'</title>
+      <link>https://www.espn.com/soccer/story/_/id/49290322/roberto-martinez-steps-says-portugal-fail</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49290322/roberto-martinez-steps-says-portugal-fail</guid>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
+      <dc:creator>ESPN Soccer</dc:creator>
+      <category>Football</category>
+      <description>Roberto Martinez confirmed that he is leaving his job as Portugal coach after Monday's 1-0 World Cup round-of-16 defeat to Spain, while denying that the result was "a failure."</description>
+    </item>
+    <item>
+      <title>MVP Rodri shines, seeks more from Spain in QFs</title>
+      <link>https://www.espn.com/soccer/story/_/id/49291209/mvp-rodri-shines-vs-portugal-seeks-more-spain-world-cup-quarterfinals</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291209/mvp-rodri-shines-vs-portugal-seeks-more-spain-world-cup-quarterfinals</guid>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
+      <dc:creator>ESPN Soccer</dc:creator>
+      <category>Football</category>
+      <description>Spain midfielder Rodri was named the best player in his team's 1-0 victory over Portugal but warned they still have "room for improvement" ahead of the World Cup quarterfinals</description>
+    </item>
+    <item>
       <title>Mbappé: Paraguay senator remarks spread racism</title>
       <link>https://www.espn.com/soccer/story/_/id/49289463/kylian-mbappe-france-federation-blast-paraguay-senator-comments-abhorrent</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49289463/kylian-mbappe-france-federation-blast-paraguay-senator-comments-abhorrent</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:44 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>France star Kylian Mbappé on Monday spoke out against racist comments made by a Paraguay senator.</description>
@@ -83,926 +147,865 @@
       <title>🏆2026-27 UCL season begins mid-World Cup</title>
       <link>https://www.espn.com/soccer/story/_/id/49254165/imps-saints-vikings-action-2026-27-champions-league-kicks-off</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49254165/imps-saints-vikings-action-2026-27-champions-league-kicks-off</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:44 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 08:39:43 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>The new Champions League campaign begins 38 days after last season's final. Plenty of unheralded clubs are involved, all with their own fascinating stories.</description>
     </item>
     <item>
-      <title>Pulisic forced off injured for USMNT vs. Belgium</title>
-      <link>https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291866/christian-pulisic-injury-usa-belgium-2026-world-cup</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:43 +0000</pubDate>
+      <title>Belgium handed U.S. a World Cup reality check -- a...</title>
+      <link>https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291137/belgium-handed-united-states-fifa-world-cup-reality-check</guid>
+      <pubDate>Tue, 07 Jul 2026 08:38:05 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
-      <description>Christian Pulisic was forced off with an ankle injury in the second half of the United States' World Cup round of 16 loss  against Belgium.</description>
+      <description>The World Cup dream for the U.S. went up in smoke Monday, comprehensively dismantled 4-1 by Belgium.</description>
     </item>
     <item>
-      <title>MVP Rodri shines, seeks more from Spain in QFs</title>
-      <link>https://www.espn.com/soccer/story/_/id/49291209/mvp-rodri-shines-vs-portugal-seeks-more-spain-world-cup-quarterfinals</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291209/mvp-rodri-shines-vs-portugal-seeks-more-spain-world-cup-quarterfinals</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:43 +0000</pubDate>
+      <title>Who's to blame for USMNT's World Cup exit? Rating ...</title>
+      <link>https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49291738/usmnt-player-ratings-pulisic-co-struggle-world-cup-exit</guid>
+      <pubDate>Tue, 07 Jul 2026 08:38:05 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
-      <description>Spain midfielder Rodri was named the best player in his team's 1-0 victory over Portugal but warned they still have "room for improvement" ahead of the World Cup quarterfinals</description>
+      <description>This USMNT was supposed to be special, but terrible performances throughout the U.S. roster led to a bitter World Cup exit in the round of 16.</description>
     </item>
     <item>
-      <title>Giuliani: FIFA review won't affect USMNT legacy</title>
-      <link>https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49288020/giuliani-us-involvement-balogun-red-reversal-not-affect-usmnt-legacy</guid>
-      <pubDate>Tue, 07 Jul 2026 05:23:43 +0000</pubDate>
-      <dc:creator>ESPN Soccer</dc:creator>
-      <category>Football</category>
-      <description>Andrew Giuliani, the head of the White House task force on the World Cup, told ESPN on Monday that he has no concerns at all over FIFA's decision to reduce Folarin Balogun's suspension affecting the legacy or credibility of what the USMNT accomplishes.</description>
-    </item>
-    <item>
-      <title>How blind UNILAG freshman beat brain tumour to top JAMB</title>
-      <link>https://punchng.com/how-blind-unilag-freshman-beat-brain-tumour-to-top-jamb/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/how-blind-unilag-freshman-beat-brain-tumour-to-top-jamb/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Tue, 07 Jul 2026 05:10:28 +0000</pubDate>
+      <title>First remembrance prayers for Buhari hold Monday</title>
+      <link>https://punchng.com/first-remembrance-prayers-for-buhari-hold-monday/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/first-remembrance-prayers-for-buhari-hold-monday/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 08:21:26 +0000</pubDate>
       <dc:creator>Punch</dc:creator>
       <category>Nigerian News</category>
-      <description>Meet Ogunsua-Dixon Tijesuni, the blind UNILAG freshman who overcame a brain tumour and multiple surgeries to emerge as the top JAMB candidate in the disabi
+      <description>First remembrance prayers for former President Muhammadu Buhari will hold on Monday, July 13, marking one year since his passing. Join family and associate
 
-Read More: https://punchng.com/how-blind-unilag-freshman-beat-brain-tumour-to-top-jamb/</description>
+Read More: https://punchng.com/first-remembrance-prayers-for-buhari-hold-monday/</description>
       <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
     </item>
     <item>
-      <title>Mercy Eke confesses to getting a BBL due to peer pressure</title>
-      <link>https://pmnewsnigeria.com/2026/07/07/mercy-eke-confesses-to-getting-a-bbl-due-to-peer-pressure/</link>
-      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/07/mercy-eke-confesses-to-getting-a-bbl-due-to-peer-pressure/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:45:24 +0000</pubDate>
-      <dc:creator>PM News</dc:creator>
-      <category>Nigerian News</category>
-      <description>She also added that although the procedure was painful, she is happy with the outcome and now feels comfortable with her body.</description>
-    </item>
-    <item>
-      <title>US Talks Tested as LNG Ship Struck in Hormuz Strait</title>
-      <link>https://www.bloomberg.com/news/videos/2026-07-07/us-talks-tested-as-lng-ship-struck-in-hormuz-strait-video</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-07-07/us-talks-tested-as-lng-ship-struck-in-hormuz-strait-video</guid>
-      <pubDate>Tue, 07 Jul 2026 04:37:17 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
+      <title>SpaceX’s two lead underwriters have a $1 trillion chasm in their valuation as quiet period ends</title>
+      <link>https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories</link>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/spacexs-two-lead-underwriters-have-a-1-trillion-chasm-in-their-valuation-as-quiet-period-ends-11d8ef35?mod=mw_rss_topstories</guid>
+      <pubDate>Tue, 07 Jul 2026 08:20:00 +0000</pubDate>
+      <dc:creator>MarketWatch</dc:creator>
       <category>Investment &amp; Stocks</category>
-      <description>A laden liquefied natural gas carrier was hit by a projectile near the Omani coast as it exited the Strait of Hormuz, heightening unease among shipowners and testing a US-Iran agreement intended to halt attacks in the waterway. Bloomberg's Stuart Livingstone-Wallace breaks down the situation. (Sourc</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/il9dy1TJFKmQ/v3/1200x-1.jpg" medium="image"/>
+      <description>The two lead underwriters on SpaceX’s initial public offering, Goldman Sachs and Morgan Stanley, have a valuation gap of more than $1 trillion as they both initiated coverage at buy.</description>
+      <media:content url="https://images.mktw.net/im-77848157" medium="image"/>
     </item>
     <item>
-      <title>Cristiano Ronaldo’s World Cup career ends as Spain defeat Portugal</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/7/7/cristiano-ronaldos-world-cup-career-ends-as-spain-defeat-portugal?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/7/cristiano-ronaldos-world-cup-career-ends-as-spain-defeat-portugal?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 04:36:14 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Cristiano Ronaldo left the pitch for the last time at a World Cup, after Spain beat Portugal 1-0.</description>
-    </item>
-    <item>
-      <title>Mbappé Condemns Paraguayan Senator Over Racist Abuse After World Cup Match</title>
-      <link>https://www.completesports.com/mbappe-condemns-paraguayan-senator-over-racist-abuse-after-world-cup-match/</link>
-      <guid isPermaLink="true">https://www.completesports.com/mbappe-condemns-paraguayan-senator-over-racist-abuse-after-world-cup-match/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:35:07 +0000</pubDate>
-      <dc:creator>Completesports</dc:creator>
-      <category>Football</category>
-      <description>Kylian Mbappé on Monday labelled a Paraguayan senator &amp;#8220;despicable&amp;#8221; and &amp;#8220;not worthy of her position&amp;#8221; after she racially abused the France captain on social media following the World Cup last-16 clash between the countries at the weekend. Mbappé&amp;#8217;s reaction came after Cele</description>
-    </item>
-    <item>
-      <title>The flawed logic behind FTSE Russell’s decision on Nigeria</title>
-      <link>https://businessday.ng/opinion/article/the-flawed-logic-behind-ftse-russells-decision-on-nigeria/</link>
-      <guid isPermaLink="true">https://businessday.ng/opinion/article/the-flawed-logic-behind-ftse-russells-decision-on-nigeria/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:33:57 +0000</pubDate>
-      <dc:creator>BusinessDay Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>When FTSE Russell announced its proposal to reclassify Nigeria from “Unclassified” to “Frontier Market” status, effective 21 September 2026, many
-read more The flawed logic behind FTSE Russell’s decision on Nigeria</description>
-      <media:content url="https://cdn.businessday.ng/wp-content/uploads/2026/07/Untitled-design-2026-07-06T153321.101-large.png" medium="image"/>
-    </item>
-    <item>
-      <title>W/Cup: Belgium Thrash USA 4-1, Reach Quarterfinals To Face Spain</title>
-      <link>https://thewhistler.ng/w-cup-belgium-thrash-usa-4-1-reach-quarterfinals-to-face-spain/</link>
-      <guid isPermaLink="true">https://thewhistler.ng/w-cup-belgium-thrash-usa-4-1-reach-quarterfinals-to-face-spain/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:30:31 +0000</pubDate>
-      <dc:creator>The Whistler</dc:creator>
+      <title>Niger imposes curfew on communities over communal clashes</title>
+      <link>https://www.vanguardngr.com/2026/07/niger-imposes-curfew-on-communities-over-communal-clashes/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/niger-imposes-curfew-on-communities-over-communal-clashes/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:16:21 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
       <category>Nigerian News</category>
-      <description>Belgium produced a dominant display to defeat co-hosts the United States 4-1 on Tuesday, booking a place in the quarterfinals of the 2026 FIFA World Cup where they will face Spain. Charles De Ketelaere scored twice as the Red Devils outclassed Mauricio Pochettino&amp;#8217;s side in Seattle, ending the</description>
-      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/U.S.-coach-Mauricio-Pochettino-speaks-to-the-team-after-the-match-as-the-U.S.-are-eliminated-from-the-World-Cup-after-a-4-1-Belgium-rout.-.jpeg" medium="image"/>
+      <description>The Niger State government has imposed a curfew on some communities in Rafi Local Government Area following renewed communal clashes that claimed lives and property.
+The post Niger imposes curfew on communities over communal clashes appeared first on Vanguard News.</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/11/Governor-of-Niger-State-Umar-Bago.jpg" medium="image"/>
     </item>
     <item>
-      <title>AI and the rise of the ‘Efiko’</title>
-      <link>https://businessday.ng/opinion/article/ai-and-the-rise-of-the-efiko/</link>
-      <guid isPermaLink="true">https://businessday.ng/opinion/article/ai-and-the-rise-of-the-efiko/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:28:00 +0000</pubDate>
-      <dc:creator>BusinessDay Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>Growing up in Nigeria, there were two labels every student understood. The “Efiko” was the serious student – the one
-read more AI and the rise of the ‘Efiko’</description>
-      <media:content url="https://cdn.businessday.ng/wp-content/uploads/2026/03/Artificial-Intelligence-large.png" medium="image"/>
-    </item>
-    <item>
-      <title>India Property Developer K Raheja Said to Delay $700 Million IPO</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-07/india-property-developer-k-raheja-said-to-delay-700-million-ipo</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/india-property-developer-k-raheja-said-to-delay-700-million-ipo</guid>
-      <pubDate>Tue, 07 Jul 2026 04:26:12 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>K Raheja Corp. Pvt., one of India’s largest real estate developers, has delayed plans for an initial public offering after feedback from investment bankers, according to people familiar with the matter.</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNxGq9IH5cAw/v0/1200x-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Policing, electricity and Nigeria’s bipolar federalism</title>
-      <link>https://businessday.ng/opinion/article/policing-electricity-and-nigerias-bipolar-federalism/</link>
-      <guid isPermaLink="true">https://businessday.ng/opinion/article/policing-electricity-and-nigerias-bipolar-federalism/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:22:24 +0000</pubDate>
-      <dc:creator>BusinessDay Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>Nigeria speaks federalism fluently but practises it reluctantly. We know the catchphrases: &amp;#8216;true federalism&amp;#8217;, &amp;#8216;restructuring&amp;#8217;, and &amp;#8216;devolution&amp;#8217;. It surfaces when
-read more Policing, electricity and Nigeria’s bipolar federalism</description>
-      <media:content url="https://cdn.businessday.ng/2021/06/Federalism.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Ibadan Province Lions Club provides borehole to Akinware community</title>
-      <link>https://tribuneonlineng.com/ibadan-province-lions-club-provides-borehole-to-akinware-community/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/ibadan-province-lions-club-provides-borehole-to-akinware-community/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:20:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>Residents of Akinware community in Ido Local Government Area of Oyo State have celebrated the inauguration of a solar-powered borehole donated by the Ibadan Providence Lions Club, ending years of inadequate access to potable water.
-The post Ibadan Province Lions Club provides borehole to Akinware co</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/Rotary-scaled.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Zelensky to press Nato for air defence systems after intense Russian strikes</title>
-      <link>https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 04:18:19 +0000</pubDate>
-      <dc:creator>BBC News World</dc:creator>
-      <category>World News</category>
-      <description>The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.</description>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c1b/live/497d1190-7994-11f1-af9a-8160843a772b.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Martinez Resigns As Portugal Head Coach After World Cup Exit</title>
-      <link>https://www.completesports.com/martinez-resigns-as-portugal-head-coach-after-world-cup-exit/</link>
-      <guid isPermaLink="true">https://www.completesports.com/martinez-resigns-as-portugal-head-coach-after-world-cup-exit/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:16:39 +0000</pubDate>
-      <dc:creator>Completesports</dc:creator>
-      <category>Football</category>
-      <description>Roberto Martinez confirmed that he is leaving his job as Portugal coach after Monday&amp;#8217;s 1-0 FIFA World Cup round-of-16 defeat to Spain, while denying that the result was &amp;#8220;a failure.&amp;#8221; Substitute Mikel Merino scored in the 91st minute at AT&amp;#038;T Stadium to see Spain progress to the</description>
-    </item>
-    <item>
-      <title>15 persons burnt to death in Niger over land dispute</title>
-      <link>https://punchng.com/15-persons-burnt-to-death-in-niger-over-land-dispute/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/15-persons-burnt-to-death-in-niger-over-land-dispute/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Tue, 07 Jul 2026 04:15:57 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>Tragedy strikes Niger State as 15 persons are burnt to death and three others shot in a brutal land dispute in Rafi LGA. Investigations are ongoing.
-
-Read More: https://punchng.com/15-persons-burnt-to-death-in-niger-over-land-dispute/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Europe’s Defense Stocks Rally Has Much Riding on NATO Summit</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-07/europe-s-defense-stocks-rally-has-much-riding-on-nato-summit</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/europe-s-defense-stocks-rally-has-much-riding-on-nato-summit</guid>
-      <pubDate>Tue, 07 Jul 2026 04:15:00 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>A fledgling rebound in European defense stocks faces a test this week, as investors look to a NATO summit for further clarity on member states’ defense spending plans.</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioI.Y1G_nv58/v3/1200x-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Ondo Police Raise Alarm, Mobilise Security Over Planned ‘7/7’ Cult Activities</title>
-      <link>https://www.tvcnews.tv/ondo-police-raise-alarm-mobilise-security-over-planned-7-7-cult-activities/</link>
-      <guid isPermaLink="true">https://www.tvcnews.tv/ondo-police-raise-alarm-mobilise-security-over-planned-7-7-cult-activities/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:14:15 +0000</pubDate>
-      <dc:creator>TVC News</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Ondo State Police Command has raised the alarm over an alleged planned "7/7" cult celebration across the state, warning that it will not tolerate any unlawful gathering, procession, initiation or other activities capable of threatening public peace.
-The post Ondo Police Raise Alarm, Mobilise Sec</description>
-    </item>
-    <item>
-      <title>Bathing with rainwater may trigger skin infection, physicians tell Nigerians</title>
-      <link>https://punchng.com/bathing-with-rainwater-may-trigger-skin-infection-physicians-tell-nigerians/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/bathing-with-rainwater-may-trigger-skin-infection-physicians-tell-nigerians/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Tue, 07 Jul 2026 04:10:10 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>Bathing with untreated rainwater can trigger skin infections like ringworm and boils. Learn how to prevent rainwater skin infection and stay safe this rain
-
-Read More: https://punchng.com/bathing-with-rainwater-may-trigger-skin-infection-physicians-tell-nigerians/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>At least 16 people buried following landslide in China</title>
-      <link>https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/7/at-least-people-buried-following-landslide-in-china?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 04:10:02 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>The country has been hit by damaging thunderstorms, leaving at least 275 people injured.</description>
-    </item>
-    <item>
-      <title>Belgium Thrash USA 4-1 To Reach World Cup Quarter-finals</title>
-      <link>https://www.tvcnews.tv/belgium-thrash-usa-4-1-to-reach-world-cup-quarter-finals/</link>
-      <guid isPermaLink="true">https://www.tvcnews.tv/belgium-thrash-usa-4-1-to-reach-world-cup-quarter-finals/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:09:16 +0000</pubDate>
-      <dc:creator>TVC News</dc:creator>
-      <category>Nigerian News</category>
-      <description>Belgium Thrash USA 4-1 To Reach World Cup Quarter-finBelgium produced a dominant display to defeat the United States 4-1 in Seattle on Monday, booking their place in the quarter-finals of the 2026 FIFA World Cup.
-The post Belgium Thrash USA 4-1 To Reach World Cup Quarter-finals appeared first on Tre</description>
-    </item>
-    <item>
-      <title>How to incorporate insurance into your financial plan</title>
-      <link>https://businessday.ng/backpage/article/how-to-incorporate-insurance-into-your-financial-plan/</link>
-      <guid isPermaLink="true">https://businessday.ng/backpage/article/how-to-incorporate-insurance-into-your-financial-plan/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:07:27 +0000</pubDate>
+      <title>Sheriff accuses Obi of secret Biafra agenda</title>
+      <link>https://businessday.ng/news/article/sheriff-accuses-obi-of-secret-biafra-agenda/</link>
+      <guid isPermaLink="true">https://businessday.ng/news/article/sheriff-accuses-obi-of-secret-biafra-agenda/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:16:16 +0000</pubDate>
       <dc:creator>BusinessDay</dc:creator>
       <category>Nigerian News</category>
-      <description>To build lasting wealth in Nigeria, ensure you obtain adequate insurance before investing in stocks, real estate, or mutual funds.
-read more How to incorporate insurance into your financial plan</description>
-      <media:content url="https://cdn.businessday.ng/2023/05/insurance-1.png" medium="image"/>
+      <description>Ali Modu Sheriff,  the former Borno State governor has launched a fierce attack on Peter Obi, accusing the presidential candidate
+read more Sheriff accuses Obi of secret Biafra agenda</description>
+      <media:content url="https://cdn.businessday.ng/2021/10/Ali-Modu-Sheriff.jpeg" medium="image"/>
     </item>
     <item>
-      <title>Tanker on fire off coast of Oman after being hit by projectile</title>
-      <link>https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 04:06:03 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Iran&amp;#039;s TV claims the tanker ignored warnings, but no direct responsibility for the attack has been declared.</description>
-    </item>
-    <item>
-      <title>Portugal’s Euro 2016 Title Win Holds Same Weight As World Cup —Ronaldo</title>
-      <link>https://www.completesports.com/portugals-euro-2016-title-win-holds-same-weight-as-world-cup-ronaldo/</link>
-      <guid isPermaLink="true">https://www.completesports.com/portugals-euro-2016-title-win-holds-same-weight-as-world-cup-ronaldo/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:06:01 +0000</pubDate>
-      <dc:creator>Completesports</dc:creator>
-      <category>Football</category>
-      <description>Cristiano Ronaldo has argued that the 2016 European Championship that Portugal won holds the same weight as the World Cup. Ronaldo featured in his sixth World Cup in North America this summer, and his three goals meant he became the first player to score in six World Cups. Despite his stellar record</description>
-    </item>
-    <item>
-      <title>BusinessDay 7th Jul 2026</title>
-      <link>https://businessday.ng/e-edition/article/businessday-7th-jul-2026/</link>
-      <guid isPermaLink="true">https://businessday.ng/e-edition/article/businessday-7th-jul-2026/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:05:12 +0000</pubDate>
-      <dc:creator>BusinessDay</dc:creator>
+      <title>2027: Peter Obi playing AI politics, can’t even face me – Umahi</title>
+      <link>https://dailypost.ng/2026/07/07/2027-peter-obi-playing-ai-politics-cant-even-face-me-umahi/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/2027-peter-obi-playing-ai-politics-cant-even-face-me-umahi/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:15:07 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
       <category>Nigerian News</category>
-      <description>read more BusinessDay 7th Jul 2026</description>
-      <media:content url="https://cdn.businessday.ng/wp-content/uploads/2026/07/BusinessDay-5-large.png" medium="image"/>
+      <description>Minister of Works, Dave Umahi, has lambasted the presidential candidate of the Nigeria Democratic Congress, NDC, Peter Obi, saying that he is playing Artificial Intelligence, AI, politics. Featuring in an interview on Arise Television&amp;#8217;s &amp;#8216;Morning Show&amp;#8217; on&amp;#160;Tuesday, Umahi said no</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2025/09/Dave-Umahi.jpg" medium="image"/>
     </item>
     <item>
-      <title>Reforming the NYSC</title>
-      <link>https://tribuneonlineng.com/reforming-the-nysc/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/reforming-the-nysc/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:05:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>THERE is hardly any Nigerian who would argue that the National Youth Service Corps (NYSC) should remain frozen in time. Institutions, like nations, must evolve to remain relevant.
-The post Reforming the NYSC appeared first on Tribune Online.</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/04/editorial-new.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Mystery Thai Investor’s Near $1 Billion True Stake Sparks Probe</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-07/mystery-thai-investor-s-near-1-billion-true-stake-sparks-probe</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/mystery-thai-investor-s-near-1-billion-true-stake-sparks-probe</guid>
-      <pubDate>Tue, 07 Jul 2026 04:04:59 +0000</pubDate>
+      <title>Horizons Middle East &amp; Africa 7/7/2026 (Video)</title>
+      <link>https://www.bloomberg.com/news/videos/2026-07-07/horizons-middle-east-africa-7-7-2026-video</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-07-07/horizons-middle-east-africa-7-7-2026-video</guid>
+      <pubDate>Tue, 07 Jul 2026 08:12:52 +0000</pubDate>
       <dc:creator>Bloomberg Markets</dc:creator>
       <category>Investment &amp; Stocks</category>
-      <description>Thailand’s market regulator is probing the sudden emergence of an individual shareholder who has amassed nearly $1 billion worth of shares in True Corp., making her one of the telecom giant’s largest shareholders.</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/igFUezNoRAho/v0/1200x-1.jpg" medium="image"/>
     </item>
     <item>
-      <title>Endless courtship of oil investors: Time to convert promises into prosperity</title>
-      <link>https://businessday.ng/editorial/article/endless-courtship-of-oil-investors-time-to-convert-promises-into-prosperity/</link>
-      <guid isPermaLink="true">https://businessday.ng/editorial/article/endless-courtship-of-oil-investors-time-to-convert-promises-into-prosperity/</guid>
-      <pubDate>Tue, 07 Jul 2026 04:00:40 +0000</pubDate>
-      <dc:creator>BusinessDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>For decades, Nigeria has travelled the world promoting the same investment story: vast oil reserves, abundant natural gas, a strategic
-read more Endless courtship of oil investors: Time to convert promises into prosperity</description>
-      <media:content url="https://cdn.businessday.ng/2020/11/Oil-Rig.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>A Token Grasp of the AI Boom Shows Trouble Brewing</title>
-      <link>https://www.bloomberg.com/opinion/newsletters/2026-07-07/a-token-grasp-of-the-ai-boom-shows-trouble-brewing</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/opinion/newsletters/2026-07-07/a-token-grasp-of-the-ai-boom-shows-trouble-brewing</guid>
-      <pubDate>Tue, 07 Jul 2026 04:00:20 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>The period of vertical ascent is probably over.</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7vwxs.QfeSY/v1/1200x-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>ANALYSIS: State police may alter balance of power between federal and state govts</title>
-      <link>https://www.premiumtimesng.com/features-and-interviews/893388-analysis-state-police-may-alter-balance-of-power-between-federal-and-state-govts.html</link>
-      <guid isPermaLink="true">https://www.premiumtimesng.com/features-and-interviews/893388-analysis-state-police-may-alter-balance-of-power-between-federal-and-state-govts.html</guid>
-      <pubDate>Tue, 07 Jul 2026 04:00:19 +0000</pubDate>
-      <dc:creator>Premium Times</dc:creator>
-      <category>Nigerian News</category>
-      <description>Supporters argue that decentralising the police will bring security closer to the people, improve intelligence gathering and strengthen local responses to crime.
-The post ANALYSIS: State police may alter balance of power between federal and state govts appeared first on Premium Times Nigeria.</description>
-      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/01/President-Bola-Tinubu-and-Governors-scaled.jpeg?fit=2560%2C1664&amp;amp;ssl=1" medium="image"/>
-    </item>
-    <item>
-      <title>When legislature over-embraces executive whims</title>
-      <link>https://guardian.ng/opinion/editorial/when-legislature-over-embraces-executive-whims/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/editorial/when-legislature-over-embraces-executive-whims/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:54:01 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>Up to a point, Senate Leader Opeyemi Bamidele was right in his defence of the Senate, seeking to justify the predictable collaborative disposition of the upper legislative chamber with the presidency.
-The post When legislature over-embraces executive whims appeared first on The Guardian Nigeria News</description>
-    </item>
-    <item>
-      <title>Japan’s Inpex Signs 15-Year Deal to Buy Persian Gulf LNG</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-07/japan-s-inpex-signs-15-year-deal-to-buy-persian-gulf-lng</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/japan-s-inpex-signs-15-year-deal-to-buy-persian-gulf-lng</guid>
-      <pubDate>Tue, 07 Jul 2026 03:48:14 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>Japan’s state-backed Inpex Corp. signed a 15-year deal with Abu Dhabi National Oil Co. for the supply of liquefied natural gas from its project in the Persian Gulf.</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iocC19es7h9k/v1/1200x-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>FCCPC probes  Meta, Google, X over alleged exploitation of news content</title>
-      <link>https://thesun.ng/fccpc-probes-meta-google-x-over-alleged-exploitation-of-news-content/</link>
-      <guid isPermaLink="true">https://thesun.ng/fccpc-probes-meta-google-x-over-alleged-exploitation-of-news-content/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:40:43 +0000</pubDate>
+      <title>World Cup: I want to be James Bond – Jude Bellingham</title>
+      <link>https://thesun.ng/world-cup-i-want-to-be-james-bond-jude-bellingham/</link>
+      <guid isPermaLink="true">https://thesun.ng/world-cup-i-want-to-be-james-bond-jude-bellingham/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:12:11 +0000</pubDate>
       <dc:creator>The Sun</dc:creator>
       <category>Nigerian News</category>
-      <description>President Bola Ahmed Tinubu has ordered the Federal Competition and Consumer Protection Commission (FCCPC) to investigate global technology companies, including Meta, Google’s parent company Alphabet, and X (formerly Twitter), over allegations of anti-competitive practices and the exploitation of ne</description>
+      <description>England midfielder, Jude Bellingham has said he would “love” to appear in a James Bond film, maybe even play the popular character.
+The post World Cup: I want to be James Bond &amp;#8211; Jude Bellingham appeared first on The Sun Nigeria.</description>
     </item>
     <item>
-      <title>Japan 30-Year Bonds Rise After Strong Demand Reassures Investors</title>
-      <link>https://www.bloomberg.com/news/articles/2026-07-07/japan-30-year-bond-sale-sees-strongest-demand-since-2019-mra3oywd</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/japan-30-year-bond-sale-sees-strongest-demand-since-2019-mra3oywd</guid>
-      <pubDate>Tue, 07 Jul 2026 03:39:57 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>Japan’s 30-year government bonds rose after an auction of the tenor drew its strongest demand since 2019, as high yield levels attracted investors despite worries about fiscal policy and inflation.</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilfPoF6Vv4TM/v2/1200x-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>NGE to host 4th Lateef Jakande Memorial Lecture July 23</title>
-      <link>https://thesun.ng/nge-to-host-4th-lateef-jakande-memorial-lecture-july-23/</link>
-      <guid isPermaLink="true">https://thesun.ng/nge-to-host-4th-lateef-jakande-memorial-lecture-july-23/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:39:18 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Nigerian Guild of Editors (NGE) will on July 23, 2026 host the 4th Lateef Jakande Memorial Lecture in Lagos. The Lateef Jakande Memorial Lecture is an annual lecture series instituted by the NGE in 2023 to honour the legacy of Alhaji Lateef Jakande, the late iconic journalist, who was one-time P</description>
-    </item>
-    <item>
-      <title>FG queries high petrol costs amid falling global crude prices</title>
-      <link>https://thesun.ng/fg-queries-high-petrol-costs-amid-falling-global-crude-prices/</link>
-      <guid isPermaLink="true">https://thesun.ng/fg-queries-high-petrol-costs-amid-falling-global-crude-prices/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:37:57 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>The federal government, on Monday, convened a high-level meeting with key stakeholders in the downstream petroleum sector to address concerns over the pricing of Premium Motor Spirit (PMS), insisting that the benefits of lower global crude oil prices should be reflected in pump prices.
-The post FG q</description>
-    </item>
-    <item>
-      <title>Tony Elumelu to retire as UBA Chairman Aug 21, Emmanuel Nnorom named successor</title>
-      <link>https://thesun.ng/tony-elumelu-to-retire-as-uba-chairman-aug-21-emmanuel-nnorom-named-successor/</link>
-      <guid isPermaLink="true">https://thesun.ng/tony-elumelu-to-retire-as-uba-chairman-aug-21-emmanuel-nnorom-named-successor/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:36:19 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>United Bank for Africa (UBA) has announced the retirement of its Group Chairman, Tony Elumelu, with effect from August 21, 2026, after completing the 12-year tenure limit for non-executive directors stipulated by the Central Bank of Nigeria.
-The post Tony Elumelu to retire as UBA Chairman Aug 21, Em</description>
-    </item>
-    <item>
-      <title>Tinubu yet to call Makinde 50 days after abduction of Oyo students – Obi</title>
-      <link>https://thesun.ng/tinubu-yet-to-call-makinde-50-days-after-abduction-of-oyo-students-obi/</link>
-      <guid isPermaLink="true">https://thesun.ng/tinubu-yet-to-call-makinde-50-days-after-abduction-of-oyo-students-obi/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:35:30 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>Presidential candidate of the Nigeria Democratic Congress (NDC), Mr. Peter Obi, said President Bola Tinubu has failed to call Governor Seyi Makinde more than 50 days after schoolchildren were abducted in Oyo State.
-The post Tinubu yet to call Makinde 50 days after abduction of Oyo students &amp;#8211; O</description>
-    </item>
-    <item>
-      <title>Nigeria’s power sector: The big picture</title>
-      <link>https://guardian.ng/opinion/columnists/nigerias-power-sector-the-big-picture/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/columnists/nigerias-power-sector-the-big-picture/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:35:24 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>Nigeria stands at a critical juncture in its economic development, yet a fundamental challenge continues to undermine every sector of the economy
-The post Nigeria’s power sector: The big picture appeared first on The Guardian Nigeria News - Nigeria and World News.</description>
-    </item>
-    <item>
-      <title>Vote buying weakens democracy, it should be stopped</title>
-      <link>https://tribuneonlineng.com/vote-buying-weakens-democracy-it-should-be-stopped/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/vote-buying-weakens-democracy-it-should-be-stopped/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:35:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>As Nigeria prepares for another round of elections, many citizens are hoping for a free, fair, and credible electoral process. However, one issue that continues to threaten democracy is vote buying and vote selling.
-The post Vote buying weakens democracy, it should be stopped appeared first on Tribu</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2021/03/letter-to-the-editor-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Xenophobia: FG to evacuate more Nigerians</title>
-      <link>https://thesun.ng/xenophobia-fg-to-evacuate-more-nigerians/</link>
-      <guid isPermaLink="true">https://thesun.ng/xenophobia-fg-to-evacuate-more-nigerians/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:34:35 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Federal Government of Nigeria has reiterated its commitment to evacuating the fourth batch of Nigerians from South Africa, in the bid to ensure their safety and welfare.
-The post Xenophobia: FG to evacuate more Nigerians appeared first on The Sun Nigeria.</description>
-    </item>
-    <item>
-      <title>Federal workers demand wage award arrears, N300,000 minimum wage</title>
-      <link>https://thesun.ng/federal-workers-demand-wage-award-arrears-n300000-minimum-wage/</link>
-      <guid isPermaLink="true">https://thesun.ng/federal-workers-demand-wage-award-arrears-n300000-minimum-wage/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:34:19 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>Federal Workers Forum (FWF) has urged the Federal Government to pay outstanding workers’ entitlements, implement a ₦300,000 minimum wage and address challenges affecting correctional centres nationwide.
-The post Federal workers demand wage award arrears, N300,000 minimum wage appeared first on The S</description>
-    </item>
-    <item>
-      <title>US Loses to Belgium in World Cup Match Amid Controversy</title>
-      <link>https://www.bloomberg.com/news/videos/2026-07-07/us-loses-to-belgium-in-world-cup-match-amid-controversy-video</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-07-07/us-loses-to-belgium-in-world-cup-match-amid-controversy-video</guid>
-      <pubDate>Tue, 07 Jul 2026 03:34:15 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>Team USA’s run in the World Cup came to an end on Monday as it failed to make the quarterfinals, while outrage over FIFA’s decision to allow striker Folarin Balogun to play continued to simmer. Bloomberg's Balazs Penz breaks down the latest developments.
- (Source: Bloomberg)</description>
-      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is92mcR7N.rk/v3/1200x-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Injustice for sale</title>
-      <link>https://guardian.ng/opinion/columnists/injustice-for-sale/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/columnists/injustice-for-sale/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:32:47 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>For centuries people talk of ‘Justice for Sale’ or ‘Justice for the highest bidder’ but after submitting the common sayings to philosophical
-The post Injustice for sale  appeared first on The Guardian Nigeria News - Nigeria and World News.</description>
-    </item>
-    <item>
-      <title>Foreign interests: A quiet threat to national sovereignty</title>
-      <link>https://guardian.ng/opinion/columnists/foreign-interests-a-quiet-threat-to-national-sovereignty/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/columnists/foreign-interests-a-quiet-threat-to-national-sovereignty/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:32:11 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>President Donald Trump flies into a rage because he doesn’t receive the Nobel Peace Prize and writes to Norwegian Prime Minister Jonas Gahr
-The post Foreign interests: A quiet threat to national sovereignty appeared first on The Guardian Nigeria News - Nigeria and World News.</description>
-    </item>
-    <item>
-      <title>Customs eyes 11.07trn revenue for 2026, says tarrif reduction may affect target</title>
-      <link>https://thesun.ng/customs-eyes-11-07trn-revenue-for-2026-says-tarrif-reduction-may-affect-target/</link>
-      <guid isPermaLink="true">https://thesun.ng/customs-eyes-11-07trn-revenue-for-2026-says-tarrif-reduction-may-affect-target/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:30:12 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>From Ndubuisi Orji and Adesuwa Tsan, Abuja The Nigeria Customs Service (NCS) has said it is targeting a revenue of N11.07 trillion for the 2026 fiscal, noting that it would deepen automation, expand intelligence-led enforcement and enhance trade facilitation to achieve its projection. This is as Sen</description>
-    </item>
-    <item>
-      <title>World Cup 2026:  Belgium Outclass USA To Set Up Quarterfinal Clash With Spain</title>
-      <link>https://www.completesports.com/world-cup-2026-belgium-outclass-usa-to-set-up-quarterfinal-clash-with-spain/</link>
-      <guid isPermaLink="true">https://www.completesports.com/world-cup-2026-belgium-outclass-usa-to-set-up-quarterfinal-clash-with-spain/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:29:09 +0000</pubDate>
-      <dc:creator>Completesports</dc:creator>
-      <category>Football</category>
-      <description>Belgium brought the United States&amp;#8217; World Cup party to a shattering halt on Monday, thrashing the tournament co-hosts 4-1 to set up a quarterfinal showdown with Spain, SuperSport reports. Charles De Ketelaere scored twice, Hans Vanaken punished a goalkeeping howler, and substitute Romelu Lukaku</description>
-    </item>
-    <item>
-      <title>Benue APC’s governorship primaries: Call for justice</title>
-      <link>https://guardian.ng/opinion/letters/benue-apcs-governorship-primaries-call-for-justice/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/letters/benue-apcs-governorship-primaries-call-for-justice/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:28:42 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>Sir: The recent actions taken by the National Executive of the All Progressives Congress (APC) in reviewing and overturning several disputed primary election 
-The post Benue APC’s governorship primaries: Call for justice appeared first on The Guardian Nigeria News - Nigeria and World News.</description>
-    </item>
-    <item>
-      <title>Nigerians starving to death under Tinubu  –ADC</title>
-      <link>https://thesun.ng/nigerians-starving-to-death-under-tinubu-adc/</link>
-      <guid isPermaLink="true">https://thesun.ng/nigerians-starving-to-death-under-tinubu-adc/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:28:13 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>The African Democratic Congress (ADC) has said Nigerians are starving to death under the President Bola Tinubu administration owing to humanitarian crisis created by government alleged “incompetence, misplaced priorities and failed policies.”
-The post Nigerians starving to death under Tinubu  –ADC a</description>
-    </item>
-    <item>
-      <title>Tinubu vows tech‑driven offensive to crush terrorism, others pledges revived DICON, ALFF partnership</title>
-      <link>https://thesun.ng/tinubu-vows-tech-driven-offensive-to-crush-terrorism-others-pledges-revived-dicon-alff-partnership/</link>
-      <guid isPermaLink="true">https://thesun.ng/tinubu-vows-tech-driven-offensive-to-crush-terrorism-others-pledges-revived-dicon-alff-partnership/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:27:04 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>President Bola Tinubu has pledged a new, technology‑led offensive against terrorism and other security threats, saying his administration will modernise the armed forces, revive local arms production and rely on intelligence‑driven operations to protect Nigerians.
-The post Tinubu vows tech‑driven of</description>
-    </item>
-    <item>
-      <title>Hamas dissolves civilian governing body in Gaza after 20 years</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/7/hamas-dissolves-civilian-governing-body-in-gaza-after-20-years?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 03:25:11 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Hamas has announced the dissolution of its civilian governing body in Gaza after nearly 20 years of administration.</description>
-    </item>
-    <item>
-      <title>Belgium beat co-hosts USA 4-1 to advance to World Cup quarter-finals</title>
-      <link>https://punchng.com/belgium-beat-co-hosts-usa-4-1-to-advance-to-world-cup-quarter-finals/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/belgium-beat-co-hosts-usa-4-1-to-advance-to-world-cup-quarter-finals/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Tue, 07 Jul 2026 03:20:29 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>Belgium eliminated co-hosts USA from the World Cup with a dominant 4-1 victory, securing their spot in the quarter-finals. Read about the match and Balogun
-
-Read More: https://punchng.com/belgium-beat-co-hosts-usa-4-1-to-advance-to-world-cup-quarter-finals/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Etsu Kwali celebrates completed Gomani-Yangoji road</title>
-      <link>https://tribuneonlineng.com/etsu-kwali-celebrates-completed-gomani-yangoji-road/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/etsu-kwali-celebrates-completed-gomani-yangoji-road/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:20:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Etsu Kwali, Luka Nizassan III, has described the newly constructed Gomani – Dafa – Yangoji road, in Kwali Area Council of the Federal Capital Territory (FCT), as a major milestone in the area.
-The post Etsu Kwali celebrates completed Gomani-Yangoji road appeared first on Tribune Online.</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/04/FCT.png" medium="image"/>
-    </item>
-    <item>
-      <title>Functional intervention of entrepreneurship to conflicting context of technology</title>
-      <link>https://guardian.ng/opinion/columnists/functional-intervention-of-entrepreneurship-to-conflicting-context-of-technology/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/columnists/functional-intervention-of-entrepreneurship-to-conflicting-context-of-technology/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:16:11 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>Is technology the culture of the people or people are the culture of technology? The answer to this question can be drawn from the dependent 
-The post Functional intervention of entrepreneurship to conflicting context of technology appeared first on The Guardian Nigeria News - Nigeria and World News</description>
-    </item>
-    <item>
-      <title>Cartoon</title>
-      <link>https://guardian.ng/opinion/cartoons/cartoon-647/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/cartoons/cartoon-647/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:15:45 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>By D. D. Onu
-The post Cartoon appeared first on The Guardian Nigeria News - Nigeria and World News.</description>
-    </item>
-    <item>
-      <title>FG has cut import tariffs to 5% for used vehicles, 10% for new — Adeniyi</title>
-      <link>https://www.vanguardngr.com/2026/07/fg-has-cut-import-tariffs-to-5-for-used-vehicles-10-for-new-adeniyi/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/fg-has-cut-import-tariffs-to-5-for-used-vehicles-10-for-new-adeniyi/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:07:48 +0000</pubDate>
+      <title>Ronaldo says ‘won’t make rash decisions’ following last World Cup game</title>
+      <link>https://www.vanguardngr.com/2026/07/ronaldo-says-wont-make-rash-decisions-following-last-world-cup-game/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/ronaldo-says-wont-make-rash-decisions-following-last-world-cup-game/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:12:09 +0000</pubDate>
       <dc:creator>Vanguard</dc:creator>
       <category>Nigerian News</category>
-      <description>Comptroller-General of the Nigeria Customs Service, NCS, Adewale Adeniyi, said yesterday the federal government has reduced the import tariffs on used vehicles from 15 per cent to five and on brand-new vehicles from 20 per cent to 10.
-The post FG has cut import tariffs to 5% for used vehicles, 10% f</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/05/Adeniyi-e1778779701175.jpg" medium="image"/>
+      <description>Cristiano Ronaldo said that he won't rush into a decision about his future following Portugal's exit to Spain in his last World Cup match on Monday.
+The post Ronaldo says &amp;#8216;won&amp;#8217;t make rash decisions&amp;#8217; following last World Cup game appeared first on Vanguard News.</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/07/AFP__20260706__B9FD7R2__v1__MidRes__FblWc2026Match93PorEsp-1-1024x683.jpg" medium="image"/>
     </item>
     <item>
-      <title>Japa crisis: Fix healthcare or lose all doctors — Physicians</title>
-      <link>https://www.vanguardngr.com/2026/07/japa-crisis-fix-healthcare-or-lose-all-doctors-physicians/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/japa-crisis-fix-healthcare-or-lose-all-doctors-physicians/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:05:58 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
+      <title>Nigerian journalist Ugagbe released after days in police detention</title>
+      <link>https://dailypost.ng/2026/07/07/nigerian-journalist-ugagbe-released-after-days-in-police-detention/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/nigerian-journalist-ugagbe-released-after-days-in-police-detention/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:11:57 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
       <category>Nigerian News</category>
-      <description>CONFERENCE of the West African College of Physicians, WACP, yesterday, urged government at all levels to strengthen the health system or risk worsening the ongoing migration of skilled medical professionals...
-The post Japa crisis: Fix healthcare or lose all doctors — Physicians appeared first on Va</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/06/images-4-1.jpeg" medium="image"/>
+      <description>The Nigeria Committee of the International Press Institute (IPI Nigeria) has secured the release of journalist, Stanley Ugagbe, a reporter with Secret Reporters, after days in police custody following his arrest by security operatives in Abuja. In a statement issued on Monday, IPI Nigeria said Ugagb</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Stanley-Ugagbe.jpg" medium="image"/>
     </item>
     <item>
-      <title>Oríire: When will Tinubu bring back our children?</title>
-      <link>https://tribuneonlineng.com/oriire-when-will-tinubu-bring-back-our-children/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/oriire-when-will-tinubu-bring-back-our-children/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:05:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>EDA Oníyò, Oriire. Has anyone heard any word said directly by the Commander-in-Chief since the attacks happened? Mr Peter Obi recently claimed that he was surprised to learn that Oyo State Governor, Seyi Makinde, had not received any call from President Bola Ahmed Tinubu over the Oyo incident which</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/05/Suyi-Ayodele-tuesday-flat-out.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Anyone who doesn’t feel for Palestinians is not human: Egypt coach Hassan</title>
-      <link>https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/7/7/anyone-who-doesnt-feel-for-palestinians-is-not-human-egypt-coach-hassan?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 03:02:23 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Hossam Hassan uses his FIFA World Cup news conference to raise awareness about the plight of Palestinians in Gaza.</description>
-    </item>
-    <item>
-      <title>Petrol price seen crashing to N800/l as marketers sign new deal with Dangote</title>
-      <link>https://businessday.ng/news/article/petrol-price-seen-at-n800-as-marketers-sign-new-deal-with-dangote/</link>
-      <guid isPermaLink="true">https://businessday.ng/news/article/petrol-price-seen-at-n800-as-marketers-sign-new-deal-with-dangote/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:00:23 +0000</pubDate>
-      <dc:creator>BusinessDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Relief is finally on the horizon for Nigerian motorists, as pump prices are projected to plunge to N800 per litre
-read more Petrol price seen crashing to N800/l as marketers sign new deal with Dangote</description>
-      <media:content url="https://cdn.businessday.ng/wp-content/uploads/2025/12/Dangote-1-large.png" medium="image"/>
-    </item>
-    <item>
-      <title>Mile 2-Apapa highway gridlock: Police, LASTMA, FRSC, others helpless</title>
-      <link>https://www.vanguardngr.com/2026/07/mile-2-apapa-highway-gridlock-police-lastma-frsc-others-helpless/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/mile-2-apapa-highway-gridlock-police-lastma-frsc-others-helpless/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:00:11 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>RESIDENTS, motorists and business owners along the Berger/Kirikiri corridor, yesterday, blamed the worsening traffic congestion on the Mile 2-Apapa expressway on the proliferation of container terminals in the area, saying the facilities have become the major source of the persistent gridlock.
-The p</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Truck1-.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>State police: Separating facts from fictions</title>
-      <link>https://guardian.ng/opinion/state-police-separating-facts-from-fictions/</link>
-      <guid isPermaLink="true">https://guardian.ng/opinion/state-police-separating-facts-from-fictions/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:00:03 +0000</pubDate>
-      <dc:creator>Guardian NG Opinion</dc:creator>
-      <category>Editorials</category>
-      <description>By Opeyemi Bamidele Nigeria, the country of our collective heritage, is again at a point of inflexion. This is a reality that viciously confronts this federation of six geo-political zones, 36 states and 774 local government areas with a population
-The post State police: Separating facts from fictio</description>
-    </item>
-    <item>
-      <title>FG Orders Probe of Meta, Google, X, AI Platforms Over Alleged Exploitation of Nigerian Media</title>
-      <link>https://www.thisdaylive.com/2026/07/07/fg-orders-probe-of-meta-google-x-ai-platforms-over-alleged-exploitation-of-nigerian-media/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/fg-orders-probe-of-meta-google-x-ai-platforms-over-alleged-exploitation-of-nigerian-media/</guid>
-      <pubDate>Tue, 07 Jul 2026 03:00:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>• Tunji Bello: no culpability yet, investigation will be independent, transparent, evidence-based James Emejo in Abuja President Bola Tinubu, yesterday, directed Federal Competition and Consumer Protection Commission (FCCPC) to investigate</description>
-    </item>
-    <item>
-      <title>Balogun reprieve ends in anti-climax as Belgium dump USA out</title>
-      <link>https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859</link>
-      <guid isPermaLink="true">https://www.skysports.com/football/united-states-of-america-vs-belgium/report/549859</guid>
-      <pubDate>Tue, 07 Jul 2026 03:00:00 +0000</pubDate>
-      <dc:creator>Sky Sports Football</dc:creator>
-      <category>Football</category>
-      <description>Folarin Balogun's red card reprieve appeared to hinder rather than help his country as an out-of-sorts USA side were thrashed 4-1 by Belgium to end the co-hosts' World Cup dreams.</description>
-      <media:content url="https://e1.365dm.com/26/07/1920x1080/skysports-de-ketelaere-belgium_7291624.jpg?20260707014220" medium="image"/>
-    </item>
-    <item>
-      <title>Lokpobiri Summons Oil Industry Stakeholders, Insists on Fair Petrol Pricing</title>
-      <link>https://www.thisdaylive.com/2026/07/07/lokpobiri-summons-oil-industry-stakeholders-insists-on-fair-petrol-pricing/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/lokpobiri-summons-oil-industry-stakeholders-insists-on-fair-petrol-pricing/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:59:27 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>• Minister says disconnect between falling crude prices, local PMS rates must be addressed •NMDPRA declares deregulation not licence for market distortion • IPMAN: With proper depot pricing, marketers can</description>
-    </item>
-    <item>
-      <title>After Completion of 12-year Tenure, Elumelu Retires as UBA Chairman, Nnorom Named Successor</title>
-      <link>https://www.thisdaylive.com/2026/07/07/after-completion-of-12-year-tenure-elumelu-retires-as-uba-chairman-nnorom-named-successor/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/after-completion-of-12-year-tenure-elumelu-retires-as-uba-chairman-nnorom-named-successor/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:58:47 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Nume Ekeghe and Kayode Tokede&amp;#160; United Bank for Africa Plc (UBA), yesterday announced that its Group Chairman, Mr. Tony Elumelu will retire from the Board of Directors of the Pan</description>
-    </item>
-    <item>
-      <title>NEPL/Seplat Energy JV Invested over N100m in School Infrastructure, Educational Development</title>
-      <link>https://www.thisdaylive.com/2026/07/07/nepl-seplat-energy-jv-invested-over-n100m-in-school-infrastructure-educational-development/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/nepl-seplat-energy-jv-invested-over-n100m-in-school-infrastructure-educational-development/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:57:19 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>• Celebrates academic excellence as PEARLs quiz impacts 57,000 students Felix Omoh-Asun in Abuja The NNPC Exploration and Production Limited (NEPL)/Seplat Energy Joint Venture (JV) has reaffirmed its commitment to</description>
-    </item>
-    <item>
-      <title>Sowore Opens Defence in Suit Alleging Defamation of Tinubu</title>
-      <link>https://www.thisdaylive.com/2026/07/07/sowore-opens-defence-in-suit-alleging-defamation-of-tinubu-2/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/sowore-opens-defence-in-suit-alleging-defamation-of-tinubu-2/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:53:29 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>• May return to jail over bail conditions Alex Enumah in Abuja The presidential candidate of African Action Congress (AAC), Mr. Omoyele Sowore, on Monday opened his defence in his</description>
-    </item>
-    <item>
-      <title>Deregistration of ADC, 4 others: Legal fireworks resume at Appeal Court today</title>
-      <link>https://www.vanguardngr.com/2026/07/deregistration-of-adc-4-others-legal-fireworks-resume-at-appeal-court-today/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/deregistration-of-adc-4-others-legal-fireworks-resume-at-appeal-court-today/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:53:04 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Court of Appeal in Abuja will today hear substantive appeals seeking to set aside the judgment that ordered the Independent National Electoral Commission, INEC, to deregister African Democratic Congress, ADC, and four other political parties.
-The post Deregistration of ADC, 4 others: Legal firew</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2022/02/appeal-court-e1568188021248-1024x576.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>NUPRC 2026 Oil Licencing Round: Expert Advocates Disciplined Approach</title>
-      <link>https://www.thisdaylive.com/2026/07/07/nuprc-2026-oil-licencing-round-expert-advocates-disciplined-approach/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/nuprc-2026-oil-licencing-round-expert-advocates-disciplined-approach/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:52:36 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Omon-Julius Onabu in Asaba In the light of the imminent launch of 2026 Licencing Round by Nigerian Upstream Petroleum Regulatory Commission (NUPRC), oil and gas expert, Leesi Gabriel Gborogbosi, has</description>
-    </item>
-    <item>
-      <title>Oyedele Denies N8.83trn Off-budget Spending, Says No Secret Expenditure Outside Budgetary Approval</title>
-      <link>https://www.thisdaylive.com/2026/07/07/oyedele-denies-n8-83trn-off-budget-spending-says-no-secret-expenditure-outside-budgetary-approval/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/oyedele-denies-n8-83trn-off-budget-spending-says-no-secret-expenditure-outside-budgetary-approval/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:51:26 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Ndubuisi Francis in Abuja The Minister of Finance and Coordinating Minister of the Economy, Mr. Taiwo Oyedele has refuted the International Monetary Fund’s (IMF) position, as well as the attendant</description>
-    </item>
-    <item>
-      <title>PDP: Building Infrastructure Without Providing Food Will Worsen Poverty</title>
-      <link>https://www.thisdaylive.com/2026/07/07/pdp-building-infrastructure-without-providing-food-will-worsen-poverty/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/pdp-building-infrastructure-without-providing-food-will-worsen-poverty/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:50:35 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Olusegun Samuel in Yenagoa The Bayelsa State chapter of the Peoples Democratic Party (PDP) has argued that infrastructure without food on the table has made the people of the state</description>
-    </item>
-    <item>
-      <title>Lateef Jakande Memorial Lecture: NGE Hosts National Dialogue on Credible Elections July 23</title>
-      <link>https://www.thisdaylive.com/2026/07/07/lateef-jakande-memorial-lecture-nge-hosts-national-dialogue-on-credible-elections-july-23/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/lateef-jakande-memorial-lecture-nge-hosts-national-dialogue-on-credible-elections-july-23/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:49:03 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Sunday Ehigiator The Nigerian Guild of Editors (NGE) yesterday announced that it will host the fourth edition of the Lateef Jakande Memorial Lecture on July 23, 2026, in Lagos, with</description>
-    </item>
-    <item>
-      <title>OAGF: No Funds Released to Presidential Foreign Intervention Council</title>
-      <link>https://www.thisdaylive.com/2026/07/07/oagf-no-funds-released-to-presidential-foreign-intervention-council/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/07/07/oagf-no-funds-released-to-presidential-foreign-intervention-council/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:48:15 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>James Emejo in Abuja The Office of the Accountant-General of the Federation (OAGF) has declared that no public funds had been released to the controversial Presidential Foreign Intervention Promotion Council</description>
-    </item>
-    <item>
-      <title>Tinubu orders probe of Meta, Google, X over alleged exploitation of Nigerian media content</title>
-      <link>https://businessday.ng/technology/article/tinubu-orders-probe-of-meta-google-x-over-alleged-exploitation-of-nigerian-media-content/</link>
-      <guid isPermaLink="true">https://businessday.ng/technology/article/tinubu-orders-probe-of-meta-google-x-over-alleged-exploitation-of-nigerian-media-content/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:45:36 +0000</pubDate>
-      <dc:creator>BusinessDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>President Bola Ahmed Tinubu has directed the Federal Competition and Consumer Protection Commission (FCCPC) to investigate global technology companies, including
-read more Tinubu orders probe of Meta, Google, X over alleged exploitation of Nigerian media content</description>
-      <media:content url="https://cdn.businessday.ng/wp-content/uploads/2026/03/President-Bola-Ahmed-Tinubu-has-issued-a-directive-limiting-the-number-of-vehicles-and-security-personnel-allocated-to-government-ministers-1-large.png" medium="image"/>
-    </item>
-    <item>
-      <title>Naira depreciates to N1,400/$ in parallel market</title>
-      <link>https://www.vanguardngr.com/2026/07/naira-depreciates-to-n1400-in-parallel-market-2/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/naira-depreciates-to-n1400-in-parallel-market-2/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:44:36 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Naira yesterday depreciated to N1,400 per dollar in the parallel market from N1,395 per dollar last weekend.
-The post Naira depreciates to N1,400/$ in parallel market appeared first on Vanguard News.</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2024/10/naira-1024x683.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Police arrest PFIPC D-G’s dad, family friend in Ogbomoso</title>
-      <link>https://www.vanguardngr.com/2026/07/police-arrest-pfipc-d-gs-dad-family-friend-in-ogbomoso/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/police-arrest-pfipc-d-gs-dad-family-friend-in-ogbomoso/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:41:22 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Police have arrested the father and family friend of embattled Director-General of the purported Presidential Economic Advisory Council/Presidential Foreign Intervention Promotion Council, PFIPC, Adeyemi Adeniyi, in Osogbo, Oyo State.
-The post Police arrest PFIPC D-G’s dad, family friend in Ogbo</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Adeyemi.png" medium="image"/>
-    </item>
-    <item>
-      <title>Belgium make light work of US to set up quarter-final tie with Spain</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/videos/cj0gg55613do?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 02:39:07 +0000</pubDate>
-      <dc:creator>BBC Sport Football</dc:creator>
-      <category>Football</category>
-      <description>Belgium ease past a defensively sloppy USA in a match shrouded in controversy surrounding Folarin Balogun's delayed suspension, a scandal that made little impact on the pitch.</description>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e154/live/4bb84470-79a8-11f1-a627-714adb4eed6e.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>NCC, DBI move to transform institute into world-class digital skills hub</title>
-      <link>https://tribuneonlineng.com/ncc-dbi-move-to-transform-institute-into-world-class-digital-skills-hub/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/ncc-dbi-move-to-transform-institute-into-world-class-digital-skills-hub/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:35:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>THE Nigerian Communications Commission (NCC) and the Digital Bridge Institute (DBI) have intensified efforts to reposition the institute as a world-class centre for digital skills development, research, innovation and policy leadership, in a renewed push to prepare Nigerians for the fast-growing dig</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/10/NCC.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Charlie Kirk's family attends hearing for suspect charged with his murder</title>
-      <link>https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 02:33:18 +0000</pubDate>
-      <dc:creator>BBC News World</dc:creator>
-      <category>World News</category>
-      <description>The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.</description>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3925/live/36a0dc60-795c-11f1-9510-1546718f668b.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Cuba sees nationwide power blackout for third time in six months</title>
-      <link>https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/7/cuba-sees-nationwide-power-blackout-for-third-time-in-six-months?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 02:29:45 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>People in Cuba already faced an ongoing economic and humanitarian crisis, largely due to a US blockade.</description>
-    </item>
-    <item>
-      <title>Russia sends weapons to help Mali’s government hold off rebel siege</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/7/aje-onl-nf_russia-sends-weapons-to-mali-hold-off-rebel-siege-060726?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 02:25:09 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>The Russian navy is carrying a shipment of weapons to help Mali’s government hold off a rebel advance.</description>
-    </item>
-    <item>
-      <title>FIFA defends Balogun red card referee after Trump calls him ‘a bit suspect’</title>
-      <link>https://www.aljazeera.com/sports/2026/7/7/fifa-defends-balogun-red-card-referee-after-trump-calls-him-a-bit-suspect?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/7/7/fifa-defends-balogun-red-card-referee-after-trump-calls-him-a-bit-suspect?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 02:23:55 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Raphael Claus is &amp;#039;one of the world&amp;#039;s leading professional referees&amp;#039;, FIFA says, following Trump&amp;#039;s comments.</description>
-    </item>
-    <item>
-      <title>Ododo hails Ekinrin-Adde’s self-help development initiative, backs community projects</title>
-      <link>https://tribuneonlineng.com/ododo-hails-ekinrin-addes-self-help-development-initiative-backs-community-projects/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/ododo-hails-ekinrin-addes-self-help-development-initiative-backs-community-projects/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:20:00 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>Kogi State governor, Alhaji Usman Ododo, has applauded the people of Ekinrin-Adde in Ijumu Local Government Area of the state for their commitment to grassroots development through self-help initiatives aimed at improving the welfare of residents.
-The post Ododo hails Ekinrin-Adde’s self-help develo</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/08/unnamed-6-1-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Belgium Crush Co-host USA To Reach World Cup Quarter-finals</title>
-      <link>https://leadership.ng/belgium-crush-co-host-usa-to-reach-world-cup-quarter-finals/</link>
-      <guid isPermaLink="true">https://leadership.ng/belgium-crush-co-host-usa-to-reach-world-cup-quarter-finals/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:18:43 +0000</pubDate>
+      <title>Belgian Players Mock Trump Celebration After 4-1 World Cup Demolition of USA</title>
+      <link>https://leadership.ng/belgian-players-mock-trump-celebration-after-4-1-world-cup-demolition-of-usa/</link>
+      <guid isPermaLink="true">https://leadership.ng/belgian-players-mock-trump-celebration-after-4-1-world-cup-demolition-of-usa/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:07:46 +0000</pubDate>
       <dc:creator>Leadership</dc:creator>
       <category>Nigerian News</category>
-      <description>Belgium produced a ruthless attacking display to end co-hosts the United States’ FIFA World Cup dream with an emphatic 4-1 victory in their Round of 16 clash, booking a quarter-final showdown with Spain. The Red Devils proved far too clinical for the Americans, with Charles De Ketelaere scoring twic</description>
+      <description>Belgium celebrated their emphatic 4-1 victory over tournament co-hosts the United States with a pointed message, as several players mimicked President Donald Trump’s trademark dance following their FIFA World Cup Round of 16 triumph. The European side produced a ruthless display to eliminate the hos</description>
     </item>
     <item>
-      <title>Balogun reprieve in vain as Belgium beat USA to set up Spain quarterfinal</title>
-      <link>https://www.aljazeera.com/sports/2026/7/7/usa-cant-make-most-of-balogun-reprieve-as-belgium-set-up-spain-quaterfinal?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/7/7/usa-cant-make-most-of-balogun-reprieve-as-belgium-set-up-spain-quaterfinal?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 02:15:36 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Folarin Balogun&amp;#039;s starting place, after a suspended red card, unable to influence USA, who succumb to superior Belgium.</description>
-    </item>
-    <item>
-      <title>Alleged anti-media practices: FG orders FCCPC to probe X, Meta, AI companies</title>
-      <link>https://www.vanguardngr.com/2026/07/fg-directs-fccpc-to-probe-x-meta-ai-firms-over-anti-competition-allegations/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/fg-directs-fccpc-to-probe-x-meta-ai-firms-over-anti-competition-allegations/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:12:00 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
+      <title>NEPL/Seplat JV Impacts 57,000 Students Through competition</title>
+      <link>https://leadership.ng/nepl-seplat-jv-impacts-57000-students-through-competition/</link>
+      <guid isPermaLink="true">https://leadership.ng/nepl-seplat-jv-impacts-57000-students-through-competition/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:06:43 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
       <category>Nigerian News</category>
-      <description>According to a statement issued by the FCCPC on Monday, the directive was conveyed in a letter signed by the Minister of Information and National Orientation, Mohammed Idris, requesting the commission to investigate the allegations contained in the petition.
-The post Alleged anti-media practices: FG</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/11/image-208.png" medium="image"/>
+      <description>The NNPC Exploration and Production Limited (NEPL)/Seplat Energy Joint Venture (JV) has ended the 2026 edition of its flagship PEARLs&amp;#8217; Quiz Competition. The partners reaffirmed their commitment to improving education outcomes and nurturing future leaders in Edo and Delta states. This year’s co</description>
     </item>
     <item>
-      <title>FEPPPAN lauds Tinubu over N39bn pension liabilities settlement, hails NITEL/MTEL arrears liquidation</title>
-      <link>https://tribuneonlineng.com/fepppan-lauds-tinubu-over-n39bn-pension-liabilities-settlement-hails-nitel-mtel-arrears-liquidation/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/fepppan-lauds-tinubu-over-n39bn-pension-liabilities-settlement-hails-nitel-mtel-arrears-liquidation/</guid>
-      <pubDate>Tue, 07 Jul 2026 02:05:00 +0000</pubDate>
+      <title>Police arrest woman filmed assaulting 12-year-old with knife</title>
+      <link>https://www.premiumtimesng.com/regional/south-south-regional/893511-police-arrest-woman-filmed-assaulting-12-year-old-with-knife.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/regional/south-south-regional/893511-police-arrest-woman-filmed-assaulting-12-year-old-with-knife.html</guid>
+      <pubDate>Tue, 07 Jul 2026 08:06:22 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>The police said the woman will be charged with attempted murder.
+The post Police arrest woman filmed assaulting 12-year-old with knife appeared first on Premium Times Nigeria.</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Suspect-Nwoko-Gift-and-the-attempted-murder-weapon-e1783411470419.jpg?fit=1280%2C800&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Ronaldo Confirms 2026 Was His Final World Cup, Leaves Portugal Future Open</title>
+      <link>https://www.tvcnews.tv/ronaldo-confirms-2026-was-his-final-world-cup-leaves-portugal-future-open/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/ronaldo-confirms-2026-was-his-final-world-cup-leaves-portugal-future-open/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:05:58 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>Cristiano Ronaldo has confirmed that the 2026 FIFA World Cup was the last of his career but insists he will take time before deciding whether to retire from international football.
+The post Ronaldo Confirms 2026 Was His Final World Cup, Leaves Portugal Future Open appeared first on Trending News.</description>
+    </item>
+    <item>
+      <title>Benin Group Condemns Campaign Of Falsehood Against Iyamu</title>
+      <link>https://leadership.ng/benin-group-condemns-campaign-of-falsehood-against-iyamu/</link>
+      <guid isPermaLink="true">https://leadership.ng/benin-group-condemns-campaign-of-falsehood-against-iyamu/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:05:15 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Benin Solidarity Movement Worldwide (BSM) has cautioned politicians and individuals allegedly exploiting ethnic sentiments to discredit the All Progressives Congress (APC) candidate for Oredo Federal Constituency, Dr Paddy Iyamu. It described the campaign against him as a calculated act of black</description>
+    </item>
+    <item>
+      <title>Cross River NDC Adopts 5 Strategies Ahead Of 2027 Polls</title>
+      <link>https://leadership.ng/cross-river-ndc-adopts-5-strategies-ahead-of-2027-polls/</link>
+      <guid isPermaLink="true">https://leadership.ng/cross-river-ndc-adopts-5-strategies-ahead-of-2027-polls/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:05:02 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Cross River State chapter of the Nigeria Democratic Congress, (NDC) has unveiled five strategic measures to reposition the party ahead of the 2027 general elections.  The decisions were reached during a State Working Committee (SWC)meeting held at the party secretariat in Calabar. A statement issued</description>
+    </item>
+    <item>
+      <title>FG inaugurates Bank of Agriculture board, tasks members on agricultural finance, food security</title>
+      <link>https://tribuneonlineng.com/fg-inaugurates-bank-of-agriculture-board-tasks-members-on-agricultural-finance-food-security/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/fg-inaugurates-bank-of-agriculture-board-tasks-members-on-agricultural-finance-food-security/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:05:00 +0000</pubDate>
       <dc:creator>Tribune</dc:creator>
       <category>Nigerian News</category>
-      <description>THE Federal Parastatals and Private Sector Pensioners Association of Nigeria (FEPPPAN) has applauded President Bola Tinubu, for approving the liquidation of more than N39 billion inherited Defined Benefit Scheme (DBS) pension liabilities
-The post FEPPPAN lauds Tinubu over N39bn pension liabilities s</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/04/FEPPPAN.jpg" medium="image"/>
+      <description>THE Federal Government has inaugurated the Board of Directors of the Bank of Agriculture (BoA), charging the members to reposition the institution as the country’s leading vehicle for agricultural financing and the delivery of food security initiatives.
+The post FG inaugurates Bank of Agriculture bo</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/FG-inaugurates-Bank-of-Agriculture-board.jpg" medium="image"/>
     </item>
     <item>
-      <title>World Cup 2026: Belgium thump USA to reach quarter-finals and knock co-hosts out of tournament</title>
-      <link>https://www.france24.com/en/sport/20260707-belgium-thump-usa-to-reach-quarter-finals-and-end-co-hosts-world-cup-dream</link>
-      <guid isPermaLink="true">https://www.france24.com/en/sport/20260707-belgium-thump-usa-to-reach-quarter-finals-and-end-co-hosts-world-cup-dream</guid>
-      <pubDate>Tue, 07 Jul 2026 02:03:12 +0000</pubDate>
+      <title>ADC chieftain bags N100m fine as party returns to court over deregistration battle</title>
+      <link>https://pmnewsnigeria.com/2026/07/07/adc-chieftain-bags-n100m-fine-as-party-returns-to-court-over-deregistration-battle/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/07/adc-chieftain-bags-n100m-fine-as-party-returns-to-court-over-deregistration-battle/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:03:56 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The development comes as the ADC faces another major test at the Court of Appeal, where it is seeking to overturn the Federal High Court judgment that ordered INEC to deregister it and four other parties.</description>
+    </item>
+    <item>
+      <title>Niger Imposes Curfew On Rafi Communities As Communal Clash Claims 80 Lives</title>
+      <link>https://leadership.ng/niger-imposes-curfew-on-rafi-communities-as-communal-clash-claims-80-lives/</link>
+      <guid isPermaLink="true">https://leadership.ng/niger-imposes-curfew-on-rafi-communities-as-communal-clash-claims-80-lives/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:03:32 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Niger State Government has imposed a curfew on some communities in Rafi Local Government Area following renewed communal clashes that have claimed lives and destroyed property. Governor Umaru Bago announced the measure during a visit to communities affected by the clash between the Kamuku and Fu</description>
+    </item>
+    <item>
+      <title>World Cup: Rooney criticises Bruno Fernandes, teammates over Ronaldo treatment</title>
+      <link>https://thesun.ng/world-cup-rooney-criticises-bruno-fernandes-teammates-over-ronaldo-treatment/</link>
+      <guid isPermaLink="true">https://thesun.ng/world-cup-rooney-criticises-bruno-fernandes-teammates-over-ronaldo-treatment/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:03:22 +0000</pubDate>
+      <dc:creator>The Sun</dc:creator>
+      <category>Nigerian News</category>
+      <description>Former Manchester United and England captain Wayne Rooney has criticised Portugal's players following their exit from the 2026 FIFA World Cup, accusing them of failing to make the most of Cristiano Ronaldo's strengths.
+The post World Cup: Rooney criticises Bruno Fernandes, teammates over Ronaldo tre</description>
+    </item>
+    <item>
+      <title>Arogbo Stands Still As Ojogo Rallies Support For APC, Tinubu’s Re-election</title>
+      <link>https://leadership.ng/arogbo-stands-still-as-ojogo-rallies-support-for-apc-tinubus-re-election/</link>
+      <guid isPermaLink="true">https://leadership.ng/arogbo-stands-still-as-ojogo-rallies-support-for-apc-tinubus-re-election/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:03:00 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>The ancient city of Arogbo, the hometown of the member representing Ilaje-Ese-Odo Federal Constituency, Hon. Donald Kimikanbo Ojogo, was agog in a carnival-like atmosphere on Friday, 3 July 2026, as APC faithful, party leaders, supporters and well-wishers trooped out in their thousands to welcome th</description>
+    </item>
+    <item>
+      <title>Why European backlash over Trump intervention won't worry Infantino</title>
+      <link>https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/articles/cvgmmmgemd8o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 07 Jul 2026 08:02:38 +0000</pubDate>
+      <dc:creator>BBC Sport Football</dc:creator>
+      <category>Football</category>
+      <description>After 10 years as Fifa president, could the Folarin Balogun controversy tip the balance against Gianni Infantino? Don't bet on it.</description>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94dc/live/8a1615f0-796f-11f1-9290-9b15d0e76459.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>“Makinde Told Me Tinubu Never Called Him Since Oriire Schoolchildren Kidnap Over 50 Days Ago” – Peter Obi</title>
+      <link>https://www.informationng.com/2026/07/makinde-told-me-tinubu-never-called-him-since-oriire-schoolchildren-kidnap-over-50-days-ago-peter-obi.html</link>
+      <guid isPermaLink="true">https://www.informationng.com/2026/07/makinde-told-me-tinubu-never-called-him-since-oriire-schoolchildren-kidnap-over-50-days-ago-peter-obi.html</guid>
+      <pubDate>Tue, 07 Jul 2026 08:01:57 +0000</pubDate>
+      <dc:creator>Information Nigeria</dc:creator>
+      <category>Celebrity</category>
+      <description>The presidential candidate of the Nigeria Democratic Congress (NDC) in the 2027 election, Peter Obi, has claimed that Oyo State Governor Seyi Makinde told him President Bola Tinubu had not contacted him more than 50 days after the abduction of schoolchildren in the state, describing the development</description>
+    </item>
+    <item>
+      <title>Imo Deputy Governor Urges Youths To Shun Drug Abuse</title>
+      <link>https://leadership.ng/imo-deputy-governor-urges-youths-to-shun-drug-abuse/</link>
+      <guid isPermaLink="true">https://leadership.ng/imo-deputy-governor-urges-youths-to-shun-drug-abuse/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:01:35 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Deputy Governor of Imo State, Lady Chinyere Ihuoma Ekomaru, has challenged youths to protect their future by shunning drug abuse. She made the appeal  in her keynote address at a Drug Abuse Awareness Workshop organised by The Church of Jesus Christ of Latter-day Saints. Ekomaru said drug abuse is a</description>
+    </item>
+    <item>
+      <title>PenCom hunts pension defaulters, recovers over N3bn for workers</title>
+      <link>https://www.vanguardngr.com/2026/07/pencom-hunts-pension-defaulters-recovers-over-n3bn-for-workers/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/pencom-hunts-pension-defaulters-recovers-over-n3bn-for-workers/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:00:41 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>PenCom urged employers, particularly those in the private sector, to regularise outstanding pension remittances and comply fully with the provisions of the law 
+The post PenCom hunts pension defaulters, recovers over N3bn for workers appeared first on Vanguard News.</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2024/10/PenCom-Ms-Omolola-Oloworararan.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Why East Africa is becoming the Indo-Pacific’s new front</title>
+      <link>https://www.theafricareport.com/423564/the-indo-pacific-great-game-arrives-in-east-africa/</link>
+      <guid isPermaLink="true">https://www.theafricareport.com/423564/the-indo-pacific-great-game-arrives-in-east-africa/</guid>
+      <pubDate>Tue, 07 Jul 2026 08:00:00 +0000</pubDate>
+      <dc:creator>The Africa Report</dc:creator>
+      <category>Africa News</category>
+      <description>Kenya, Tanzania, Uganda and beyond are connecting to Asian geopolitics… and appetites.</description>
+    </item>
+    <item>
+      <title>Customs Set N11.074tn Revenue Target For 2026</title>
+      <link>https://leadership.ng/customs-set-n11-074tn-revenue-target-for-2026/</link>
+      <guid isPermaLink="true">https://leadership.ng/customs-set-n11-074tn-revenue-target-for-2026/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:58:55 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Nigeria Customs Service (NCS) has set an ambitious revenue target of N11.074 trillion for the 2026 fiscal year, almost doubling its 2025 target of N6.584 trillion and building on a performance that exceeded expectations by N674 billion. The comptroller general of Customs, Bashir Adewale Adeniyi,</description>
+    </item>
+    <item>
+      <title>Galaxy Backbone Reaffirms Commitment To Digital Financial Ecosystem</title>
+      <link>https://leadership.ng/galaxy-backbone-reaffirms-commitment-to-digital-financial-ecosystem/</link>
+      <guid isPermaLink="true">https://leadership.ng/galaxy-backbone-reaffirms-commitment-to-digital-financial-ecosystem/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:57:32 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Galaxy Backbone (GBB) Limited has reaffirmed its commitment to supporting Nigeria’s digital financial ecosystem to accelerate the transformation of Nigeria’s financial sector, underscoring the importance of trusted digital infrastructure in enabling secure, reliable, and future-ready financial servi</description>
+    </item>
+    <item>
+      <title>Academy Press cuts dividend as profit falls 65%</title>
+      <link>https://businessday.ng/companies/article/academy-press-cuts-dividend-as-profit-falls-65/</link>
+      <guid isPermaLink="true">https://businessday.ng/companies/article/academy-press-cuts-dividend-as-profit-falls-65/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:56:30 +0000</pubDate>
+      <dc:creator>BusinessDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>Academy Press Plc will pay shareholders a dividend of 10 kobo per share, amounting to about N90.7 million, despite reporting
+read more Academy Press cuts dividend as profit falls 65%</description>
+      <media:content url="https://cdn.businessday.ng/2016/06/Academy-Press-Plc.gif" medium="image"/>
+    </item>
+    <item>
+      <title>Young farmers, women champion agroecology in Ibadan</title>
+      <link>https://tribuneonlineng.com/young-farmers-women-champion-agroecology-in-ibadan/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/young-farmers-women-champion-agroecology-in-ibadan/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:55:00 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>YOUNG farmers and women in Ijaiye Town, Ibadan, Oyo State, have intensified efforts to promote climate-smart agriculture through agroecological practices under the Seeds of Change – Youth Mobilising for Food Systems Transformation project.
+The post Young farmers, women champion agroecology in Ibadan</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/Young-farmers.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UBA Chair Elumelu Retires Aug 21, Nnorom Named As Successor</title>
+      <link>https://leadership.ng/uba-chair-elumelu-retires-aug-21-nnorom-named-as-successor/</link>
+      <guid isPermaLink="true">https://leadership.ng/uba-chair-elumelu-retires-aug-21-nnorom-named-as-successor/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:51:34 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>United Bank for Africa (UBA) Plc has announced that its Group chairman, Tony Elumelu, will retire from the Board effective August 21, 2026, upon completing the 12-year maximum tenure for non-executive directors of banks prescribed by the Central Bank of Nigeria. The Bank stated this in a statement s</description>
+    </item>
+    <item>
+      <title>Belgium Thrash USA To End World Cup Dream, Set Up Spain Showdown</title>
+      <link>https://www.channelstv.com/2026/07/07/belgium-thrash-usa-to-end-world-cup-dream-set-up-spain-showdown/</link>
+      <guid isPermaLink="true">https://www.channelstv.com/2026/07/07/belgium-thrash-usa-to-end-world-cup-dream-set-up-spain-showdown/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:50:55 +0000</pubDate>
+      <dc:creator>Channels TV</dc:creator>
+      <category>Nigerian News</category>
+      <description>The defeat capped a tumultuous 24 hours for the World Cup co-hosts, who were lifted by FIFA's shock reprieve of Balogun on Sunday -- a decision which brought widespread condemnation across the football world.
+The post Belgium Thrash USA To End World Cup Dream, Set Up Spain Showdown appeared first on</description>
+    </item>
+    <item>
+      <title>Troops rescue abductees as search for missing students continues</title>
+      <link>https://www.premiumtimesng.com/regional/nnorth-east/893509-troops-rescue-abductees-as-search-for-missing-students-continues.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/regional/nnorth-east/893509-troops-rescue-abductees-as-search-for-missing-students-continues.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:50:36 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>Troops of Operation HADIN KAI have rescued six abductees, including two infants, during ongoing operations linked to the search for students abducted from Government Day Secondary School, Lassa.
+The post Troops rescue abductees as search for missing students continues appeared first on Premium Times</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/02/Troops-of-the-Nigerian-Army.jpg?fit=1280%2C853&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Again, gunmen kill six, injure many in Plateau</title>
+      <link>https://tribuneonlineng.com/again-gunmen-kill-six-injure-many-in-plateau/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/again-gunmen-kill-six-injure-many-in-plateau/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:49:19 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>GUNMEN have launched another coordinated murderous attack in three communities in Riyom and Barakin Local Government areas of Plateau State, killing six people and injuring many more.
+The post Again, gunmen kill six, injure many in Plateau appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/05/Plateau-map.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>APC chieftain Kingsley Bankole defends Gbajabiamila, knocks Atiku over resignation call</title>
+      <link>https://thesun.ng/apc-chieftain-kingsley-bankole-defends-gbajabiamila-knocks-atiku-over-resignation-call/</link>
+      <guid isPermaLink="true">https://thesun.ng/apc-chieftain-kingsley-bankole-defends-gbajabiamila-knocks-atiku-over-resignation-call/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:47:09 +0000</pubDate>
+      <dc:creator>The Sun</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Convener of the Grassroots Good Governance Initiatives and an All Progressives Congress (APC) chieftain in Surulere, Lagos State, Honourable Bankole Kingsley, has criticised former Vice President Atiku Abubakar over his call for the Chief of Staff to the President, Femi Gbajabiamila, to resign o</description>
+    </item>
+    <item>
+      <title>Nuvion Expands Stablecoin Payments with Ripple USD Integration</title>
+      <link>https://techeconomy.ng/nuvion-expands-stablecoin-payments-with-ripple-usd-integration/</link>
+      <guid isPermaLink="true">https://techeconomy.ng/nuvion-expands-stablecoin-payments-with-ripple-usd-integration/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:46:40 +0000</pubDate>
+      <dc:creator>TechEconomy</dc:creator>
+      <category>Naija Tech</category>
+      <description>Nuvion Integrates Ripple USD (RLUSD) to Expand Global Stablecoin Payments, Blockchain Infrastructure Businesses today operate in a world where customers, suppliers, contractors, and partners increasingly span multiple countries and currencies. Yet moving money across borders often remains slow, frag</description>
+    </item>
+    <item>
+      <title>NDC warns INEC against recognising Delta Assembly’s move to sack Egbetanah</title>
+      <link>https://pmnewsnigeria.com/2026/07/07/ndc-warns-inec-against-recognising-delta-assemblys-move-to-sack-egbetanah/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/07/ndc-warns-inec-against-recognising-delta-assemblys-move-to-sack-egbetanah/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:45:44 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The party said INEC must not act on the declaration because the matter would be challenged through the legal process.</description>
+    </item>
+    <item>
+      <title>Experts examine good, bad sides of solar installations in buildings</title>
+      <link>https://www.vanguardngr.com/2026/07/experts-examine-good-bad-sides-of-solar-installations-in-buildings/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/experts-examine-good-bad-sides-of-solar-installations-in-buildings/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:45:05 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>Structural risks from solar panel installations primarily involve weight distribution problems and roof integrity issues
+The post Experts examine good, bad sides of solar installations in buildings appeared first on Vanguard News.</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2015/07/Ind.gif" medium="image"/>
+    </item>
+    <item>
+      <title>32 killed in Kwara, Ogun, Kogi road crashes</title>
+      <link>https://tribuneonlineng.com/32-killed-in-kwara-ogun-kogi-road-crashes/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/32-killed-in-kwara-ogun-kogi-road-crashes/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:42:19 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>IN Ilorin, Kwara State capital, a total of 15 persons, all males, reportedly lost their lives in an auto crash at the Muslim cemetery, along Ogbomoso-Oko Olowo route on Ilorin-Jebba expressway.
+The post 32 killed in Kwara, Ogun, Kogi road crashes appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/04/ogun-map.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Nigeria, Tunisia Move to Strengthen Trade, Defence, Education Ties</title>
+      <link>https://www.tvcnews.tv/nigeria-tunisia-move-to-strengthen-trade-defence-education-ties/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/nigeria-tunisia-move-to-strengthen-trade-defence-education-ties/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:41:12 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>Nigeria and Tunisia have reaffirmed their commitment to strengthening bilateral relations, with both countries agreeing to deepen cooperation in trade, investment, education, defence, technology and people-to-people exchanges. The commitment was made during a meeting between the Minister of Foreign</description>
+    </item>
+    <item>
+      <title>Burna Boy sets new African record with 50 million Spotify monthly listeners</title>
+      <link>https://thesun.ng/burna-boy-sets-new-african-record-with-50-million-spotify-monthly-listeners/</link>
+      <guid isPermaLink="true">https://thesun.ng/burna-boy-sets-new-african-record-with-50-million-spotify-monthly-listeners/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:40:59 +0000</pubDate>
+      <dc:creator>The Sun</dc:creator>
+      <category>Nigerian News</category>
+      <description>Nigerian singer Burna Boy has become the first African artiste to surpass 50 million monthly listeners on Spotify.
+The post Burna Boy sets new African record with 50 million Spotify monthly listeners appeared first on The Sun Nigeria.</description>
+    </item>
+    <item>
+      <title>The best to never win the World Cup, Ronaldo and Portugal must find new paths</title>
+      <link>https://www.skysports.com/football/news/12040/13561145/cristiano-ronaldo-portugal-captain-meets-natural-end-with-national-team-and-goes-down-as-best-player-to-never-win-world-cup</link>
+      <guid isPermaLink="true">https://www.skysports.com/football/news/12040/13561145/cristiano-ronaldo-portugal-captain-meets-natural-end-with-national-team-and-goes-down-as-best-player-to-never-win-world-cup</guid>
+      <pubDate>Tue, 07 Jul 2026 07:40:00 +0000</pubDate>
+      <dc:creator>Sky Sports Football</dc:creator>
+      <category>Football</category>
+      <description>Cristiano Ronaldo's contribution to the game cannot be questioned. One of the greatest ever to do it on the pitch.</description>
+      <media:content url="https://e1.365dm.com/26/07/1920x1080/skysports-cristiano-ronaldo_7291696.jpg?20260707073626" medium="image"/>
+    </item>
+    <item>
+      <title>Kebbi Police Arrest Four Over Alleged Kidnap Threat, ₦30m Ransom Demand</title>
+      <link>https://www.tvcnews.tv/kebbi-police-arrest-four-over-alleged-kidnap-threat-%e2%82%a630m-ransom-demand/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/kebbi-police-arrest-four-over-alleged-kidnap-threat-%e2%82%a630m-ransom-demand/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:39:53 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Kebbi State Police Command has arrested four suspects over an alleged plot to kidnap a resident after demanding a ₦30 million ransom through anonymous phone calls.
+The post Kebbi Police Arrest Four Over Alleged Kidnap Threat, ₦30m Ransom Demand appeared first on Trending News.</description>
+    </item>
+    <item>
+      <title>LMFAO’s Party Rock Anthem singer, Lauren Bennett, dies at 37</title>
+      <link>https://tribuneonlineng.com/lmfaos-party-rock-anthem-singer-lauren-bennett-dies-at-37/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/lmfaos-party-rock-anthem-singer-lauren-bennett-dies-at-37/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:38:02 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>British singer Lauren Bennett, best known for her vocals on Party Rock Anthem, has died at the age of 37. The news was announced by...
+The post LMFAO&amp;#8217;s Party Rock Anthem singer, Lauren Bennett, dies at 37 appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/Lauren-Bennett.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Ex-PDP Governorship Candidate Ubandoma Joins APC</title>
+      <link>https://thewhistler.ng/ex-pdp-governorship-candidate-ubandoma-joins-apc/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/ex-pdp-governorship-candidate-ubandoma-joins-apc/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:37:31 +0000</pubDate>
+      <dc:creator>The Whistler</dc:creator>
+      <category>Nigerian News</category>
+      <description>The 2023 governorship candidate of the Peoples Democratic Party (PDP), Mallam Sa&amp;#8217;idu Umar Ubandoma, has defected to the ruling All Progressives Congress (APC). The former PDP governorship flag bearer, who is also regarded as a close political ally of former Governor Aminu Waziri Tambuwal, form</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/Sen.-Aliyu-Wamakko-and-Ubandoma.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Fleet expansion gains momentum as domestic airlines add 3 aircraft in June</title>
+      <link>https://tribuneonlineng.com/fleet-expansion-gains-momentum-as-domestic-airlines-add-3-aircraft-in-june/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/fleet-expansion-gains-momentum-as-domestic-airlines-add-3-aircraft-in-june/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:36:56 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>NIGERIA’S domestic aviation industry is witnessing a renewed wave of aircraft acquisitions as indigenous airlines embark on aggressive fleet expansion programmes aimed at meeting rising passenger demand, improving schedule reliability and strengthening their competitive positions.
+The post Fleet exp</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/05/airline.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>🔴 Syria: Explosions heard in Damascus during French president Macron's visit</title>
+      <link>https://www.france24.com/en/middle-east/20260707-explosions-heard-in-damascus-during-french-president-macron-s-visit</link>
+      <guid isPermaLink="true">https://www.france24.com/en/middle-east/20260707-explosions-heard-in-damascus-during-french-president-macron-s-visit</guid>
+      <pubDate>Tue, 07 Jul 2026 07:36:12 +0000</pubDate>
       <dc:creator>France 24</dc:creator>
       <category>World News</category>
     </item>
     <item>
-      <title>'Total calamity!' US gift Belgium a third goal</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/videos/cx266ee3v2mo?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 01:55:57 +0000</pubDate>
-      <dc:creator>BBC Sport Football</dc:creator>
-      <category>Football</category>
-      <description>USA goalkeeper Matt Freese with a huge error in judgement as he gifts Belgium's Hans Vanaken the ball, leaving him with an easy finish that defender Tim Ream could've done more to stop. Errors all around as Belgium take control of the round of 16 tie.</description>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd29/live/6418aee0-79a5-11f1-9510-1546718f668b.jpg" medium="image"/>
+      <title>China Touts Yuan as US Ups Strong Dollar: 3-Minutes MLIV</title>
+      <link>https://www.bloomberg.com/news/videos/2026-07-07/china-touts-yuan-as-us-ups-strong-dollar-3-minutes-mliv-video</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-07-07/china-touts-yuan-as-us-ups-strong-dollar-3-minutes-mliv-video</guid>
+      <pubDate>Tue, 07 Jul 2026 07:35:07 +0000</pubDate>
+      <dc:creator>Bloomberg Markets</dc:creator>
+      <category>Investment &amp; Stocks</category>
+      <description>Anna Edwards, Guy Johnson and Paul Dobson break down today's key themes for analysts and investors on "Bloomberg: The Opening Trade." (Source: Bloomberg)</description>
+      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQFzVv4la0ME/v3/1200x-1.jpg" medium="image"/>
     </item>
     <item>
-      <title>Venezuela earthquakes death toll jumps to more than 3,500</title>
-      <link>https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/7/venezuela-earthquakes-death-toll-jumps-to-more-than-3500?traffic_source=rss</guid>
-      <pubDate>Tue, 07 Jul 2026 01:50:44 +0000</pubDate>
+      <title>FG Reaffirms Commitment To Financially Sustainable, Globally Competitive Universities</title>
+      <link>https://www.tvcnews.tv/fg-reaffirms-commitment-to-financially-sustainable-globally-competitive-universities/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/fg-reaffirms-commitment-to-financially-sustainable-globally-competitive-universities/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:34:22 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Federal Government has reaffirmed its commitment to strengthening Nigeria's higher education system through the National University Advancement Programme (NUAP), describing the initiative as a key strategy for building financially sustainable, globally competitive and future-ready universities.</description>
+    </item>
+    <item>
+      <title>‘Fake Agency’: Gbajabiamila Threatens Adeyemi With N10bn Suit Over Murder, Bribery Claims</title>
+      <link>https://www.informationng.com/2026/07/fake-agency-gbajabiamila-threatens-adeyemi-with-n10bn-suit-over-murder-bribery-claims.html</link>
+      <guid isPermaLink="true">https://www.informationng.com/2026/07/fake-agency-gbajabiamila-threatens-adeyemi-with-n10bn-suit-over-murder-bribery-claims.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:32:40 +0000</pubDate>
+      <dc:creator>Information Nigeria</dc:creator>
+      <category>Celebrity</category>
+      <description>Chief of Staff to the President, Femi Gbajabiamila, has threatened a N10bn defamation suit against Prince Adeniyi Adeyemi over allegations linking him to murder, bribery and other criminal conduct. The letter, dated July 6, 2026, and signed by ‘Kemi Pinheiro, SAN, for Pinheiro LP, lawyers of the Chi</description>
+    </item>
+    <item>
+      <title>Explosions heard in Syria’s Damascus</title>
+      <link>https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/7/explosions-heard-in-syrias-damascus?traffic_source=rss</guid>
+      <pubDate>Tue, 07 Jul 2026 07:32:04 +0000</pubDate>
       <dc:creator>Al Jazeera</dc:creator>
       <category>World News</category>
-      <description>Experts warn of an impending health crisis, with thousands sleeping in crowded temporary shelters.</description>
+      <description>Television footage shows plumes of smoke rising in the sky; cause of the blasts not immediately clear.</description>
+    </item>
+    <item>
+      <title>Africa: All of Africa Today - July 7, 2026</title>
+      <link>https://allafrica.com/stories/202607070102.html</link>
+      <guid isPermaLink="true">https://allafrica.com/stories/202607070102.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:31:36 +0000</pubDate>
+      <dc:creator>AllAfrica</dc:creator>
+      <category>Africa News</category>
+      <description>[allAfrica]</description>
+    </item>
+    <item>
+      <title>Panetta Sees Fragile Outlook With Risks to Inflation, Growth</title>
+      <link>https://www.bloomberg.com/news/articles/2026-07-07/panetta-sees-fragile-outlook-with-risks-to-inflation-and-growth</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/panetta-sees-fragile-outlook-with-risks-to-inflation-and-growth</guid>
+      <pubDate>Tue, 07 Jul 2026 07:30:00 +0000</pubDate>
+      <dc:creator>Bloomberg Markets</dc:creator>
+      <category>Investment &amp; Stocks</category>
+      <description>The European Central Bank is navigating an uncertain economic situation even as the US and Iran move closer to a lasting peace deal, according to Governing Council member Fabio Panetta.</description>
+      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikPL6HXHfmnk/v0/1200x-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Yobe State SSG Confirms All Dapchi Schoolgirls Freed Except Leah Sharibu</title>
+      <link>http://www.stelladimokokorkus.com/2026/07/yobe-state-ssg-confirms-all-dapchi.html</link>
+      <guid isPermaLink="true">http://www.stelladimokokorkus.com/2026/07/yobe-state-ssg-confirms-all-dapchi.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:30:00 +0000</pubDate>
+      <dc:creator>SDK Celeb</dc:creator>
+      <category>Celebrity</category>
+      <description>The Secretary to the Yobe State Government, Mohammed Goje, has revealed that all the schoolgirls abducted from Government Girls’ Science and Technical College, Dapchi, in 2018 have regained their freedom except Leah Sharibu, who remains in captivity.Goje made the disclosure while speaking on the sta</description>
+      <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxrbXbNGG5Ik-aMX2hx9D6JKD5_4mprXhp0ki2H4SAjBn2YMK-t7nmvL8GeGAPlAv1o7WP1Cwd-qqkePga3X8yRpOkBOaHotmCpJGHS8EUAtKNNnsxgYRj8R6C4Kj84YPG4pXD7ax9DWHfmJ_2ikA_9se3lUWE952GA936DcB3f6EhMzwTNT82xuwxFLg/s72-w640-h418-c/Screenshot%202026-07-07%20090817.png" medium="image"/>
+    </item>
+    <item>
+      <title>EFCC secures conviction of 10 for Naira abuse</title>
+      <link>https://www.premiumtimesng.com/regional/south-south-regional/893506-efcc-secures-conviction-of-10-for-naira-abuse.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/regional/south-south-regional/893506-efcc-secures-conviction-of-10-for-naira-abuse.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:29:48 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>Ten people have been convicted in Delta and Edo after pleading guilty to spraying and mutilating the naira at social events.
+The post EFCC secures conviction of 10 for Naira abuse appeared first on Premium Times Nigeria.</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/Ten-Nigerians-convicted-for-abuse-of-naira-e1783409321690.jpg?fit=1080%2C675&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Atiku should forget 2027 presidential race, wait till 2031 – Ali Modu Sheriff</title>
+      <link>https://pmnewsnigeria.com/2026/07/07/atiku-should-forget-2027-presidential-race-wait-till-2031-ali-modu-sheriff/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/07/atiku-should-forget-2027-presidential-race-wait-till-2031-ali-modu-sheriff/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:27:17 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>“For Atiku, this is not the North’s turn. He is a well-respected leader and very qualified, but he has to wait until 2031,” Sheriff said.</description>
+    </item>
+    <item>
+      <title>World Cup: Everything to know about Argentina vs Egypt match</title>
+      <link>https://thesun.ng/world-cup-everything-to-know-about-argentina-vs-egypt-match/</link>
+      <guid isPermaLink="true">https://thesun.ng/world-cup-everything-to-know-about-argentina-vs-egypt-match/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:27:12 +0000</pubDate>
+      <dc:creator>The Sun</dc:creator>
+      <category>Nigerian News</category>
+      <description>Argentina will continue the defence of their FIFA World Cup crown when they take on Egypt in a fascinating Round of 16 clash today, Tuesday.
+The post World Cup: Everything to know about Argentina vs Egypt match appeared first on The Sun Nigeria.</description>
+    </item>
+    <item>
+      <title>Watch: Moment rare tornado lashes central Chinese cities</title>
+      <link>https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Tue, 07 Jul 2026 07:27:05 +0000</pubDate>
+      <dc:creator>BBC News World</dc:creator>
+      <category>World News</category>
+      <description>Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.</description>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc42/live/c494cdb0-79d4-11f1-a627-714adb4eed6e.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>NCC Urges Nigerian Students To Protect Telecom Infrastructure</title>
+      <link>https://www.tvcnews.tv/ncc-urges-nigerian-students-to-protect-telecom-infrastructure/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/ncc-urges-nigerian-students-to-protect-telecom-infrastructure/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:26:09 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Nigerian Communications Commission (NCC) has called on Nigerian students to take an active role in protecting telecommunications infrastructure, describing it as a critical national asset that supports education, innovation, economic growth and digital connectivity.
+The post NCC Urges Nigerian S</description>
+    </item>
+    <item>
+      <title>Jalingo nursing college restores SUG, TASSU operations</title>
+      <link>https://dailypost.ng/2026/07/07/jalingo-nursing-college-restores-sug-tassu-operations/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/jalingo-nursing-college-restores-sug-tassu-operations/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:25:26 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Management of the College of Nursing Sciences, Jalingo has announced the immediate recall of the suspension previously placed on student union activities within the institution, effectively restoring full operations of both the Students’ Union Government (SUG) and the Taraba State Students’ Union (T</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/04/College-of-Nursing-Jalingo-.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Czech June Inflation Slows More Than Expected After Rate Hike</title>
+      <link>https://www.bloomberg.com/news/articles/2026-07-07/czech-june-inflation-slows-more-than-expected-after-rate-hike</link>
+      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-07-07/czech-june-inflation-slows-more-than-expected-after-rate-hike</guid>
+      <pubDate>Tue, 07 Jul 2026 07:25:21 +0000</pubDate>
+      <dc:creator>Bloomberg Markets</dc:creator>
+      <category>Investment &amp; Stocks</category>
+      <description>Czech inflation slowed more than expected below target last month, underscoring the central bank’s monetary-policy dilemma after it raised interest rates.</description>
+      <media:content url="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itNNZqzac_IM/v3/1200x-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>WeLight unveils $650 million solar mini-grid expansion for off-grid communities in Nigeria</title>
+      <link>https://nairametrics.com/2026/07/07/welight-unveils-650-million-solar-mini-grid-expansion-for-off-grid-communities-in-nigeria/</link>
+      <guid isPermaLink="true">https://nairametrics.com/2026/07/07/welight-unveils-650-million-solar-mini-grid-expansion-for-off-grid-communities-in-nigeria/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:19:20 +0000</pubDate>
+      <dc:creator>Nairametrics</dc:creator>
+      <category>Nigerian News</category>
+      <description>Pan-African renewable energy company WeLight has announced plans to invest $650 million (approximately N975 billion) in expanding solar mini-grid infrastructure across Nigeria, targeting communities with limited or no access to reliable electricity.
+The post WeLight unveils $650 million solar mini-g</description>
+    </item>
+    <item>
+      <title>‎All three World Cup co-hosts eliminated from tournament</title>
+      <link>https://punchng.com/all-three-world-cup-co-hosts-eliminated-from-tournament/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/all-three-world-cup-co-hosts-eliminated-from-tournament/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 07:19:12 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>All three 2026 FIFA World Cup co-hosts, USA, Mexico, and Canada, have been eliminated from the tournament after the Round of 16. Read more here.
+
+Read More: https://punchng.com/all-three-world-cup-co-hosts-eliminated-from-tournament/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>UN scales up Venezuela earthquake relief as damage reaches $37bn</title>
+      <link>https://www.premiumtimesng.com/news/more-news/893504-un-scales-up-venezuela-earthquake-relief-as-damage-reaches-37bn.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/news/more-news/893504-un-scales-up-venezuela-earthquake-relief-as-damage-reaches-37bn.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:18:29 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>Two earthquakes, measuring 7.2 and 7.5 in magnitude, struck north-central Venezuela on 24 June, only 39 seconds apart, causing widespread devastation.
+The post UN scales up Venezuela earthquake relief as damage reaches $37bn appeared first on Premium Times Nigeria.</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/HMJqnDZbsAAHw94.jpg?fit=1050%2C541&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Police Arrest PFIPC D-G’s Father, Family Friend In Ogbomoso</title>
+      <link>https://www.informationng.com/2026/07/police-arrest-pfipc-d-gs-father-family-friend-in-ogbomoso.html</link>
+      <guid isPermaLink="true">https://www.informationng.com/2026/07/police-arrest-pfipc-d-gs-father-family-friend-in-ogbomoso.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:18:28 +0000</pubDate>
+      <dc:creator>Information Nigeria</dc:creator>
+      <category>Celebrity</category>
+      <description>The Police have arrested the father and family friend of embattled Director-General of the purported Presidential Economic Advisory Council/Presidential Foreign Intervention Promotion Council, PFIPC, Adeyemi Adeniyi, in Osogbo, Oyo State. Recall that Adeniyi had gone into hiding, following revelatio</description>
+    </item>
+    <item>
+      <title>Olubadan Advisory Council Approves Burial Arrangements For Late Oba Isioye</title>
+      <link>https://www.tvcnews.tv/olubadan-advisory-council-approves-burial-arrangements-for-late-oba-isioye/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/olubadan-advisory-council-approves-burial-arrangements-for-late-oba-isioye/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:17:20 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Olubadan Advisory Council has approved the burial arrangements for the late Oba John Olubunmi Isioye-Dada, the former Osi Balogun of Ibadanland.
+The post Olubadan Advisory Council Approves Burial Arrangements For Late Oba Isioye appeared first on Trending News.</description>
+    </item>
+    <item>
+      <title>Six killed, three injured as gunmen lay siege on Plateau communities</title>
+      <link>https://dailypost.ng/2026/07/07/six-killed-three-injured-as-gunmen-lay-siege-on-plateau-communities/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/six-killed-three-injured-as-gunmen-lay-siege-on-plateau-communities/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:16:25 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>At least six people have been confirmed killed, while three others were injured in separate attacks as gunmen suspected to be Fulani terrorists laid siege on different communities in Barkin Ladi and Riyom Local Government of Plateau State. The Berom Youth Moulders-Association, BYM, which confirmed t</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2025/11/gunmen-1-1024x576-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>NIPSS DG tenders apologies to Berom Nation over militia remarks</title>
+      <link>https://dailypost.ng/2026/07/07/nipss-dg-tenders-apologies-to-berom-nation-over-militia-remarks/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/nipss-dg-tenders-apologies-to-berom-nation-over-militia-remarks/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:16:12 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>After facing a torrent of backlash and condemnation following his recent remarks, in which he tagged the Berom people as militias, the Director-General of the National Institute for Policy and Strategic Studies (NIPSS), Professor Ayo Omotayo, has tendered an apology to the Berom Nation and the peopl</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Ayo-Omotayo.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Siting Of UniPod In Abia Shows UNDP, FG Have Faith In State’s Potential – Otti</title>
+      <link>https://newtelegraphng.com/siting-of-unipod-in-abia-shows-undp-fg-have-faith-in-states-potential-otti/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=siting-of-unipod-in-abia-shows-undp-fg-have-faith-in-states-potential-otti</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/siting-of-unipod-in-abia-shows-undp-fg-have-faith-in-states-potential-otti/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=siting-of-unipod-in-abia-shows-undp-fg-have-faith-in-states-potential-otti</guid>
+      <pubDate>Tue, 07 Jul 2026 07:15:45 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
+      <category>Nigerian News</category>
+      <description>Abia State Governor, Dr. Alex Otti, has said the siting of Nigeria&amp;#8217;s first Manufacturing Technology University Innovation Pod (Manu-Tech UniPod) in the state reflects the confidence of the United Nations Development Programme (UNDP) and the Federal Government in Abia&amp;#8217;s potential as a hub</description>
+    </item>
+    <item>
+      <title>Ronaldo, Neymar, Neuer, other stars playing their last World Cup</title>
+      <link>https://punchng.com/ronaldo-neymar-neuer-other-stars-playing-their-last-world-cup/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/ronaldo-neymar-neuer-other-stars-playing-their-last-world-cup/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 07:14:24 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Cristiano Ronaldo, Neymar, Manuel Neuer, and other football legends are likely playing their last World Cup in 2026. Discover who&amp;#8217;s saying goodbye.
+
+Read More: https://punchng.com/ronaldo-neymar-neuer-other-stars-playing-their-last-world-cup/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>World Cup 2026: Mbappé, Messi, Haaland locked in three-way Golden Boot race</title>
+      <link>https://punchng.com/world-cup-2026-mbappe-messi-haaland-locked-in-three-way-golden-boot-race/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/world-cup-2026-mbappe-messi-haaland-locked-in-three-way-golden-boot-race/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 07:13:55 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>The World Cup Golden Boot race heats up as Mbappé, Messi, and Haaland are level on seven goals. Discover who leads and the tie-breaker rules.
+
+Read More: https://punchng.com/world-cup-2026-mbappe-messi-haaland-locked-in-three-way-golden-boot-race/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>World Cup 2026: Wayne Rooney blasts Bruno Fernandes, others over Cristiano Ronaldo treatment</title>
+      <link>https://dailypost.ng/2026/07/07/world-cup-2026-wayne-rooney-blasts-bruno-fernandes-others-over-cristiano-ronaldo-treatment/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/world-cup-2026-wayne-rooney-blasts-bruno-fernandes-others-over-cristiano-ronaldo-treatment/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:13:49 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Manchester United and England legend, Wayne Rooney has slammed Cristiano Ronaldo&amp;#8217;s Portugal teammates following their elimination from the FIFA World Cup. It was evident that Portugal players favored passing the ball around, even when they had chances to deliver crosses into the opponent&amp;#8217</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2025/11/Wayne-Rooney.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>2027: Activists seeking political offices can’t make any difference — Segalink</title>
+      <link>https://www.vanguardngr.com/2026/07/2027-activists-seeking-political-offices-cant-make-any-difference-segalink/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/2027-activists-seeking-political-offices-cant-make-any-difference-segalink/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:12:55 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>The reform advocate maintained that activists often lose the moral authority that initially made them agents of change when they get into politics.
+The post 2027: Activists seeking political offices can&amp;#8217;t make any difference — Segalink appeared first on Vanguard News.</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2020/10/SEGALINK.gif" medium="image"/>
+    </item>
+    <item>
+      <title>ACPN Set For ‘Unity 2026’ Conference To Strengthen Nigeria’s Health System</title>
+      <link>https://newtelegraphng.com/acpn-set-for-unity-2026-conference-to-strengthen-nigerias-health-system/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=acpn-set-for-unity-2026-conference-to-strengthen-nigerias-health-system</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/acpn-set-for-unity-2026-conference-to-strengthen-nigerias-health-system/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=acpn-set-for-unity-2026-conference-to-strengthen-nigerias-health-system</guid>
+      <pubDate>Tue, 07 Jul 2026 07:12:19 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
+      <category>Nigerian News</category>
+      <description>The nation’s capital is set for a major gathering of political leaders, healthcare policymakers, and pharmaceutical experts as the Association of Community Pharmacists of Nigeria (ACPN) is prepared to host its 45th Annual International Scientific Conference, tagged “Unity 2026,” with a strong focus</description>
+    </item>
+    <item>
+      <title>Why NYSC Reform Must Preserve The Scheme’s Core Mission</title>
+      <link>https://newtelegraphng.com/why-nysc-reform-must-preserve-the-schemes-core-mission/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=why-nysc-reform-must-preserve-the-schemes-core-mission</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/why-nysc-reform-must-preserve-the-schemes-core-mission/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=why-nysc-reform-must-preserve-the-schemes-core-mission</guid>
+      <pubDate>Tue, 07 Jul 2026 07:11:45 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
+      <category>Nigerian News</category>
+      <description>Since its post-bellum inception in 1973, the National Youth Service Corps (NYSC) scheme has stood the test of time as the best institutional defensive wall against ethnoreligious fragmentation in Nigeria. Conceived for the aim of healing fractured polity, its primary mandate has unshakably been the</description>
+    </item>
+    <item>
+      <title>APM dismisses Oyo APC reconciliation committee, predicts failure ahead of 2027</title>
+      <link>https://tribuneonlineng.com/apm-dismisses-oyo-apc-reconciliation-committee-predicts-failure-ahead-of-2027/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/apm-dismisses-oyo-apc-reconciliation-committee-predicts-failure-ahead-of-2027/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:11:37 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>THE Oyo State chapter of the Allied Peoples Movement (APM) has dismissed the reconciliation committee recently inaugurated by the All Progressives Congress (APC), describing the initiative as an exercise that will not resolve the opposition party’s internal challenges ahead of the 2027 general elect</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/04/Oyo-map-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Burna Boy makes history with 50 million Spotify listeners</title>
+      <link>https://pmnewsnigeria.com/2026/07/07/burna-boy-makes-history-with-50-million-spotify-listeners/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/07/burna-boy-makes-history-with-50-million-spotify-listeners/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:10:05 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The achievement was primarily driven by his World Cup song with Shakira, ‘Dai Dai,’ which has topped the Spotify Global Top Songs chart for days.</description>
+    </item>
+    <item>
+      <title>Egypt: Refugees, Asylum Seekers Arrested, Deported</title>
+      <link>https://allafrica.com/stories/202607070084.html</link>
+      <guid isPermaLink="true">https://allafrica.com/stories/202607070084.html</guid>
+      <pubDate>Tue, 07 Jul 2026 07:09:36 +0000</pubDate>
+      <dc:creator>AllAfrica</dc:creator>
+      <category>Africa News</category>
+      <description>[HRW] Amend New Asylum Law in Line with International Standards</description>
+    </item>
+    <item>
+      <title>NATO’s Turkiye summit live: Trump, leaders to meet in Ankara</title>
+      <link>https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/news/liveblog/2026/7/7/natos-turkiye-summit-live-trump-leaders-to-meet-in-ankara?traffic_source=rss</guid>
+      <pubDate>Tue, 07 Jul 2026 07:09:27 +0000</pubDate>
+      <dc:creator>Al Jazeera</dc:creator>
+      <category>World News</category>
+      <description>Defence spending and support for Ukraine&amp;#039;s military needs are expected to top the agenda of summit in Turkish capital.</description>
+    </item>
+    <item>
+      <title>27 caps, 11 goals, six tournaments: Ronaldo’s World Cup career by numbers</title>
+      <link>https://punchng.com/27-caps-11-goals-six-tournaments-ronaldos-world-cup-career-by-numbers/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/27-caps-11-goals-six-tournaments-ronaldos-world-cup-career-by-numbers/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 07:08:56 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Explore Cristiano Ronaldo&amp;#8217;s illustrious World Cup career by the numbers. Discover his 27 caps, 11 goals, and six tournaments in this detailed breakdown.
+
+Read More: https://punchng.com/27-caps-11-goals-six-tournaments-ronaldos-world-cup-career-by-numbers/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>Appeal Court to hear suit against deregistration of ADC, Accord Party, three others today</title>
+      <link>https://tribuneonlineng.com/appeal-court-to-hear-suit-against-deregistration-of-adc-accord-party-three-others-today/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/appeal-court-to-hear-suit-against-deregistration-of-adc-accord-party-three-others-today/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:08:54 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>THE Court of Appeal, Abuja division will, today hear an appeal challenging the deregistration of the African Democratic Congress (ADC), Accord Party and three other political parties.
+The post Appeal Court to hear suit against deregistration of ADC, Accord Party, three others today appeared first on</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/10/court-e1760539417989.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Is the NYSC Reform Another Uniform Makeover?</title>
+      <link>https://techeconomy.ng/is-the-nysc-reform-another-uniform-makeover/</link>
+      <guid isPermaLink="true">https://techeconomy.ng/is-the-nysc-reform-another-uniform-makeover/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:08:32 +0000</pubDate>
+      <dc:creator>TechEconomy</dc:creator>
+      <category>Naija Tech</category>
+      <description>&amp;#124; By: Elvis Eromosele In a country where “national service” has too often translated into national sacrifice, the Federal Government has rolled out what it calls the most comprehensive overhaul of the National Youth Service Corps (NYSC) in its 53-year history. Approved by the Federal Executive</description>
+    </item>
+    <item>
+      <title>Six reasons OPay’s new security features give Nigerians greater peace of mind</title>
+      <link>https://dailypost.ng/2026/07/07/six-reasons-opays-new-security-features-give-nigerians-greater-peace-of-mind/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/07/six-reasons-opays-new-security-features-give-nigerians-greater-peace-of-mind/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:08:30 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>As digital payments become part of everyday life, keeping money safe has never been more important. To help customers stay protected, OPay introduced two new security features: Emergency Lock and Safety PIN. These features are designed to help users take immediate action when they sense danger, ther</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Opay.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>‘Fake Agency’: Gbajabiamila threatens Adeyemi with N10bn suit over murder, bribery claims</title>
+      <link>https://punchng.com/fake-agency-gbajabiamila-threatens-adeyemi-with-n10bn-suit-over-murder-bribery-claims/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/fake-agency-gbajabiamila-threatens-adeyemi-with-n10bn-suit-over-murder-bribery-claims/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Tue, 07 Jul 2026 07:08:07 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Chief of Staff Femi Gbajabiamila threatens N10bn defamation suit against Prince Adeniyi Adeyemi over murder and bribery allegations. Get the full details.
+
+Read More: https://punchng.com/fake-agency-gbajabiamila-threatens-adeyemi-with-n10bn-suit-over-murder-bribery-claims/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>Sokoto: 2023 PDP guber candidate defects to APC, gives reasons</title>
+      <link>https://tribuneonlineng.com/sokoto-2023-pdp-guber-candidate-defects-to-apc-gives-reasons/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/sokoto-2023-pdp-guber-candidate-defects-to-apc-gives-reasons/</guid>
+      <pubDate>Tue, 07 Jul 2026 07:08:01 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>Ubandoma, a former Commissioner for Finance and Secretary to the Sokoto State Government under the administration of former Governor Aminu Waziri Tambuwal, was...
+The post Sokoto: 2023 PDP guber candidate defects to APC, gives reasons appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/Ubandoma-Wammakko.jpg" medium="image"/>
     </item>
   </channel>
 </rss>

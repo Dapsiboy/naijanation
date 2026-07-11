@@ -1,7 +1,519 @@
 {
-  "last_updated": "2026-07-11T14:48:53.849976+00:00",
-  "next_update": "2026-07-11T15:48:53.849976+00:00",
+  "last_updated": "2026-07-11T15:51:38.524305+00:00",
+  "next_update": "2026-07-11T16:51:38.524305+00:00",
   "general_news": [
+    {
+      "title": "2027: NSCDC Commandant seeks collective action against electoral violence, drug abuse",
+      "url": "https://tribuneonlineng.com/2027-nscdc-commandant-seeks-collective-action-against-electoral-violence-drug-abuse/",
+      "source": "Tribune",
+      "published": "2026-07-11T15:49:25+00:00",
+      "summary": "The Commandant of the Nigeria Security and Civil Defence Corps (NSCDC), Federal Capital Territory (FCT) Command, Dr Olusola Odumosu, has called for collective action and stronger collaboration among government institutions, security agencies, academia, youths, civil society organisations and other s",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/IMG-20260711-WA0001.jpg"
+    },
+    {
+      "title": "Lagos Continental Hotel Partners DGIC to Expand Opportunities for Nigeria’s Next Generation of Hospitality Professionals",
+      "url": "https://www.thisdaylive.com/2026/07/11/lagos-continental-hotel-partners-dgic-to-expand-opportunities-for-nigerias-next-generation-of-hospitality-professionals/",
+      "source": "ThisDay",
+      "published": "2026-07-11T15:46:01+00:00",
+      "summary": "Charles Ajunwa Lagos Continental Hotel has entered into a strategic partnership with DGIC International Business Services Limited to support youth development through practical hospitality training, reinforcing a shared commitment to",
+      "image": ""
+    },
+    {
+      "title": "Shock in South African football as Jayden Adams dies at 25 few days after playing at World Cup",
+      "url": "https://pmnewsnigeria.com/2026/07/11/shock-in-south-african-football-as-jayden-adams-dies-at-25-few-days-after-playing-at-world-cup/",
+      "source": "PM News",
+      "published": "2026-07-11T15:45:21+00:00",
+      "summary": "The football community in South Africa and beyond has continued to pay tribute to the talented midfielder, remembering his contributions to the national team and the sport.",
+      "image": ""
+    },
+    {
+      "title": "Why rescued Oyo pupils are yet to rejoin their families — Makinde",
+      "url": "https://thesun.ng/why-rescued-oyo-pupils-are-yet-to-rejoin-their-families-makinde/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:44:21+00:00",
+      "summary": "Governor Seyi Makinde of Oyo State has said the rescued schoolchildren and teachers from Oriire Local Government Area will remain in military custody for medical attention and routine screening.\nThe post Why rescued Oyo pupils are yet to rejoin their families — Makinde appeared first on The Sun Nige",
+      "image": ""
+    },
+    {
+      "title": "World Cup: ‘He can’t stop Haaland’ – Sam Allardyce tells Tuchel to drop England star against Norway",
+      "url": "https://dailypost.ng/2026/07/11/world-cup-he-cant-stop-haaland-sam-allardyce-tells-tuchel-to-drop-england-star-against-norway/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:41:15+00:00",
+      "summary": "Former England manager Sam Allardyce has advised Thomas Tuchel to drop Marc Guehi, a teammate of Erling Haaland at Manchester City, from the lineup for the quarter-final match of the 2026 FIFA World Cup. In an interview with Metro, Allardyce emphasized that Guehi should not be tasked with marking th",
+      "image": "https://dailypost.ng/wp-content/uploads/2021/05/Sam-Allardyce.jpg"
+    },
+    {
+      "title": "NIPR, NTDA Inaugurate WPRF 2026 Technical Committee, Tourism To Take Centre Stage",
+      "url": "https://www.thisdaylive.com/2026/07/11/nipr-ntda-inaugurate-wprf-2026-technical-committee-tourism-to-take-centre-stage/",
+      "source": "ThisDay",
+      "published": "2026-07-11T15:40:23+00:00",
+      "summary": "Charles Ajunwa The Nigerian Institute of Public Relations and the Nigerian Tourism Development Authority (NTDA) have officially launched the World Public Relations Forum 2026 Technical Committee at the NTDA headquarters",
+      "image": ""
+    },
+    {
+      "title": "Benue Police Arrest Seven More Suspects Over Killing Of MACBAN Chairman",
+      "url": "https://leadership.ng/benue-police-arrest-7-additional-suspects-over-killing-of-miyetti-allah-leader/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:40:23+00:00",
+      "summary": "The Benue State Police Command has arrested seven more suspects, including an 80-year-old man, over the killing of the state chairman of the Miyetti Allah Cattle Breeders Association of Nigeria (MACBAN), Alhaji Ardo Risku Mohammed. The latest arrests bring the total number of suspects in custody to ",
+      "image": ""
+    },
+    {
+      "title": "Photos: Makinde meets rescued Oriire victims at military hospital",
+      "url": "https://www.vanguardngr.com/2026/07/photos-makinde-meets-rescued-oriire-victims-at-military-hospital/",
+      "source": "Vanguard",
+      "published": "2026-07-11T15:39:10+00:00",
+      "summary": "Governor Seyi Makinde of Oyo State, in the company of a senior medical officer in the Nigerian Army, Brigadier General Moses Azuoru, on Saturday visited the rescued Oriire kidnap victims at the 2nd Division medical centre where they have been receiving treatment after their release.\nThe post Photos:",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-11-at-16.08.16-1.jpeg"
+    },
+    {
+      "title": "Oyo rescue: You should have addressed the nation, Atiku tells Tinubu",
+      "url": "https://dailytrust.com/oyo-rescue-you-should-have-addressed-the-nation-atiku-tells-tinubu/",
+      "source": "Daily Trust",
+      "published": "2026-07-11T15:39:06+00:00",
+      "summary": "Presidential Candidate of the African Democratic Congress (ADC) and former Vice President of Nigeria, Atiku Abubakar, has welcomed the rescue of the abducted schoolchildren and teachers from Oyo State, describing it as a moment of profound relief for their families and millions of Nigerians who neve",
+      "image": ""
+    },
+    {
+      "title": "Makinde Visits Rescued Victims Of Orire Abduction",
+      "url": "https://www.channelstv.com/2026/07/11/makinde-visits-rescued-victims-of-orire-abduction/",
+      "source": "Channels TV",
+      "published": "2026-07-11T15:38:01+00:00",
+      "summary": "Governor Seyi Makinde disclosed that all 39 pupils and five of the seven abducted teachers had been rescued.\nThe post Makinde Visits Rescued Victims Of Orire Abduction appeared first on Channels Television.",
+      "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Orire-abduction-victim-1-150x150.jpg"
+    },
+    {
+      "title": "Aiyedatiwa Meets Dangote To Advance Olokola Free Trade Zone Dev’t",
+      "url": "https://newtelegraphng.com/aiyedatiwa-meets-dangote-to-advance-olokola-free-trade-zone-devt/?utm_source=rss&utm_medium=rss&utm_campaign=aiyedatiwa-meets-dangote-to-advance-olokola-free-trade-zone-devt",
+      "source": "New Telegraph",
+      "published": "2026-07-11T15:37:45+00:00",
+      "summary": "Ondo State Governor, Lucky Aiyedatiwa has held met with President and Founder of the Dangote Group, Aliko Dangote, to advance discussions on the development of the Olokola Free Trade Zone (FTZ). The meeting, which took place in Lagos on Saturday, forms part of ongoing engagements between the Ondo St",
+      "image": ""
+    },
+    {
+      "title": "Kogi: Bandits abduct corpse, mourners, demand N450 ransom",
+      "url": "https://dailytrust.com/kogi-bandits-abduct-corpse-mourners-demand-n450-ransom/",
+      "source": "Daily Trust",
+      "published": "2026-07-11T15:36:42+00:00",
+      "summary": "Armed men suspected to be kidnappers have reportedly abducted the remains of a late Deputy Corps Commander of the Federal Road Safety Corps (FRSC), Augustine O. Ikwue, including the mourners accompanying him to his hometown at Otukpo in Benue state . The vehicle conveying the corpse ran into ambush ",
+      "image": ""
+    },
+    {
+      "title": "How Boko Haram uses AI to build bombs — Report reveals",
+      "url": "https://dailypost.ng/2026/07/11/how-boko-haram-uses-ai-to-build-bombs-report-reveals/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:35:56+00:00",
+      "summary": "A new report has revealed how Boko Haram is increasingly turning to Artificial Intelligence tools to build explosive devices to terrorise Nigerian society. According to a report published by The New York Times on&#160;Friday, findings suggest that terrorists are using AI-powered chatbots to obtain i",
+      "image": "https://dailypost.ng/wp-content/uploads/2022/03/pjimage-38.jpg"
+    },
+    {
+      "title": "South African World Cup star dies At 25",
+      "url": "https://thesun.ng/south-african-world-cup-star-dies-at-25/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:35:34+00:00",
+      "summary": "South Africa midfielder, Jayden Adams has died aged 25, less than two weeks after representing Bafana Bafana at the 2026 FIFA World Cup.\nThe post South African World Cup star dies At 25 appeared first on The Sun Nigeria.",
+      "image": ""
+    },
+    {
+      "title": "UK reaffirms Nigerians, citizens of over 100 countries require visas for visits under six months",
+      "url": "https://www.icirnigeria.org/uk-reaffirms-nigerians-citizens-of-over-100-countries-require-visas-for-visits-under-six-months/",
+      "source": "ICIR Nigeria",
+      "published": "2026-07-11T15:35:32+00:00",
+      "summary": "THE United Kingdom has reaffirmed that Nigerian citizens and nationals of over 100 other countries must obtain a visa before travelling to the UK for visits or any form of stay. The requirement is contained in the updated Immigration Rules Appendix Visitor, published by the UK Home Office, which lis",
+      "image": ""
+    },
+    {
+      "title": ".‎Kingsmen, Mary Win Big At K-Pop Festival, Showcased Cultural Harmony In Lagos",
+      "url": "https://leadership.ng/kingsmen-mary-win-big-at-k-pop-festival-showcased-cultural-harmony-in-lagos/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:34:24+00:00",
+      "summary": "‎The Korean (K-Pop) Festival was held in glamour at the Terra Kulture Arena. The annual event attracted several youths, budding artists and followers of the K-Pop industry. ‎Competitions in the music and dance categories were held as different contestants showcased the mastery of their Korean music ",
+      "image": ""
+    },
+    {
+      "title": "World Cup: They’ve chance – Obi Mikel predicts team to reach final between France, Spain",
+      "url": "https://dailypost.ng/2026/07/11/world-cup-theyve-chance-obi-mikel-predicts-team-to-reach-final-between-france-spain/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:34:12+00:00",
+      "summary": "Former Chelsea midfielder, John Obi Mikel, has backed Spain to reach the final of the 2026 World Cup ahead of France. The former Nigerian international believes Spain can trouble France, adding that they have a chance to make it to the World Cup final. Obi Mikel spoke on Fox Sports after Spain elimi",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/01/Obi-Mikel-.jpg"
+    },
+    {
+      "title": "Marwa Calls For Girl-Child Protection Against Drug Abuse",
+      "url": "https://leadership.ng/marwa-calls-for-girl-child-protection-against-drug-abuse/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:33:26+00:00",
+      "summary": "Chairman/chief executive officer of the National Drug Law Enforcement Agency (NDLEA), Brig Gen Mohamed Marwa (rtd), has called for the protection of the girl-child against systemic vulnerabilities that drive women and youth toward drug abuse and exploitation. Marwa, who made the call in his remarks ",
+      "image": ""
+    },
+    {
+      "title": "World Cup quarter-final: ‘They’ll go through’ – Luis Suarez predicts Norway vs England",
+      "url": "https://dailypost.ng/2026/07/11/world-cup-quarter-final-theyll-go-through-luis-suarez-predicts-norway-vs-england/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:31:59+00:00",
+      "summary": "Uruguay legend, Luis Suarez, has predicted the winner of the World Cup quarterfinal clash between England and Norway. He said England will emerge victorious against Norway in their quarter-final match of the 2026 tournament on&#160;Saturday. England, having topped Group L with two victories and a dr",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/07/Luis-Suarez-2.jpeg"
+    },
+    {
+      "title": "Oriire rescue: Refusing ransom payment shows FG’s resolve against terrorists — Sunday Igboho",
+      "url": "https://tribuneonlineng.com/oriire-rescue-refusing-ransom-payment-shows-fgs-resolve-against-terrorists-sunday-igboho/",
+      "source": "Tribune",
+      "published": "2026-07-11T15:30:48+00:00",
+      "summary": "Yoruba nation activist, Chief Sunday Adeyemo, popularly known as Sunday Igboho, has said the Federal Government declined the terrorists' demand for\nThe post Oriire rescue: Refusing ransom payment shows FG&#8217;s resolve against terrorists — Sunday Igboho appeared first on Tribune Online.",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2025/08/Sunday-Igboho1.jpg"
+    },
+    {
+      "title": "Police Arrest Eight More Suspects Over Benue MACBAN Killing",
+      "url": "https://thewhistler.ng/police-arrest-eight-more-suspects-over-benue-macban-killing/",
+      "source": "The Whistler",
+      "published": "2026-07-11T15:28:15+00:00",
+      "summary": "The Benue State Police Command has arrested eight additional suspects, including an 80-year-old man, in connection with the killing of the Chairman of the Miyetti Allah Cattle Breeders Association of Nigeria (MACBAN) in the state, Alhaji Ardo Risku Mohammed, and another victim, Yakubu Isa. Mohammed ",
+      "image": "https://thewhistler.ng/wp-content/uploads/2026/07/Untitled-design-2-2.jpg"
+    },
+    {
+      "title": "Obi Cubana Urges Gratitude As He Reacts To Cubana Chief Priest’s Heartfelt Tribute",
+      "url": "https://leadership.ng/obi-cubana-urges-gratitude-as-he-reacts-to-cubana-chief-priests-heartfelt-tribute/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:25:26+00:00",
+      "summary": "Nigerian businessman Obi Cubana has urged people to appreciate those who have positively impacted their lives after receiving a touching tribute from his longtime associate, Cubana Chief Priest. Chief Priest recently reflected on his journey with Obi Cubana, describing him as the man who believed in",
+      "image": ""
+    },
+    {
+      "title": "Lassa Fever: Death toll hits 221 as fatality rate rises above 2025 level – NCDC",
+      "url": "https://www.premiumtimesng.com/health/health-news/894614-lassa-fever-death-toll-hits-221-as-fatality-rate-rises-above-2025-level-ncdc.html",
+      "source": "Premium Times",
+      "published": "2026-07-11T15:23:22+00:00",
+      "summary": "The agency disclosed this in its Lassa fever situation report for epidemiological week 26, released on Friday\nThe post Lassa Fever: Death toll hits 221 as fatality rate rises above 2025 level &#8211; NCDC appeared first on Premium Times Nigeria.",
+      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2024/08/pixelcut-export-30.jpeg?fit=1200%2C800&amp;ssl=1"
+    },
+    {
+      "title": "Taylor Swift’s Wedding Security Permit Cost Over $160,000, NYC Mayor Reveals",
+      "url": "https://leadership.ng/taylor-swifts-wedding-security-permit-cost-over-160000-nyc-mayor-reveals/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:22:41+00:00",
+      "summary": "New details have emerged about the cost of Taylor Swift and Travis Kelce’s lavish New York wedding, with New York City Mayor Zohran Mamdani confirming that the couple paid more than $160,000 to cover the security permit for the high-profile celebration. Speaking during a press conference on Friday, ",
+      "image": ""
+    },
+    {
+      "title": "Angela Okorie Calls For ‘Copycat Police’ Over Alleged Imitation By Nollywood Colleagues",
+      "url": "https://leadership.ng/angela-okorie-calls-for-copycat-police-over-alleged-imitation-by-nollywood-colleagues/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:21:06+00:00",
+      "summary": "Nollywood actress Angela Okorie has claimed that several of her colleagues have made a habit of copying her style, prompting her to jokingly call for a “copycat police” in the movie industry. In a series of posts shared on her Instagram Story, the actress alleged that many entertainers have imitated",
+      "image": ""
+    },
+    {
+      "title": "NSE Launches 2026 National Engineering Games To Promote Fitness, Unity Among Engineers",
+      "url": "https://leadership.ng/nse-launches-2026-national-engineering-games-to-promote-fitness-unity-among-engineers/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:21:00+00:00",
+      "summary": "The Nigerian Society of Engineers (NSE) has officially launched the 2026 National Engineering Games in Abuja, reaffirming its commitment to promoting healthy living, professional networking and unity among engineers across the country. Declaring the competition open on Saturday, NSE President, Engr.",
+      "image": ""
+    },
+    {
+      "title": "LP Unveils Hajia Konto As VP Candidate Ahead Of 2027 Poll",
+      "url": "https://newtelegraphng.com/lp-unveils-hajia-konto-as-vp-candidate-ahead-of-2027-poll/?utm_source=rss&utm_medium=rss&utm_campaign=lp-unveils-hajia-konto-as-vp-candidate-ahead-of-2027-poll",
+      "source": "New Telegraph",
+      "published": "2026-07-11T15:20:55+00:00",
+      "summary": "The Labour Party (LP) has chosen Hajja Bintu Konto as running mate for its presidential candidate, Dr Chibuzo Okereke. The party, in a press statement issued by the National Publicity Secretary, Ken Asogwa, explained that Hajia Konto was chosen after &#8220;Extensive consultations across critical st",
+      "image": ""
+    },
+    {
+      "title": "Borno Parents Go Spiritual Over 78 Askira-Uba Students In Boko Haram Captivity",
+      "url": "https://leadership.ng/borno-parents-go-spiritual-over-78-askira-uba-students-in-boko-haram-captivity/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:20:11+00:00",
+      "summary": "Parents of the 78 pupils and students abducted by Boko Haram terrorists in Askira-Uba Local Government Area of Borno State have turned to prayers and other spiritual activities, seeking divine intervention for the safe return of their children who have remained in captivity for weeks. The abducted c",
+      "image": ""
+    },
+    {
+      "title": "Nigeria, Cameroon, Côte d’Ivoire, Ghana join forces to boost Cocoa production",
+      "url": "https://thesun.ng/nigeria-cameroon-cote-divoire-ghana-join-forces-to-boost-cocoa-production/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:19:46+00:00",
+      "summary": "Nigeria, Cameroon, Côte d'Ivoire, and Ghana have announced plans to join forces to boost Cocoa production. \nThe post Nigeria, Cameroon, Côte d&#8217;Ivoire, Ghana join forces to boost Cocoa production appeared first on The Sun Nigeria.",
+      "image": ""
+    },
+    {
+      "title": "VIDEO: Makinde visits rescued Oriire teachers, pupils in Military hospital",
+      "url": "https://tribuneonlineng.com/video-makinde-visits-rescued-oriire-teachers-pupils-in-military-hospital/",
+      "source": "Tribune",
+      "published": "2026-07-11T15:18:11+00:00",
+      "summary": "Oyo State Governor, Engr. Seyi Makinde, on Saturday said the pupils and teachers rescued from captivity in Oriire Local Government Area would remain\nThe post VIDEO: Makinde visits rescued Oriire teachers, pupils in Military hospital appeared first on Tribune Online.",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/7de01f81-e988-4c2e-a417-a7a3dde42bd3.jpeg"
+    },
+    {
+      "title": "Why rescued Oyo schoolchildren not yet reunited with families – Makinde [VIDEO]",
+      "url": "https://dailypost.ng/2026/07/11/why-rescued-oyo-schoolchildren-not-yet-reunited-with-families-makinde-video/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:17:39+00:00",
+      "summary": "Governor Seyi Makinde of Oyo State has said the rescued schoolchildren and teachers from the Oriire Local Government Area will remain in military custody to undergo essential medical care and routine profiling. Makinde made this known on&#160;Saturday&#160;while addressing newsmen shortly after visi",
+      "image": "https://dailypost.ng/wp-content/uploads/2022/08/Seyi-Makinde-1-scaled-1.jpg"
+    },
+    {
+      "title": "2027: NorthEast stakeholders commend Tinubu for re-nominating Shettima",
+      "url": "https://thesun.ng/2027-northeast-stakeholders-commend-tinubu-for-re-nominating-shettima/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:15:28+00:00",
+      "summary": "…Pledge 70% Vote Delivery From Idu Jude Abuja Ahead of the 2027 general elections, political stakeholders of the All Progressives Congress (APC) in the Northeast have commended President Bola Ahmed Tinubu for re-nominating Vice President Kashim Shettima as his running mate. The stakeholders, while c",
+      "image": ""
+    },
+    {
+      "title": "Oriire: Address Factors Precipitating Insecurity In Nigeria, NACOMYO Tells FG, Govs",
+      "url": "https://newtelegraphng.com/oriire-address-factors-precipitating-insecurity-in-nigeria-nacomyo-tells-fg-govs/?utm_source=rss&utm_medium=rss&utm_campaign=oriire-address-factors-precipitating-insecurity-in-nigeria-nacomyo-tells-fg-govs",
+      "source": "New Telegraph",
+      "published": "2026-07-11T15:13:17+00:00",
+      "summary": "The National Council of Muslim Youth Organisations (NACOMYO), has appealed to the Federal Government and governments at all levels to address all the precipitating social and economic factors responsible for insecurity in the country. The group gave this advice in response to Friday&#8217;s rescue o",
+      "image": ""
+    },
+    {
+      "title": "Ondo police arrest self-kidnap suspect, accomplice",
+      "url": "https://thesun.ng/ondo-police-arrest-self-kidnap-suspect-accomplice/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:12:49+00:00",
+      "summary": "Ondo Police arrested a man for allegedly staging his own kidnapping and an accomplice after investigations uncovered a fake ransom plot in Akure.\nThe post Ondo police arrest self-kidnap suspect, accomplice appeared first on The Sun Nigeria.",
+      "image": ""
+    },
+    {
+      "title": "CSOs Urge Tinubu to Probe Alleged Military-Backed Land Invasion in Abuja",
+      "url": "https://www.thisdaylive.com/2026/07/11/csos-urge-tinubu-to-probe-alleged-military-backed-land-invasion-in-abuja/",
+      "source": "ThisDay",
+      "published": "2026-07-11T15:10:52+00:00",
+      "summary": ".Allege Defence Properties Ltd illegally occupied Efab estate, demand troop withdrawal Sunday Aborisade&#160;in Abuja A coalition of civil society organisations has called on President Bola Tinubu and the nation&#8217;s security",
+      "image": ""
+    },
+    {
+      "title": "‎Influencer Model Plunges To Her Death From 27th Floor Of Dubai Skyscraper",
+      "url": "https://leadership.ng/influencer-model-plunges-to-her-death-from-27th-floor-of-dubai-skyscraper/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:09:56+00:00",
+      "summary": "‎‎A newly engaged influencer mysteriously fell to her death from the 27th floor of a Dubai skyscraper. ‎‎Kauana Bilhar, 27, of Brazil, recently travelled to the United Arab Emirates, where she fatally fell from a high-rise, her mother, Darla Bilhar, confirmed in a heartbreaking social media post. ‎‎",
+      "image": ""
+    },
+    {
+      "title": "2027: LP unveils Hajja Bintu Konto as Vice Presidential candidate",
+      "url": "https://thesun.ng/2027-lp-unveils-hajja-bintu-konto-as-vice-presidential-candidate/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:09:55+00:00",
+      "summary": "From Idu Jude Abuja The National Leadership of the Labour Party is pleased to formally unveil Hajja Bintu Konto as the Party&#8217;s Vice Presidential Candidate for the 2027 Presidential Election. Hajja Konto is to run alongside the Presidential Candidate, Dr. Chibuzo Okereke, on the Labour Party ti",
+      "image": ""
+    },
+    {
+      "title": "2027: Fintiri Congratulates Shettima on Retention as APC Vice Presidential Candidate",
+      "url": "https://www.tvcnews.tv/2027-fintiri-congratulates-shettima-on-retention-as-apc-vice-presidential-candidate/",
+      "source": "TVC News",
+      "published": "2026-07-11T15:07:35+00:00",
+      "summary": "Adamawa State Governor, Ahmadu Fintiri, has congratulated Vice President Kashim Shettima following his retention as the All Progressives Congress (APC) vice presidential candidate alongside President Bola Tinubu for the 2027 presidential election. In a statement by his Chief Press Secretary, Humwash",
+      "image": ""
+    },
+    {
+      "title": "Marwa Seeks Traditional Rulers’ Support Against Drug Abuse",
+      "url": "https://thewhistler.ng/marwa-seeks-traditional-rulers-support-against-drug-abuse/",
+      "source": "The Whistler",
+      "published": "2026-07-11T15:07:34+00:00",
+      "summary": "The Chairman/Chief Executive Officer of the National Drug Law Enforcement Agency (NDLEA), Mohamed Buba Marwa, has called for stronger collaboration with traditional rulers to protect the girl-child, warning that poverty, abuse and lack of education continue to push many women and young people into d",
+      "image": "https://thewhistler.ng/wp-content/uploads/2026/05/Untitled-design-3-3.jpg"
+    },
+    {
+      "title": "Atiku, Presidency trade words over alleged silence on Oriire victims’ rescue",
+      "url": "https://tribuneonlineng.com/atiku-presidency-trade-words-over-alleged-silence-on-oriire-victims-rescue/",
+      "source": "Tribune",
+      "published": "2026-07-11T15:07:28+00:00",
+      "summary": "Former Vice President Atiku Abubakar and the Presidency have traded words over claims that he remained silent following the rescue of the abducted schoolchildren\nThe post Atiku, Presidency trade words over alleged silence on Oriire victims’ rescue appeared first on Tribune Online.",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2025/04/Atiku.jpg"
+    },
+    {
+      "title": "‘Our people interested in choosing leaders’ – Okpebholo commends voters’ turnout in Edo LG election",
+      "url": "https://www.vanguardngr.com/2026/07/our-people-interested-in-choosing-leaders-okpebholo-commends-voters-turnout-in-edo-lg-election/",
+      "source": "Vanguard",
+      "published": "2026-07-11T15:06:42+00:00",
+      "summary": "Governor Monday Okpebholo of Edo State, on Saturday, described voters turnout in the local government elections as encouraging\nThe post &#8216;Our people interested in choosing leaders&#8217; &#8211; Okpebholo commends voters&#8217; turnout in Edo LG election appeared first on Vanguard News.",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/IMG-20260711-WA0316-1024x863.jpg"
+    },
+    {
+      "title": "US rapper Pitbull sets bald cap world record at London show",
+      "url": "https://www.vanguardngr.com/2026/07/us-rapper-pitbull-sets-bald-cap-world-record-at-london-show/",
+      "source": "Vanguard",
+      "published": "2026-07-11T15:06:28+00:00",
+      "summary": "US rapper Pitbull has set the first Guinness World Record for the largest gathering of people wearing bald caps.\nThe post US rapper Pitbull sets bald cap world record at London show appeared first on Vanguard News.",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Pitbull-1024x683.jpg"
+    },
+    {
+      "title": "Makinde Visits Rescued Oriire Kidnap Victims, Pledges Support For Recovery",
+      "url": "https://newtelegraphng.com/makinde-visits-rescued-oriire-kidnap-victims-pledges-support-for-recovery/?utm_source=rss&utm_medium=rss&utm_campaign=makinde-visits-rescued-oriire-kidnap-victims-pledges-support-for-recovery",
+      "source": "New Telegraph",
+      "published": "2026-07-11T15:05:55+00:00",
+      "summary": "Oyo State Governor, Seyi Makinde on Saturday visited the pupils and teachers rescued from captivity following the Oriire Local Government Area kidnapping incident in May. During the visit, he assured them of his administration&#8217;s continued support for their full recovery and safe reunification ",
+      "image": ""
+    },
+    {
+      "title": "Eruani Advocates Intellectual Activism, High-Level Competence To Drive Progress",
+      "url": "https://www.thisdaylive.com/2026/07/11/eruani-advocates-intellectual-activism-high-level-competence-to-drive-progress/",
+      "source": "ThisDay",
+      "published": "2026-07-11T15:05:46+00:00",
+      "summary": "Olusegun Samuel&#160;in Yenagoa&#160; President of the Azikel group, Dr. Azibapu Eruani, has&#160;stressed the significance of intellectual activism and high-level competence in driving the progress of the Ijaw community. He advised",
+      "image": ""
+    },
+    {
+      "title": "South Africa Midfielder Jayden Adams Dies At 25",
+      "url": "https://leadership.ng/south-africa-midfielder-jayden-adams-dies-at-25/",
+      "source": "Leadership",
+      "published": "2026-07-11T15:05:21+00:00",
+      "summary": "South Africa international and Mamelodi Sundowns midfielder Jayden Adams has died at the age of 25. The death of the midfielder was confirmed by Sunday World. Adams recently made his FIFA World Cup debut for South Africa and played a key role in Mamelodi Sundowns’ successful CAF Champions League cam",
+      "image": ""
+    },
+    {
+      "title": "Man Kidnaps Self, Collects Part-Payment Ransom",
+      "url": "https://newtelegraphng.com/man-kidnaps-self-collects-part-payment-ransom/?utm_source=rss&utm_medium=rss&utm_campaign=man-kidnaps-self-collects-part-payment-ransom",
+      "source": "New Telegraph",
+      "published": "2026-07-11T15:04:25+00:00",
+      "summary": "A 33-year-old man, Olawale Sikiru, has been arrested by men of the Ondo State Police Command for allegedly staging his own kidnap and demanding a ransom from his family. Sikiru, according to the Police Public Relations Officer (PPRO), Abayomi Jimoh, a Deputy Superintendent of Police (DSP), has colle",
+      "image": ""
+    },
+    {
+      "title": "Jim Iyke: Many Nigerian celebrities don’t know when to reinvent themselves",
+      "url": "https://thesun.ng/jim-iyke-many-nigerian-celebrities-dont-know-when-to-reinvent-themselves/",
+      "source": "The Sun",
+      "published": "2026-07-11T15:04:23+00:00",
+      "summary": "Veteran Nollywood actor Jim Iyke has said he intentionally changed his public image from the “bad boy” persona he was known for to that of a more responsible gentleman.\nThe post Jim Iyke: Many Nigerian celebrities don’t know when to reinvent themselves appeared first on The Sun Nigeria.",
+      "image": ""
+    },
+    {
+      "title": "President Federation Cup: Nasarawa Amazons beat Heartland Queens to claim women’s crown",
+      "url": "https://dailypost.ng/2026/07/11/president-federation-cup-nasarawa-amazons-beat-heartland-queens-to-claim-womens-crown/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:04:06+00:00",
+      "summary": "Nasarawa Amazons emerged champions of the 2026 Nigeria Women&#8217;s President Federation Cup following a 6-5 penalty shootout victory over Heartland Queens. It was the third time the Lafia club will be winning the President Federation Cup following their triumphs in 2005, and 2019. Heartland Queens",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/06/Nasarawa-Amazons.jpg"
+    },
+    {
+      "title": "Iran war: Trump in assassination attempt as Israel reportedly shared new intelligence",
+      "url": "https://businessday.ng/news/article/iran-war-trump-in-assassination-attempt-as-israel-reportedly-shared-new-intelligence/",
+      "source": "BusinessDay",
+      "published": "2026-07-11T15:03:51+00:00",
+      "summary": "Israel has reportedly shared new intelligence with the United States indicating that Iran may be planning an assassination attempt against\nread more Iran war: Trump in assassination attempt as Israel reportedly shared new intelligence",
+      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/Screenshot_20260711_160157-large.jpg"
+    },
+    {
+      "title": "JUST IN: South Africa Midfielder Jayden Adams dies at 25",
+      "url": "https://www.tvcnews.tv/just-in-south-africa-midfielder-jayden-adams-dies-at-25/",
+      "source": "TVC News",
+      "published": "2026-07-11T15:01:52+00:00",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died at the age of 25, just weeks after representing his country at the 2026 FIFA World Cup. According to the BBC, Adams played in all three of South Africa&#8217;s group-stage matches at the tournament, helping Bafana Bafana reach the k",
+      "image": ""
+    },
+    {
+      "title": "‘They hate Nigerians’ – Daniel Bwala slams Atiku, Peter Obi",
+      "url": "https://dailypost.ng/2026/07/11/they-hate-nigerians-daniel-bwala-slams-atiku-peter-obi/",
+      "source": "Daily Post",
+      "published": "2026-07-11T15:01:33+00:00",
+      "summary": "President Bola Tinubu&#8217;s Special Adviser on Policy Communication, Daniel Bwala has knocked the presidential candidates of the African Democratic Congress, ADC and the Nigerian Democratic Congress, NDC, Atiku Abubakar and Peter Obi, respectively, accusing them of hating Nigerians. Bwala was reac",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/07/Bwala.jpg"
+    },
+    {
+      "title": "Gov. Yusuf Pays Homage To Shettima, Says Joint Ticket Recognition Of Proven Track Records",
+      "url": "https://newtelegraphng.com/gov-yusuf-pays-homage-to-shettima-says-joint-ticket-recognition-of-proven-track-records/?utm_source=rss&utm_medium=rss&utm_campaign=gov-yusuf-pays-homage-to-shettima-says-joint-ticket-recognition-of-proven-track-records",
+      "source": "New Telegraph",
+      "published": "2026-07-11T14:59:27+00:00",
+      "summary": "Governor Abba Kabir Yusuf of Kano State has told the Vice President, Senator Kashim Shettima, that his choice of continuing as Vice President is a recognition of proven integrity, track record, and commitment to a better Nigeria. The Governor paid a homage to Shettima following his emergence as the ",
+      "image": ""
+    },
+    {
+      "title": "ADC urges FG to rescue remaining kidnap victims after Oyo pupils regain freedom",
+      "url": "https://dailypost.ng/2026/07/11/adc-urges-fg-to-rescue-remaining-kidnap-victims-after-oyo-pupils-regain-freedom/",
+      "source": "Daily Post",
+      "published": "2026-07-11T14:59:25+00:00",
+      "summary": "The African Democratic Congress (ADC) has welcomed the rescue of pupils, teachers and other victims abducted from schools in Oriire Local Government Area of Oyo State. The party, however, urged the Federal Government to give the same level of attention to people still being held by kidnappers in Bor",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/03/ADC-2.jpg"
+    },
+    {
+      "title": "‘Direct insult to Christians’ — Vatsa knocks Tinubu’s Muslim-Muslim ticket for 2027",
+      "url": "https://dailypost.ng/2026/07/11/direct-insult-to-christians-vatsa-knocks-tinubus-muslim-muslim-ticket-for-2027/",
+      "source": "Daily Post",
+      "published": "2026-07-11T14:59:03+00:00",
+      "summary": "A chieftain of the All Progressives Congress, APC, in Niger State, Jonathan Vatsa, has criticised the reported decision to retain Vice President Kashim Shettima as President Bola Tinubu&#8217;s running mate for the 2027 presidential election, warning that Christians will not support another Muslim-M",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/07/Vatsa.jpg"
+    },
+    {
+      "title": "Kwara: PDP laments 159 days of 179 Woro kidnap victims",
+      "url": "https://tribuneonlineng.com/kwara-pdp-laments-159-days-of-179-woro-kidnap-victims/",
+      "source": "Tribune",
+      "published": "2026-07-11T14:57:41+00:00",
+      "summary": "The Kwara State Chapter of the Peoples Democratic Party (PDP) has congratulated the Government and people of Oyo State on the successful rescue of the 49 abducted school children and teachers, who regained their freedom after spending 56 days in the kidnappers' captivity.\nThe post Kwara: PDP laments",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/Kwara-gov-and-tinubu.jpg"
+    },
+    {
+      "title": "Gov Bago Seeks 13% Derivation For Niger State",
+      "url": "https://www.channelstv.com/2026/07/11/gov-bago-seeks-13-derivation-for-niger-state/",
+      "source": "Channels TV",
+      "published": "2026-07-11T14:57:27+00:00",
+      "summary": "Governor Umaru Bago said Niger State, despite generating about 60% of Nigeria's electricity and boasting vast land and mineral resources, has been inadequately compensated under the country's revenue-sharing formula.\nThe post Gov Bago Seeks 13% Derivation For Niger State appeared first on Channels T",
+      "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Niger-State-1-150x150.jpg"
+    },
+    {
+      "title": "Senate Probes Alleged $71.65m, N30.7bn NDDC Remittance Default by Oil Firm",
+      "url": "https://www.thisdaylive.com/2026/07/11/senate-probes-alleged-71-65m-n30-7bn-nddc-remittance-default-by-oil-firm/",
+      "source": "ThisDay",
+      "published": "2026-07-11T14:56:26+00:00",
+      "summary": "* Orders company to appear within two weeks Sunday Aborisade in Abuja&#160; The Senate has commenced an investigation into the alleged non-remittance of statutory contributions running into $71.65 million and",
+      "image": ""
+    },
+    {
+      "title": "Soludo appoints US-trained doctor as SA on state HIV diaspora coordination, devt",
+      "url": "https://tribuneonlineng.com/soludo-appoints-us-trained-doctor-as-sa-on-state-hiv-diaspora-coordination-devt/",
+      "source": "Tribune",
+      "published": "2026-07-11T14:55:47+00:00",
+      "summary": "The Anambra State Government has announced the appointment of United States-based infectious disease specialist, Prof. Chinelo Ngozi Animalu,\nThe post Soludo appoints US-trained doctor as SA on state HIV diaspora coordination, devt appeared first on Tribune Online.",
+      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/IMG-20260711-WA0012-1.jpg"
+    },
+    {
+      "title": "Klopp reaches ‘understanding’ to take over as Germany coach",
+      "url": "https://www.vanguardngr.com/2026/07/klopp-reaches-understanding-to-take-over-as-germany-coach/",
+      "source": "Vanguard",
+      "published": "2026-07-11T14:55:19+00:00",
+      "summary": "The German Football Federation (DFB) announced on Saturday that it was close to an agreement with Jurgen Klopp for him to become the new Germany coach.\nThe post Klopp reaches &#8216;understanding&#8217; to take over as Germany coach appeared first on Vanguard News.",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/05/kLOPP-LIVERPOOL.webp"
+    },
+    {
+      "title": "ABSU Inaugurates Search Team for Substantive Vice Chancellor",
+      "url": "https://www.thisdaylive.com/2026/07/11/absu-inaugurates-search-team-for-substantive-vice-chancellor/",
+      "source": "ThisDay",
+      "published": "2026-07-11T14:54:24+00:00",
+      "summary": "Boniface OKoro&#160;in Umuahia The search for substantive Vice Chancellor for Abia State University, Uturu (ABSU), has begun. ABSU’s Pro-Chancellor and Chairman of the Governing Council, Dr. Agwu U. Agwu, inaugurated",
+      "image": ""
+    },
+    {
+      "title": "Kwara PDP asks govt to rescue 176 abductees of Kaiama commumity",
+      "url": "https://dailypost.ng/2026/07/11/kwara-pdp-asks-govt-to-rescue-176-abductees-of-kaiama-commumity/",
+      "source": "Daily Post",
+      "published": "2026-07-11T14:53:21+00:00",
+      "summary": "The Kwara State Chapter of the Peoples Democratic Party, PDP, has tasked the state government to rescue the 176 abductees of Kaiama community. The party congratulated the Government and people of Oyo State on the successful rescue of the 49 abducted school children and teachers, who regained their f",
+      "image": "https://dailypost.ng/wp-content/uploads/2026/01/pdp-1.jpg-image.jpg"
+    },
+    {
+      "title": "NIPOST, NIMC partner to integrate digital identity, address systems",
+      "url": "https://businessday.ng/news/article/nipost-nimc-partner-to-integrate-digital-identity-address-systems/",
+      "source": "BusinessDay",
+      "published": "2026-07-11T14:53:04+00:00",
+      "summary": "The Nigerian Postal Service (NIPOST) and the National Identity Management Commission (NIMC) have signed a Memorandum of Understanding (MoU) to\nread more NIPOST, NIMC partner to integrate digital identity, address systems",
+      "image": "https://cdn.businessday.ng/2019/09/nimc1.jpg"
+    },
+    {
+      "title": "First Lady calls for accurate population database for effective planning",
+      "url": "https://businessday.ng/news/article/first-lady-calls-for-accurate-population-database-for-effective-planning/",
+      "source": "BusinessDay",
+      "published": "2026-07-11T14:48:13+00:00",
+      "summary": "&#8230;urges Nigerians to embrace the NIN initiative  First Lady, Oluremi Tinubu, has identified accurate population database as strong prerequisite for\nread more First Lady calls for accurate population database for effective planning",
+      "image": "https://cdn.businessday.ng/2023/08/Oluremi-Tinubu-1.png"
+    },
+    {
+      "title": "PRP Gives Bauchi Govt 3 Days to Remove APM Campaign Posters on Public Structures",
+      "url": "https://dailytrust.com/prp-gives-bauchi-govt-3-days-to-remove-apm-campaign-posters-on-public-structures/",
+      "source": "Daily Trust",
+      "published": "2026-07-11T14:48:11+00:00",
+      "summary": "The Bauchi State chapter of the Peoples Redemption Party (PRP) has given the state government a three-day ultimatum to remove posters and other campaign materials belonging to the ruling Allied Peoples Movement (APM) from public infrastructure across the state or face legal action. The Bauchi State ",
+      "image": ""
+    },
     {
       "title": "Makinde Promises Medical Care During Visit to Rescued Oriire Kidnap Victim",
       "url": "https://www.tvcnews.tv/makinde-promises-medical-care-during-visit-to-rescued-oriire-kidnap-victim/",
@@ -33,30 +545,6 @@
       "published": "2026-07-11T14:43:24+00:00",
       "summary": "Festus Keyamo, the Minister of Aviation and Aerospace Development, has directed the Federal Airport Authority of Nigeria (FAAN) to charge the Presidential candidate of the Nigeria Democratic Congress (NDC) in the 2027 general elections, Peter Obi, N25,000 for wrongful parking at the Abuja airport. T",
       "image": ""
-    },
-    {
-      "title": "Okpebholo Hails Peaceful Edo LG Polls As Voters Turn Out Massively",
-      "url": "https://leadership.ng/okpebholo-hails-peaceful-edo-lg-polls-as-voters-turn-out-massively/",
-      "source": "Leadership",
-      "published": "2026-07-11T14:43:09+00:00",
-      "summary": "Thousands of voters across Edo State turned out on Saturday to elect chairmen in the state&#8217;s 18 local government areas and 192 ward councillors, as Governor Monday Okpebholo hailed the exercise as peaceful and orderly. The election recorded impressive voter turnout in many communities, with se",
-      "image": ""
-    },
-    {
-      "title": "BREAKING: South Africa midfielder, Jayden Adams dies after playing at 2026 World Cup",
-      "url": "https://dailypost.ng/2026/07/11/south-africa-midfielder-jayden-adams-dies-after-playing-at-2026-world-cup/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:40:07+00:00",
-      "summary": "South Africa midfielder, Jayden Adams, has died at the age of 25. The sad news was confirmed by the South African Football Players Union, SAFPU. SAFPU said it was “devastated by the untimely passing” of the midfielder. Adams played in three of Bafana Bafana&#8217;s matches at the 2026 World Cup. Ada",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/07/Jayden-Adams.jpg"
-    },
-    {
-      "title": "Ayo Edebiri, Joy Sunday Earn 2026 Emmy Nominations, Celebrating Nigerian Heritage",
-      "url": "https://leadership.ng/ayo-edebiri-joy-sunday-earn-2026-emmy-nominations-celebrating-nigerian-heritage/",
-      "source": "Leadership",
-      "published": "2026-07-11T14:39:32+00:00",
-      "summary": "Nigerian heritage is being celebrated on the global stage after actresses Ayo Edebiri and Joy Sunday earned nominations at the 2026 Primetime Emmy Awards. The nominations, announced by the Academy of Television Arts &#38; Sciences, highlight the growing influence of actors of Nigerian descent in Ame",
-      "image": "https://leadership.ng/wp-content/uploads/2026/07/IMG_3490-240x300.jpeg"
     },
     {
       "title": "Aiyedatiwa Commends Tinubu, Security Agencies Over Rescue Of Kidnapped Oyo Pupils, Teachers",
@@ -91,27 +579,11 @@
       "image": ""
     },
     {
-      "title": "Banking Hero Of The Month: Faith – The Fearless Anti-Fraud Professional Protecting Nigeria’s Financial System",
-      "url": "https://leadership.ng/banking-hero-of-the-month-faith-the-fearless-anti-fraud-professional-protecting-nigerias-financial-system/",
-      "source": "Leadership",
-      "published": "2026-07-11T14:30:34+00:00",
-      "summary": "Integrity is the foundation of every great financial institution, and every so often, a professional emerges whose courage and commitment deserve to be celebrated. Our Banking Hero of the Month is Faith Onyemowo Godwin, an outstanding First Bank Nigeria professional whose unwavering dedication to fi",
-      "image": ""
-    },
-    {
-      "title": "Oriire Rescue, Sey Makinde and Tinubu – Seye Oladejo",
+      "title": "Oriire Rescue, Seyi Makinde and Tinubu – Seye Oladejo",
       "url": "https://www.tvcnews.tv/oriire-rescue-sey-makinde-and-tinubu-seye-oladejo/",
       "source": "TVC News",
       "published": "2026-07-11T14:27:54+00:00",
-      "summary": "The successful rescue of the Oriire abductees is a moment of relief for every well-meaning Nigerian.\nThe post Oriire Rescue, Sey Makinde and Tinubu &#8211; Seye Oladejo appeared first on Trending News.",
-      "image": ""
-    },
-    {
-      "title": "Makinde Meets Rescued Students, Teachers At Military Hospital, Promises Rehabilitation, Reunification",
-      "url": "https://leadership.ng/makinde-meets-rescued-students-teachers-at-military-hospital-promises-rehabilitation-reunification/",
-      "source": "Leadership",
-      "published": "2026-07-11T14:27:47+00:00",
-      "summary": "‎Oyo State governor, Seyi Makinde, on Saturday visited the pupils and teachers rescued from captivity in Oriire Local Government Area, who are currently receiving medical treatment at the Military Hospital in Ibadan. ‎ ‎The governor, who met with the victims and medical personnel attending to them, ",
+      "summary": "The successful rescue of the Oriire abductees is a moment of relief for every well-meaning Nigerian.\nThe post Oriire Rescue, Seyi Makinde and Tinubu &#8211; Seye Oladejo appeared first on Trending News.",
       "image": ""
     },
     {
@@ -163,484 +635,12 @@
       "image": ""
     },
     {
-      "title": "World Cup: ‘They’ll win 1-0’ – Ex-France star, Leboeuf predicts Norway vs England",
-      "url": "https://dailypost.ng/2026/07/11/world-cup-theyll-win-1-0-ex-france-star-leboeuf-predicts-norway-vs-england/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:20:08+00:00",
-      "summary": "Former France international, Frank Leboeuf,&#160;&#160;has predicted that Norway will defeat England in their quarter-final encounter on&#160;Saturday. He made this prediction during a segment on ESPN, confidently asserting that the Vikings will secure a 1-0 victory. He said, “I’m going straight for",
-      "image": "https://dailypost.ng/wp-content/uploads/2022/09/Frank-Leboeuf-1.jpg"
-    },
-    {
-      "title": "2027: Nigeria needs review of leadership recruitment process – Prof Obot",
-      "url": "https://dailypost.ng/2026/07/11/2027-nigeria-needs-review-of-leadership-recruitment-process-prof-obot/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:19:28+00:00",
-      "summary": "Professor Charles Obot of the Department of Communication and Media Studies at the University of Uyo has called for holistic review of the leadership selection processes in Nigeria ahead of the 2027 elections. He stated that the country would still be trapped in the leadership and governance challen",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/07/IMG-20260711-WA0545.jpg"
-    },
-    {
-      "title": "Boko Haram Used AI Chatbots, Movies To Refine Attack Tactics, Report Says",
-      "url": "https://leadership.ng/boko-haram-used-ai-chatbots-movies-to-refine-attack-tactics-report-says/",
-      "source": "Leadership",
-      "published": "2026-07-11T14:17:52+00:00",
-      "summary": "Boko Haram fighters have increasingly turned to artificial intelligence tools and action movies to sharpen their operational capabilities, using AI-powered chatbots to seek guidance on battlefield tactics, weapons maintenance and other military-related challenges, according to a report published by ",
-      "image": ""
-    },
-    {
-      "title": "Madubuike Showers Encomiums On Gov Otti At 83rd Birthday",
-      "url": "https://newtelegraphng.com/madubuike-showers-encomiums-on-gov-otti-at-83rd-birthday/?utm_source=rss&utm_medium=rss&utm_campaign=madubuike-showers-encomiums-on-gov-otti-at-83rd-birthday",
-      "source": "New Telegraph",
-      "published": "2026-07-11T14:17:46+00:00",
-      "summary": "Elder statesman and former Minister of Education and Health, Professor Ihechukwu Chiedozie Madubuike, on Saturday marked his 83rd birthday by showering encomiums on Governor Alex Otti of Abia State for changing the leadership narrative in the State. The birthday event hosted by Governor Otti in Umua",
-      "image": ""
-    },
-    {
-      "title": "Kwankwaso Urges FG To Conduct Nat’l Census",
-      "url": "https://newtelegraphng.com/kwankwaso-urges-fg-to-conduct-natl-census/?utm_source=rss&utm_medium=rss&utm_campaign=kwankwaso-urges-fg-to-conduct-natl-census",
-      "source": "New Telegraph",
-      "published": "2026-07-11T14:17:16+00:00",
-      "summary": "The vice presidential candidate of the Nigeria Democratic Congress (NDC), Rabiu Musa Kwankwaso, has called on the Federal Government to urgently conduct a credible national Population and Housing Census. He warned that Nigeria can no longer rely on population figures from the 2006 census for nationa",
-      "image": ""
-    },
-    {
       "title": "Anambra: TETFund begins installation of 1.7mwh solar power project at Federal poly",
       "url": "https://tribuneonlineng.com/anambra-tetfund-begins-installation-of-1-7mwh-solar-power-project-at-federal-poly/",
       "source": "Tribune",
       "published": "2026-07-11T14:16:56+00:00",
       "summary": "The Tertiary Education Trust Fund (TETFund) has officially commenced the implementation of a 1.7MWh mini-grid solar power project at\nThe post Anambra: TETFund begins installation of 1.7mwh solar power project at Federal poly appeared first on Tribune Online.",
       "image": "https://tribuneonlineng.com/wp-content/uploads/2025/11/TETFund-1.png"
-    },
-    {
-      "title": "Low voter turnout, late arrival of materials characterise Edo LG poll",
-      "url": "https://thesun.ng/low-voter-turnout-late-arrival-of-materials-characterise-edo-lg-poll/",
-      "source": "The Sun",
-      "published": "2026-07-11T14:16:13+00:00",
-      "summary": "Low voter turnout and the late arrival of electoral officials and voting materials have characterised Saturday's local government election in parts of Edo State.\nThe post Low voter turnout, late arrival of materials characterise Edo LG poll appeared first on The Sun Nigeria.",
-      "image": ""
-    },
-    {
-      "title": "‘Regional cooperation key to tackling Africa’s security threats’ — Buratai",
-      "url": "https://dailypost.ng/2026/07/11/regional-cooperation-key-to-tackling-africas-security-threats-buratai/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:14:40+00:00",
-      "summary": "Former Chief of Army Staff, retired Lt.-Gen. Tukur Yusuf Buratai, has urged African nations to embrace home-grown solutions to the continent’s worsening security challenges, stressing that stronger regional cooperation and indigenous capabilities are essential to addressing emerging threats. Buratai",
-      "image": "https://dailypost.ng/wp-content/uploads/2021/07/9YddbS6Y.jpeg"
-    },
-    {
-      "title": "‘Time for excuses over’ — Kwankwaso demands fresh census after 20-year delay",
-      "url": "https://dailypost.ng/2026/07/11/time-for-excuses-over-kwankwaso-demands-fresh-census-after-20-year-delay/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:13:44+00:00",
-      "summary": "Vice-presidential candidate of the Nigeria Democratic Congress, NDC, Rabiu Musa Kwankwaso, has urged the Federal Government to conduct a fresh national Population and Housing Census, saying Nigeria has gone 20 years without the exercise. Kwankwaso made the demand in a statement posted on his officia",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/05/Kwankwaso.jpg"
-    },
-    {
-      "title": "Kazeem Ambali: Driving business growth through digital transformation",
-      "url": "https://thesun.ng/kazeem-ambali-driving-business-growth-through-digital-transformation/",
-      "source": "The Sun",
-      "published": "2026-07-11T14:13:17+00:00",
-      "summary": "As organisations accelerate their digital transformation journeys, professionals who can successfully connect technology with business strategy are becoming increasingly important.\nThe post Kazeem Ambali: Driving business growth through digital transformation appeared first on The Sun Nigeria.",
-      "image": ""
-    },
-    {
-      "title": "Rapper Pitbull Sets Bald Cap World Record At London Show",
-      "url": "https://www.channelstv.com/2026/07/11/rapper-pitbull-sets-bald-cap-world-record-at-london-show/",
-      "source": "Channels TV",
-      "published": "2026-07-11T14:11:08+00:00",
-      "summary": "In recent years, it has become a trend for fans to dress as Pitbull while attending his performances.\nThe post Rapper Pitbull Sets Bald Cap World Record At London Show appeared first on Channels Television.",
-      "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Pitbull-Offbeat-4-150x150.jpg"
-    },
-    {
-      "title": "Trump Threatens To ‘Decimate’ Iran Over Assassination Threats",
-      "url": "https://thewhistler.ng/trump-threatens-to-decimate-iran-over-assassination-threats/",
-      "source": "The Whistler",
-      "published": "2026-07-11T14:11:08+00:00",
-      "summary": "United States President Donald Trump has warned that 1,000 missiles are &#8220;locked and loaded&#8221; and aimed at Iran, threatening to destroy the country entirely should Tehran act on threats against his life. Trump made the warning in a post on his Truth Social platform, referencing threats to ",
-      "image": "https://thewhistler.ng/wp-content/uploads/2026/01/Untitled-design_20260107_100337_0000.jpg"
-    },
-    {
-      "title": "Plateau: Fulani herders accuse DSS of intimidation, rights infringement",
-      "url": "https://dailypost.ng/2026/07/11/plateau-fulani-herders-accuse-dss-of-intimidation-rights-infringement/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:09:11+00:00",
-      "summary": "The Fulani community in the Kwok, Barkin Ladi Local Government Area of Plateau State, has accused operatives of the Department of State Services, DSS, of intimidation, harassment and infringements of their rights following a spate of raids conducted in the area. A community leader, Yusuf Muhammad, w",
-      "image": "https://dailypost.ng/wp-content/uploads/2023/01/Herdsmen.jpg"
-    },
-    {
-      "title": "Showunmi Commends Tinubu, Security Agencies Over Rescue of Oriire Students, Teachers",
-      "url": "https://www.tvcnews.tv/showunmi-commends-tinubu-security-agencies-over-rescue-of-oriire-students-teachers/",
-      "source": "TVC News",
-      "published": "2026-07-11T14:09:02+00:00",
-      "summary": "A former presidential aspirant and chieftain of The Alternative, Otunba Segun Showunmi, has commended President Bola Tinubu and the nation's security agencies over the successful rescue of the students and teachers of Oriire who were recently abducted in Oyo State.\nThe post Showunmi Commends Tinubu,",
-      "image": ""
-    },
-    {
-      "title": "Rescued Oyo Pupils Deserve Care, Support After Trauma — Alausa",
-      "url": "https://thewhistler.ng/rescued-oyo-pupils-deserve-care-support-after-trauma-alausa/",
-      "source": "The Whistler",
-      "published": "2026-07-11T14:08:53+00:00",
-      "summary": "The Minister of Education, Dr. Tunji Alausa, has commended the Oyo State Government and the nation’s security forces for their role in the safe release of pupils and teachers abducted from Oriire community in Ogbomoso, Oyo State. Alausa who spoke through his Special Adviser on Media and Communicatio",
-      "image": "https://thewhistler.ng/wp-content/uploads/2026/07/1000-x-550-9.jpg"
-    },
-    {
-      "title": "‘Boko Haram uses AI to make bombs, plot operations’",
-      "url": "https://www.vanguardngr.com/2026/07/boko-haram-uses-ai-to-make-bombs-plot-operations/",
-      "source": "Vanguard",
-      "published": "2026-07-11T14:08:05+00:00",
-      "summary": "\"Before, the bomb explosion was not that big, but then they studied it. AI told us what chemicals to put in that made the explosion heavier\"\nThe post &#8216;Boko Haram uses AI to make bombs, plot operations&#8217; appeared first on Vanguard News.",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/03/BokoHaram.jpg"
-    },
-    {
-      "title": "Akwa Ibom official distances self from controversial flood control report after backlash",
-      "url": "https://www.premiumtimesng.com/news/more-news/894612-akwa-ibom-official-distances-self-from-controversial-flood-control-report-after-backlash.html",
-      "source": "Premium Times",
-      "published": "2026-07-11T14:07:47+00:00",
-      "summary": "As residents grapple with losses from devastating floods in Uyo, a pro-government report praising Governor Umo Eno's flood control efforts has sparked outrage. The chairman of the Uyo Capital City Development Authority has now distanced himself from the publication, contradicting the governor's medi",
-      "image": "https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/07/WhatsApp-Image-2026-07-10-at-07.35.50.jpeg?fit=722%2C484&amp;ssl=1"
-    },
-    {
-      "title": "Obi Condemns DSS’s Mistaken Arrest Of Surgeon, Demands Due Process",
-      "url": "https://thewhistler.ng/obi-condemns-dsss-mistaken-arrest-of-surgeon-demands-due-process/",
-      "source": "The Whistler",
-      "published": "2026-07-11T14:06:36+00:00",
-      "summary": "The presidential candidate of the Nigeria Democratic Congress (NDC) Peter Obi has condemned the arrest and detention of renowned cardiothoracic surgeon, Professor Martin Aghaji, describing the operation by the Department of State Services (DSS) as humiliating and a violation of due process. Obi&#821",
-      "image": "https://thewhistler.ng/wp-content/uploads/2026/05/Peter-Obi.jpeg"
-    },
-    {
-      "title": "Iran supreme leader vows revenge for father’s killing",
-      "url": "https://www.vanguardngr.com/2026/07/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-      "source": "Vanguard",
-      "published": "2026-07-11T14:06:34+00:00",
-      "summary": "Iran's supreme leader on Saturday vowed revenge for the US-Israeli killing of his father and predecessor, hours after President Donald Trump warned against any attempt to assassinate him.\nThe post Iran supreme leader vows revenge for father&#8217;s killing appeared first on Vanguard News.",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Ayatollah-Ali-Khamenei--1024x684.jpg"
-    },
-    {
-      "title": "‘Every Nigerian life is equally precious’ — Sultan seeks release of abducted Borno pupils",
-      "url": "https://dailypost.ng/2026/07/11/every-nigerian-life-is-equally-precious-sultan-seeks-release-of-abducted-borno-pupils/",
-      "source": "Daily Post",
-      "published": "2026-07-11T14:05:19+00:00",
-      "summary": "The Sultan of Sokoto, Alhaji Muhammad Sa’ad Abubakar, has welcomed the rescue of abducted pupils and teachers in Oyo State, urging the Federal Government and security agencies to intensify efforts to secure the release of schoolchildren recently abducted in Borno State. The Sultan made the call in a",
-      "image": "https://dailypost.ng/wp-content/uploads/2024/11/Saadu_Abubakar_-Sultan_of_Sokoto.jpg"
-    },
-    {
-      "title": "Schoolchildren’s Safe Return Worthy Of Thanksgiving, Says Obi",
-      "url": "https://thewhistler.ng/schoolchildrens-safe-return-worthy-of-thanksgiving-says-obi/",
-      "source": "The Whistler",
-      "published": "2026-07-11T14:03:43+00:00",
-      "summary": "The New Democratic Congress presidential candidate, Peter Obi, has expressed gratitude over the safe rescue of the schoolchildren who were kidnapped, describing their return as a development worthy of thanksgiving. Obi, in a statement posted on his official X account on Saturday, thanked security pe",
-      "image": "https://thewhistler.ng/wp-content/uploads/2026/05/Untitled-design-2026-05-18T114007.982.jpg"
-    },
-    {
-      "title": "World Population Day: Oluremi Tinubu Advocates Investments In People",
-      "url": "https://newtelegraphng.com/world-population-day-oluremi-tinubu-advocates-investments-in-people/?utm_source=rss&utm_medium=rss&utm_campaign=world-population-day-oluremi-tinubu-advocates-investments-in-people",
-      "source": "New Telegraph",
-      "published": "2026-07-11T14:03:41+00:00",
-      "summary": "&#8230;says accurate census&#8217;ll enhance planning  The First Lady, Oluremi Tinubu, on Saturday, advocated global support for investment in people on World Population Day. In a press release issued on Saturday, Mrs Tinubu wrote: &#8220;Today, on World Population Day 2026, I join the global commun",
-      "image": ""
-    },
-    {
-      "title": "HURIWA to FG: Reveal full details of Oyo pupils’ release, compensate victims",
-      "url": "https://www.vanguardngr.com/2026/07/huriwa-to-fg-reveal-full-details-of-oyo-pupils-release-compensate-victims/",
-      "source": "Vanguard",
-      "published": "2026-07-11T14:02:05+00:00",
-      "summary": "…Demands apology over security lapses, ₦50m compensation for each victim By Chioma Obinna The Human Rights Writers Association of Nigeria, (HURIWA), on Saturday urged the Federal Government to disclose the full circumstances surrounding the release of the schoolchildren, teachers and other victims a",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-11-at-6.56.39-AM-1024x683.jpeg"
-    },
-    {
-      "title": "Oriire rescue shows criminals can be defeated with strong political backing — Gbenga Hashim",
-      "url": "https://www.vanguardngr.com/2026/07/oriire-rescue-shows-criminals-can-be-defeated-with-strong-political-backing-gbenga-hashim/",
-      "source": "Vanguard",
-      "published": "2026-07-11T13:58:48+00:00",
-      "summary": "By Ibrahim Hassan-Wuyo ABUJA — Presidential candidate of the Accord Party for the 2027 general election, Dr. Gbenga Olawepo-Hashim, has commended Nigeria&#8217;s security agencies for rescuing victims abducted in Oriire Local Government Area of Oyo State after about 50 days in captivity. Hashim said",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2025/12/gbenga-hashim.png"
-    },
-    {
-      "title": "Ardo Risku: Police arrest 80-year-old, Benue chiefs over murder of Fulani leader",
-      "url": "https://dailypost.ng/2026/07/11/ardo-risku-police-arrest-80-year-old-benue-chiefs-over-murder-of-fulani-leader/",
-      "source": "Daily Post",
-      "published": "2026-07-11T13:58:45+00:00",
-      "summary": "The Benue State Police Command has apprehended seven more suspects, including an 80-year-old man and four traditional rulers, over the murder of the state Chairman of the Miyetti Allah Cattle Breeders Association of Nigeria, MACBAN, Alhaji Ardo Risku Mohammed. Those arrested are Sylvester Ajonye, 80",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/04/Police-5.jpg"
-    },
-    {
-      "title": "One Dead, Seven Injured As Canopy Collapses At New Gombe House Of Assembly Site",
-      "url": "https://www.channelstv.com/2026/07/11/one-dead-seven-injured-as-canopy-collapses-at-new-gombe-house-of-assembly-site/",
-      "source": "Channels TV",
-      "published": "2026-07-11T13:58:16+00:00",
-      "summary": "The incident, which occurred on Friday, involved the sudden collapse of a section of a cantilevered entrance canopy currently under construction.\nThe post One Dead, Seven Injured As Canopy Collapses At New Gombe House Of Assembly Site appeared first on Channels Television.",
-      "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Building-collapse3-150x150.jpg"
-    },
-    {
-      "title": "Journalists denied access to rescued Oriire victims as Makinde visits military hospital",
-      "url": "https://tribuneonlineng.com/journalists-denied-access-to-rescued-oriire-victims-as-makinde-visits-military-hospital/",
-      "source": "Tribune",
-      "published": "2026-07-11T13:57:03+00:00",
-      "summary": "Journalists were on Saturday denied access to the 2 Division Medical Centre, Military Hospital, Ibadan, where pupils, teachers and\nThe post Journalists denied access to rescued Oriire victims as Makinde visits military hospital appeared first on Tribune Online.",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/Oyo-pupils-1.jpg"
-    },
-    {
-      "title": "2027: Labour Party unveils Hajja Konto as vice presidential candidate",
-      "url": "https://dailypost.ng/2026/07/11/2027-labour-party-unveils-hajja-konto-as-vice-presidential-candidate/",
-      "source": "Daily Post",
-      "published": "2026-07-11T13:51:45+00:00",
-      "summary": "The Labour Party, LP, has unveiled Hajja Bintu Konto as its vice presidential candidate for the 2027 presidential election. Mrs Konto will run alongside the presidential candidate, Dr. Chibuzo Okereke, on the Labour Party ticket. A statement signed by Ken Eluma Asogwa, the party&#8217;s National Pub",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/07/Hajja-Konto.jpg"
-    },
-    {
-      "title": "Just In: South Africa’s Jayden Adams, who played at 2026 World Cup, dies at 25",
-      "url": "https://www.vanguardngr.com/2026/07/just-in-south-africa-world-cup-midfielder-jayden-adams-dies-at-25/",
-      "source": "Vanguard",
-      "published": "2026-07-11T13:50:59+00:00",
-      "summary": "Adams played in all three of South Africa's group-stage matches at the tournament but did not feature in the knockout defeat by Canada.\nThe post Just In: South Africa&#8217;s Jayden Adams, who played at 2026 World Cup, dies at 25 appeared first on Vanguard News.",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Jayden-Adams-1024x683.jpeg"
-    },
-    {
-      "title": "Court reserves judgment in suit challenging Pantami’s Gombe PDP governorship candidacy",
-      "url": "https://dailypost.ng/2026/07/11/court-reserves-judgment-in-suit-challenging-pantamis-gombe-pdp-governorship-candidacy/",
-      "source": "Daily Post",
-      "published": "2026-07-11T13:50:25+00:00",
-      "summary": "The Federal High Court in Gombe has reserved judgment in a lawsuit challenging the Peoples Democratic Party (PDP) governorship primary that produced the former Minister of Communications and Digital Economy, Isa Pantami, as the party&#8217;s candidate for the 2027 governorship election. The case was",
-      "image": "https://dailypost.ng/wp-content/uploads/2026/06/Pantami.jpg"
-    },
-    {
-      "title": "Edo LG election: Okpebholo scores voters’ turnout high, praises peaceful conduct",
-      "url": "https://tribuneonlineng.com/edo-lg-election-okpebholo-scores-voters-turnout-high-praises-peaceful-conduct/",
-      "source": "Tribune",
-      "published": "2026-07-11T13:48:45+00:00",
-      "summary": "Governor Monday Okpebholo of Edo State on Saturday commended the high turnout of voters during the Edo State local government election,\nThe post Edo LG election: Okpebholo scores voters’ turnout high, praises peaceful conduct appeared first on Tribune Online.",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2025/04/Okpebholo.webp"
-    },
-    {
-      "title": "Atiku Blasts Tinubu Over Silence Allegation On Oyo Schoolchildren’s Freedom",
-      "url": "https://thewhistler.ng/atiku-blasts-tinubu-over-silence-allegation-on-oyo-schoolchildrens-freedom/",
-      "source": "The Whistler",
-      "published": "2026-07-11T13:48:33+00:00",
-      "summary": "The Presidential Candidate of the African Democratic Congress (ADC), Atiku Abubakar, has faulted the Presidency for alleging that he remained silent following the freedom of abducted schoolchildren and teachers in Oyo State, describing the claim as a deliberate distortion of facts. Atiku, through hi",
-      "image": "https://thewhistler.ng/wp-content/uploads/2023/09/Tinubu-and-Atiku.jpg"
-    },
-    {
-      "title": "Bauchi Tourism Board Reviews Quarterly Performance, Targets Strategic Partnerships",
-      "url": "https://www.thisdaylive.com/2026/07/11/bauchi-tourism-board-reviews-quarterly-performance-targets-strategic-partnerships/",
-      "source": "ThisDay",
-      "published": "2026-07-11T13:46:25+00:00",
-      "summary": "Segun Awofadeji&#160;in Bauchi&#160; The Bauchi State Tourism Development Corporation (BSTDC) held its Quarterly Board Meeting yesterday at its Head Office in Bauchi, mapping out a comprehensive strategy to revitalise the",
-      "image": ""
-    },
-    {
-      "title": "Investiture: ICAN Ibadan inaugurates Salome Ajayi as 26th Chairman",
-      "url": "https://tribuneonlineng.com/investiture-ican-ibadan-inaugurates-salome-ajayi-as-26th-chairman/",
-      "source": "Tribune",
-      "published": "2026-07-11T13:44:53+00:00",
-      "summary": "The Institute of Chartered Accountants of Nigeria (ICAN), Ibadan and District Society, has inaugurated Salome Olabimpe Ajayi as its 26th Chairman. In her acceptance speech at the investiture ceremony and inauguration of the 2026/2027 executive committee on Saturday at Jogor Centre, Liberty Road, Iba",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/ICAN-Ibadan-Investure-scaled.jpeg"
-    },
-    {
-      "title": "Sam Larry Makes 1st Public Appearance After Surviving Car Accident",
-      "url": "https://leadership.ng/sam-larry-makes-1st-public-appearance-after-surviving-car-accident/",
-      "source": "Leadership",
-      "published": "2026-07-11T13:44:34+00:00",
-      "summary": "Popular show promoter, Samson Erinfolami Balogun, popularly known as Sam Larry, has been discharged from the hospital after surviving a car accident that claimed the life of his bouncer on July 5. ‎In a video released online, Sam Larry was seen standing upright in a living room with some of his asso",
-      "image": ""
-    },
-    {
-      "title": "Relish The Weekend With These Top 5 Movies",
-      "url": "https://newtelegraphng.com/relish-the-weekend-with-these-top-5-movies-11/?utm_source=rss&utm_medium=rss&utm_campaign=relish-the-weekend-with-these-top-5-movies-11",
-      "source": "New Telegraph",
-      "published": "2026-07-11T13:43:56+00:00",
-      "summary": "It can really be exhausting to search for movies to watch with family and friends over the weekend after a long week at the office, but with New Telegraph’s top 5 movies to relish the weekend, you can never go wrong. You don’t need to worry about which movies to watch or surfing the internet...\nThe ",
-      "image": ""
-    },
-    {
-      "title": "Kane, Haaland set for blockbuster England vs Norway World Cup quarter-final showdown",
-      "url": "https://businessday.ng/sports/article/kane-haaland-set-for-blockbuster-england-vs-norway-world-cup-quarter-final-showdown/",
-      "source": "BusinessDay",
-      "published": "2026-07-11T13:42:20+00:00",
-      "summary": "England and Norway face off in a blockbuster FIFA 2026 World Cup quarter-final on Saturday, with the spotlight on Harry\nread more Kane, Haaland set for blockbuster England vs Norway World Cup quarter-final showdown",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/KaneHaaland-1-large.jpg"
-    },
-    {
-      "title": "England Battle Norway As Messi’s Argentina Face Swiss In World Cup Quarter-Finals",
-      "url": "https://www.channelstv.com/2026/07/11/england-battle-norway-as-messis-argentina-face-swiss-in-world-cup-quarter-finals/",
-      "source": "Channels TV",
-      "published": "2026-07-11T13:42:03+00:00",
-      "summary": "Since Argentina entered the knockout rounds, frailties have crept in as they were pushed to breaking point by first World Cup debutants Cape Verde and then Egypt.\nThe post England Battle Norway As Messi’s Argentina Face Swiss In World Cup Quarter-Finals appeared first on Channels Television.",
-      "image": "https://www.channelstv.com/wp-content/uploads/2026/06/harry-kane1-150x150.jpg"
-    },
-    {
-      "title": "AAUA lecturers begin indefinite strike over unpaid salaries",
-      "url": "https://www.vanguardngr.com/2026/07/aaua-lecturers-begin-indefinite-strike-over-unpaid-salaries/",
-      "source": "Vanguard",
-      "published": "2026-07-11T13:41:41+00:00",
-      "summary": "By Dayo Johnson AKURE — The Academic Staff Union of Universities (ASUU), Adekunle Ajasin University, Akungba-Akoko (AAUA) chapter, has commenced an indefinite strike over unpaid salaries. In a notice signed by the chapter Chairperson, Comrade Bolu Oshodi, the union said the decision followed resolut",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-11-at-1.40.33-PM-1024x576.jpeg"
-    },
-    {
-      "title": "Peter Obi: Obidient Movement accuses Keyamo of manipulating CCTV footage",
-      "url": "https://tribuneonlineng.com/peter-obi-obidient-movement-accuses-keyamo-of-manipulating-cctv-footage/",
-      "source": "Tribune",
-      "published": "2026-07-11T13:40:29+00:00",
-      "summary": "The Obidient Movement has accused the Minister of Aviation and Aerospace Development, Festus Keyamo (SAN), of manipulating CCTV footage in\nThe post Peter Obi: Obidient Movement accuses Keyamo of manipulating CCTV footage appeared first on Tribune Online.",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2023/04/Peter-Obi_Alamy_2JR9PMD-scaled-1-e1680785414704.jpg"
-    },
-    {
-      "title": "South Africa’s diplomatic image tarnished as London Mission shuts",
-      "url": "https://pmnewsnigeria.com/2026/07/11/south-africas-diplomatic-image-tarnished-as-london-mission-shuts/",
-      "source": "PM News",
-      "published": "2026-07-11T13:40:27+00:00",
-      "summary": "The South African High Commission to the United Kingdom reportedly ceased operations this week without prior notice after the condition of the historic building became unsuitable for staff.",
-      "image": ""
-    },
-    {
-      "title": "APC chairman hails FG, security agencies over rescue of abducted Oyo pupils",
-      "url": "https://www.vanguardngr.com/2026/07/apc-chairman-hails-fg-security-agencies-over-rescue-of-abducted-oyo-pupils/",
-      "source": "Vanguard",
-      "published": "2026-07-11T13:39:24+00:00",
-      "summary": "ABUJA — National Chairman of the All Progressives Congress (APC), Professor Nentawe Yilwatda, has commended the Federal Government and security agencies for securing the release of pupils and teachers abducted in Oriire Local Government Area of Oyo State. In a statement issued on Saturday by his Spe",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/02/Prof-Nentawe-Yilwatda.jpg"
-    },
-    {
-      "title": "NDPHC Hands Over 225MW Gbarain Power Plant for Rehabilitation",
-      "url": "https://www.thisdaylive.com/2026/07/11/ndphc-hands-over-225mw-gbarain-power-plant-for-rehabilitation-2/",
-      "source": "ThisDay",
-      "published": "2026-07-11T13:38:55+00:00",
-      "summary": "Emmanuel Addeh&#160;in Abuja&#160; The Niger Delta Power Holding Company (NDPHC) has officially handed over the rehabilitation of its 225MW Gbarain Power Plant to a joint venture comprising TILT Energy Limited",
-      "image": ""
-    },
-    {
-      "title": "Atiku To Tinubu: Nigeria Needs Commander-In-Chief, Not Campaigner-In-Chief",
-      "url": "https://leadership.ng/atiku-to-tinubu-nigeria-needs-commander-in-chief-not-campaigner-in-chief/",
-      "source": "Leadership",
-      "published": "2026-07-11T13:36:56+00:00",
-      "summary": "Former Vice President and African Democratic Congress (ADC) presidential candidate, Atiku Abubakar, has criticised President Bola Tinubu for allegedly prioritising politics over national security, declaring that Nigeria needs &#8220;a Commander-in-Chief, not a Campaigner-in-Chief.&#8221; Atiku made ",
-      "image": ""
-    },
-    {
-      "title": "Oluranti Expands Amazon Luxury Apartments with Ultra-Modern Facility",
-      "url": "https://www.thisdaylive.com/2026/07/11/oluranti-expands-amazon-luxury-apartments-with-ultra-modern-facility/",
-      "source": "ThisDay",
-      "published": "2026-07-11T13:36:40+00:00",
-      "summary": "In a bid to redefine premium hospitality in Ogun State, veteran Nollywood actor, Alhaji Taiwo Hassan Ogogo, has insugurated a state-of-the-art, ultra-modern swimming pool at the prestigious Amazon Luxury Apartments",
-      "image": ""
-    },
-    {
-      "title": "Ogunbanjo Family Unveils Solar Lighting, Skills Initiative to Honour Bamofin Abimbola Ogunbanjo",
-      "url": "https://www.thisdaylive.com/2026/07/11/ogunbanjo-family-unveils-solar-lighting-skills-initiative-to-honour-bamofin-abimbola-ogunbanjo/",
-      "source": "ThisDay",
-      "published": "2026-07-11T13:33:37+00:00",
-      "summary": "• Project to be formally illuminated July 11 The Ogunbanjo Family, with the support of the Chris Ogunbanjo Foundation, has completed the first phase of the Bamofin Abimbola Ogunbanjo ÌMỌ́LẸ̀",
-      "image": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/image-2545-1024x731.png"
-    },
-    {
-      "title": "Oyo school rescue was display of bravery by security agencies – Ooni",
-      "url": "https://www.vanguardngr.com/2026/07/oyo-school-rescue-was-display-of-bravery-by-security-agencies-ooni/",
-      "source": "Vanguard",
-      "published": "2026-07-11T13:31:46+00:00",
-      "summary": "Ooni of Ife, Oba Adeyeye Ogunwusi, has said that the rescue of abducted School children and their teachers showed the gallant bravery of the nation's security agencies in ensuring the safety of the citizens.\nThe post Oyo school rescue was display of bravery by security agencies &#8211; Ooni appeared",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2023/02/ooni-1-e1711901661715-1024x736.jpg"
-    },
-    {
-      "title": "Iran Supreme Leader Vows Revenge For Father’s Killing",
-      "url": "https://www.channelstv.com/2026/07/11/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-      "source": "Channels TV",
-      "published": "2026-07-11T13:30:03+00:00",
-      "summary": "He became Iran's supreme leader after his father, Ali Khamenei, was killed in late February by US-Israeli strikes, but has not been in public since before the war.\nThe post Iran Supreme Leader Vows Revenge For Father&#8217;s Killing appeared first on Channels Television.",
-      "image": "https://www.channelstv.com/wp-content/uploads/2026/07/Ali-Khamenei-funeral-150x150.webp"
-    },
-    {
-      "title": "FG seeks stronger domestic financing to bridge N720bn health funding gap",
-      "url": "https://tribuneonlineng.com/fg-seeks-stronger-domestic-financing-to-bridge-n720bn-health-funding-gap/",
-      "source": "Tribune",
-      "published": "2026-07-11T13:25:53+00:00",
-      "summary": "The Federal Government has called for stronger domestic resource mobilisation to bridge the ₦720 billion funding gap in Nigeria's 2025 health sector\nThe post FG seeks stronger domestic financing to bridge N720bn health funding gap appeared first on Tribune Online.",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/06/tinubu-1.jpg"
-    },
-    {
-      "title": "PSC Approves Promotion Of Anambra CP Orutugu, 12 Others To AIG",
-      "url": "https://newtelegraphng.com/psc-approves-promotion-of-anambra-cp-orutugu-12-others-to-aig/?utm_source=rss&utm_medium=rss&utm_campaign=psc-approves-promotion-of-anambra-cp-orutugu-12-others-to-aig",
-      "source": "New Telegraph",
-      "published": "2026-07-11T13:22:34+00:00",
-      "summary": "The Police Service Commission (PSC) has approved the promotion of the Commissioner of Police in Anambra State, Livingstein Ikioye Orutugu, alongside 12 other Commissioners of Police (CP), to the rank of Assistant Inspector-General of Police (AIG). The Commission also approved the promotion of 17 Dep",
-      "image": ""
-    },
-    {
-      "title": "Sokoto on Path to Lasting Peace as Gov Aliyu Prioritises Security, Says Shagari",
-      "url": "https://www.thisdaylive.com/2026/07/11/sokoto-on-path-to-lasting-peace-as-gov-aliyu-prioritises-security-says-shagari/",
-      "source": "ThisDay",
-      "published": "2026-07-11T13:21:22+00:00",
-      "summary": "Onuminya Innocent&#160;in Sokoto&#160; Former Minister of Water Resources and Chairman of the Governing Board of the National Inland Waterways Authority (NIWA), Mukhtar Shehu Shagari, has commended Sokoto State Governor, Ahmed",
-      "image": ""
-    },
-    {
-      "title": "Oyebanji to install 32-year-old monarch as Ekiti’s youngest traditional ruler",
-      "url": "https://tribuneonlineng.com/oyebanji-to-install-32-year-old-monarch-as-ekitis-youngest-traditional-ruler/",
-      "source": "Tribune",
-      "published": "2026-07-11T13:20:36+00:00",
-      "summary": "Ekiti State Governor, Biodun Oyebanji, will on Tuesday officially install 32-year-old Oba Adewale Oluwatosin Adewole (Amure Abe IV) as th\nThe post Oyebanji to install 32-year-old monarch as Ekiti&#8217;s youngest traditional ruler appeared first on Tribune Online.",
-      "image": "https://tribuneonlineng.com/wp-content/uploads/2026/07/IMG-20260711-WA0012.jpg"
-    },
-    {
-      "title": "Umahi orders autopsy into physiotherapist’s death in Ebonyi community",
-      "url": "https://thesun.ng/umahi-orders-autopsy-into-physiotherapists-death-in-ebonyi-community/",
-      "source": "The Sun",
-      "published": "2026-07-11T13:20:15+00:00",
-      "summary": "From Uchenna Inya, Abakaliki Minister of Works, Senator David Umahi has ordered autopsy into the death of a physiotherapist, Mary Habila in Uburu, Ohaozara Local Government Area of Ebonyi State. The deceased and Miss Anita Baski are said to be employees of David Umahi Federal University of Health Sc",
-      "image": ""
-    },
-    {
-      "title": "Overbilling row deepens as Ebonyi coalition moves to sue EEDC",
-      "url": "https://pmnewsnigeria.com/2026/07/11/overbilling-row-deepens-as-ebonyi-coalition-moves-to-sue-eedc/",
-      "source": "PM News",
-      "published": "2026-07-11T13:15:49+00:00",
-      "summary": "“We will seek justice for victims of overbilling and other unjust treatments allegedly meted out to electricity consumers in Ebonyi,” he said.",
-      "image": ""
-    },
-    {
-      "title": "Edo LG Polls: Okpebholo Casts Vote, Says Process Peaceful",
-      "url": "https://dailytrust.com/edo-lg-polls-okpebholo-casts-vote-says-process-peaceful/",
-      "source": "Daily Trust",
-      "published": "2026-07-11T13:14:41+00:00",
-      "summary": "The Edo State Governor,  Monday Okpebholo, on Saturday cast his vote during the Local Government elections in the state, describing the process as peaceful. Speaking after casting his ballot at Ward 2, Udomi Primary School, in Esan Central Local Government Area, the governor commended voters for the",
-      "image": ""
-    },
-    {
-      "title": "Police Arrest 80-yr-old, 7 Others Over Killing Of Benue MACBAN Chairman",
-      "url": "https://dailytrust.com/police-arrest-80-yr-old-7-others-over-killing-of-benue-macban-chairman/",
-      "source": "Daily Trust",
-      "published": "2026-07-11T13:14:30+00:00",
-      "summary": "The Police in Benue State have arrested an 80-year-old man and six other suspects in connection with the killing of the Chairman of the Miyetti Allah Cattle Breeders Association of Nigeria (MACBAN), Benue State chapter, Alhaji Ardo Risku Mohammed, and another victim, Yakubu Isa. Late Mohammed and hi",
-      "image": ""
-    },
-    {
-      "title": "Kalu Commends Tinubu, Security Agencies Over Rescue Of Abducted Oyo Students",
-      "url": "https://newtelegraphng.com/kalu-commends-tinubu-security-agencies-over-rescue-of-abducted-oyo-students/?utm_source=rss&utm_medium=rss&utm_campaign=kalu-commends-tinubu-security-agencies-over-rescue-of-abducted-oyo-students",
-      "source": "New Telegraph",
-      "published": "2026-07-11T13:12:51+00:00",
-      "summary": "The Deputy Speaker of the House of Representatives, Hon. Benjamin Kalu, has congratulated President Bola Tinubu, and Vice President Kashim Shettima on the successful rescue of abducted pupils and teachers in Oyo State. Kalu also rejoiced with Nigerians, particularly the parents and relatives of the ",
-      "image": ""
-    },
-    {
-      "title": "Peter Obi lauds rescue of abducted Oyo pupils, teachers",
-      "url": "https://thesun.ng/peter-obi-lauds-rescue-of-abducted-oyo-pupils-teachers/",
-      "source": "The Sun",
-      "published": "2026-07-11T13:11:08+00:00",
-      "summary": "The presidential candidate of Nigeria Democratic Congress (NDC), Mr. Peter Obi, has lauded Friday's safe rescue of schoolchildren and teachers abducted in Oyo State, describing their release as \"worthy of thanksgiving\".\nThe post Peter Obi lauds rescue of abducted Oyo pupils, teachers appeared first ",
-      "image": ""
-    },
-    {
-      "title": "Kaduna Issues Urgent Health Advisory As Diphtheria Cases Rise Among Children",
-      "url": "https://www.channelstv.com/2026/07/11/kaduna-issues-urgent-health-advisory-as-diphtheria-cases-rise-among-children/",
-      "source": "Channels TV",
-      "published": "2026-07-11T13:09:49+00:00",
-      "summary": "Diphtheria is a highly contagious bacterial infection that primarily affects the nose and throat and spreads through coughing, sneezing, close physical contact with infected persons, or sharing contaminated personal items.\nThe post Kaduna Issues Urgent Health Advisory As Diphtheria Cases Rise Among ",
-      "image": ""
-    },
-    {
-      "title": "World Cup: Scaloni urges Argentina to show grit against Switzerland",
-      "url": "https://businessday.ng/sports/article/world-cup-scaloni-urges-argentina-to-show-grit-against-switzerland/",
-      "source": "BusinessDay",
-      "published": "2026-07-11T13:09:07+00:00",
-      "summary": "Lionel Scaloni wants Argentina remembered as a team that never gave up ahead of Sunday&#8217;s FIFA 2026 World Cup quarter-final\nread more World Cup: Scaloni urges Argentina to show grit against Switzerland",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/lionel-scaloni-argentina-large.jpg"
     }
   ],
   "africa_news": [
@@ -807,6 +807,62 @@
   ],
   "world_news": [
     {
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News World",
+      "published": "2026-07-11T15:45:31+00:00",
+      "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg"
+    },
+    {
+      "title": "Overnight Russian missile and drone strikes on Ukraine kill six, officials say",
+      "url": "https://www.france24.com/en/europe/20260711-overnight-russian-missile-and-drone-strikes-on-ukraine-kill-six-officials-say",
+      "source": "France 24",
+      "published": "2026-07-11T15:44:09+00:00",
+      "summary": "Russian attacks on Ukraine killed six people, including a child, and wounded dozens more, according to local officials on Saturday. Moscow launched more than 120 drones and 12 missiles during the night, according to Ukrainian President Volodymyr Zelensky, putting his country's air defence system und",
+      "image": "https://s.france24.com/media/display/5f2d8e72-7d3e-11f1-9072-005056bfb2b6/w:1024/p:16x9/AP26192553728879.jpg"
+    },
+    {
+      "title": "Merlier wins eighth stage of the Tour de France in bunch sprint",
+      "url": "https://www.france24.com/en/france/20260711-merlier-wins-eighth-stage-of-the-tour-de-france-in-bunch-sprint",
+      "source": "France 24",
+      "published": "2026-07-11T15:41:09+00:00",
+      "summary": "",
+      "image": "https://s.france24.com/media/display/eff1308a-7d3e-11f1-be4e-005056a97e36/w:1024/p:16x9/90bed52f24d76bdcf2864c1f8deb0567d02d4817.jpg"
+    },
+    {
+      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News World",
+      "published": "2026-07-11T15:40:23+00:00",
+      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1ec/live/f2614840-7d30-11f1-8f06-e145dd803033.jpg"
+    },
+    {
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News World",
+      "published": "2026-07-11T15:03:45+00:00",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg"
+    },
+    {
+      "title": "South Africa 2026 World Cup midfielder Jayden Adams dies at 25",
+      "url": "https://www.france24.com/en/sport/20260711-south-africa-2026-world-cup-midfielder-jayden-adams-dies-at-25",
+      "source": "France 24",
+      "published": "2026-07-11T15:00:42+00:00",
+      "summary": "South Africa midfielder Jayden Adams has died at the age of 25, according to the country's sports ministry on Saturday. Officials have not disclosed a cause of death for the football player who represented his country in the ongoing World Cup. Police opened an investigation after Adams' body was fou",
+      "image": "https://s.france24.com/media/display/4f6b913e-7d37-11f1-a346-005056bf30b7/w:1024/p:16x9/AP26170519899759-1.jpg"
+    },
+    {
+      "title": "11 wounded in overnight Russian missile and drone strikes on Kyiv",
+      "url": "https://www.france24.com/en/video/20260711-11-wounded-in-overnight-russian-missile-and-drone-strikes-on-kyiv",
+      "source": "France 24",
+      "published": "2026-07-11T14:54:06+00:00",
+      "summary": "At least 11 people, including a child, were wounded after Russia launched an overnight missile and drone attack on Kyiv early Saturday, according to Ukraine’s State Emergency Service.",
+      "image": "https://s.france24.com/media/display/de0ff248-7d34-11f1-b10d-005056bf30b7/w:1024/p:16x9/EN-20260711-150718-150853-CS.jpg"
+    },
+    {
       "title": "South Africa World Cup midfielder Adams dies aged 25",
       "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News World",
@@ -847,14 +903,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94a/live/062ee420-7d2e-11f1-9bb6-f90d2cb001e2.jpg"
     },
     {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News World",
-      "published": "2026-07-11T14:08:07+00:00",
-      "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9e/live/f34fa810-7cfd-11f1-926f-c90d1bcfbc84.jpg"
-    },
-    {
       "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
       "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News World",
@@ -869,6 +917,14 @@
       "published": "2026-07-11T13:35:09+00:00",
       "summary": "The president had wanted voter ID legislation passed before the housing law, which aims to reduce costs and increase supply.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/0335cba0-7c6e-11f1-98fd-6b03daaf8a77.jpg"
+    },
+    {
+      "title": "'This is our sky': Palestinians fly kites in defiance of Israeli settlers in West Bank",
+      "url": "https://www.france24.com/en/middle-east/20260711-this-is-our-sky-palestinians-fly-kites-in-defiance-of-israeli-settlers-in-west-bank",
+      "source": "France 24",
+      "published": "2026-07-11T13:33:14+00:00",
+      "summary": "Every summer since 2009, residents of a Palestinian village in the Israeli-occupied West Bank have gathered for a kite festival. The event is held on land that they say has been partly lost since a settlement was established in 1983. The festival, while primarily for children, carries a \"political m",
+      "image": "https://s.france24.com/media/display/10b34c20-7d2d-11f1-a197-005056bf30b7/w:1024/p:16x9/874953d3364d1948cd6f8a04ac90abf36d10d9a8.jpg"
     },
     {
       "title": "France - Wildfires: 1,500 evacuated from campsites near Perpignan",
@@ -943,14 +999,6 @@
       "image": "https://i.guim.co.uk/img/media/d858003c23f5b83b5571c5f6ef15e6cd9be9eebc/753_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=a005778c97ec1794e7dd4edfc5732eb0"
     },
     {
-      "title": "World Cup 2026 : Spain set for blockbuster semi final against France",
-      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260711-world-cup-2026-spain-set-for-blockbuster-semi-final-against-france",
-      "source": "France 24",
-      "published": "2026-07-11T11:56:07+00:00",
-      "summary": "Paris Saint Germain midfielder Fabian Ruiz, who started ahead of Pedri, gave la Roja the lead in the 30th minute, capitalizing on a rebound off a Thibaud Courtois save. Belgium though brought it back level 11 minute later with a powerful De Ketelaere header, therefore ending Spain's remarkable run o",
-      "image": "https://s.france24.com/media/display/edf6e8d8-7d1b-11f1-8265-005056a90284/w:1024/p:16x9/ESPAGNE-BELGIQUE.png"
-    },
-    {
       "title": "Zimbabweans return home amid xenophobic violence in South Africa",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss",
       "source": "Al Jazeera",
@@ -975,28 +1023,12 @@
       "image": ""
     },
     {
-      "title": "Firefighters gain upper hand on 'horrific' Spain wildfires that killed at least 12",
-      "url": "https://www.france24.com/en/europe/20260711-firefighters-gain-upper-hand-on-horrific-spain-wildfire-that-killed-at-least-12",
-      "source": "France 24",
-      "published": "2026-07-11T10:39:12+00:00",
-      "summary": "Firefighters gained the upper hand on wildfires in Spain on Saturday, aided by better weather conditions. Around 500 firefighters are battling the blaze that erupted Thursday in the southern region of Andalusia. At least 12 people have died since the fire started, according to officials, and another",
-      "image": "https://s.france24.com/media/display/c0dc97be-7d14-11f1-80ad-005056a97e36/w:1024/p:16x9/2cc89794cfef4960b0a65b08de7f358e2012a492.jpg"
-    },
-    {
       "title": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
       "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-07-11T10:14:39+00:00",
       "summary": "Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.",
       "image": ""
-    },
-    {
-      "title": "France roar back with 30 straight points to beat Australia in Nations Championship",
-      "url": "https://www.france24.com/en/sport/20260711-france-roar-back-with-30-straight-points-to-beat-australia-in-nations-championship",
-      "source": "France 24",
-      "published": "2026-07-11T09:51:10+00:00",
-      "summary": "Aaron Grandidier-Nkanang scored two tries and Romain Ntamack orchestrated a big comeback as France rallied from a nine-point half-time deficit to clinch a 42-26 win over Australia on Saturday in the second round of the rugby Nations Championship.",
-      "image": "https://s.france24.com/media/display/0aa68f0a-7d0e-11f1-8772-005056bf30b7/w:1024/p:16x9/3f1f715d98cf7d53b83675d3f9d081751deabaa0.jpg"
     },
     {
       "title": "World cup wrap day 30",
@@ -1015,44 +1047,12 @@
       "image": ""
     },
     {
-      "title": "Kenya’s \"Birdman\" goes viral with rescued birds — and sparks health concerns",
-      "url": "https://www.france24.com/en/video/20260711-kenya-s-birdman-goes-viral-with-rescued-birds-and-sparks-health-concerns",
-      "source": "France 24",
-      "published": "2026-07-11T09:32:21+00:00",
-      "summary": "A Kenyan man known online as “Birdman” has become a viral sensation for sharing his life with rescued wild birds. The former homeless man from Nairobi says caring for injured birds gave him purpose and now forms the heart of his conservation message. However, after videos showed him eating from the ",
-      "image": "https://s.france24.com/media/display/aa63d5c2-7d07-11f1-942f-005056a90284/w:1024/p:16x9/EN-20260710-215533-215705-CS.jpg"
-    },
-    {
-      "title": "World Cup 2026: Morocco still reeling after defeat to France",
-      "url": "https://www.france24.com/en/video/20260711-world-cup-2026-morocco-still-reeling-after-defeat-to-france",
-      "source": "France 24",
-      "published": "2026-07-11T09:30:13+00:00",
-      "summary": "For the second straight tournament, Morocco was ousted by the French 2-0 — this time in the quarterfinals on Thursday at Gillette Stadium, four years after losing by the same score in the semifinals.",
-      "image": "https://s.france24.com/media/display/42a86e7a-7d07-11f1-88ec-005056a90284/w:1024/p:16x9/EN-20260710-215238-215453-CS.jpg"
-    },
-    {
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News World",
-      "published": "2026-07-11T09:01:15+00:00",
-      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd0/live/59a16160-7cfb-11f1-bbe2-7f9a5a48eac9.jpg"
-    },
-    {
       "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
       "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News World",
       "published": "2026-07-11T08:23:45+00:00",
       "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg"
-    },
-    {
-      "title": "Australian killer's final police interview footage released",
-      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News World",
-      "published": "2026-07-11T08:00:27+00:00",
-      "summary": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c6d/live/2e666a70-61c9-11f0-8fa1-bd335d99a553.jpg"
     },
     {
       "title": "Venezuela quake death toll passes 4,000 as scale of recovery effort looms large",
@@ -1129,6 +1129,30 @@
   ],
   "tech_news": [
     {
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "source": "Hacker News",
+      "published": "2026-07-11T15:28:02+00:00",
+      "summary": "Article URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\nComments URL: https://news.ycombinator.com/item?id=48872874\nPoints: 15\n# Comments: 0",
+      "image": ""
+    },
+    {
+      "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
+      "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+      "source": "The Verge",
+      "published": "2026-07-11T15:00:00+00:00",
+      "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. A",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2887.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
+      "title": "Nintendo’s Talking Flower got a small price cut",
+      "url": "https://www.theverge.com/gadgets/964138/nintendo-talking-flower-mario-wonder-deal-sale",
+      "source": "The Verge",
+      "published": "2026-07-11T15:00:00+00:00",
+      "summary": "If you’re the type of person who could always use a little extra positive affirmation, or you have a weakness for weird gadgets, the Talking Flower might be of interest. I’m only kind of serious. The toy is based on a character from Super Mario Bros. Wonder that guides Mario through levels with quip",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/SMBW_Talking_Flower_001_illu01_01_R_ad-0.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+    },
+    {
       "title": "White House taps the guy who keeps crying ‘aliens’ to run UFO group",
       "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
       "source": "The Verge",
@@ -1157,7 +1181,7 @@
       "url": "https://languagelog.ldc.upenn.edu/myl/Good1964.pdf",
       "source": "Hacker News",
       "published": "2026-07-11T13:33:17+00:00",
-      "summary": "Article URL: https://languagelog.ldc.upenn.edu/myl/Good1964.pdf\nComments URL: https://news.ycombinator.com/item?id=48871932\nPoints: 18\n# Comments: 1",
+      "summary": "Article URL: https://languagelog.ldc.upenn.edu/myl/Good1964.pdf\nComments URL: https://news.ycombinator.com/item?id=48871932\nPoints: 36\n# Comments: 19",
       "image": ""
     },
     {
@@ -1173,15 +1197,15 @@
       "url": "https://fazamhd.com/mental-models/networking/",
       "source": "Hacker News",
       "published": "2026-07-11T12:30:40+00:00",
-      "summary": "Article URL: https://fazamhd.com/mental-models/networking/\nComments URL: https://news.ycombinator.com/item?id=48871470\nPoints: 118\n# Comments: 42",
+      "summary": "Article URL: https://fazamhd.com/mental-models/networking/\nComments URL: https://news.ycombinator.com/item?id=48871470\nPoints: 169\n# Comments: 48",
       "image": ""
     },
     {
-      "title": "FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "title": "FCC approves test of space mirror to light night sky",
+      "url": "https://theconversation.com/the-u-s-just-approved-a-giant-space-mirror-to-test-sunlight-on-demand-low-earth-orbit-is-getting-weird-283482",
       "source": "Hacker News",
       "published": "2026-07-11T12:12:34+00:00",
-      "summary": "Article URL: https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html\nComments URL: https://news.ycombinator.com/item?id=48871367\nPoints: 51\n# Comments: 46",
+      "summary": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror....https://www.pcmag.com/news/fcc-approves-reflect-orbitals-gia...\n\nComments URL: https://news.ycombinator.com/item?id=48871367\nPoints: 59\n# Comments: 59",
       "image": ""
     },
     {
@@ -1221,7 +1245,7 @@
       "url": "https://tiki.li/blog/lucky_code.html",
       "source": "Hacker News",
       "published": "2026-07-11T10:50:10+00:00",
-      "summary": "Article URL: https://tiki.li/blog/lucky_code.html\nComments URL: https://news.ycombinator.com/item?id=48870799\nPoints: 78\n# Comments: 29",
+      "summary": "Article URL: https://tiki.li/blog/lucky_code.html\nComments URL: https://news.ycombinator.com/item?id=48870799\nPoints: 101\n# Comments: 57",
       "image": ""
     },
     {
@@ -1229,7 +1253,15 @@
       "url": "https://anti-forbes-list.vercel.app",
       "source": "Hacker News",
       "published": "2026-07-11T09:54:14+00:00",
-      "summary": "Article URL: https://anti-forbes-list.vercel.app\nComments URL: https://news.ycombinator.com/item?id=48870472\nPoints: 14\n# Comments: 4",
+      "summary": "Article URL: https://anti-forbes-list.vercel.app\nComments URL: https://news.ycombinator.com/item?id=48870472\nPoints: 33\n# Comments: 25",
+      "image": ""
+    },
+    {
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News",
+      "published": "2026-07-11T09:36:53+00:00",
+      "summary": "Article URL: https://www.mixfont.com/ghost-font\nComments URL: https://news.ycombinator.com/item?id=48870381\nPoints: 85\n# Comments: 76",
       "image": ""
     },
     {
@@ -1239,6 +1271,14 @@
       "published": "2026-07-11T09:30:00+00:00",
       "summary": "The Police Special Fraud Unit has arrested a suspected member of a cybercrime syndicate accused of using Point&#8230;",
       "image": "https://technext24.com/wp-content/uploads/2026/05/image-63.png"
+    },
+    {
+      "title": "Why it's so difficult to produce American-made medical gloves",
+      "url": "https://www.bloomberg.com/news/features/2026-07-07/why-it-s-so-difficult-to-produce-100-american-made-medical-gloves",
+      "source": "Hacker News",
+      "published": "2026-07-11T09:16:10+00:00",
+      "summary": "https://archive.ph/wtC7m\n\nComments URL: https://news.ycombinator.com/item?id=48870258\nPoints: 78\n# Comments: 75",
+      "image": ""
     },
     {
       "title": "Klump brings multi-bank instalment payments to Jumia’s online checkout",
@@ -1269,7 +1309,7 @@
       "url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/",
       "source": "Hacker News",
       "published": "2026-07-11T05:19:41+00:00",
-      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 156\n# Comments: 51",
+      "summary": "Article URL: https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/\nComments URL: https://news.ycombinator.com/item?id=48868996\nPoints: 169\n# Comments: 55",
       "image": ""
     },
     {
@@ -1325,7 +1365,7 @@
       "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
       "source": "Hacker News",
       "published": "2026-07-10T22:30:44+00:00",
-      "summary": "https://www.science.org/doi/10.1126/science.aei1285\n\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 314\n# Comments: 135",
+      "summary": "https://www.science.org/doi/10.1126/science.aei1285\n\nComments URL: https://news.ycombinator.com/item?id=48866134\nPoints: 327\n# Comments: 142",
       "image": ""
     },
     {
@@ -1357,23 +1397,15 @@
       "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
       "source": "Hacker News",
       "published": "2026-07-10T20:47:09+00:00",
-      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 1297\n# Comments: 698",
+      "summary": "https://www.macrumors.com/2026/07/10/apple-sues-openai/\n\nComments URL: https://news.ycombinator.com/item?id=48865019\nPoints: 1345\n# Comments: 728",
       "image": ""
-    },
-    {
-      "title": "A decade later, Pokémon Go finally made good on its original promise",
-      "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-      "source": "The Verge",
-      "published": "2026-07-10T19:51:10+00:00",
-      "summary": "When Niantic dropped the first Pok&#233;mon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pok&#233;mon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pok&#233;mon Go showed the world how it's done. Almost 2,000 playe",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "An update on residential proxies and the scraper situation",
       "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
       "source": "Hacker News",
       "published": "2026-07-10T19:38:34+00:00",
-      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\nComments URL: https://news.ycombinator.com/item?id=48864252\nPoints: 253\n# Comments: 259",
+      "summary": "Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/\nComments URL: https://news.ycombinator.com/item?id=48864252\nPoints: 268\n# Comments: 282",
       "image": ""
     },
     {
@@ -1393,22 +1425,6 @@
       "image": ""
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News",
-      "published": "2026-07-10T18:29:19+00:00",
-      "summary": "https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...\n\nComments URL: https://news.ycombinator.com/item?id=48863490\nPoints: 489\n# Comments: 402",
-      "image": ""
-    },
-    {
-      "title": "New York City to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
-      "source": "Hacker News",
-      "published": "2026-07-10T18:26:24+00:00",
-      "summary": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani...\n\nComments URL: https://news.ycombinator.com/item?id=48863464\nPoints: 577\n# Comments: 286",
-      "image": ""
-    },
-    {
       "title": "GTCO CEO’s challenge to fintechs resurfaces. What HabariPay’s numbers reveal",
       "url": "https://technext24.com/news/gtco-ceos-challenge-to-fintechs-resurfaces/",
       "source": "Technext",
@@ -1421,7 +1437,7 @@
       "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
       "source": "Hacker News",
       "published": "2026-07-10T17:51:07+00:00",
-      "summary": "Article URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\nComments URL: https://news.ycombinator.com/item?id=48863064\nPoints: 233\n# Comments: 801",
+      "summary": "Article URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/\nComments URL: https://news.ycombinator.com/item?id=48863064\nPoints: 246\n# Comments: 864",
       "image": ""
     },
     {
@@ -1453,15 +1469,7 @@
       "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
       "source": "Hacker News",
       "published": "2026-07-10T16:48:41+00:00",
-      "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\nComments URL: https://news.ycombinator.com/item?id=48862365\nPoints: 236\n# Comments: 81",
-      "image": ""
-    },
-    {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "source": "Hacker News",
-      "published": "2026-07-10T16:37:52+00:00",
-      "summary": "Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/\nComments URL: https://news.ycombinator.com/item?id=48862252\nPoints: 211\n# Comments: 159",
+      "summary": "Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/\nComments URL: https://news.ycombinator.com/item?id=48862365\nPoints: 240\n# Comments: 82",
       "image": ""
     },
     {
@@ -1599,14 +1607,6 @@
       "published": "2026-07-10T11:09:24+00:00",
       "summary": "Unlike traditional credit decisions, where a loan officer can explain the factors that informed an outcome, AI-driven decisions are often based on proprietary models controlled entirely by the financial institution.",
       "image": ""
-    },
-    {
-      "title": "Solar energy now powers 20% of Nigeria’s electricity usage, to hit 50% in 3 years",
-      "url": "https://technext24.com/reviews/solar-power-makes-20-electricity-nigeria/",
-      "source": "Technext",
-      "published": "2026-07-10T11:04:43+00:00",
-      "summary": "The adoption of solar power has risen significantly in recent years, now accounting for up to 20% of&#8230;",
-      "image": "https://technext24.com/wp-content/uploads/2024/02/Untitled-design-25.png"
     }
   ],
   "events": [
@@ -1625,14 +1625,6 @@
       "published": "2026-07-11T00:29:25+00:00",
       "summary": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
       "image": ""
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "source": "The Verge",
-      "published": "2026-07-10T21:36:51+00:00",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Prod",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
     },
     {
       "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
@@ -1741,12 +1733,92 @@
   ],
   "football_news": [
     {
-      "title": "Bates 'one of the most important and controversial figures in Chelsea history'",
-      "url": "https://www.skysports.com/watch/video/13562561/ken-bates-one-of-the-most-important-and-controversial-figures-in-chelsea-history",
+      "title": "World Cup 2026: Argentina Must Show Grit Against Switzerland  –Scaloni",
+      "url": "https://www.completesports.com/world-cup-2026-argentina-must-show-grit-against-switzerland-scaloni/",
+      "source": "Completesports",
+      "published": "2026-07-11T15:52:12+00:00",
+      "summary": "Argentina coach Lionel Scaloni has disclosed that the team must show more grit if they are to defeat Switzerland in the quarter-final of the FIFA World Cup 2026. The defending champions are facing resilient opposition in Kansas City but remain driven by their head coach&#8217;s emotional call for to",
+      "image": ""
+    },
+    {
+      "title": "Morning and afternoon session highlights: India in complete control at tea",
+      "url": "https://www.skysports.com/watch/video/13562577/england-vs-india-womens-test-morning-and-afternoon-session-day-two-highlights",
+      "source": "Sky Sports Football",
+      "published": "2026-07-11T15:48:00+00:00",
+      "summary": "Highlights of the morning and afternoon sessions on day two of the Women's Test between England and India.",
+      "image": "https://e2.365dm.com/26/07/1920x1080/cricket-test-women_7295341.jpg?20260711154956"
+    },
+    {
+      "title": "Incredible sequence! Comical drop catch, huge Brook six AND superb fan catch!",
+      "url": "https://www.skysports.com/watch/video/13562575/comical-drop-catch-followed-by-incredible-six-and-wonderful-crowd-catch",
+      "source": "Sky Sports Football",
+      "published": "2026-07-11T15:46:00+00:00",
+      "summary": "Shivam Dube fails to make a catch in comical fashion, which is then followed by a six by captain Harry Brook, and topped off with a superb catch from the crowd!",
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-t20-cricket_7295344.jpg?20260711155030"
+    },
+    {
+      "title": "Super Falcons Midfielder Payne Joins Inter Milan On Two-Year Deal",
+      "url": "https://www.completesports.com/super-falcons-midfielder-payne-joins-inter-milan-on-two-year-deal/",
+      "source": "Completesports",
+      "published": "2026-07-11T15:27:56+00:00",
+      "summary": "Super Falcons midfield star Toni Payne has left Everton and joined Inter Milan on a two-year deal. Inter announced the signing in a statement released on their official website on Saturday. “Internazionale Milano announces the arrival of Antionette Oyedupe &#8220;Toni&#8221; Payne at the Nerazzurri.",
+      "image": ""
+    },
+    {
+      "title": "Wolves Turn Down Fiorentina Bid For Arokodare",
+      "url": "https://www.completesports.com/wolves-turn-down-fiorentina-bid-for-arokodare/",
+      "source": "Completesports",
+      "published": "2026-07-11T15:21:40+00:00",
+      "summary": "Wolverhampton Wanderers have turned down an approach from Serie A club Fiorentina for Nigerian striker Tolu Arokodare, according to transfer expert Fabrizio Romano. Romano also disclosed that Turkish Super Lig outfit Trabzonspor have submitted a proposal for the forward, but the player is not intere",
+      "image": ""
+    },
+    {
+      "title": "Ryu makes history at Amundi Evian Championship with record-breaking round",
+      "url": "https://www.skysports.com/watch/video/13562570/haeran-ryu-makes-history-at-the-amundi-evian-championship-after-shooting-lowest-ever-round-in-a-mens-or-womens-major",
+      "source": "Sky Sports Football",
+      "published": "2026-07-11T15:21:00+00:00",
+      "summary": "Haeran Ryu makes history after shooting the lowest-ever round in a men's or women's major at the Amundi Evian Championship.",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-golf-ryu_7295324.jpg?20260711152816"
+    },
+    {
+      "title": "First Bank/Samuel Okwaraji CompetitionGovernment College Emerge Lagos Champions",
+      "url": "https://sportinglife.ng/first-bank-samuel-okwaraji-competitiongovernment-college-emerge-lagos-champions/",
+      "source": "SportingLife NG",
+      "published": "2026-07-11T15:10:46+00:00",
+      "summary": "The Lagos State finals of the inaugural First Bank and Samuel Okwaraji Foundation organised national secondary schools football competition has ended with Government College, Eric Moore emerging winners. Government College, Eric Moore defeated Ikeja Senior High School 3-1 in a rain soaked but very e",
+      "image": "https://sportinglife.ng/wp-content/uploads/2026/07/ea87633f-b36c-45bf-93d4-3f12b28bd27b.jpeg"
+    },
+    {
+      "title": "South Africa Midfield Star Dies Just Weeks After Featuring At 2026 World Cup",
+      "url": "https://www.completesports.com/south-africa-midfield-star-dies-just-weeks-after-featuring-at-2026-world-cup/",
+      "source": "Completesports",
+      "published": "2026-07-11T15:10:17+00:00",
+      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died at the age of 25, just weeks after featuring for his country at the World Cup, BBC Sport reports. Adams featured in all three of South Africa&#8217;s group games at the tournament, where they reached the knockout stages before losin",
+      "image": ""
+    },
+    {
+      "title": "Transfer: New twist emerges in Kelechi Iheanacho’s Celtic future",
+      "url": "https://soccernet.ng/2026/07/transfer-kelechi-iheanacho-celtic.html",
+      "source": "Soccernet NG",
+      "published": "2026-07-11T15:09:43+00:00",
+      "summary": "Kelechi Iheanacho's future at Celtic has taken another twist, with clubs from Saudi Arabia and Qatar now entering the race for the Super Eagles striker, Soccernet.ng reports. The 29-year-old became a free agent after his contract with the Scottish champions expired at the end of June, although Celti",
+      "image": "https://soccernet.ng/thumbor/EHXCc5c5AlCxcblrVFFmfG_G8as=/4000x2667/smart/https%3A%2F%2Fmedia.soccernet.ng%2Fmain%2F2026%2F05%2Fimago1077799599.jpg"
+    },
+    {
+      "title": "Fulham latest: Deal agreed to sign Celtic youngster",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "source": "Sky Sports Football",
       "published": "2026-07-11T15:00:00+00:00",
-      "summary": "Sky Sports' Kaveh Solhekol pays homage to Ken Bates and his dedication to Chelsea.",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-football-kav-bates_7295297.jpg?20260711151212"
+      "summary": "",
+      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-fulham-transfer-news_7293560.jpg?20260709104446"
+    },
+    {
+      "title": "Klopp reaches ‘understanding’ to take over as Germany coach",
+      "url": "https://www.vanguardngr.com/2026/07/klopp-reaches-understanding-to-take-over-as-germany-coach/",
+      "source": "Vanguard Sports",
+      "published": "2026-07-11T14:55:19+00:00",
+      "summary": "The German Football Federation (DFB) announced on Saturday that it was close to an agreement with Jurgen Klopp for him to become the new Germany coach.\nThe post Klopp reaches &#8216;understanding&#8217; to take over as Germany coach appeared first on Vanguard News.",
+      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2024/05/kLOPP-LIVERPOOL.webp"
     },
     {
       "title": "Britain's Patten wins second Wimbledon doubles title and hits out at proposed cuts",
@@ -1755,6 +1827,14 @@
       "published": "2026-07-11T14:52:00+00:00",
       "summary": "Britain's Henry Patten and Finland's Harri Heliovaara won their second Wimbledon men's doubles title with a straight-sets victory.",
       "image": "https://e0.365dm.com/26/07/1920x1080/skysports-henry-patten-harri-heliovaara_7295280.jpg?20260711145554"
+    },
+    {
+      "title": "Klopp agrees to replace Nagelsmann as Germany coach",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport Football",
+      "published": "2026-07-11T14:48:39+00:00",
+      "summary": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddab/live/df173670-7860-11f1-ab53-3dbca6ef5ee1.jpg"
     },
     {
       "title": "South Africa World Cup midfielder Adams dies aged 25",
@@ -1805,12 +1885,12 @@
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/07/Jayden-Adams-1024x683.jpeg"
     },
     {
-      "title": "Buttler, Brook building with bat as England eye world No 1 spot vs India LIVE!",
+      "title": "Buttler out for 131 after record partnership Brook vs India LIVE!",
       "url": "https://www.skysports.com/cricket/live-blog/12040/13562229/england-vs-india-fifth-t20-international-cricket-score-updates-video-and-analysis-as-harry-brooks-side-chase-world-no-1-spot",
       "source": "Sky Sports Football",
       "published": "2026-07-11T13:45:00+00:00",
       "summary": "",
-      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-brook-england_7294050.jpg?20260709211913"
+      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-harry-brook-jos-buttler_7295356.jpg?20260711162450"
     },
     {
       "title": "Klopp agrees deal in principle to manage Germany",
@@ -1861,20 +1941,12 @@
       "image": "https://e2.365dm.com/26/07/1920x1080/cricket-women-test_7295214.jpg?20260711131144"
     },
     {
-      "title": "Can Zverev deny unstoppable Sinner from defending Wimbledon title?",
-      "url": "https://www.skysports.com/tennis/news/12040/13562478/wimbledon-mens-singles-final-can-alexander-zverev-deny-unstoppable-world-no-1-jannik-sinner-from-defending-title",
+      "title": "Borthwick's England snap five-match losing run with thrashing of 14-player Fiji",
+      "url": "https://www.skysports.com/rugby-union/fiji-vs-england/report/111674",
       "source": "Sky Sports Football",
-      "published": "2026-07-11T12:38:00+00:00",
-      "summary": "Jannik Sinner will head into his second Wimbledon final on Sunday as big favourite to retain the title having beaten Alexander Zverev in their last nine meetings.",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-tennis-wimbledon_7295105.jpg?20260711100807"
-    },
-    {
-      "title": "Nations Championship LIVE! England hammering 14-player Fiji after red card",
-      "url": "https://www.skysports.com/rugby-union/live-blog/12040/13562519/nations-championship-live-england-vs-fiji-updates-latest-score-team-news-commentary-from-hill-dickinson-stadium-in-liverpool",
-      "source": "Sky Sports Football",
-      "published": "2026-07-11T12:05:00+00:00",
-      "summary": "",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-marcus-smith-england_7295251.jpg?20260711142939"
+      "published": "2026-07-11T12:29:00+00:00",
+      "summary": "Steve Borthwick's England snapped a run of five consecutive Test defeats with a 73-8 thrashing of 14-player Fiji in the Nations Championship at the Hill Dickinson Stadium in Liverpool.&#160;",
+      "image": "https://e0.365dm.com/26/07/1920x1080/skysports-pollock-england-rugby_7295355.jpg?20260711162412"
     },
     {
       "title": "From Arsenal jeers to Swiss tears: Xhaka's redemption",
@@ -1957,14 +2029,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0975/live/46755780-7d10-11f1-bee8-53ce494e1abc.png"
     },
     {
-      "title": "India motoring with big lead after England all out for 170 at Lord's LIVE!",
-      "url": "https://www.skysports.com/cricket/live-blog/12040/13562398/england-vs-india-womens-test-day-two-live-cricket-score-updates-video-and-analysis-from-historic-game-at-lords",
-      "source": "Sky Sports Football",
-      "published": "2026-07-11T10:15:00+00:00",
-      "summary": "",
-      "image": "https://e2.365dm.com/26/07/1920x1080/skysports-sophie-ecclestone_7295261.jpg?20260711143857"
-    },
-    {
       "title": "Victor Osimhen transfer: Galatasaray take key step to keep Super Eagles star in Istanbul",
       "url": "https://soccernet.ng/2026/07/victor-osimhen-galatasaray-super-eagles-4.html",
       "source": "Soccernet NG",
@@ -2017,7 +2081,7 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport Football",
       "published": "2026-07-11T07:54:32+00:00",
-      "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+      "summary": "Before tonight's quarter-final against Norway, senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d5/live/fd1276c0-7cd5-11f1-96b0-c159ef728dbe.jpg"
     },
     {
@@ -2125,54 +2189,6 @@
       "image": "https://cdn.vanguardngr.com/wp-content/uploads/2021/06/NFF-NEW-SECRETARIAT1-1-1024x683.jpg"
     },
     {
-      "title": "Fredrick Delighted With New Brentford Deal, Eyes Premier League Debut",
-      "url": "https://www.completesports.com/fredrick-delighted-with-new-brentford-deal-eyes-premier-league-debut/",
-      "source": "Completesports",
-      "published": "2026-07-11T04:12:08+00:00",
-      "summary": "Benjamin Fredrick has expressed his delight after signing a new four-year contract with Brentford and earning promotion to the club&#8217;s first-team squad. The Premier League club announced on Friday that the Nigeria international has signed a new long-term contract, committing his future to the B",
-      "image": ""
-    },
-    {
-      "title": "Venezia Reach Agreement With Sevilla For Adams",
-      "url": "https://www.completesports.com/venezia-reach-agreement-with-sevilla-for-adams/",
-      "source": "Completesports",
-      "published": "2026-07-11T02:37:42+00:00",
-      "summary": "Serie A club Venezia have reached an agreement with Sevilla to sign Super Eagles striker Akor Adams, Completesports.com reports. According to transfer expert Fabrizio Romano, Sevilla will receive a €16 million transfer fee for the Nigeria international. The Spanish club turned down earlier bids from",
-      "image": ""
-    },
-    {
-      "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport Football",
-      "published": "2026-07-10T23:29:52+00:00",
-      "summary": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/36c6f360-7cbc-11f1-b6c2-a71c5c448f77.jpg"
-    },
-    {
-      "title": "England’s Rice, Guehi and James train ahead of Norway World Cup clash",
-      "url": "https://www.vanguardngr.com/2026/07/englands-rice-guehi-and-james-train-ahead-of-norway-world-cup-clash/",
-      "source": "Vanguard Sports",
-      "published": "2026-07-10T21:51:51+00:00",
-      "summary": "England received a boost on the eve of their World Cup quarter-final against Norway after Declan Rice, Marc Guehi and Reece James all returned to training on Friday.\nThe post England&#8217;s Rice, Guehi and James train ahead of Norway World Cup clash appeared first on Vanguard News.",
-      "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/england.webp"
-    },
-    {
-      "title": "World Cup 2026:  Merino Strikes Late Again As Spain Edge Out Belgium, Set Up Semifinal Clash With France",
-      "url": "https://www.completesports.com/world-cup-2026-merino-strikes-late-again-as-spain-edge-out-belgium-set-up-semifinal-clash-with-france/",
-      "source": "Completesports",
-      "published": "2026-07-10T21:40:08+00:00",
-      "summary": "Arsenal star Mikel Merino was the match winner once again as his late strike for Spain helped them to a 2-1 win against Belgium in the FIFA World Cup 2026 quarterfinal on Friday. With two minutes left in the game Merino, who was the match winner in the round of 16 against Portugal, pounced on [...]\n",
-      "image": ""
-    },
-    {
-      "title": "Enugu Rangers Refused To Sign Me Because I Was Not Igbo  —Super Eagles Star Simon Claims",
-      "url": "https://www.completesports.com/enugu-rangers-refused-to-sign-me-because-i-was-not-igbo-super-eagles-star-simon-claims/",
-      "source": "Completesports",
-      "published": "2026-07-10T21:00:47+00:00",
-      "summary": "Super Eagles and Paris FC winger Moses Simon has alleged that he was denied the opportunity to sign for Enugu Rangers early in his football career because he was not igbo. Simon, who made the claim in an interview with UrbanDwellSport, revealed that he spent three months training with the Flying Ant",
-      "image": ""
-    },
-    {
       "title": "Official: Super Falcons unveil 25-player squad for WAFCON 2026 title defence",
       "url": "https://soccernet.ng/2026/07/super-falcons-wafcon-title-squad.html",
       "source": "Soccernet NG",
@@ -2195,34 +2211,42 @@
       "published": "2026-07-10T18:49:38+00:00",
       "summary": "Spanish champions Barcelona have reached a full agreement with Borussia Dortmund to sign Karim Adeyemi, Soccernet.ng reports. The German forward, who is of Nigerian descent, had been the subject of intense transfer speculation throughout the summer. With his contract at Dortmund due to expire in 202",
       "image": "https://soccernet.ng/thumbor/2arQc4PH6T1XU-lobMOzfCgdau8=/960x639/smart/https%3A%2F%2Fmedia.soccernet.ng%2Fmain%2F2024%2F10%2Fkarim-adeyemi-borussia-dortmund-taking-937591396.webp"
-    },
-    {
-      "title": "Super Eagles transfers: Frankfurt join Galatasaray in race for 26-cap Nigeria star",
-      "url": "https://soccernet.ng/2026/07/super-eagles-frankfurt-galatasaray.html",
-      "source": "Soccernet NG",
-      "published": "2026-07-10T16:23:25+00:00",
-      "summary": "German side Eintracht Frankfurt have entered the race to sign Super Eagles midfielder Raphael Onyedika from Club Brugge in the summer transfer window, Soccernet.ng reports. Onyedika’s future has become uncertain, especially after entering the final year of his contract with the Belgian club earlier ",
-      "image": "https://soccernet.ng/thumbor/t_rq2oC9G6KfTQC8OpbKyTqKHF0=/5000x3334/smart/https%3A%2F%2Fmedia.soccernet.ng%2Fmain%2F2026%2F06%2Fimago1070834329.jpg"
-    },
-    {
-      "title": "Wimbledon women's final LIVE! Muchova vs Noskova in all-Czech final at 4pm",
-      "url": "https://www.skysports.com/tennis/live-blog/12040/13562247/wimbledon-womens-final-live-scores-updates-news-results-with-karolina-muchova-and-linda-noskova-playing",
-      "source": "Sky Sports Football",
-      "published": "2026-07-10T16:00:00+00:00",
-      "summary": "",
-      "image": "https://e1.365dm.com/26/07/1920x1080/skysports-karolina-muchova_7294421.jpg?20260710104739"
-    },
-    {
-      "title": "Premier League: Calvin Bassey ignores Gyokeres, Thiago, names toughest striker he has faced",
-      "url": "https://soccernet.ng/2026/07/premier-league-calvin-bassey-gyokeres.html",
-      "source": "Soccernet NG",
-      "published": "2026-07-10T14:25:33+00:00",
-      "summary": "Super Eagles defender Calvin Bassey has revealed the toughest striker he has faced in the English Premier League, Soccernet.ng reports. ​Bassey has been one of the best defenders in the English top flight since joining Fulham from Ajax in 2023. His brilliance has seen him become a key man at the bac",
-      "image": "https://soccernet.ng/thumbor/csfEJQbL5uo4tEEnhESjxlnOADM=/1200x800/smart/https%3A%2F%2Fmedia.soccernet.ng%2Fmain%2F2026%2F07%2FNS-Image-Zoom-Email-Soccernet-27.png"
     }
   ],
   "worldcup": {
     "news": [
+      {
+        "title": "World Cup 2026: Argentina Must Show Grit Against Switzerland  –Scaloni",
+        "url": "https://www.completesports.com/world-cup-2026-argentina-must-show-grit-against-switzerland-scaloni/",
+        "source": "Completesports",
+        "published": "2026-07-11T15:52:12+00:00",
+        "summary": "Argentina coach Lionel Scaloni has disclosed that the team must show more grit if they are to defeat Switzerland in the quarter-final of the FIFA World Cup 2026. The defending champions are facing resilient opposition in Kansas City but remain driven by their head coach&#8217;s emotional call for to",
+        "image": ""
+      },
+      {
+        "title": "South Africa Midfield Star Dies Just Weeks After Featuring At 2026 World Cup",
+        "url": "https://www.completesports.com/south-africa-midfield-star-dies-just-weeks-after-featuring-at-2026-world-cup/",
+        "source": "Completesports",
+        "published": "2026-07-11T15:10:17+00:00",
+        "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams has died at the age of 25, just weeks after featuring for his country at the World Cup, BBC Sport reports. Adams featured in all three of South Africa&#8217;s group games at the tournament, where they reached the knockout stages before losin",
+        "image": ""
+      },
+      {
+        "title": "South Africa World Cup midfielder Adams dies aged 25",
+        "url": "https://www.skysports.com/football/news/12040/13562559/jayden-adams-south-africa-2026-world-cup-midfielder-dies-aged-25",
+        "source": "Sky Sports",
+        "published": "2026-07-11T14:53:00+00:00",
+        "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams, who featured in all three of his country's group matches at this summer's World Cup, has died aged 25.",
+        "image": "https://e0.365dm.com/26/07/1920x1080/skysports-jayden-adams_7295281.jpg?20260711161648"
+      },
+      {
+        "title": "Klopp agrees to replace Nagelsmann as Germany coach",
+        "url": "https://www.bbc.co.uk/sport/football/articles/ced44061g8qo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport WC",
+        "published": "2026-07-11T14:48:39+00:00",
+        "summary": "Jurgen Klopp agrees a deal in principle to become the new head coach of Germany's men's national team after the resignation of Julian Nagelsmann.",
+        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddab/live/df173670-7860-11f1-ab53-3dbca6ef5ee1.jpg"
+      },
       {
         "title": "South Africa World Cup midfielder Adams dies aged 25",
         "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
@@ -2268,7 +2292,7 @@
         "url": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport WC",
         "published": "2026-07-11T07:54:32+00:00",
-        "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+        "summary": "Before tonight's quarter-final against Norway, senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d5/live/fd1276c0-7cd5-11f1-96b0-c159ef728dbe.jpg"
       },
       {
@@ -2320,14 +2344,6 @@
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cda/live/d0939c10-7d01-11f1-b6e3-7521a4959d1c.jpg"
       },
       {
-        "title": "Merino the unlikely hero again - as Spain wait for Lamine Yamal show",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cvg50pvejzdo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport WC",
-        "published": "2026-07-10T23:29:52+00:00",
-        "summary": "Mikel Merino came off the bench to send Spain into the World Cup semi-finals - but Lamine Yamal is still waiting for his moment to truly shine.",
-        "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c4d/live/36c6f360-7cbc-11f1-b6c2-a71c5c448f77.jpg"
-      },
-      {
         "title": "Lammens' error spells end for Belgium's golden generation",
         "url": "https://www.bbc.co.uk/sport/football/articles/c4gy107g38eo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport WC",
@@ -2366,14 +2382,6 @@
         "published": "2026-07-10T21:11:28+00:00",
         "summary": "Mikel Merino pounces on a mistake by substitute goalkeeper Senne Lammens to score an 88th-minute winning goal for Spain in their World Cup quarter final win over Belgium.",
         "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/b7a70ac0-7ca2-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "title": "World Cup 2026: Ten Hag Distances Self From Replacing Koeman As Netherlands Coach",
-        "url": "https://www.completesports.com/world-cup-2026-ten-hag-distances-self-from-replacing-koeman-as-netherlands-coach/",
-        "source": "Completesports",
-        "published": "2026-07-10T20:49:17+00:00",
-        "summary": "Former Manchester United manager Erik ten Hag has officially ruled himself out of the running to replace Ronald Koeman as the Netherlands head coach. Ten Hag cited his complete commitment to his current two-year project as the technical director at FC Twente. Read Also:World Cup 2026: ‘When It’s Mba",
-        "image": ""
       },
       {
         "title": "France into semi-finals after comfortable win over Morocco",
@@ -2841,6 +2849,86 @@
   ],
   "finance_news": [
     {
+      "title": "The U.S. stock market is becoming ‘too big to fail’",
+      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "2026-07-11T15:47:00+00:00",
+      "summary": "Why protracted bear markets may be a thing of the past.",
+      "image": "https://images.mktw.net/im-62310076"
+    },
+    {
+      "title": "McCaul Backs Deeper US Ukraine Defense Ties",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-11/mccaul-backs-deeper-us-ukraine-defense-ties-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-11T15:45:10+00:00",
+      "summary": "Rep. Michael McCaul says Ukraine is gaining momentum on the battlefield but urgently needs more Patriot interceptors and stronger air defenses to counter Russia's escalating missile attacks. He urges deeper US-Ukraine defense cooperation, including licensed Patriot production and joint drone develop",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTU449pTBi0M/v3/1200x-1.jpg"
+    },
+    {
+      "title": "Only 5% of U.S. adults can ace this 8-question financial-literacy test. Can you?",
+      "url": "https://www.marketwatch.com/story/only-5-of-u-s-adults-can-ace-this-8-question-financial-literacy-test-can-you-93a57cc6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "2026-07-11T15:42:00+00:00",
+      "summary": "Financial literacy just hit a 10-year low — and it is devastating bank accounts.",
+      "image": "https://images.mktw.net/im-73352954"
+    },
+    {
+      "title": "Dave Ramsey Tells Newlywed Man With 10 Rental Properties to Pay Off His Wife’s $48,000 Debt: “You Are Now Married”",
+      "url": "https://finance.yahoo.com/small-business/articles/dave-ramsey-tells-newlywed-man-153057632.html",
+      "source": "Yahoo Finance",
+      "published": "2026-07-11T15:30:57+00:00",
+      "summary": "",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/5f9ae51d17d618f3d5502a9dd9c87543"
+    },
+    {
+      "title": "Why Today’s Small Dividend Could Become Tomorrow’s Retirement Engine",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-today-small-dividend-could-153010746.html",
+      "source": "Yahoo Finance",
+      "published": "2026-07-11T15:30:10+00:00",
+      "summary": "",
+      "image": "https://media.zenfs.com/en/24_7_wall_st__718/6c0eff889e29dbce73f4d1362e07fa11"
+    },
+    {
+      "title": "Navy Chief Says US Needs More Warships",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-11/navy-chief-says-us-needs-more-warships-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-11T15:21:16+00:00",
+      "summary": "Chief of Naval Operations Adm. Daryl Caudle says the US Navy needs a larger fleet, faster shipbuilding and expanded munitions production to meet growing global demands while sustaining readiness across multiple theaters. He says the service remains prepared despite heavy operational commitments, poi",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieDQxOm81e1E/v3/1200x-1.jpg"
+    },
+    {
+      "title": "US Iran Talks Face Persistent Impasse",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-11/us-iran-talks-face-persistent-impasse-video",
+      "source": "Bloomberg Markets",
+      "published": "2026-07-11T15:09:55+00:00",
+      "summary": "Bloomberg Economics analysts Becca Wasser and Dina Esfandiary say the US and Iran remain far apart on key issues, with intermittent strikes and negotiations likely to define the conflict for the foreseeable future. They say technical talks on Iran's nuclear program are a constructive step, but dispu",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iiudS_wdTlYY/v3/1200x-1.jpg"
+    },
+    {
+      "title": "Dow Jones Futures: Watch Nvidia, Micron, Sandisk, Robinhood As Market Sets Up; Big Earnings Due",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-big-earnings-market-sets-up-nvidia-micron-sandisk-robinhood-spacex/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "published": "2026-07-11T15:08:55+00:00",
+      "summary": "",
+      "image": "https://media.zenfs.com/en/ibd.com/5e7ff7b358feaef0efdf2c6d084d69bf"
+    },
+    {
+      "title": "‘An American tragedy’ in the making: The majority of small-business owners will retire in the next decade. What happens to their workers?",
+      "url": "https://www.marketwatch.com/story/half-of-small-business-owners-hope-to-sell-their-companies-and-retire-in-the-next-decade-what-happens-to-their-workers-a03ae979?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "2026-07-11T15:01:00+00:00",
+      "summary": "“It’s a loss to the economy, to jobs, to decades of institutional knowledge when a business simply turns off the lights”",
+      "image": "https://images.mktw.net/im-51664448"
+    },
+    {
+      "title": "‘I’ve plenty of time on my hands’: Advisers bombard me with offers of free steak dinners. Is it wrong to go for the food?",
+      "url": "https://www.marketwatch.com/story/ive-plenty-of-time-on-my-hands-advisers-bombard-me-with-offers-for-free-steak-is-it-wrong-to-go-for-the-food-1b139f98?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published": "2026-07-11T15:00:00+00:00",
+      "summary": "“I get hungry for a meal at a good restaurant.”",
+      "image": "https://images.mktw.net/im-76870583"
+    },
+    {
       "title": "Summer travel season is here: Make this vital purchase before your next vacation",
       "url": "https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -2857,28 +2945,12 @@
       "image": "https://images.mktw.net/im-27448246"
     },
     {
-      "title": "T-Mobile puts new limits on 2 wireless offers for customers",
-      "url": "https://finance.yahoo.com/technology/articles/t-mobile-puts-limits-2-143700248.html",
-      "source": "Yahoo Finance",
-      "published": "2026-07-11T14:37:00+00:00",
-      "summary": "",
-      "image": "https://media.zenfs.com/en/thestreet_881/c24a2374743d10da8829c502cdc79765"
-    },
-    {
       "title": "‘The money would have been life-changing’: My father told my grandmother to slash my inheritance. Is that fair?",
       "url": "https://www.marketwatch.com/story/the-money-would-have-been-life-changing-my-father-told-my-grandmother-to-slash-my-inheritance-is-that-fair-3808b6d1?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published": "2026-07-11T14:30:00+00:00",
       "summary": "“I could have bought a home for what I hope will be a growing family.”",
       "image": "https://images.mktw.net/im-46889234"
-    },
-    {
-      "title": "Barclays, Morgan Stanley boost Robinhood price target by up to 50%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-morgan-stanley-boost-robinhood-143000052.html",
-      "source": "Yahoo Finance",
-      "published": "2026-07-11T14:30:00+00:00",
-      "summary": "",
-      "image": "https://media.zenfs.com/en/thestreet_881/5c31f0c2a464e13c6d4fa5874853bb06"
     },
     {
       "title": "Nextpower (NXT) Launches New Solar Tracking Solutions",
@@ -2943,14 +3015,6 @@
       "published": "2026-07-11T14:22:39+00:00",
       "summary": "",
       "image": "https://media.zenfs.com/en/insidermonkey.com/d25ee3a1967b0b8a47186e4151f23199"
-    },
-    {
-      "title": "Is Agnico Eagle Mines (AEM) One of the Best Large Cap Stocks to Buy According to Analysts?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/agnico-eagle-mines-aem-one-142234470.html",
-      "source": "Yahoo Finance",
-      "published": "2026-07-11T14:22:34+00:00",
-      "summary": "",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/34a61930942f0d7ff456e88af52487e4"
     },
     {
       "title": "Can the Tax System Keep Up with Trillionaires?",
@@ -3025,44 +3089,12 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipJIY901rM_c/v7/1200x-1.jpg"
     },
     {
-      "title": "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
-      "url": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "2026-07-11T12:00:00+00:00",
-      "summary": "Social media and GLP-1s are spurring increased interest in hydration products, and companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”",
-      "image": "https://images.mktw.net/im-29505143"
-    },
-    {
-      "title": "The U.S. stock market is becoming ‘too big to fail’",
-      "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "2026-07-11T11:30:00+00:00",
-      "summary": "Why protracted bear markets may be a thing of the past.",
-      "image": "https://images.mktw.net/im-62310076"
-    },
-    {
-      "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
-      "url": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "2026-07-11T11:00:00+00:00",
-      "summary": "Kevin Warsh will testify before Congress for the first time as Fed chair this week. Lawmakers will want answers.",
-      "image": "https://images.mktw.net/im-62250329"
-    },
-    {
       "title": "EasyJet Has Private Equity Firms Going Out of Their Comfort Zone",
       "url": "https://www.bloomberg.com/news/articles/2026-07-11/easyjet-has-private-equity-firms-going-out-of-their-comfort-zone",
       "source": "Bloomberg Markets",
       "published": "2026-07-11T11:00:00+00:00",
       "summary": "The aviation industry has seen plenty of deals activity in recent years, but the battle between two US funds for EasyJet Plc stands out because the volatile, low-margin airlines business rarely draws financial suitors.",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it19xLsdWBXM/v1/1200x-1.jpg"
-    },
-    {
-      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
-      "url": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published": "2026-07-11T10:15:00+00:00",
-      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
-      "image": "https://images.mktw.net/im-87957694"
     },
     {
       "title": "China Tells Refiners to Keep Fuel Output High as Iran War Drags",
@@ -3073,36 +3105,12 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ifsgIzSEdH4g/v0/1200x-1.jpg"
     },
     {
-      "title": "Eni’s Descalzi Says Energy Crisis May Worsen in Short Term: Sole",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/eni-s-descalzi-says-energy-crisis-may-worsen-in-short-term-sole",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-11T08:45:56+00:00",
-      "summary": "The global energy situation could deteriorate further as oil inventories decline and competition for supplies intensifies, Eni SpA’s Chief Executive Officer Claudio Descalzi told Italian daily Il Sole 24 Ore.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ichZoT4qdtNo/v1/1200x-1.jpg"
-    },
-    {
-      "title": "China Power Load Hits Early Record as Data, EV Demand Rises",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-11T07:29:13+00:00",
-      "summary": "China’s nationwide electricity load reached a record high for the first time this year on July 10, hitting 1.518 billion kilowatts, the National Energy Administration said in a statement posted on its official WeChat account Saturday.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFhMZ3PTPUXc/v0/1200x-1.jpg"
-    },
-    {
       "title": "VW CEO Under Pressure as Labor Unions Torpedo Revival Plan",
       "url": "https://www.bloomberg.com/news/articles/2026-07-11/vw-ceo-under-pressure-as-labor-unions-torpedo-turnaround-plan",
       "source": "Bloomberg Markets",
       "published": "2026-07-11T05:00:00+00:00",
       "summary": "Volkswagen AG Chief Executive Officer Oliver Blume is facing an uphill battle to push through a fundamental overhaul of Europe’s biggest carmaker after failing to win initial backing from the supervisory board.",
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixK41KwSdXvM/v3/1200x-1.png"
-    },
-    {
-      "title": "India, NZ Plan Strategic Partnership Including Maritime Security",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security",
-      "source": "Bloomberg Markets",
-      "published": "2026-07-11T01:03:38+00:00",
-      "summary": "India and New Zealand will elevate their relationship to a “strategic partnership,” as both seek closer trade and security ties.",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9rRXH86npqc/v0/1200x-1.jpg"
     },
     {
       "title": "Nigeria stocks mint N9.34trn in seven-day buying spree",
@@ -3155,12 +3163,28 @@
   ],
   "celeb_news": [
     {
+      "title": "Educative, Entertaining And Inspirational",
+      "url": "http://www.stelladimokokorkus.com/2026/07/educative-entertaining-and-inspirational_0855265192.html",
+      "source": "SDK Celeb",
+      "published": "2026-07-11T14:00:00+00:00",
+      "summary": "&nbsp;",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7odXZb9B_F0_D8foLKHM1BX_5XQLp-kavvObf-XN1D83GTaciIgzrqfX5QxMjUYvGieS4LElcnFUD0Jdy4LwgtmKXO9uUmb0ZOyeLJhWRKi0Tu6YHdQFzi_Px0Vt00-TlnTJwT4qeylr9GUUx1K_8g1aKB6_ako_tD0jv4uQ3Za1ZWsLxuk2jQRaiSf8/s72-w640-h316-c/2ffccfbc-170d-4465-8f1f-dbf05b4eaecf.jpg"
+    },
+    {
       "title": "“This Is Where I’m Meant to Be”: Tems Talks Her Journey, Fashion & Fame in British Vogue",
       "url": "https://www.bellanaija.com/2026/07/tems-british-vogue-interview-2026/",
       "source": "BellaNaija",
       "published": "2026-07-11T13:54:10+00:00",
       "summary": "Tems is in British Vogue and she is talking about everything, her journey, her new music, her love for bling, and why she has never needed anyone's validation to know she belongs here.\nThe post &#8220;This Is Where I&#8217;m Meant to Be&#8221;: Tems Talks Her Journey, Fashion &#038; Fame in British ",
       "image": "https://www.bellanaija.com/wp-content/uploads/2026/07/SaveClip.App_744996920_18611046541027968_7158766410643476016_n.jpg"
+    },
+    {
+      "title": "Favourite Celeb Instagram Photos",
+      "url": "http://www.stelladimokokorkus.com/2026/07/favourite-celeb-instagram-photos_01908665157.html",
+      "source": "SDK Celeb",
+      "published": "2026-07-11T13:30:00+00:00",
+      "summary": "&nbsp;Cool...........*****************************************************",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw8ivTBDjGV9PKTl5yLL2-8wJNfzZria8b-DsvUGWaLQ-C6UIESjPtqzekYnEEowzK950syK2m5wrtpuZb3T-C-7Brp4wT5l29UZdgUz2BZGdJjTjMxjs5_vAPz_oN8IISoh0fnlcAehU2u28rHRaWFyGfi07Kzrtt2dclRDCJ4vfVe0qQKOvno7mHrX4/s72-w622-h1005-c/Screenshot_20260711_092632.jpg"
     },
     {
       "title": "Nigeria Ranked Most Generous Country In The World",
@@ -3305,22 +3329,6 @@
       "published": "2026-07-11T08:00:00+00:00",
       "summary": "*************************",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7U62oAuK3kZKbsCBjNsH3cJId_Zg6XP4XyMvOcOpj8ZlYBsCR8oALVfkITeOBhHiZpaWRfZ8q2odF6N994WKjflbKWwa5jbqodLFpZe0qTo5Vm8uVUJTOm7k6Ga7pH3VQaM8dTAf4ZC4tZWCPsARsIJBGmD8HsimamtMjW-IBgRWh7Y6BIbTkfdt4Hlg/s72-w640-h370-c/aeeec3fc-3ddf-457f-b9b5-a597391ec0f0.jpg"
-    },
-    {
-      "title": "Daily News In Bits",
-      "url": "http://www.stelladimokokorkus.com/2026/07/daily-news-in-bits_0869028664.html",
-      "source": "SDK Celeb",
-      "published": "2026-07-11T07:30:00+00:00",
-      "summary": "President Bola Tinubu has submitted the name of Senator Kashim Shettima as his running mate for the 2027 Presidential election. On Friday Ibrahim Masari,  Special Adviser to the President on Political Affairs, submitted the nomination forms for Tinubu and Shettima to APC leaders at Continental Hotel",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZaZ5nBHEwTNjwTBoQR3cI116pKiWtfUzYfhSvYS2OD-P9pa5OnduUFt1mTuGuPhzaCsQ5B_ZlVxEwPxVMrw6xMdR-BevwRtXp_CQuopV144P3Qv17d479B97_rYXLTHOgI-lka5PFEIHpCJydzaLPJ3g-HSW4kpi8RcgR2QJiDS20YxzfZ6TXQA9jjAA/s72-w599-h399-c/file_00000000d62c61f7aab59e6261c26c2a.png"
-    },
-    {
-      "title": "Saturday Breakfast Post",
-      "url": "http://www.stelladimokokorkus.com/2026/07/saturday-breakfast-post_02138682437.html",
-      "source": "SDK Celeb",
-      "published": "2026-07-11T07:00:00+00:00",
-      "summary": "&nbsp;Delish!!!",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizg13L9zo5PbYsIoLtSGkO_4PUjWgpaY-di1B-UWCVuCoiI4KJHNuslz0uoEN2Nbx5pAcBuJlOD8B1RwQ3dE7-VSA8e0ZmGTd_k9v10gr4F2-qqRpQIyVF6YYgsMt9hpzjgNEAIFJFUaNZvo9lF6rzyFOEBN4HIp56SuJdp6o1ls2bc1Y0z74tFpIlIM0/s72-w583-h755-c/Screenshot%202026-06-14%20104853.png"
     },
     {
       "title": "World Cup Miss: “Entire NFF Board Needs To Go” – Mikel Obi",
@@ -3491,6 +3499,11 @@
       },
       {
         "type": "trend",
+        "tag": "#iLotbet150million",
+        "url": "https://x.com/search?q=%23iLotbet150million&src=trend_click"
+      },
+      {
+        "type": "trend",
         "tag": "Garnacho",
         "url": "https://x.com/search?q=Garnacho&src=trend_click"
       },
@@ -3506,28 +3519,23 @@
       },
       {
         "type": "trend",
+        "tag": "Bafana Bafana",
+        "url": "https://x.com/search?q=Bafana%20Bafana&src=trend_click"
+      },
+      {
+        "type": "trend",
+        "tag": "Bello Matawalle",
+        "url": "https://x.com/search?q=Bello%20Matawalle&src=trend_click"
+      },
+      {
+        "type": "trend",
         "tag": "CCTV",
         "url": "https://x.com/search?q=CCTV&src=trend_click"
       },
       {
         "type": "trend",
-        "tag": "Norway 1-2 England",
-        "url": "https://x.com/search?q=Norway%201-2%20England&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "#itelPower80",
-        "url": "https://x.com/search?q=%23itelPower80&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "$KAS",
-        "url": "https://x.com/search?q=%24KAS&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "Venezia",
-        "url": "https://x.com/search?q=Venezia&src=trend_click"
+        "tag": "Norway 1",
+        "url": "https://x.com/search?q=Norway%201&src=trend_click"
       },
       {
         "type": "trend",
@@ -3536,33 +3544,28 @@
       },
       {
         "type": "trend",
+        "tag": "#itelPower80",
+        "url": "https://x.com/search?q=%23itelPower80&src=trend_click"
+      },
+      {
+        "type": "trend",
+        "tag": "Rest in Peace",
+        "url": "https://x.com/search?q=Rest%20in%20Peace&src=trend_click"
+      },
+      {
+        "type": "trend",
+        "tag": "$KAS",
+        "url": "https://x.com/search?q=%24KAS&src=trend_click"
+      },
+      {
+        "type": "trend",
+        "tag": "Send 5GODU to 312",
+        "url": "https://x.com/search?q=Send%205GODU%20to%20312&src=trend_click"
+      },
+      {
+        "type": "trend",
         "tag": "Keyamo",
         "url": "https://x.com/search?q=Keyamo&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "Bafana Bafana",
-        "url": "https://x.com/search?q=Bafana%20Bafana&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "KWAM 1",
-        "url": "https://x.com/search?q=KWAM%201&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "Mesut Ozil",
-        "url": "https://x.com/search?q=Mesut%20Ozil&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "Jeremy Monga",
-        "url": "https://x.com/search?q=Jeremy%20Monga&src=trend_click"
-      },
-      {
-        "type": "trend",
-        "tag": "Ostrich",
-        "url": "https://x.com/search?q=Ostrich&src=trend_click"
       },
       {
         "type": "trend",
@@ -3571,18 +3574,23 @@
       },
       {
         "type": "trend",
-        "tag": "LUCMTT",
-        "url": "https://x.com/search?q=LUCMTT&src=trend_click"
+        "tag": "Tolu Arokodare",
+        "url": "https://x.com/search?q=Tolu%20Arokodare&src=trend_click"
       },
       {
         "type": "trend",
-        "tag": "MTN SIM",
-        "url": "https://x.com/search?q=MTN%20SIM&src=trend_click"
+        "tag": "Ostrich",
+        "url": "https://x.com/search?q=Ostrich&src=trend_click"
       },
       {
         "type": "trend",
-        "tag": "British Vogue",
-        "url": "https://x.com/search?q=British%20Vogue&src=trend_click"
+        "tag": "KWAM 1",
+        "url": "https://x.com/search?q=KWAM%201&src=trend_click"
+      },
+      {
+        "type": "trend",
+        "tag": "Venezia",
+        "url": "https://x.com/search?q=Venezia&src=trend_click"
       },
       {
         "type": "trend",
@@ -3591,18 +3599,18 @@
       },
       {
         "type": "trend",
-        "tag": "$LIZARD",
-        "url": "https://x.com/search?q=%24LIZARD&src=trend_click"
+        "tag": "Mesut Ozil",
+        "url": "https://x.com/search?q=Mesut%20Ozil&src=trend_click"
       },
       {
         "type": "trend",
-        "tag": "Wolves",
-        "url": "https://x.com/search?q=Wolves&src=trend_click"
+        "tag": "MTN SIM",
+        "url": "https://x.com/search?q=MTN%20SIM&src=trend_click"
       },
       {
         "type": "trend",
-        "tag": "Sevilla",
-        "url": "https://x.com/search?q=Sevilla&src=trend_click"
+        "tag": "Jesse Bisiwu",
+        "url": "https://x.com/search?q=Jesse%20Bisiwu&src=trend_click"
       }
     ],
     "naija_creators": [
@@ -3661,10 +3669,10 @@
         "thumbnail": "https://i.ytimg.com/vi/SORL-DFX6BQ/mqdefault.jpg"
       },
       {
-        "title": "Ike Nkwu Aba Mba",
-        "channel": "Adazion Ij - Topic",
-        "url": "https://youtube.com/watch?v=t3JXn4HS-nE",
-        "thumbnail": "https://i.ytimg.com/vi/t3JXn4HS-nE/mqdefault.jpg"
+        "title": "Pass By",
+        "channel": "Yan Yan - Topic",
+        "url": "https://youtube.com/watch?v=T9zDluEyXlc",
+        "thumbnail": "https://i.ytimg.com/vi/T9zDluEyXlc/mqdefault.jpg"
       },
       {
         "title": "ALAKADA GEN-Z 3 MOVIE | Latest Nigeria Comedy Movie | Toyin Abraham, Gabriel Afolayan, Bolaji Amusan",
@@ -3727,10 +3735,10 @@
         "thumbnail": "https://i.ytimg.com/vi/UzjMqHOnRVU/mqdefault.jpg"
       },
       {
-        "title": "YEMOJA - Latest Yoruba Movie 2026 Yetunde Barnabas, Kiki Bakare, Zainab Bakare, Afeez Owo",
+        "title": "YEMOJA 2 - Latest Yoruba Movie 2026 Yetunde Barnabas, Kiki Bakare, Zainab Bakare, Afeez Owo",
         "channel": "Yetunde Barnabas TV",
-        "url": "https://youtube.com/watch?v=UiSdoUyyXfM",
-        "thumbnail": "https://i.ytimg.com/vi/UiSdoUyyXfM/mqdefault.jpg"
+        "url": "https://youtube.com/watch?v=4HX9X4uPzCo",
+        "thumbnail": "https://i.ytimg.com/vi/4HX9X4uPzCo/mqdefault.jpg"
       },
       {
         "title": "THE LONG WAY HOME - UCHE MONTANA, MAURICE SAM, NADIA BUARI, Latest 2026 Nigerian Movie",

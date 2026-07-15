@@ -8,7 +8,7 @@
     <link>https://naijadigest.ng/</link>
     <description>Nigeria&#x2019;s one-stop hub for breaking news, tech, football, celebrity gossip, Naija music, live TV, exchange rates and trending topics.</description>
     <language>en-ng</language>
-    <lastBuildDate>Wed, 15 Jul 2026 14:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 16:16:58 +0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://naijadigest.ng/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
@@ -17,10 +17,61 @@
       <link>https://naijadigest.ng/</link>
     </image>
     <item>
+      <title>Court reserves judgment in Olawepo-Hashim’s Accord Party presidential candidacy suit</title>
+      <link>https://punchng.com/court-reserves-judgment-in-olawepo-hashims-accord-party-presidential-candidacy-suit/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/court-reserves-judgment-in-olawepo-hashims-accord-party-presidential-candidacy-suit/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 17:03:46 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Federal High Court reserves judgment in Gbenga Olawepo-Hashim&amp;#8217;s suit against Accord Party, seeking recognition as its 2027 presidential candidate.
+
+Read More: https://punchng.com/court-reserves-judgment-in-olawepo-hashims-accord-party-presidential-candidacy-suit/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>NPC unveils online birth registration platform</title>
+      <link>https://punchng.com/npc-unveils-online-birth-registration-platform/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/npc-unveils-online-birth-registration-platform/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 17:02:01 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>The National Population Commission (NPC) has launched an online birth registration platform, VitalReg, allowing Nigerians to register births and deaths dig
+
+Read More: https://punchng.com/npc-unveils-online-birth-registration-platform/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>Man United's Ugarte undergoes knee surgery</title>
+      <link>https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery</guid>
+      <pubDate>Wed, 15 Jul 2026 16:50:48 +0000</pubDate>
+      <dc:creator>ESPN Soccer</dc:creator>
+      <category>Football</category>
+      <description>Manuel Ugarte has undergone surgery after suffering a knee injury at the World Cup, Manchester United have confirmed.</description>
+    </item>
+    <item>
+      <title>Greenwood signs with Fenerbahçe from Marseille</title>
+      <link>https://www.espn.com/soccer/story/_/id/49367104/mason-greenwood-signs-fenerbahce-marseille</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49367104/mason-greenwood-signs-fenerbahce-marseille</guid>
+      <pubDate>Wed, 15 Jul 2026 16:50:48 +0000</pubDate>
+      <dc:creator>ESPN Soccer</dc:creator>
+      <category>Football</category>
+      <description>Former Manchester United forward Mason Greenwood on Wednesday signed for Fenerbahçe to join his third club in three years.</description>
+    </item>
+    <item>
+      <title>Lewa on Fire: No Euro club would do after Barça</title>
+      <link>https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona</guid>
+      <pubDate>Wed, 15 Jul 2026 16:50:48 +0000</pubDate>
+      <dc:creator>ESPN Soccer</dc:creator>
+      <category>Football</category>
+      <description>New Chicago Fire signing Robert Lewandowski said he couldn't imagine playing for another European club after his four-season stint with Barcelona, and that explains in part his decision to move to MLS.</description>
+    </item>
+    <item>
       <title>Mbappé critical of tactics in loss by 'sloppy' Fra...</title>
       <link>https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49362319/kylian-mbappe-critical-tactics-sloppy-france-loss</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 16:50:47 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>Kylian Mbappé seemed to question Didier Deschamps' approach and tactics after France's 2-0 defeat to Spain in the FIFA World Cup semifinal Tuesday.</description>
@@ -29,7 +80,7 @@
       <title>England weighing man-marking plan to stop Messi</title>
       <link>https://www.espn.com/soccer/story/_/id/49363093/thomas-tuchel-england-lionel-messi-argentina-fifa-world-cup-2026</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49363093/thomas-tuchel-england-lionel-messi-argentina-fifa-world-cup-2026</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 16:50:47 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>England coach Thomas Tuchel said he has considered man-marking Lionel Messi in Wednesday's World Cup semifinal against Argentina.</description>
@@ -38,52 +89,25 @@
       <title>Scaloni: Argentina 'not as bad' as some people say...</title>
       <link>https://www.espn.com/soccer/story/_/id/49363588/argentina-playing-bad-people-say</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49363588/argentina-playing-bad-people-say</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 16:50:47 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>Argentina manager Lionel Scaloni shut down criticism over the way his team has played throughout the FIFA World Cup ahead of the semifinal against England on Wednesday.</description>
     </item>
     <item>
-      <title>Man United's Ugarte undergoes knee surgery</title>
-      <link>https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49366171/man-united-manuel-ugarte-undergoes-successful-knee-surgery</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
+      <title>Spain's Yamal: 'New York, we're coming for you'</title>
+      <link>https://www.espn.com/soccer/story/_/id/49365585/lamine-yamal-sends-world-cup-final-warning-new-york-coming-you</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49365585/lamine-yamal-sends-world-cup-final-warning-new-york-coming-you</guid>
+      <pubDate>Wed, 15 Jul 2026 16:50:47 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
-      <description>Manuel Ugarte has undergone surgery after suffering a knee injury at the World Cup, Manchester United have confirmed.</description>
-    </item>
-    <item>
-      <title>Spain 'feeling unbeatable' heading into WC final</title>
-      <link>https://www.espn.com/soccer/story/_/id/49362211/de-la-fuente-hails-best-team-world-spain-sink-france-world-cup</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49362211/de-la-fuente-hails-best-team-world-spain-sink-france-world-cup</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
-      <dc:creator>ESPN Soccer</dc:creator>
-      <category>Football</category>
-      <description>Luis de la Fuente said Spain are "feeling unbeatable" after reaching the World Cup final with a 2-0 win over France.</description>
-    </item>
-    <item>
-      <title>Matt Freese: USMNT criticism 'hurts my heart'</title>
-      <link>https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49361949/matt-freese-criticism-usmnt-world-cup-play-hurts-my-heart</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
-      <dc:creator>ESPN Soccer</dc:creator>
-      <category>Football</category>
-      <description>USMNT goalkeeper Matt Freese said he felt hurt by the backlash following the elimination from the 2026 World Cup after losing 4-1 to Belgium in the round of 16.</description>
-    </item>
-    <item>
-      <title>Lewa on Fire: No Euro club would do after Barça</title>
-      <link>https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49361480/lewandowski-chicago-fire-not-imagine-euro-team-barcelona</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
-      <dc:creator>ESPN Soccer</dc:creator>
-      <category>Football</category>
-      <description>New Chicago Fire signing Robert Lewandowski said he couldn't imagine playing for another European club after his four-season stint with Barcelona, and that explains in part his decision to move to MLS.</description>
+      <description>Lamine Yamal is looking forward to take New York by storm after helping Spain reach the World Cup final with a 2-0 win against France.</description>
     </item>
     <item>
       <title>Man United sign Villa's Tielemans in $47M deal</title>
       <link>https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49356683/manchester-united-sign-midfielder-youri-tielemans-aston-villa</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 16:50:47 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>Manchester United have announced the signing of midfielder Youri Tielemans from Aston Villa.</description>
@@ -92,916 +116,906 @@
       <title>📈 World Cup stock watch: Who has impressed?</title>
       <link>https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled</link>
       <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49294190/2026-fifa-world-cup-stock-watch-which-players-starred-struggled</guid>
-      <pubDate>Wed, 15 Jul 2026 15:43:17 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 16:50:47 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
       <description>The FIFA World Cup is into the semifinals, but which players have impressed and which have struggled during both tournaments?</description>
     </item>
     <item>
-      <title>FG hails NECO CBT exam, says technology curbing malpractice</title>
-      <link>https://punchng.com/fg-hails-neco-cbt-exam-says-technology-curbing-malpractice/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/fg-hails-neco-cbt-exam-says-technology-curbing-malpractice/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 15:40:26 +0000</pubDate>
+      <title>Oyo abduction: APM defends Makinde’s call for UN probe</title>
+      <link>https://punchng.com/oyo-abduction-apm-defends-makindes-call-for-un-probe/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/oyo-abduction-apm-defends-makindes-call-for-un-probe/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:47:19 +0000</pubDate>
       <dc:creator>Punch</dc:creator>
       <category>Nigerian News</category>
-      <description>The Federal Government on Wednesday expressed satisfaction with the conduct of the ongoing National Examinations Council school-based Senior School Certificate Examination. It described the Computer-Based Test format as a major milestone in efforts to eliminate examination malpractice and improve th</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Ubi Franklin warns young men against having children with multiple women</title>
-      <link>https://punchng.com/ubi-franklin-warns-young-men-against-having-children-with-multiple-women/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/ubi-franklin-warns-young-men-against-having-children-with-multiple-women/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 15:33:59 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>Ubi Franklin shares personal experience, warning young men against having children with multiple women due to emotional and financial challenges. Learn fro
+      <description>The Allied People&amp;#8217;s Movement defends Governor Makinde&amp;#8217;s call for a UN probe into the Oyo abduction, stating it will uncover truth and combat terrorism.
 
-Read More: https://punchng.com/ubi-franklin-warns-young-men-against-having-children-with-multiple-women/</description>
+Read More: https://punchng.com/oyo-abduction-apm-defends-makindes-call-for-un-probe/</description>
       <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
     </item>
     <item>
-      <title>BREAKING: Court orders final forfeiture of 48 property linked to ex-AGF Malami</title>
-      <link>https://punchng.com/breaking-court-orders-final-forfeiture-of-48-property-linked-to-ex-agf-malami/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/breaking-court-orders-final-forfeiture-of-48-property-linked-to-ex-agf-malami/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 15:09:47 +0000</pubDate>
+      <title>Reps demand breakdown of ₦34tn Customs waivers, query revenue reporting</title>
+      <link>https://punchng.com/reps-demand-breakdown-of-%e2%82%a634tn-customs-waivers-query-revenue-reporting/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/reps-demand-breakdown-of-%e2%82%a634tn-customs-waivers-query-revenue-reporting/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:45:06 +0000</pubDate>
       <dc:creator>Punch</dc:creator>
       <category>Nigerian News</category>
-      <description>Federal High Court orders final forfeiture of 48 properties linked to ex-AGF Abubakar Malami to the Nigerian government. The EFCC established reasonable su
+      <description>The House of Reps queries the Nigeria Customs Service over a ₦34tn import duty waiver breakdown and inconsistencies in revenue reporting. Get details here.
 
-Read More: https://punchng.com/breaking-court-orders-final-forfeiture-of-48-property-linked-to-ex-agf-malami/</description>
+Read More: https://punchng.com/reps-demand-breakdown-of-%e2%82%a634tn-customs-waivers-query-revenue-reporting/</description>
       <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
     </item>
     <item>
-      <title>Why England vs. Argentina is World Cup's best, ang...</title>
-      <link>https://www.espn.com/soccer/story/_/id/49353029/england-argentina-world-cup-rivalry-antonio-rattin-diego-maradona-hand-god-michael-owen-david-beckham</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49353029/england-argentina-world-cup-rivalry-antonio-rattin-diego-maradona-hand-god-michael-owen-david-beckham</guid>
-      <pubDate>Wed, 15 Jul 2026 14:54:21 +0000</pubDate>
+      <title>PFIPC scandal: Again, Senate rejects probe request</title>
+      <link>https://punchng.com/pfipc-scandal-again-senate-rejects-probe-request/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/pfipc-scandal-again-senate-rejects-probe-request/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:43:41 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Senate has again rejected a request to probe the PFIPC scandal, citing ongoing court cases and an ICPC investigation into the controversial N1.3bn allo
+
+Read More: https://punchng.com/pfipc-scandal-again-senate-rejects-probe-request/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>USMNT's World Cup over, Pochettino's contract done...</title>
+      <link>https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49344382/who-new-usmnt-coach-11-candidates-pochettino-world-cup-2026</guid>
+      <pubDate>Wed, 15 Jul 2026 16:42:51 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
-      <description>Wednesday will see England and Argentina meet for the first time since 2005, and it's a rivalry that has defined the World Cup thanks to some unforgettable encounters. Here's why this game is so compelling.</description>
+      <description>If Mauricio Pochettino leaves the USMNT, the question is who could replace him. Well, here are 11 coaches who could be in U.S. Soccer's hiring pool.</description>
     </item>
     <item>
-      <title>How Harry Kane became one of England's great capta...</title>
-      <link>https://www.espn.com/soccer/story/_/id/49360500/how-harry-kane-changed-role-england-captain-world-cup-semifinal-argentina</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49360500/how-harry-kane-changed-role-england-captain-world-cup-semifinal-argentina</guid>
-      <pubDate>Wed, 15 Jul 2026 14:54:20 +0000</pubDate>
+      <title>Zambia’s Scott, once Africa’s only white leader, dies at 82</title>
+      <link>https://punchng.com/zambias-scott-once-africas-only-white-leader-dies-at-82/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/zambias-scott-once-africas-only-white-leader-dies-at-82/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:38:23 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Zambia&amp;#8217;s former Vice President Guy Scott, who briefly served as Africa&amp;#8217;s only white head of state, has died at 82. Learn more about Guy Scott&amp;#8217;s legacy.
+
+Read More: https://punchng.com/zambias-scott-once-africas-only-white-leader-dies-at-82/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>FG, IFAD equip 1,918 Nasarawa farmers with inputs, tricycles</title>
+      <link>https://punchng.com/fg-ifad-equip-1918-nasarawa-farmers-with-inputs-tricycles/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/fg-ifad-equip-1918-nasarawa-farmers-with-inputs-tricycles/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:34:39 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>FG and IFAD equip 1,918 Nasarawa farmers with improved farm inputs and tricycles to boost rice and cassava production, enhancing livelihoods.
+
+Read More: https://punchng.com/fg-ifad-equip-1918-nasarawa-farmers-with-inputs-tricycles/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>Police rescue abducted herder, recover N2.2m ransom in Osun</title>
+      <link>https://punchng.com/police-rescue-abducted-herder-recover-n2-2m-ransom-in-osun/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/police-rescue-abducted-herder-recover-n2-2m-ransom-in-osun/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:32:10 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>Osun State Police Command rescued a 50-year-old abducted herder, recovering N2.22 million ransom and arresting a suspected kidnapper.
+
+Read More: https://punchng.com/police-rescue-abducted-herder-recover-n2-2m-ransom-in-osun/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>75-year-old man bags 10 years imprisonment for defiling minor in Rivers</title>
+      <link>https://punchng.com/75-year-old-man-bags-10-years-imprisonment-for-defiling-minor-in-rivers/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/75-year-old-man-bags-10-years-imprisonment-for-defiling-minor-in-rivers/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:26:25 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>A 75-year-old man, Promise Chukwumatti, has been sentenced to 10 years imprisonment for defiling an 11-year-old girl in Rivers State. The court also ordere
+
+Read More: https://punchng.com/75-year-old-man-bags-10-years-imprisonment-for-defiling-minor-in-rivers/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>Labour Party denies missing INEC candidates’ upload deadline</title>
+      <link>https://punchng.com/labour-party-denies-missing-inec-candidates-upload-deadline/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
+      <guid isPermaLink="true">https://punchng.com/labour-party-denies-missing-inec-candidates-upload-deadline/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
+      <pubDate>Wed, 15 Jul 2026 16:24:55 +0000</pubDate>
+      <dc:creator>Punch</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Labour Party dismisses reports of missing the INEC candidates&amp;#8217; upload deadline, stating all nominations were submitted four days early. Get the facts h
+
+Read More: https://punchng.com/labour-party-denies-missing-inec-candidates-upload-deadline/</description>
+      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+    </item>
+    <item>
+      <title>Gutting youth soccer in America is not enough to m...</title>
+      <link>https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development</link>
+      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development</guid>
+      <pubDate>Wed, 15 Jul 2026 16:20:34 +0000</pubDate>
       <dc:creator>ESPN Soccer</dc:creator>
       <category>Football</category>
-      <description>Listen to Harry Kane's teammates, and they'll describe him as England's greatest player ever. He is one of their best-ever captains, too.</description>
+      <description>Everyone thinks they can fix the USMNT, but maybe it is making progress and luck just hasn't been on its side.</description>
     </item>
     <item>
-      <title>I spend up to $300,000 monthly in Nigeria- Davido</title>
-      <link>https://punchng.com/i-spend-up-to-300000-monthly-in-nigeria-davido/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/i-spend-up-to-300000-monthly-in-nigeria-davido/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:52:14 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
+      <title>CBN Faces Mixed Inflation Signals Ahead MPC Meeting</title>
+      <link>https://thewhistler.ng/cbn-faces-mixed-inflation-signals-ahead-mpc-meeting/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/cbn-faces-mixed-inflation-signals-ahead-mpc-meeting/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:18:18 +0000</pubDate>
+      <dc:creator>The Whistler</dc:creator>
       <category>Nigerian News</category>
-      <description>Nigerian music star Davido reveals he spends up to $300,000 monthly on personal expenses in Nigeria, excluding major costs.
-
-Read More: https://punchng.com/i-spend-up-to-300000-monthly-in-nigeria-davido/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+      <description>Headline Inflation Falls To 15.91% As Monthly Food Index Rises The Central Bank of Nigeria (CBN) heads into its next Monetary Policy Committee (MPC) meeting with mixed inflation signals after the National Bureau of Statistics (NBS) reported a marginal decline in headline inflation, even as food pric</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2020/09/CBN-1-e1560503073232-1-1.jpg" medium="image"/>
     </item>
     <item>
-      <title>Trump slams ICE decision to suspend traffic stops after two shootings</title>
-      <link>https://punchng.com/trump-slams-ice-decision-to-suspend-traffic-stops-after-two-shootings/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/trump-slams-ice-decision-to-suspend-traffic-stops-after-two-shootings/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:51:27 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
+      <title>PSC Releases Names Of 50,000 Successful Police Constable Applicants</title>
+      <link>https://www.tvcnews.tv/psc-releases-names-of-50000-successful-police-constable-applicants/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/psc-releases-names-of-50000-successful-police-constable-applicants/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:18:00 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
       <category>Nigerian News</category>
-      <description>Donald Trump criticizes ICE&amp;#8217;s decision to suspend traffic stops following two fatal shootings, calling it a blow to crime-fighting efforts.
-
-Read More: https://punchng.com/trump-slams-ice-decision-to-suspend-traffic-stops-after-two-shootings/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
+      <description>The Police Service Commission (PSC) has released the names of successful applicants recruited into the Nigeria Police Force as Police Constables following the conclusion of its nationwide recruitment exercise.
+The post PSC Releases Names Of 50,000 Successful Police Constable Applicants appeared firs</description>
     </item>
     <item>
-      <title>Buying a house is getting easier by one measure. Here’s why it doesn’t feel like it.</title>
-      <link>https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/homes-are-getting-more-affordable-so-how-come-you-still-cant-afford-to-buy-one-f2d69d02?mod=mw_rss_topstories</guid>
-      <pubDate>Wed, 15 Jul 2026 14:44:00 +0000</pubDate>
+      <title>Ex-CCT chairman Danladi Umar granted N100m bail over alleged abuse of office</title>
+      <link>https://thesun.ng/ex-cct-chairman-danladi-umar-granted-n100m-bail-over-alleged-abuse-of-office/</link>
+      <guid isPermaLink="true">https://thesun.ng/ex-cct-chairman-danladi-umar-granted-n100m-bail-over-alleged-abuse-of-office/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:17:01 +0000</pubDate>
+      <dc:creator>The Sun</dc:creator>
+      <category>Nigerian News</category>
+      <description>Former CCT Chairman Danladi Umar granted N100 million bail by FCT High Court over abuse of office and remains in custody pending fulfilment.
+The post Ex-CCT chairman Danladi Umar granted N100m bail over alleged abuse of office appeared first on The Sun Nigeria.</description>
+    </item>
+    <item>
+      <title>George Kimmitt: France’s strategic pivot to Anglophone Africa signals new chapter in continental relations</title>
+      <link>https://dailypost.ng/2026/07/15/george-kimmitt-frances-strategic-pivot-to-anglophone-africa-signals-new-chapter-in-continental-relations/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/george-kimmitt-frances-strategic-pivot-to-anglophone-africa-signals-new-chapter-in-continental-relations/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:16:59 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>The geopolitical landscape of Africa is undergoing a significant transformation, marked by a recalibration of alliances and a decisive push for sovereignty by nations in the Sahel. In this context, a notable shift is underway: France, historically a dominant power in its former colonies, is increasi</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/image1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>FCT Projects: ‘I Don’t Make Excuses, I Deliver Results’ – Tinubu To Nigerians</title>
+      <link>https://www.informationng.com/2026/07/fct-projects-i-dont-make-excuses-i-deliver-results-tinubu-to-nigerians.html</link>
+      <guid isPermaLink="true">https://www.informationng.com/2026/07/fct-projects-i-dont-make-excuses-i-deliver-results-tinubu-to-nigerians.html</guid>
+      <pubDate>Wed, 15 Jul 2026 16:16:07 +0000</pubDate>
+      <dc:creator>Information Nigeria</dc:creator>
+      <category>Celebrity</category>
+      <description>President Bola Tinubu on Tuesday disclosed that his administration has zero tolerance for excuses, stressing that it is focused on delivering results to Nigerians. Tinubu made the remark during the commissioning of the water supply network to Bwari Satellite Town of the Federal Capital Territory, FC</description>
+    </item>
+    <item>
+      <title>It’s a buyer’s market for bonds</title>
+      <link>https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories</link>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories</guid>
+      <pubDate>Wed, 15 Jul 2026 16:16:00 +0000</pubDate>
       <dc:creator>MarketWatch</dc:creator>
       <category>Investment &amp; Stocks</category>
-      <description>Home prices are growing much slower than they did during the pandemic-era buying frenzy.</description>
-      <media:content url="https://images.mktw.net/im-02358239" medium="image"/>
+      <description>Bonds are out of fashion with big investors — which makes them an interesting investment opportunity for the rest of us.</description>
+      <media:content url="https://images.mktw.net/im-09631695" medium="image"/>
     </item>
     <item>
-      <title>Rescue all Nigerians still held by terrorists, Middle Belt Forum urges Tinubu</title>
-      <link>https://www.vanguardngr.com/2026/07/rescue-all-nigerians-still-held-by-terrorists-middle-belt-forum-urges-tinubu/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/rescue-all-nigerians-still-held-by-terrorists-middle-belt-forum-urges-tinubu/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:43:51 +0000</pubDate>
+      <title>No pressure on England ahead of World Cup semi-final against Argentina – Guehi</title>
+      <link>https://sportinglife.ng/no-pressure-on-england-ahead-of-world-cup-semi-final-against-argentina-guehi/</link>
+      <guid isPermaLink="true">https://sportinglife.ng/no-pressure-on-england-ahead-of-world-cup-semi-final-against-argentina-guehi/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:15:10 +0000</pubDate>
+      <dc:creator>SportingLife NG</dc:creator>
+      <category>Football</category>
+      <description>England defender Marc Guéhi has insisted there is no pressure on the Three Lions ahead of their 2026 FIFA World Cup semi-final against defending champions Argentina. England will face Lionel Messi&amp;#8217;s side at the Mercedes-Benz Stadium in Atlanta for a place in the World Cup final, where Spain aw</description>
+      <media:content url="https://sportinglife.ng/wp-content/uploads/2026/07/Guehi.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Kogi govt begins manhunt after abduction of school principal, students</title>
+      <link>https://dailypost.ng/2026/07/15/kogi-govt-begins-manhunt-after-abduction-of-school-principal-students/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/kogi-govt-begins-manhunt-after-abduction-of-school-principal-students/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:15:08 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Kogi State Government has launched a massive multi-agency security operation to rescue a school principal, a National Examinations Council, NECO, official and two other students kidnapped during the ongoing NECO examinations at Government Secondary School, Olowa, in Dekina Local Government Area of t</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/02/Kogi-state-govt.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Up To 45% Of Dementia Risk Can Be Prevented, Delayed — WHO</title>
+      <link>https://www.channelstv.com/2026/07/15/up-to-45-of-dementia-risk-can-be-prevented-delayed-who/</link>
+      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/up-to-45-of-dementia-risk-can-be-prevented-delayed-who/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:15:00 +0000</pubDate>
+      <dc:creator>Channels TV</dc:creator>
+      <category>Nigerian News</category>
+      <description>Dementia is the seventh leading cause of death and a major cause of disability and dependency among older people globally.
+The post Up To 45% Of Dementia Risk Can Be Prevented, Delayed — WHO appeared first on Channels Television.</description>
+    </item>
+    <item>
+      <title>NTDA, NiDCOM partner to boost diaspora tourism</title>
+      <link>https://thesun.ng/ntda-nidcom-partner-to-boost-diaspora-tourism/</link>
+      <guid isPermaLink="true">https://thesun.ng/ntda-nidcom-partner-to-boost-diaspora-tourism/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:14:58 +0000</pubDate>
+      <dc:creator>The Sun</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Director-General of the Nigerian Tourism Development Authority (NTDA), Dr. Olayiwola Awakan, paid a courtesy visit to the Chairman/CEO of the Nigerians in Diaspora Commission (NiDCOM), Hon. Abike Dabiri-Erewa, OON, at the Commission’s headquarters in Abuja. The meeting underscored the importance</description>
+    </item>
+    <item>
+      <title>93 percent of inmates are State offenders, half don’t need jail — Tunji-Ojo</title>
+      <link>https://www.vanguardngr.com/2026/07/93-percent-of-inmates-are-state-offenders-half-dont-need-jail-tunji-ojo/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/93-percent-of-inmates-are-state-offenders-half-dont-need-jail-tunji-ojo/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:14:32 +0000</pubDate>
       <dc:creator>Vanguard</dc:creator>
       <category>Nigerian News</category>
-      <description>By Henry Umoru ABUJA — The Middle Belt Forum (MBF) has urged President Bola Tinubu’s administration to intensify efforts to rescue all citizens still held captive by terrorists, including schoolchildren abducted from Mussa, Lassa, Shikarkir, Ariko, Awon and other affected communities across the coun</description>
+      <description>..&amp;#8217;How we freed 4,000 inmates in one day&amp;#8217; By Omeiza Ajayi ABUJA: Minister of Interior, Dr Olubunmi Tunji-Ojo, has disclosed that 93 percent of inmates in Nigerian custodial facilities are state offenders, with only 7 percent held for federal offences, adding that a significant proportion</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/03/Tunji-Ojo-1024x671.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Kenya: Court rejects Rastafarian’s bid to legalise cannabis for religious purposes</title>
+      <link>https://tribuneonlineng.com/kenya-court-rejects-rastafarians-bid-to-legalise-cannabis-for-religious-purposes/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/kenya-court-rejects-rastafarians-bid-to-legalise-cannabis-for-religious-purposes/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:14:09 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>Kenya&amp;#8217;s High Court has dismissed a petition by the Rastafari Society of Kenya seeking to legalise the use of cannabis for religious purposes, ruling that the country&amp;#8217;s drug laws do not violate the constitutional right to freedom of religion. In a landmark judgment, Justice Bahati Mwamuye</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2022/07/kenya.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Revamped Cricket World Cup format could see an additional India-Pakistan match</title>
+      <link>https://www.aljazeera.com/sports/2026/7/15/revamped-cricket-world-cup-format-could-see-an-additional-india-pakistan-match?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/7/15/revamped-cricket-world-cup-format-could-see-an-additional-india-pakistan-match?traffic_source=rss</guid>
+      <pubDate>Wed, 15 Jul 2026 16:14:05 +0000</pubDate>
+      <dc:creator>Al Jazeera</dc:creator>
+      <category>World News</category>
+      <description>The 14-team 2027 ODI tournament in Africa will have a Super Seven stage but no quarterfinals.</description>
+    </item>
+    <item>
+      <title>America’s oil refiners could more than triple profits as Iran war sparks massive boom</title>
+      <link>https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories</link>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories</guid>
+      <pubDate>Wed, 15 Jul 2026 16:14:00 +0000</pubDate>
+      <dc:creator>MarketWatch</dc:creator>
+      <category>Investment &amp; Stocks</category>
+      <description>U.S. oil refiners are about to report a historic profit surge as the industry takes advantage of supply disruptions.</description>
+      <media:content url="https://images.mktw.net/im-10943403" medium="image"/>
+    </item>
+    <item>
+      <title>Police rescue kidnap victim in Osun, foil ransom exchange</title>
+      <link>https://www.vanguardngr.com/2026/07/police-rescue-kidnap-victim-in-osun-foil-ransom-exchange/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/police-rescue-kidnap-victim-in-osun-foil-ransom-exchange/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:12:47 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>…Parades suspected cultists By Shina Abubakar, Osogbo The Osun State Police Command on Wednesday disclosed that it rescued a kidnap victim, Haruna Yusuf, 50, following a gun duel with suspected kidnappers. The Commissioner of Police, Ibrahim Gotan, also revealed that operatives of the command foiled</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/02/policenpf.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Atlanta police gear up for trouble at England vs Argentina World Cup match</title>
+      <link>https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/sports/2026/7/15/atlanta-police-gear-up-for-trouble-at-england-vs-argentina-world-cup-match?traffic_source=rss</guid>
+      <pubDate>Wed, 15 Jul 2026 16:12:32 +0000</pubDate>
+      <dc:creator>Al Jazeera</dc:creator>
+      <category>World News</category>
+      <description>The host city will have advanced security in place as a proactive measure against any potential crowd trouble between fans.</description>
+    </item>
+    <item>
+      <title>Anambra community rejects deputy governor’s attempt to wade into land dispute</title>
+      <link>https://dailypost.ng/2026/07/15/anambra-community-rejects-deputy-governors-attempt-to-wade-into-land-dispute/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/anambra-community-rejects-deputy-governors-attempt-to-wade-into-land-dispute/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:12:22 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Indigenes of Umuenu village in Umuawulu Community of Awka South Local Government Area in Anambra State have rejected attempt by the Deputy Governor of Anambra State, Dr Onyekachi Ibezim to wade into a land dispute that had already been settled by the Supreme Court. The community had held a peaceful</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/1002028384.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Hisbah Arrests Woman Over Alleged Witchcraft In Zamfara</title>
+      <link>https://thewhistler.ng/hisbah-arrests-woman-over-alleged-witchcraft-in-zamfara/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/hisbah-arrests-woman-over-alleged-witchcraft-in-zamfara/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:11:58 +0000</pubDate>
+      <dc:creator>The Whistler</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Zamfara State Hisbah Commission has arrested a woman, Khadija Abdullahi, over allegations of engaging in witchcraft-related activities at her residence in the Gadar Baga area of Gusau. The commission&amp;#8217;s spokesperson, Umar Haruna Tsafe, said the arrest followed complaints from community lead</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2023/10/Hisbah-Police-Kano-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>“Having Children With Different Women Is One Of Worst Decisions A Man Can Make” – Ubi Franklin</title>
+      <link>https://www.informationng.com/2026/07/having-children-with-different-women-is-one-of-worst-decisions-a-man-can-make-ubi-franklin.html</link>
+      <guid isPermaLink="true">https://www.informationng.com/2026/07/having-children-with-different-women-is-one-of-worst-decisions-a-man-can-make-ubi-franklin.html</guid>
+      <pubDate>Wed, 15 Jul 2026 16:11:57 +0000</pubDate>
+      <dc:creator>Information Nigeria</dc:creator>
+      <category>Celebrity</category>
+      <description>Businessman Ubi Franklin has advised young men against having children with multiple women, describing it as one of the worst decisions a man can make. Speaking from personal experience, Ubi said while having the financial means to cater for children is important, the real challenge lies in managing</description>
+    </item>
+    <item>
+      <title>Oyo rescue operation: Senate awards ₦50m to families of fallen heroes</title>
+      <link>https://pmnewsnigeria.com/2026/07/15/oyo-rescue-operation-senate-awards-%e2%82%a650m-to-families-of-fallen-heroes/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/oyo-rescue-operation-senate-awards-%e2%82%a650m-to-families-of-fallen-heroes/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:11:52 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Senate has approved a ₦50 million donation for the families of five Nigerians who died during the operation that rescued schoolchildren abducted in Oyo State.</description>
+    </item>
+    <item>
+      <title>WAFU B U-20 Championship: Flying Eagles to battle Ghana, Burkina Faso, Togo</title>
+      <link>https://dailypost.ng/2026/07/15/wafu-b-u-20-championship-flying-eagles-to-battle-ghana-burkina-faso-togo/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/wafu-b-u-20-championship-flying-eagles-to-battle-ghana-burkina-faso-togo/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:11:44 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Nigeria&amp;#8217;s Flying Eagles will face Ghana’s Black Satellites, Togo’s Junior Sparrow Hawks and Burkina Faso’s Young Stallions in Group B of the WAFU B U-20 Championship, DAILY POST reports. Cote d&amp;#8217;Ivoire will host the competition from from July 26 to August 9, 2026. The draw for the biennia</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Flying-Eagles.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Atiku Questions N6.44bn Budget For 2026 World Cup</title>
+      <link>https://leadership.ng/atiku-questions-n6-44bn-budget-for-2026-world-cup/</link>
+      <guid isPermaLink="true">https://leadership.ng/atiku-questions-n6-44bn-budget-for-2026-world-cup/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:10:39 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Former Vice President Atiku Abubakar has raised serious concerns regarding the Federal Government&amp;#8217;s budgetary allocation of N6.44 billion for ‘Presidential Support Group for the 2026 World Cup qualifiers’ questioning the rationale behind the expenditure following the Super Eagles&amp;#8217; failur</description>
+    </item>
+    <item>
+      <title>Infinix HOT 70 Pro “Be Seen. Be Hot.” Campus Storm Lights Up UNILAG with Qing Madi and Thousands of Students</title>
+      <link>https://www.bellanaija.com/2026/07/infinix-hot70pro-storm-unilag-with-qing-madi/</link>
+      <guid isPermaLink="true">https://www.bellanaija.com/2026/07/infinix-hot70pro-storm-unilag-with-qing-madi/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:10:31 +0000</pubDate>
+      <dc:creator>BellaNaija</dc:creator>
+      <category>Celebrity</category>
+      <description>Written By Hope Idume
+The post Infinix HOT 70 Pro &amp;#8220;Be Seen. Be Hot.&amp;#8221; Campus Storm Lights Up UNILAG with Qing Madi and Thousands of Students appeared first on BellaNaija - Showcasing Africa to the world. Read today!.</description>
+      <media:content url="https://www.bellanaija.com/wp-content/uploads/2026/07/IMG_4952.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Kogi School Abduction: Examination centre was a ‘Miracle Centre’ — Police</title>
+      <link>https://www.vanguardngr.com/2026/07/kogi-school-abduction-examination-centre-was-a-miracle-centre-police/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/kogi-school-abduction-examination-centre-was-a-miracle-centre-police/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:10:18 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>By Boluwaji Obahopo, Lokoja The Kogi State Police Command has launched a massive rescue operation following the abduction of four persons by suspected kidnappers who attacked an examination centre located at an abandoned Government Secondary School in Olowa, Dekina Local Government Area of the state</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/06/Police-1024x577.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Hajj 2027: NAHCON targets digital, transparent operations with new reform agenda</title>
+      <link>https://www.premiumtimesng.com/news/895567-hajj-2027-nahcon-targets-digital-transparent-operations-with-new-reform-agenda.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/news/895567-hajj-2027-nahcon-targets-digital-transparent-operations-with-new-reform-agenda.html</guid>
+      <pubDate>Wed, 15 Jul 2026 16:10:18 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>NAHCON says it plans to institutionalise early planning, develop a National Pilgrimage Digital Platform for Hajj and Umrah services, strengthen financial transparency, enforce professional standards and accountability, decentralise operations while retaining regulatory oversight and others.
+The post</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/05/Chairman-and-Chief-Executive-Office-of-NAHCON-Amb-Ismail-Abba-Yuusf-1140x641-1.webp?fit=1140%2C641&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Mikel Obi predicts Argentina victory over England, says Messi will decide semi-final</title>
+      <link>https://sportinglife.ng/mikel-obi-predicts-argentina-victory-over-england-says-messi-will-decide-semi-final/</link>
+      <guid isPermaLink="true">https://sportinglife.ng/mikel-obi-predicts-argentina-victory-over-england-says-messi-will-decide-semi-final/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:10:07 +0000</pubDate>
+      <dc:creator>SportingLife NG</dc:creator>
+      <category>Football</category>
+      <description>Former Super Eagles captain John Mikel Obi has backed Argentina to defeat England in Wednesday&amp;#8217;s 2026 FIFA World Cup semi-final, insisting Lionel Messi&amp;#8217;s brilliance will prove decisive. Speaking on The Rest Is Football podcast alongside Joe Cole, Micah Richards, Alan Shearer and Gary Lin</description>
+      <media:content url="https://sportinglife.ng/wp-content/uploads/2026/07/Messi-3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>World Cup-winner Stiles' death linked to heading footballs, coroner rules</title>
+      <link>https://www.skysports.com/football/news/12040/13563741/nobby-stiles-former-man-utd-midfielder-and-england-world-cup-winners-death-linked-to-heading-footballs-coroner-rules</link>
+      <guid isPermaLink="true">https://www.skysports.com/football/news/12040/13563741/nobby-stiles-former-man-utd-midfielder-and-england-world-cup-winners-death-linked-to-heading-footballs-coroner-rules</guid>
+      <pubDate>Wed, 15 Jul 2026 16:10:00 +0000</pubDate>
+      <dc:creator>Sky Sports Football</dc:creator>
+      <category>Football</category>
+      <description>England 1966 World Cup winner Nobby Stiles died with a brain condition caused by repeatedly heading a football, a coroner has ruled.</description>
+      <media:content url="https://e0.365dm.com/26/07/1920x1080/skysports-nobby-stiles_7298347.jpg?20260715160011" medium="image"/>
+    </item>
+    <item>
+      <title>Wildfires in Ontario make Toronto air quality worst in world</title>
+      <link>https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world</link>
+      <guid isPermaLink="true">https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world</guid>
+      <pubDate>Wed, 15 Jul 2026 16:08:39 +0000</pubDate>
+      <dc:creator>The Guardian</dc:creator>
+      <category>World News</category>
+      <description>Environment Canada issued health warnings after sky over city turns yellowSmoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the worst in the world on Wednesday and caused yellow, smoky air in cities across the northeast US.Environment Canada issued health</description>
+      <media:content url="https://i.guim.co.uk/img/media/f6f153e283718255d3e45da0ffd928c89ad075e4/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=045aeb974ffbc7a00a6ff49c2e4270c0" medium="image"/>
+    </item>
+    <item>
+      <title>One dead, three missing after boat capsizes near Alcatraz island</title>
+      <link>https://tribuneonlineng.com/one-dead-three-missing-after-boat-capsizes-near-alcatraz-island/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/one-dead-three-missing-after-boat-capsizes-near-alcatraz-island/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:07:52 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>One person has died and three others remain missing after a pontoon boat capsized near Alcatraz Island in San Francisco Bay, United States, prompting a large-scale search and rescue operation. The San Francisco Fire Department said it received a distress call at about 3:37 p.m. local time on Tuesday</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/Boat-capsized.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Osun Guber: Onovo Predicts Winner</title>
+      <link>https://thewhistler.ng/osun-guber-onovo-predicts-winner/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/osun-guber-onovo-predicts-winner/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:07:15 +0000</pubDate>
+      <dc:creator>The Whistler</dc:creator>
+      <category>Nigerian News</category>
+      <description>A former presidential candidate of the defunct National Conscience Party (NCP), Chief Martin Onovo, has advised Osun Governor, Ademola Adeleke, to remain confident and ensure that every vote counts in the August 15 governorship election. Onovo, a member of the Coalition of United Political Parties (</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/Untitled-design-14-4.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Iran FM visits Qatar days after Iranian attacks</title>
+      <link>https://www.vanguardngr.com/2026/07/iran-fm-visits-qatar-days-after-iranian-attacks/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/iran-fm-visits-qatar-days-after-iranian-attacks/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:06:57 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>Iran said Foreign Minister Abbas Araghchi travelled to Qatar on Wednesday to pay tribute to its deceased former emir, days after the Islamic republic launched salvos at the gas-rich emirate.
+The post Iran FM visits Qatar days after Iranian attacks appeared first on Vanguard News.</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2024/10/Abbas-Araghchi.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Smart robotic glove to restore movement, touch after paralysis developed</title>
+      <link>https://tribuneonlineng.com/smart-robotic-glove-to-restore-movement-touch-after-paralysis-developed/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/smart-robotic-glove-to-restore-movement-touch-after-paralysis-developed/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:06:44 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>“Without feedback on how firmly an object is being held, hand function remains significantly limited in everyday life,” he said.
+The post Smart robotic glove to restore movement, touch after paralysis developed appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/paralysis-hand.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Kogi: Police probe ‘illegal’ NECO centre as victims’ rescue efforts intensified</title>
+      <link>https://tribuneonlineng.com/kogi-police-probe-illegal-neco-centre-as-victims-rescue-efforts-intensified/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/kogi-police-probe-illegal-neco-centre-as-victims-rescue-efforts-intensified/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:05:55 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Kogi State Police Command has intensified efforts to rescue four persons abducted by suspected kidnappers during an attack on a
+The post Kogi: Police probe &amp;#8216;illegal&amp;#8217; NECO centre as victims&amp;#8217; rescue efforts intensified appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2023/05/Kogi-map-new.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>State Police: Govs Will Not Solely Appoint CP – Abbas</title>
+      <link>https://newtelegraphng.com/state-police-govs-will-not-solely-appoint-cp-abbas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=state-police-govs-will-not-solely-appoint-cp-abbas</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/state-police-govs-will-not-solely-appoint-cp-abbas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=state-police-govs-will-not-solely-appoint-cp-abbas</guid>
+      <pubDate>Wed, 15 Jul 2026 16:05:52 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
+      <category>Nigerian News</category>
+      <description>Speaker of the House of Representatives, Hon. Tajudeen Abbas, has said that under the proposed State Police constitutional amendment, a state&amp;#8217;s Commissioner of Police would not be appointed solely by the Governor but through a process involving the National Police Council (NPC) and the State H</description>
+    </item>
+    <item>
+      <title>YNaija Daily Recap | Top Headlines Today</title>
+      <link>https://ynaija.com/ynaija-daily-recap-top-headlines-today-65/</link>
+      <guid isPermaLink="true">https://ynaija.com/ynaija-daily-recap-top-headlines-today-65/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:04:08 +0000</pubDate>
+      <dc:creator>YNaija</dc:creator>
+      <category>Celebrity</category>
+      <description>Ex-DSS Chief Reveals How Soldier Forced Oyo Kidnappers to Release Abducted Pupils Former Assistant Director-General of the Department of State Services (DSS), Mohammed Ngoshe, has revealed that the release of pupils and teachers abducted in Oyo State was secured through an intelligence-led security</description>
+      <media:content url="https://ynaija.com/wp-content/uploads/2026/07/image-38.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Dangote Refinery Insulates Nigerians From Global Fuel Price Shock – S&amp;P</title>
+      <link>https://leadership.ng/dangote-refinery-insulates-nigerians-from-global-fuel-price-shock-sp/</link>
+      <guid isPermaLink="true">https://leadership.ng/dangote-refinery-insulates-nigerians-from-global-fuel-price-shock-sp/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:04:05 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Dangote Petroleum Refinery &amp;#38; Petrochemicals has continued to shield the Nigerian market from external price shocks with affordable petroleum products despite global market disruptions. According to the latest market intelligence from S&amp;#38;P Global Commodity Insights, the refinery is maintaining</description>
+    </item>
+    <item>
+      <title>Oyo abduction: Senate approves N50m donation for families of slain teachers, soldiers</title>
+      <link>https://tribuneonlineng.com/oyo-abduction-senate-approves-n50m-donation-for-families-of-slain-teachers-soldiers/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/oyo-abduction-senate-approves-n50m-donation-for-families-of-slain-teachers-soldiers/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:02:53 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Senate on Wednesday approved a N50 million donation for the families of three soldiers and two teachers who lost their lives during the operation that rescued pupils and teachers abducted in Oriire Local Government Area of Oyo State. Each of the five bereaved families will receive N10 million in</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/02/Senate-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>UN Warns Of Cracks In Global Immunisation System</title>
+      <link>https://www.channelstv.com/2026/07/15/un-warns-of-cracks-in-global-immunisation-system/</link>
+      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/un-warns-of-cracks-in-global-immunisation-system/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:02:51 +0000</pubDate>
+      <dc:creator>Channels TV</dc:creator>
+      <category>Nigerian News</category>
+      <description>According to the data, an estimated 13.5 million so-called zero-dose children did not receive a single shot in their first year during 2025.
+The post UN Warns Of Cracks In Global Immunisation System appeared first on Channels Television.</description>
+    </item>
+    <item>
+      <title>FG unveils plan to reach 40 million homes with free digital television</title>
+      <link>https://pmnewsnigeria.com/2026/07/15/fg-unveils-plan-to-reach-40-million-homes-with-free-digital-television/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/fg-unveils-plan-to-reach-40-million-homes-with-free-digital-television/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:02:32 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Federal Government has announced that its renewed Digital Switch Over (DSO) project will provide up to 100 free television channels to at least 40 million households across Nigeria.</description>
+    </item>
+    <item>
+      <title>Pro-government militia seizes boat with ‘Houthi weapons materials’ in Yemen</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/7/15/pro-government-militia-seizes-boat-with-houthi-weapons-materials-in-yemen?traffic_source=rss</guid>
+      <pubDate>Wed, 15 Jul 2026 16:02:21 +0000</pubDate>
+      <dc:creator>Al Jazeera</dc:creator>
+      <category>World News</category>
+      <description>A pro-government militia said it intercepted a boat carrying ‘weapon-making equipment for the Houthis’ in Yemen.</description>
+    </item>
+    <item>
+      <title>Dangote Refinery a national pride, catalyst for Nigeria’s energy future – Petroleum Minister</title>
+      <link>https://nairametrics.com/2026/07/15/dangote-refinery-a-national-pride-catalyst-for-nigerias-energy-future-petroleum-minister/</link>
+      <guid isPermaLink="true">https://nairametrics.com/2026/07/15/dangote-refinery-a-national-pride-catalyst-for-nigerias-energy-future-petroleum-minister/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:00:25 +0000</pubDate>
+      <dc:creator>Nairametrics</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Minister of State for Petroleum Resources (Gas), Rt. Hon. Ekperikpe Ekpo, has described the Dangote Petroleum Refinery &amp;#38; Petrochemicals as a source of national pride and one of Nigeria&amp;#8217;s most transformative industrial investments, saying the Federal Government will continue to provide</description>
+    </item>
+    <item>
+      <title>Former Zambia Vice President Dies At 82</title>
+      <link>https://thewhistler.ng/former-zambia-vice-president-dies-at-82/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/former-zambia-vice-president-dies-at-82/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:00:25 +0000</pubDate>
+      <dc:creator>The Whistler</dc:creator>
+      <category>Nigerian News</category>
+      <description>Former Zambian Vice President and former Acting President Guy Scott has died at the age of 82 following an illness, the Zambian government announced on Wednesday. President Hakainde Hichilema has directed that Scott be accorded a state funeral in recognition of his service to the southern African na</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/Untitled-design-13-3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>World Cup: He was magnificent – Zlatan Ibrahimovic hails Spain star after France win</title>
+      <link>https://dailypost.ng/2026/07/15/world-cup-he-was-magnificent-zlatan-ibrahimovic-hails-spain-star-after-france-win/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/world-cup-he-was-magnificent-zlatan-ibrahimovic-hails-spain-star-after-france-win/</guid>
+      <pubDate>Wed, 15 Jul 2026 16:00:08 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Former Sweden striker, Zlatan Ibrahimovic, has singled out Rodri for special praise after Spain defeated France 2-0 in Tuesday&amp;#8217;s World Cup semi-final encounter. Speaking on Fox Sports after the game, Ibrahimovic said the Manchester City midfielder was magnificent against France, adding that he</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Zlatan-Ibrahimovic.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Okpebholo Signs Bill Renaming Edo School Of Agriculture</title>
+      <link>https://www.channelstv.com/2026/07/15/okpebholo-signs-bill-renaming-edo-school-of-agriculture/</link>
+      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/okpebholo-signs-bill-renaming-edo-school-of-agriculture/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:59:58 +0000</pubDate>
+      <dc:creator>Channels TV</dc:creator>
+      <category>Nigerian News</category>
+      <description>He said the new law would strengthen students’ capacity, support the state's food production goals and create employment opportunities for young people.
+The post Okpebholo Signs Bill Renaming Edo School Of Agriculture  appeared first on Channels Television.</description>
+    </item>
+    <item>
+      <title>Edo govt pays N800m EU counterpart funding to control erosion</title>
+      <link>https://tribuneonlineng.com/edo-govt-pays-n800m-eu-counterpart-funding-to-control-erosion/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/edo-govt-pays-n800m-eu-counterpart-funding-to-control-erosion/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:59:30 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Edo State Government on Wednesday said it had paid N800 million in counterpart funding to the European Union (EU) to control erosion...
+The post Edo govt pays N800m EU counterpart funding to control erosion appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/10/EU-1-e1764023934499.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Lagos govt begins documentation of informal public spaces, directs occupants to present ownership documents</title>
+      <link>https://www.premiumtimesng.com/regional/ssouth-west/895565-lagos-govt-begins-documentation-of-informal-public-spaces-directs-occupants-to-present-ownership-documents.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/regional/ssouth-west/895565-lagos-govt-begins-documentation-of-informal-public-spaces-directs-occupants-to-present-ownership-documents.html</guid>
+      <pubDate>Wed, 15 Jul 2026 15:59:25 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Lagos State Government noted that the project is designed to protect land reserved for infrastructure and to introduce a transparent framework for the temporary use of eligible public spaces.
+The post Lagos govt begins documentation of informal public spaces, directs occupants to present ownersh</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/1002847080-e1774367912447.jpg?fit=1278%2C800&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Why Nigeria’s ntel is pivoting from telecom operator to infrastructure company</title>
+      <link>https://techcabal.com/2026/07/15/ntel-bets-its-future-on-towers-fibre-and-power-not-phone-calls/</link>
+      <guid isPermaLink="true">https://techcabal.com/2026/07/15/ntel-bets-its-future-on-towers-fibre-and-power-not-phone-calls/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:59:19 +0000</pubDate>
+      <dc:creator>TechCabal</dc:creator>
+      <category>Naija Tech</category>
+      <description>ntel said on Monday, during its relaunch, that it is transitioning into a digital infrastructure company, focusing on towers, fibre networks, power systems and real estate</description>
+      <media:content url="https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2026/07/image-41-1024x581.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Again, Senate blocks PFIPC probe</title>
+      <link>https://pmnewsnigeria.com/2026/07/15/again-senate-blocks-pfipc-probe/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/again-senate-blocks-pfipc-probe/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:58:45 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>“It is now sub judice to attempt to go into it again. Mr President has already directed an investigation. If we go into it now, we will probably be jumping the gun.”</description>
+    </item>
+    <item>
+      <title>Kogi Governor Mobilises Security Agencies For Rescue Of Abducted Students, Others</title>
+      <link>https://www.tvcnews.tv/kogi-governor-mobilises-security-agencies-for-rescue-of-abducted-students-others/</link>
+      <guid isPermaLink="true">https://www.tvcnews.tv/kogi-governor-mobilises-security-agencies-for-rescue-of-abducted-students-others/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:58:41 +0000</pubDate>
+      <dc:creator>TVC News</dc:creator>
+      <category>Nigerian News</category>
+      <description>Governor of Kogi State, Usman Ododo has ordered a massive multi-agency security operation to rescue four persons abducted from Government Secondary School, Olowa, in Dekina Local Government Area during the ongoing NECO examinations.
+The post Kogi Governor Mobilises Security Agencies For Rescue Of Ab</description>
+    </item>
+    <item>
+      <title>Court orders final forfeiture of over 40 properties linked to ex-AGF Malami</title>
+      <link>https://tribuneonlineng.com/court-orders-final-forfeiture-of-over-40-properties-linked-to-ex-agf-malami/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/court-orders-final-forfeiture-of-over-40-properties-linked-to-ex-agf-malami/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:58:23 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>Justice Joyce Abdulmalik of a Federal High Court sitting in Abuja, has ordered the final forfeiture of more than 40 properties linked to fthe formerAttorney...
+The post Court orders final forfeiture of over 40 properties linked to ex-AGF Malami appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/04/Malami-1.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Wherever Nigeria goes Africa follows-  VP Shettima</title>
+      <link>https://dailypost.ng/2026/07/15/wherever-nigeria-goes-africa-follows-vp-shettima/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/wherever-nigeria-goes-africa-follows-vp-shettima/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:57:55 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Vice President Kashim Shettima on Wednesday said that Nigeria would surpass the United States, US, as the third most populous nation on earth in 2050. Shettima further predicted that by the end of the century, Nigeria&amp;#8217;s population would have crossed 440 million, thereby, making it the most pop</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2025/09/shettima.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Oluwo confers Atayese of Yorubaland chieftaincy title on VeryDarkMan</title>
+      <link>https://tribuneonlineng.com/oluwo-confers-atayese-of-yorubaland-chieftaincy-title-on-verydarkman/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/oluwo-confers-atayese-of-yorubaland-chieftaincy-title-on-verydarkman/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:57:10 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Oluwo of Iwoland, His Imperial Majesty Oba Abdulrasheed Adewale Akanbi, Telu I, has conferred the traditional title of Atayese of Yorubaland on social media commentator Martins Vincent Otse, popularly known as VeryDarkMan (VDM). The honour was bestowed during VeryDarkMan’s visit to the Oluwo’s P</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/07/Oluwo-and-VDM.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>More people are reaching their 60s than ever before — and it’s an incredible investing opportunity</title>
+      <link>https://www.marketwatch.com/story/more-people-are-reaching-their-60s-than-ever-before-and-its-an-incredible-investing-opportunity-367cc8b8?mod=mw_rss_topstories</link>
+      <guid isPermaLink="true">https://www.marketwatch.com/story/more-people-are-reaching-their-60s-than-ever-before-and-its-an-incredible-investing-opportunity-367cc8b8?mod=mw_rss_topstories</guid>
+      <pubDate>Wed, 15 Jul 2026 15:57:00 +0000</pubDate>
+      <dc:creator>MarketWatch</dc:creator>
+      <category>Investment &amp; Stocks</category>
+      <description>The world is getting older. Here’s how that’s going to change things.</description>
+      <media:content url="https://images.mktw.net/im-39898835" medium="image"/>
+    </item>
+    <item>
+      <title>I’ll sue contractor over faulty NASS microphones, Akpabio warns</title>
+      <link>https://www.vanguardngr.com/2026/07/ill-sue-contractor-over-faulty-nass-microphones-akpabio-warns/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/ill-sue-contractor-over-faulty-nass-microphones-akpabio-warns/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:56:53 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>…Situation embarrassing Nigeria, says Senate President By Henry Umoru ABUJA — President of the Senate, Senator Godswill Akpabio, has threatened legal action against the contractor responsible for the renovation of the National Assembly complex over persistent technical faults affecting facilities in</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/06/Akpabio2.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>2027: Why Tinubu retained Shettima as running mate – APC</title>
+      <link>https://dailypost.ng/2026/07/15/2027-why-tinubu-retained-shettima-as-running-mate-apc/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/2027-why-tinubu-retained-shettima-as-running-mate-apc/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:56:47 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>The North-West Vice Chairman of the All Progressives Congress, APC, Garba Muhammad, has disclosed the reason President Bola Tinubu retained his Vice, Kashim Shettima as running mate in the 2027 general elections.In a statement issued on Wednesday, Muhammad said Tinubu’s decision reflected his confid</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2025/08/Bola-Tinubu-and-Kashim-Shettima-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>The organisation called “Nigeria”, By Dipo Baruwa</title>
+      <link>https://www.premiumtimesng.com/opinion/895556-the-organisation-called-nigeria-by-dipo-baruwa.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/opinion/895556-the-organisation-called-nigeria-by-dipo-baruwa.html</guid>
+      <pubDate>Wed, 15 Jul 2026 15:55:50 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>In 1960, the agglomeration of predominantly three nations was recognised as an independent country. This country became known as Nigeria. At the outset, all seemed to be working reasonably well. Power was distributed among its constituent units, and the determination to develop rested heavily on the</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2025/05/Dipo-Baruwa.jpeg?fit=476%2C792&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Lagos Seals Ikoyi Property Over Untreated Sewage Discharge</title>
+      <link>https://thewhistler.ng/lagos-seals-ikoyi-property-over-untreated-sewage-discharge/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/lagos-seals-ikoyi-property-over-untreated-sewage-discharge/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:55:44 +0000</pubDate>
+      <dc:creator>The Whistler</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Lagos State Government has sealed a property at No. 5, Manuwa St., Ikoyi, for allegedly discharging untreated sewage into a canal through a non-functional sewage treatment plant. The enforcement was carried out on Wednesday by the Lagos State Wastewater Management Office following complaints fro</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/Untitled-design-12-3.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>APM backs Makinde’s call for independent probe of Oriire abduction, faults APC’s resistance</title>
+      <link>https://businessday.ng/news/article/apm-backs-makindes-call-for-independent-probe-of-oriire-abduction-faults-apcs-resistance/</link>
+      <guid isPermaLink="true">https://businessday.ng/news/article/apm-backs-makindes-call-for-independent-probe-of-oriire-abduction-faults-apcs-resistance/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:55:36 +0000</pubDate>
+      <dc:creator>BusinessDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Lagos State chapter of the Allied Peoples Movement (APM) has thrown its weight behind Oyo State Governor Seyi Makinde’s
+read more APM backs Makinde’s call for independent probe of Oriire abduction, faults APC’s resistance</description>
+      <media:content url="https://cdn.businessday.ng/2023/03/Seyi-Makinde.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Pension funds seen as missing link to closing Nigeria’s 28m housing gap</title>
+      <link>https://businessday.ng/insurance/article/pension-funds-seen-as-missing-link-to-closing-nigerias-28m-housing-gap/</link>
+      <guid isPermaLink="true">https://businessday.ng/insurance/article/pension-funds-seen-as-missing-link-to-closing-nigerias-28m-housing-gap/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:54:48 +0000</pubDate>
+      <dc:creator>BusinessDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>Nigeria&amp;#8217;s N31 trillion pension industry is emerging as one of the country&amp;#8217;s strongest untapped solutions to its worsening housing crisis,
+read more Pension funds seen as missing link to closing Nigeria&amp;#8217;s 28m housing gap</description>
+      <media:content url="https://cdn.businessday.ng/wp-content/uploads/2025/12/Real-estate-1-large.png" medium="image"/>
+    </item>
+    <item>
+      <title>World Cup 2026: ‘I’m A Messi Fan, I Want Argentina To Win’  –Mikel</title>
+      <link>https://www.completesports.com/world-cup-2026-im-a-messi-fan-i-want-argentina-to-win-mikel/</link>
+      <guid isPermaLink="true">https://www.completesports.com/world-cup-2026-im-a-messi-fan-i-want-argentina-to-win-mikel/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:54:46 +0000</pubDate>
+      <dc:creator>Completesports</dc:creator>
+      <category>Football</category>
+      <description>Former Super Eagles captain Mikel Obi says he is backing Lionel Messi&amp;#8217;s Argentina to defeat England in tonight&amp;#8217;s FIFA World Cup 2026 semi-final clash. Mikel noted that England&amp;#8217;s midfield has struggled to control spaces in the tournament and warned that Messi and Julián Álvarez will</description>
+    </item>
+    <item>
+      <title>Troops rescue 13 kidnap victims, foil terrorist operations in Zamfara</title>
+      <link>https://www.vanguardngr.com/2026/07/troops-rescue-13-kidnap-victims-foil-terrorist-operations-in-zamfara/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/troops-rescue-13-kidnap-victims-foil-terrorist-operations-in-zamfara/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:54:10 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>By Kingsley Omonobi Troops of Operation Fansan Yamma have rescued 13 kidnapped victims and disrupted terrorist operations during separate intelligence-led missions in Zamfara State. The operations were carried out in Anka and Kaura Namoda Local Government Areas of the state. The Military Information</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-15-at-4.49.29-PM.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Parade, prosecute Oyo school kidnap suspects – Ningi urges FG</title>
+      <link>https://dailypost.ng/2026/07/15/parade-prosecute-oyo-school-kidnap-suspects-ningi-urges-fg/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/parade-prosecute-oyo-school-kidnap-suspects-ningi-urges-fg/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:53:47 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>Senator Abdul Ningi, who represents Bauchi Central, has urged the Federal Government and security agencies to swiftly prosecute and publicly parade suspects arrested over the kidnapping of schoolchildren and teachers in Oyo State. Speaking during Senate plenary on Wednesday, Ningi said those behind</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/01/Abdul-Ningi-1.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Chelsea Submit €25m Bid for Real Madrid Defender</title>
+      <link>https://notjustok.com/sports/chelsea-submit-e25m-bid-for-real-madrid-defender/</link>
+      <guid isPermaLink="true">https://notjustok.com/sports/chelsea-submit-e25m-bid-for-real-madrid-defender/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:53:40 +0000</pubDate>
+      <dc:creator>NotJustOk</dc:creator>
+      <category>Naija Music</category>
+      <description>Chelsea have reportedly opened discussions with Real Madrid over the potential signing of left-back Álvaro Carreras, submitting an initial offer worth €25 million for the Spanish defender. The Blues are believed to be keen on strengthening their options at left-back ahead of the new season, with Car</description>
+    </item>
+    <item>
+      <title>Top Foldable Smartphones of H1 2026</title>
+      <link>https://techeconomy.ng/top-foldable-smartphones-of-h1-2026/</link>
+      <guid isPermaLink="true">https://techeconomy.ng/top-foldable-smartphones-of-h1-2026/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:53:14 +0000</pubDate>
+      <dc:creator>TechEconomy</dc:creator>
+      <category>Naija Tech</category>
+      <description>The iPhone Air is thin. At just 5.6mm, it is currently the thinnest slab-form smartphone ever made. However, foldable smartphones have taken thinness to another level. Once unfolded, many of them become way slimmer than conventional smartphones, making them some of the most impressive achievements i</description>
+      <media:content url="https://techeconomy.ng/wp-content/uploads/2025/12/Samsung-Galaxy-Z-TriFold.png" medium="image"/>
+    </item>
+    <item>
+      <title>PSC releases names of 50,000 successful Police Constable candidates</title>
+      <link>https://pmnewsnigeria.com/2026/07/15/psc-releases-names-of-50000-successful-police-constable-candidates/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/psc-releases-names-of-50000-successful-police-constable-candidates/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:52:53 +0000</pubDate>
+      <dc:creator>PM News</dc:creator>
+      <category>Nigerian News</category>
+      <description>It directed all candidates who participated in the recently concluded written examination to check their recruitment status on the official recruitment portal.</description>
+    </item>
+    <item>
+      <title>Meet the millionaires investing in nature conservation</title>
+      <link>https://www.france24.com/en/tv-shows/down-to-earth/20260715-meet-the-millionaires-investing-in-nature-conservation</link>
+      <guid isPermaLink="true">https://www.france24.com/en/tv-shows/down-to-earth/20260715-meet-the-millionaires-investing-in-nature-conservation</guid>
+      <pubDate>Wed, 15 Jul 2026 15:52:28 +0000</pubDate>
+      <dc:creator>France 24</dc:creator>
+      <category>World News</category>
+      <description>In France, a handful of wealthy entrepreneurs are buying up hundreds of hectares of land with the goal of letting nature reclaim its rightful place. Among them is Rodolphe Landemaine, an artisan baker at the helm of 30 bakeries in France and Japan. He routinely opens the doors to his Normandy estate</description>
+      <media:content url="https://s.france24.com/media/display/9dc3f7b0-8064-11f1-8b96-005056bf30b7/w:1024/p:16x9/capture-18889695946a57abc93bbad0-53768204.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Tinubu Congratulates NALDA Executive Secretary, Olusegun On 40th Birthday</title>
+      <link>https://newtelegraphng.com/tinubu-congratulates-nalda-executive-secretary-olusegun-on-40th-birthday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tinubu-congratulates-nalda-executive-secretary-olusegun-on-40th-birthday</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/tinubu-congratulates-nalda-executive-secretary-olusegun-on-40th-birthday/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tinubu-congratulates-nalda-executive-secretary-olusegun-on-40th-birthday</guid>
+      <pubDate>Wed, 15 Jul 2026 15:52:10 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
+      <category>Nigerian News</category>
+      <description>President Bola Tinubu has congratulated the Executive Secretary of the National Agricultural Land Development Authority (NALDA), Engr. Cornelius Adebayo Olusegun, on his 40th birthday, commending his leadership and contributions to Nigeria&amp;#8217;s agricultural transformation. In a statement issued o</description>
+    </item>
+    <item>
+      <title>2027: Labour Party dismisses report of failure to upload candidates’ names on INEC portal</title>
+      <link>https://dailypost.ng/2026/07/15/2027-labour-party-dismisses-report-of-failure-to-upload-candidates-names-on-inec-portal/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/2027-labour-party-dismisses-report-of-failure-to-upload-candidates-names-on-inec-portal/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:52:06 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Labour Party has stated that it has successfully uploaded the names of all its officially nominated candidates for the Presidential and National Assembly elections prior to the closure of the Independent National Electoral Commission, INEC nomination portal on July 14, 2026. This statement was m</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2023/11/Labour-Party.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>GABI Invites African Entrepreneurs to Submit Nominations for #UnstoppableAfricans 2026</title>
+      <link>https://techeconomy.ng/gabi-invites-african-business-changemakers-unstoppableafricans-2026/</link>
+      <guid isPermaLink="true">https://techeconomy.ng/gabi-invites-african-business-changemakers-unstoppableafricans-2026/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:51:46 +0000</pubDate>
+      <dc:creator>TechEconomy</dc:creator>
+      <category>Naija Tech</category>
+      <description>The Global Africa Business Initiative (GABI) has opened nominations for #UnstoppableAfricans 2026, recognising entrepreneurs, innovators and business leaders creating economic opportunities across Africa.
+The post GABI Invites African Entrepreneurs to Submit Nominations for #UnstoppableAfricans 2026</description>
+    </item>
+    <item>
+      <title>Kogi govt steps up efforts to rescue four abducted during NECO exams</title>
+      <link>https://tribuneonlineng.com/kogi-govt-steps-up-efforts-to-rescue-four-abducted-during-neco-exams/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/kogi-govt-steps-up-efforts-to-rescue-four-abducted-during-neco-exams/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:51:15 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Kogi State Government has intensified efforts to rescue four persons abducted from Government Secondary School (GSS), Olowa, in the Dekina...
+The post Kogi govt steps up efforts to rescue four abducted during NECO exams appeared first on Tribune Online.</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/11/Kogi-map-1024x768-1.webp" medium="image"/>
+    </item>
+    <item>
+      <title>Shettima unveils $500m Niger Delta agricultural investment fund</title>
+      <link>https://www.premiumtimesng.com/regional/south-south-regional/895555-shettima-unveils-500m-niger-delta-agricultural-investment-fund.html</link>
+      <guid isPermaLink="true">https://www.premiumtimesng.com/regional/south-south-regional/895555-shettima-unveils-500m-niger-delta-agricultural-investment-fund.html</guid>
+      <pubDate>Wed, 15 Jul 2026 15:50:58 +0000</pubDate>
+      <dc:creator>Premium Times</dc:creator>
+      <category>Nigerian News</category>
+      <description>“Before a people raise cities, they must learn to feed them, and before a state earns the loyalty of its citizens, it must secure their daily bread,” the vice president said.
+The post Shettima unveils $500m Niger Delta agricultural investment fund appeared first on Premium Times Nigeria.</description>
+      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/06/725880062_1576668497155472_6799003364647837278_n.jpg?fit=2048%2C1364&amp;amp;ssl=1" medium="image"/>
+    </item>
+    <item>
+      <title>Tinubu approves N3.6bn ITF scheme for tailors, targets 200,000 artisans</title>
+      <link>https://www.vanguardngr.com/2026/07/tinubu-approves-n3-6bn-itf-scheme-for-tailors-targets-200000-artisans/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/tinubu-approves-n3-6bn-itf-scheme-for-tailors-targets-200000-artisans/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:50:55 +0000</pubDate>
+      <dc:creator>Vanguard</dc:creator>
+      <category>Nigerian News</category>
+      <description>By Progress Godfrey ABUJA — President Bola Tinubu has approved N3.6 billion for the Industrial Training Fund (ITF) Skill-Up Artisans (SUPA) further training programme aimed at supporting tailors and strengthening Nigeria’s informal sector. The Federal Government is targeting about 200,000 artisans f</description>
       <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/05/tinububah-e1779777661573.jpg" medium="image"/>
     </item>
     <item>
-      <title>Minister Hails NECO CBT As 1.38 Million Candidates Take SSCE</title>
-      <link>https://thewhistler.ng/minister-hails-neco-cbt-as-1-38-million-candidates-take-ssce/</link>
-      <guid isPermaLink="true">https://thewhistler.ng/minister-hails-neco-cbt-as-1-38-million-candidates-take-ssce/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:43:26 +0000</pubDate>
+      <title>Kebbi Govt To Pay N2.1bn For Gratuities, Death Benefits To 772 Beneficiaries</title>
+      <link>https://newtelegraphng.com/kebbi-govt-to-pay-n2-1bn-for-gratuities-death-benefits-to-772-beneficiaries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kebbi-govt-to-pay-n2-1bn-for-gratuities-death-benefits-to-772-beneficiaries</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/kebbi-govt-to-pay-n2-1bn-for-gratuities-death-benefits-to-772-beneficiaries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kebbi-govt-to-pay-n2-1bn-for-gratuities-death-benefits-to-772-beneficiaries</guid>
+      <pubDate>Wed, 15 Jul 2026 15:50:47 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
+      <category>Nigerian News</category>
+      <description>Kebbi State Governor, Comrade Nasir Idris, has approved the release of N2,110,403,965.83 for the payment of gratuities and death benefits to state and contract staff, as well as retirees from the Local Government Service and Local Government Education Authorities. In a statement issued on Wednesday,</description>
+    </item>
+    <item>
+      <title>Welfare key to judicial independence – FCT Chief Judge</title>
+      <link>https://dailypost.ng/2026/07/15/welfare-key-to-judicial-independence-fct-chief-judge/</link>
+      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/welfare-key-to-judicial-independence-fct-chief-judge/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:50:16 +0000</pubDate>
+      <dc:creator>Daily Post</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Chief Judge of the Federal Capital Territory (FCT) High Court, Justice Husseini Baba-Yusuf, has described the welfare of judicial officers as an institutional necessity rather than a privilege, saying improved living and working conditions are essential for an independent and effective judiciary</description>
+      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/IMG_8795.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>FG Targets $130bn Chocolate Market With Cocoa Processing Drive</title>
+      <link>https://thewhistler.ng/fg-targets-130bn-chocolate-market-with-cocoa-processing-drive/</link>
+      <guid isPermaLink="true">https://thewhistler.ng/fg-targets-130bn-chocolate-market-with-cocoa-processing-drive/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:49:57 +0000</pubDate>
       <dc:creator>The Whistler</dc:creator>
       <category>Nigerian News</category>
-      <description>The Federal Government has commended the conduct of the National Examinations Council (NECO) Computer-Based Test (CBT) Senior School Certificate Examination, saying the new format is helping to curb examination malpractice. Minister of State for Education, Prof. Suwaiba Ahmad, assessed on Wednesday</description>
-      <media:content url="https://thewhistler.ng/wp-content/uploads/2025/05/Minster-of-State-for-Education-Prof.-Suwaiba-Said-Ahmad._20250528_173129_0000.jpg" medium="image"/>
+      <description>President Bola Tinubu has announced that Nigeria will phase out the export of raw cocoa beans in favour of local processing, as part of a broader strategy to strengthen the country’s cocoa industry through industrialisation and value addition. Speaking through the Minister of Agriculture and Food Se</description>
+      <media:content url="https://thewhistler.ng/wp-content/uploads/2025/02/N54.99trn-2025-Budget-Will-Empower-Nigerians-Build-Resilient-Future-–-Tinubu.jpg" medium="image"/>
     </item>
     <item>
-      <title>Senate Donates ₦50 Million to Families of Deceased Victims of Oriire Abduction</title>
-      <link>https://www.tvcnews.tv/senate-donates-%e2%82%a650-million-to-families-of-deceased-victims-of-oriire-abduction/</link>
-      <guid isPermaLink="true">https://www.tvcnews.tv/senate-donates-%e2%82%a650-million-to-families-of-deceased-victims-of-oriire-abduction/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:42:36 +0000</pubDate>
-      <dc:creator>TVC News</dc:creator>
+      <title>Morgan Stanley Destroys Bear Case Against Nebius. Proves The 35% Plunge Was a Huge Mistake</title>
+      <link>https://finance.yahoo.com/technology/ai/articles/morgan-stanley-destroys-bear-case-154949248.html</link>
+      <guid isPermaLink="true">https://finance.yahoo.com/technology/ai/articles/morgan-stanley-destroys-bear-case-154949248.html</guid>
+      <pubDate>Wed, 15 Jul 2026 15:49:49 +0000</pubDate>
+      <dc:creator>Yahoo Finance</dc:creator>
+      <category>Investment &amp; Stocks</category>
+      <media:content url="https://media.zenfs.com/en/24_7_wall_st__718/e061ddb31fa43662c3b350bcd85b809f" medium="image"/>
+    </item>
+    <item>
+      <title>HOSTCON Youth Council Hails GGSL MD For Excellence In Oil Asset Protection</title>
+      <link>https://newtelegraphng.com/hostcon-youth-council-hails-ggsl-md-for-excellence-in-oil-asset-protection/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hostcon-youth-council-hails-ggsl-md-for-excellence-in-oil-asset-protection</link>
+      <guid isPermaLink="true">https://newtelegraphng.com/hostcon-youth-council-hails-ggsl-md-for-excellence-in-oil-asset-protection/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hostcon-youth-council-hails-ggsl-md-for-excellence-in-oil-asset-protection</guid>
+      <pubDate>Wed, 15 Jul 2026 15:49:37 +0000</pubDate>
+      <dc:creator>New Telegraph</dc:creator>
       <category>Nigerian News</category>
-      <description>The Nigerian Senate has donated the sum of N50m to the families of victims of the Oriire school abduction, who lost their lives during the incident. This was disclosed during plenary on Wednesday. TVC News Online reports that the school principal, Mrs Rachael Alamu, speaking at the Oyo State Governm</description>
+      <description>The National Executive Council (NEC) and Board of Trustees (BOT) of the Host Communities Producing Oil, Gas and Pipeline Impacted States Youth Council of Nigeria (HOSTCON Youth Council) have commended Grosvenor Global Services Limited (GGSL) for its outstanding performance in the protection of Niger</description>
     </item>
     <item>
-      <title>Spotify expands parent-managed accounts to users on its free tier</title>
-      <link>https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:42:10 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>Naija Tech</category>
-      <description>The feature was previously only available to paid subscribers.</description>
-    </item>
-    <item>
-      <title>FULL LIST: Davido, Peller, Tems, Burna Boy, others nominated as AFRIMMA returns after two-year break</title>
-      <link>https://punchng.com/full-list-davido-peller-tems-burna-boy-others-nominated-as-afrimma-returns-after-two-year-break/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/full-list-davido-peller-tems-burna-boy-others-nominated-as-afrimma-returns-after-two-year-break/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:41:31 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>See the full list of AFRIMMA 2026 nominees! Davido, Burna Boy, Tems, and others nominated as the awards return after a two-year break.
-
-Read More: https://punchng.com/full-list-davido-peller-tems-burna-boy-others-nominated-as-afrimma-returns-after-two-year-break/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Ireland Extends Travel Relief For Expired Residence Permits Till August 31</title>
-      <link>https://www.tvcnews.tv/ireland-extends-travel-relief-for-expired-residence-permits-till-august-31/</link>
-      <guid isPermaLink="true">https://www.tvcnews.tv/ireland-extends-travel-relief-for-expired-residence-permits-till-august-31/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:40:51 +0000</pubDate>
-      <dc:creator>TVC News</dc:creator>
-      <category>Nigerian News</category>
-      <description>Ireland has introduced a temporary travel concession permitting eligible foreign residents to use recently expired Irish Residence Permit (IRP) cards for international travel until August 31, 2026, as authorities work to address delays in residence permit renewals. The measure, announced by the Mini</description>
-    </item>
-    <item>
-      <title>Reps demand details of ₦34tn customs waivers, query revenue records</title>
-      <link>https://www.vanguardngr.com/2026/07/reps-demand-details-of-%e2%82%a634tn-customs-waivers-query-revenue-records/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/reps-demand-details-of-%e2%82%a634tn-customs-waivers-query-revenue-records/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:40:47 +0000</pubDate>
+      <title>World Cup 2026: Ronaldo fans behind ‘FIFA favouring Messi’ conspiracy theories — Mikel Obi</title>
+      <link>https://www.vanguardngr.com/2026/07/world-cup-2026-ronaldo-fans-behind-fifa-favouring-messi-conspiracy-theories-mikel-obi/</link>
+      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/world-cup-2026-ronaldo-fans-behind-fifa-favouring-messi-conspiracy-theories-mikel-obi/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:49:21 +0000</pubDate>
       <dc:creator>Vanguard</dc:creator>
       <category>Nigerian News</category>
-      <description>By Gift ChapiOdekina, Abuja The House of Representatives Committee on Finance has directed the Nigeria Customs Service (NCS) to provide a comprehensive breakdown of the estimated ₦34 trillion import duty waivers granted in 2025, including beneficiaries, approval details and the purposes for which th</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/05/REPS-.jpg" medium="image"/>
+      <description>"If they won their games, which they should have done, they would not play tougher teams. Argentina did their job, they won their games, and they got into the easier group.
+The post World Cup 2026: Ronaldo fans behind &amp;#8216;FIFA favouring Messi&amp;#8217; conspiracy theories — Mikel Obi appeared first</description>
+      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/05/Mikel-Obi-1024x683.png" medium="image"/>
     </item>
     <item>
-      <title>2027: Tinubu has no opposition – Umahi</title>
-      <link>https://dailypost.ng/2026/07/15/2027-tinubu-has-no-opposition-umahi/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/2027-tinubu-has-no-opposition-umahi/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:39:56 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>Minister of Works, David Umahi, has expressed confidence that President Bola Tinubu remains firmly positioned ahead of the 2027 presidential election, declaring that the President currently has no credible opposition. Umahi stated that Tinubu&amp;#8217;s leadership and ongoing infrastructure projects ac</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2025/09/Dave-Umahi.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>European countries that allow assisted dying (euthanasia)</title>
-      <link>https://www.vanguardngr.com/2026/07/european-countries-that-allow-assisted-dying-euthanasia/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/european-countries-that-allow-assisted-dying-euthanasia/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:39:53 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>Belgium followed the Netherlands later in 2002 by adopting euthanasia with similar caveats to the Dutch.
-The post European countries that allow assisted dying (euthanasia) appeared first on Vanguard News.</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2020/02/euthanasia.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>India bets billions on breaking China’s grip on smartphone manufacturing</title>
-      <link>https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:39:52 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>Naija Tech</category>
-      <description>New Delhi announced a $6.5 billion smartphone manufacturing program and a $13.3 billion semiconductor push to deepen India's electronics supply chain.</description>
-    </item>
-    <item>
-      <title>Court Orders Final Forfeiture Of Over 40 Properties Linked To Ex-AGF Malami</title>
-      <link>https://www.tvcnews.tv/court-orders-final-forfeiture-of-over-40-properties-linked-to-ex-agf-malami/</link>
-      <guid isPermaLink="true">https://www.tvcnews.tv/court-orders-final-forfeiture-of-over-40-properties-linked-to-ex-agf-malami/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:39:34 +0000</pubDate>
-      <dc:creator>TVC News</dc:creator>
-      <category>Nigerian News</category>
-      <description>Justice Joyce Abdulmalik of the Federal High Court Abuja, has ordered the final forfeiture of more than 40 properties linked to former Attorney General of the Federation and Minister of Justice, Abubakar Malami. Judge Abdulmalik granted the Economic and Financial Crimes Commission&amp;#8217;s (EFCC) app</description>
-    </item>
-    <item>
-      <title>Ex-DSS chief reveals how Oyo pupils won freedom from kidnappers</title>
-      <link>https://thesun.ng/ex-dss-chief-reveals-how-oyo-pupils-won-freedom-from-kidnappers/</link>
-      <guid isPermaLink="true">https://thesun.ng/ex-dss-chief-reveals-how-oyo-pupils-won-freedom-from-kidnappers/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:39:20 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>A former Assistant Director-General of the Department of State Services (DSS), Mohammed Ngoshe, has revealed how sustained military pressure and coordinated intelligence operations forced the kidnappers of pupils and teachers in Oriire Local Government Area of Oyo State to release their captives aft</description>
-    </item>
-    <item>
-      <title>Why Nigerian movies may cost Ghanaian TV stations their licences</title>
-      <link>https://pmnewsnigeria.com/2026/07/15/why-nigerian-movies-may-cost-ghanaian-tv-stations-their-licences/</link>
-      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/why-nigerian-movies-may-cost-ghanaian-tv-stations-their-licences/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:39:04 +0000</pubDate>
+      <title>World Cup ticket race makes WAFCON tougher – Ihezuo</title>
+      <link>https://pmnewsnigeria.com/2026/07/15/world-cup-ticket-race-makes-wafcon-tougher-ihezuo/</link>
+      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/world-cup-ticket-race-makes-wafcon-tougher-ihezuo/</guid>
+      <pubDate>Wed, 15 Jul 2026 15:49:18 +0000</pubDate>
       <dc:creator>PM News</dc:creator>
       <category>Nigerian News</category>
-      <description>The National Film Authority, NFA, is considering tougher sanctions following allegations that some Ghanaian broadcasters download Nollywood films from YouTube and show them to viewers without authorisation or payment.</description>
-    </item>
-    <item>
-      <title>Skills Ratifies Harmonisation Of NABTE, ITF Mandates To Support Tinubu</title>
-      <link>https://newtelegraphng.com/skills-ratifies-harmonisation-of-nabte-itf-mandates-to-support-tinubu/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=skills-ratifies-harmonisation-of-nabte-itf-mandates-to-support-tinubu</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/skills-ratifies-harmonisation-of-nabte-itf-mandates-to-support-tinubu/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=skills-ratifies-harmonisation-of-nabte-itf-mandates-to-support-tinubu</guid>
-      <pubDate>Wed, 15 Jul 2026 14:38:38 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>...as Shettima seeks alignment of national training infrastructure with industry needs The National Council on Skills (NCS) has reviewed and ratified the alignment of the mandates of the Nigeria Board for Technical Education (NABTE) and the Industrial Training Fund (ITF) to support the industrialisa</description>
-    </item>
-    <item>
-      <title>World Cup 2026: Argentina, Not England Is Under Pressure To Win  –Guehi</title>
-      <link>https://www.completesports.com/world-cup-2026-argentina-not-england-is-under-pressure-to-win-guehi/</link>
-      <guid isPermaLink="true">https://www.completesports.com/world-cup-2026-argentina-not-england-is-under-pressure-to-win-guehi/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:38:25 +0000</pubDate>
-      <dc:creator>Completesports</dc:creator>
-      <category>Football</category>
-      <description>England defender Marc Guéhi has disclosed that there is no pressure at all on the Three Lions ahead of their FIFA World Cup 2026 semi-final clash against Argentina. England face Argentina at the Mercedes-Benz Stadium in Atlanta for a place in the World Cup final, where Spain awaits after defeating F</description>
-    </item>
-    <item>
-      <title>2027: Furore over uploading of PDP candidates’ names to INEC’s portal</title>
-      <link>https://tribuneonlineng.com/2027-furore-over-uploading-of-pdp-candidates-names-to-inecs-portal/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/2027-furore-over-uploading-of-pdp-candidates-names-to-inecs-portal/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:38:15 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>As the portal shut on Tuesday, there were claims the PDP was among three political parties that reportedly did not file the names of its candidates.
-The post 2027: Furore over uploading of PDP candidates’ names to INEC’s portal  appeared first on Tribune Online.</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/10/PDP.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Abbas defends state police bill, says safeguards will prevent governors’ abuse</title>
-      <link>https://www.vanguardngr.com/2026/07/abbas-defends-state-police-bill-says-safeguards-will-prevent-governors-abuse/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/abbas-defends-state-police-bill-says-safeguards-will-prevent-governors-abuse/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:37:24 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>By Gift ChapiOdekina, Abuja The Speaker of the House of Representatives, Rep. Abbas Tajudeen, has defended the proposed State Police Bill, assuring Nigerians that adequate constitutional safeguards have been included to prevent governors and political actors from using state police as private securi</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2023/11/Tajudeen-Abbas.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>Ebola Outbreak Tops 2,000 Cases In DR Congo</title>
-      <link>https://www.channelstv.com/2026/07/15/ebola-outbreak-tops-2000-cases-in-dr-congo/</link>
-      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/ebola-outbreak-tops-2000-cases-in-dr-congo/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:37:23 +0000</pubDate>
-      <dc:creator>Channels TV</dc:creator>
-      <category>Nigerian News</category>
-      <description>The outbreak has spread to five provinces in the central African country, according to the latest figures released by Congolese health authorities on Wednesday.
-The post Ebola Outbreak Tops 2,000 Cases In DR Congo appeared first on Channels Television.</description>
-      <media:content url="https://www.channelstv.com/wp-content/uploads/2026/07/Ebola-DR-Congo-1-150x150.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Oyo abduction: Senate approves N50m for families of slain teachers, soldiers</title>
-      <link>https://punchng.com/oyo-abduction-senate-approves-n50m-for-families-of-slain-teachers-soldiers/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/oyo-abduction-senate-approves-n50m-for-families-of-slain-teachers-soldiers/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:36:33 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Senate has approved N50 million for families of teachers and soldiers killed during the Oyo abduction rescue. Learn more about the support for victims.
-
-Read More: https://punchng.com/oyo-abduction-senate-approves-n50m-for-families-of-slain-teachers-soldiers/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Does International Flavors and Fragrances (IFF) Discounted Valuation Unlocks Opportunity?</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/does-international-flavors-fragrances-iff-143549227.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/does-international-flavors-fragrances-iff-143549227.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:35:49 +0000</pubDate>
-      <dc:creator>Yahoo Finance</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <media:content url="https://media.zenfs.com/en/insidermonkey.com/c2e60b4b8a5dec9e0d9f7434ec5dd5e6" medium="image"/>
-    </item>
-    <item>
-      <title>Job Visa Fraud: Police Arraign 45-Year-Old Lagosian</title>
-      <link>https://thewhistler.ng/job-visa-fraud-police-arraign-45-year-old-lagosian/</link>
-      <guid isPermaLink="true">https://thewhistler.ng/job-visa-fraud-police-arraign-45-year-old-lagosian/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:35:28 +0000</pubDate>
-      <dc:creator>The Whistler</dc:creator>
-      <category>Nigerian News</category>
-      <description>A 45-year-old man, Micheal Aduragbemi, on Wednesday, appeared before a Badagry Chief Magistrates’ Court in Lagos State for allegedly obtaining money by false pretences. The defendant is standing trial on three counts of conspiracy, obtaining money by false pretences, and stealing. He, however, plead</description>
-      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/Untitled-design-2-12.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>PayPal’s battered stock is getting a record boost from a report of buyout interest</title>
-      <link>https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories</guid>
-      <pubDate>Wed, 15 Jul 2026 14:35:00 +0000</pubDate>
-      <dc:creator>MarketWatch</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>Shares of PayPal, the struggling payments processor, were having their best day ever on Wednesday, after the release of a report that rival Stripe is teaming up with private-equity group Advent International on a bid.</description>
-      <media:content url="https://images.mktw.net/im-864290" medium="image"/>
-    </item>
-    <item>
-      <title>FG ends S’Africa evacuation with final airlift of 308 Nigerians</title>
-      <link>https://punchng.com/fg-ends-safrica-evacuation-with-final-airlift-of-308-nigerians/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/fg-ends-safrica-evacuation-with-final-airlift-of-308-nigerians/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:34:56 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Federal Government has completed the evacuation of over 1,500 Nigerians from South Africa following xenophobic attacks, with the final airlift of 308 N
-
-Read More: https://punchng.com/fg-ends-safrica-evacuation-with-final-airlift-of-308-nigerians/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Tinubu’s Re-Nomination Of Shettima As Running Mate, Strategic Political Calculation – Datti</title>
-      <link>https://newtelegraphng.com/tinubus-re-nomination-of-shettima-as-running-mate-strategic-political-calculation-datti/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tinubus-re-nomination-of-shettima-as-running-mate-strategic-political-calculation-datti</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/tinubus-re-nomination-of-shettima-as-running-mate-strategic-political-calculation-datti/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tinubus-re-nomination-of-shettima-as-running-mate-strategic-political-calculation-datti</guid>
-      <pubDate>Wed, 15 Jul 2026 14:34:42 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>The National Vice Chairman of the All Progressives Congress (APC) for the North West, Hon. Garba Datti Muhammad, has congratulated Vice President Senator Kashim Shettima on his re-nomination as vice-presidential candidate of the APC. Datti, in a statement issued on Wednesday, thanked President Bola</description>
-    </item>
-    <item>
-      <title>Europe's banks deploy SRT scalpel across private credit exposures</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/europes-banks-deploy-srt-scalpel-143415787.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/europes-banks-deploy-srt-scalpel-143415787.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:34:15 +0000</pubDate>
-      <dc:creator>Yahoo Finance</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <media:content url="https://media.zenfs.com/en/pitchbook_790/2403582b8a23468ade2a1c8da2259844" medium="image"/>
-    </item>
-    <item>
-      <title>PFIPC: Again, Senate Rejects Motion To Institute Probe</title>
-      <link>https://www.channelstv.com/2026/07/15/pfipc-again-senate-rejects-motion-to-probe-alleged-fake-agency/</link>
-      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/pfipc-again-senate-rejects-motion-to-probe-alleged-fake-agency/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:33:57 +0000</pubDate>
-      <dc:creator>Channels TV</dc:creator>
-      <category>Nigerian News</category>
-      <description>Senate President Godswill Akpabio said it would be inappropriate to launch a separate probe as the matter was before a court and President Bola Tinubu had directed the ICPC to investigate within 30 days.
-The post PFIPC: Again, Senate Rejects Motion To Institute Probe appeared first on Channels Telev</description>
-      <media:content url="https://www.channelstv.com/wp-content/uploads/2026/07/bxwupjx8dzy-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>BREAKING: Nigeria’s inflation eases to 15.91% in June despite rising food prices</title>
-      <link>https://nairametrics.com/2026/07/15/nigerias-inflation-eases-to-15-91-in-june-despite-rising-food-prices/</link>
-      <guid isPermaLink="true">https://nairametrics.com/2026/07/15/nigerias-inflation-eases-to-15-91-in-june-despite-rising-food-prices/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:33:41 +0000</pubDate>
-      <dc:creator>Nairametrics</dc:creator>
-      <category>Nigerian News</category>
-      <description>Nigeria&amp;#8217;s headline inflation rate edged lower to 15.91% in June 2026, compared to 15.93% recorded in May, according to the latest Consumer Price Index (CPI) report. The June inflation rate was significantly lower than the 25.29% recorded in June 2025, reflecting a continued moderation in headl</description>
-    </item>
-    <item>
-      <title>I have kept my promise to Ham people – Uba Sani</title>
-      <link>https://dailypost.ng/2026/07/15/i-have-kept-my-promise-to-ham-people-uba-sani/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/i-have-kept-my-promise-to-ham-people-uba-sani/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:33:27 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>Governor Uba Sani has broken a 20-year old jinx in Jaba local government, with the commissioning of five township roads in Kwoi, the headquarter of the Area Council. The Governor recalled that when he performed the ground breaking ceremony last September, he assured that the intervention would not b</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Uba-Sani-3.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Nigerian priest dies by suicide after notice to leave US</title>
-      <link>https://www.ripplesnigeria.com/nigerian-priest-dies-by-suicide-after-notice-to-leave-us/</link>
-      <guid isPermaLink="true">https://www.ripplesnigeria.com/nigerian-priest-dies-by-suicide-after-notice-to-leave-us/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:33:04 +0000</pubDate>
-      <dc:creator>Ripples Nigeria</dc:creator>
-      <category>Nigerian News</category>
-      <description>A Nigerian Catholic priest living and serving in Massachusetts, United States Reverend Benjamin Madu has reportedly died by suicide, days after receiving a notice to leave the United States to his home country Nigeria. According to the Catholic Archdiocese of Boston, the 54-year-old priest died on J</description>
-    </item>
-    <item>
-      <title>My Twitter, not X</title>
-      <link>https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/15/my-twitter-not-x?traffic_source=rss</guid>
-      <pubDate>Wed, 15 Jul 2026 14:32:46 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>As Twitter, then X, marks 20 years since its launch, a journalist journeys through revolutions and wars.</description>
-    </item>
-    <item>
-      <title>Should You Be Confident in MarketAxess Holdings (MKTX)?</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/confident-marketaxess-holdings-mktx-143234967.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/confident-marketaxess-holdings-mktx-143234967.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:32:34 +0000</pubDate>
-      <dc:creator>Yahoo Finance</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <media:content url="https://media.zenfs.com/en/insidermonkey.com/f43152a0e2f635f53eb137114adb9826" medium="image"/>
-    </item>
-    <item>
-      <title>Tuchel confirms Rice fit for Argentina clash as England target World Cup final</title>
-      <link>https://sportinglife.ng/tuchel-confirms-rice-fit-for-argentina-clash-as-england-target-world-cup-final/</link>
-      <guid isPermaLink="true">https://sportinglife.ng/tuchel-confirms-rice-fit-for-argentina-clash-as-england-target-world-cup-final/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:31:53 +0000</pubDate>
-      <dc:creator>SportingLife NG</dc:creator>
-      <category>Football</category>
-      <description>England manager Thomas Tuchel has confirmed that midfielder Declan Rice is fit to start Wednesday&amp;#8217;s FIFA World Cup semi-final against defending champions Argentina after recovering from illness. Speaking at his pre-match press conference in Atlanta on Tuesday, Tuchel said all of his available</description>
-      <media:content url="https://sportinglife.ng/wp-content/uploads/2026/07/Rice.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>How Christian Yoka restored confidence in Congo’s finances</title>
-      <link>https://www.theafricareport.com/425065/how-christian-yoka-restored-confidence-in-congos-finances/</link>
-      <guid isPermaLink="true">https://www.theafricareport.com/425065/how-christian-yoka-restored-confidence-in-congos-finances/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:31:06 +0000</pubDate>
-      <dc:creator>The Africa Report</dc:creator>
-      <category>Africa News</category>
-      <description>The Republic of Congo’s finance minister has begun to put Brazzaville’s debt back on a more sustainable path. Drawing on his years running the Africa department at the French Development Agency, he has persuaded investors to take another look at the country.</description>
-    </item>
-    <item>
-      <title>Tuchel Unfazed By History Ahead Of England vs Argentina World Cup Semi-Final</title>
-      <link>https://www.channelstv.com/2026/07/15/tuchel-unfazed-by-history-ahead-of-england-vs-argentina-world-cup-semi-final/</link>
-      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/tuchel-unfazed-by-history-ahead-of-england-vs-argentina-world-cup-semi-final/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:30:25 +0000</pubDate>
-      <dc:creator>Channels TV</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Three Lions have been led at the 2026 tournament by Jude Bellingham and Harry Kane, who have each scored six goals.
-The post Tuchel Unfazed By History Ahead Of England vs Argentina World Cup Semi-Final appeared first on Channels Television.</description>
-      <media:content url="https://www.channelstv.com/wp-content/uploads/2026/07/AFP__20260712__B9YV49G__v1__HighRes__ComboFblWc2026Match102EngArg-1-150x150.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Court adjourns Auxiliary’s case till September 14</title>
-      <link>https://tribuneonlineng.com/court-adjourns-auxiliarys-case-till-september-14/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/court-adjourns-auxiliarys-case-till-september-14/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:30:25 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>Justice Oyeyemi Ajayi of the Oyo State High Court, Ibadan, has adjourned the murder trial of the former Chairman of the Disciplinary Committee...
-The post Court adjourns Auxiliary’s case till September 14 appeared first on Tribune Online.</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/10/court-e1760539417989.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Former DSS boss says  Oyo rescue tactic can’t work in north</title>
-      <link>https://www.ripplesnigeria.com/former-dss-boss-says-oyo-rescue-tactic-cant-work-in-north/</link>
-      <guid isPermaLink="true">https://www.ripplesnigeria.com/former-dss-boss-says-oyo-rescue-tactic-cant-work-in-north/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:30:19 +0000</pubDate>
-      <dc:creator>Ripples Nigeria</dc:creator>
-      <category>Nigerian News</category>
-      <description>A former Assistant Director-General of the Department of State Services, Mohammed Ngoshe, has stated that the tactics used in the rescue of abducted pupils and teachers in Oriire Local Government Area of Oyo State cannot be replicated in the northern part of the country. Explaining why similar outco</description>
-    </item>
-    <item>
-      <title>Stock Buy Recommendations: Zenith, UBA and Access top Brokers’ list</title>
-      <link>https://nairametrics.com/2026/07/15/stock-buy-recommendations-zenith-uba-and-access-top-brokers-list/</link>
-      <guid isPermaLink="true">https://nairametrics.com/2026/07/15/stock-buy-recommendations-zenith-uba-and-access-top-brokers-list/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:30:09 +0000</pubDate>
-      <dc:creator>Nairametrics</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Nigerian equities market has begun to recover from the sharp June 2026 sell-off, which erased more than N13 trillion in market value and pushed several major stocks at least 15% below their 52-week highs.
-The post Stock Buy Recommendations: Zenith, UBA and Access top Brokers’ list appeared first</description>
-    </item>
-    <item>
-      <title>Senate Donates N50m To Families Of Teachers, Soldiers Killed In Oyo Abduction</title>
-      <link>https://newtelegraphng.com/senate-donates-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senate-donates-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/senate-donates-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=senate-donates-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction</guid>
-      <pubDate>Wed, 15 Jul 2026 14:30:01 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>&amp;#8230;Akpabio says support will honour sacrifice, ease burden of bereaved families The Senate has approved a donation of N50 million to the families of two teachers and three soldiers who lost their lives during the abduction of pupils and teachers in Oriire Local Government Area of Oyo State. The</description>
-    </item>
-    <item>
-      <title>Tinubu-Shettima ticket strategic for APC’s 2027 victory — Party Chieftain</title>
-      <link>https://www.vanguardngr.com/2026/07/tinubu-shettima-ticket-strategic-for-apcs-2027-victory-party-chieftain/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/tinubu-shettima-ticket-strategic-for-apcs-2027-victory-party-chieftain/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:29:40 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>By Gift ChapiOdekina, Abuja The All Progressives Congress (APC) North-West Vice Chairman, Hon. Garba Datti Muhammad, has described President Bola Ahmed Tinubu’s decision to retain Vice President Kashim Shettima as his running mate for the 2027 general election as a strategic move that would boost th</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/06/Bola-Tinubu-and-Kashim-Shettima-2-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Paychecks are rising faster than prices for a change — but when will consumers feel the relief?</title>
-      <link>https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories</guid>
-      <pubDate>Wed, 15 Jul 2026 14:29:00 +0000</pubDate>
-      <dc:creator>MarketWatch</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>Wage growth in June outpaced inflation, after falling behind during April and May.</description>
-      <media:content url="https://images.mktw.net/im-37534480" medium="image"/>
-    </item>
-    <item>
-      <title>Trump tells immigration agents to continue traffic stops despite killings</title>
-      <link>https://www.vanguardngr.com/2026/07/trump-tells-immigration-agents-to-continue-traffic-stops-despite-killings/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/trump-tells-immigration-agents-to-continue-traffic-stops-despite-killings/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:28:57 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>Trump's border czar Tom Homan told reporters at the White House on Tuesday that there was a "pause" in traffic stops, but insisted the practice was effective and would return.
-The post Trump tells immigration agents to continue traffic stops despite killings appeared first on Vanguard News.</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/05/AFP__20260508__2275229138__v4__MidRes__PresidentTrumpTravelsToSterlingVaOnFridayEven.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Support Tinubu To Consolidate Democracy, Al-Makura Urges Nigerians</title>
-      <link>https://newtelegraphng.com/support-tinubu-to-consolidate-democracy-al-makura-urges-nigerians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=support-tinubu-to-consolidate-democracy-al-makura-urges-nigerians</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/support-tinubu-to-consolidate-democracy-al-makura-urges-nigerians/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=support-tinubu-to-consolidate-democracy-al-makura-urges-nigerians</guid>
-      <pubDate>Wed, 15 Jul 2026 14:28:38 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>Former Governor of Nasarawa State and Chairman of the Universal Basic Education Commission (UBEC), Senator Tanko Al-Makura, has called on Nigerians to support President Bola Ahmed Tinubu&amp;#8217;s administration to consolidate the gains of democracy and strengthen democratic institutions in the countr</description>
-    </item>
-    <item>
-      <title>Pilot banned from Nigerian airspace as NCAA tightens sanctions over Asaba airport incident</title>
-      <link>https://tribuneonlineng.com/pilot-banned-from-nigerian-airspace-as-ncaa-tightens-sanctions-over-asaba-airport-incident/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/pilot-banned-from-nigerian-airspace-as-ncaa-tightens-sanctions-over-asaba-airport-incident/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:28:32 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Director-General of the Nigeria Civil Aviation Authority (NCAA), Captain Chris Najomo, has announced far-reaching regulatory sanctions...
-The post Pilot banned from Nigerian airspace as NCAA tightens sanctions over Asaba airport incident appeared first on Tribune Online.</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/04/NCAA.png" medium="image"/>
-    </item>
-    <item>
-      <title>BlackRock crosses $15 trillion in assets under management as Larry Fink hails 'strong' market fundamentals</title>
-      <link>https://finance.yahoo.com/markets/stocks/article/blackrock-crosses-15-trillion-in-assets-under-management-as-larry-fink-hails-strong-market-fundamentals-142829372.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/article/blackrock-crosses-15-trillion-in-assets-under-management-as-larry-fink-hails-strong-market-fundamentals-142829372.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:28:29 +0000</pubDate>
-      <dc:creator>Yahoo Finance</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <media:content url="https://s.yimg.com/uu/api/res/1.2/5AHqZfGrQ1DDoYpN91l6HQ--~B/aD0zNDAwO3c9NDY3NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/dd2eab54-e0c1-47b8-85ad-190e443b01b8" medium="image"/>
-    </item>
-    <item>
-      <title>‘I spend N400m monthly in Nigeria’ – Davido</title>
-      <link>https://www.vanguardngr.com/2026/07/i-spend-n400m-monthly-in-nigeria-davido/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/i-spend-n400m-monthly-in-nigeria-davido/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:28:00 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>Grammy-nominated Nigerian singer Davido has revealed that he spends as much as N400 million every month on his personal expenses while in Nigeria, excluding costs related to his wife, household, luxury cars and jewellery.
-The post &amp;#8216;I spend N400m monthly in Nigeria&amp;#8217; &amp;#8211; Davido appeare</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/07/david-adeleke.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Immigration targets nationwide housing for personnel</title>
-      <link>https://www.vanguardngr.com/2026/07/immigration-targets-nationwide-housing-for-personnel/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/immigration-targets-nationwide-housing-for-personnel/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:27:59 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>By Omeiza Ajayi ABUJA: The Nigeria Immigration Service NIS has restated its commitment to providing nationwide housing for its personnel, disclosing plans to replicate ongoing housing projects across the country.&amp;#160; This was made known on Wednesday during the official commissioning of the Nigeria</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2025/04/Nigeria-Immigration-Service.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Senate donates N50m to families of teachers, soldiers killed in Oriire abduction</title>
-      <link>https://pmnewsnigeria.com/2026/07/15/senate-donates-n50m-to-families-of-teachers-soldiers-killed-in-oriire-abduction/</link>
-      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/senate-donates-n50m-to-families-of-teachers-soldiers-killed-in-oriire-abduction/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:27:25 +0000</pubDate>
-      <dc:creator>PM News</dc:creator>
-      <category>Nigerian News</category>
-      <description>The abducted teachers and school children were recently rescued by security operatives.</description>
-    </item>
-    <item>
-      <title>NIWA Moves To Partner Indigenous Boat Builders For Water Transportation</title>
-      <link>https://newtelegraphng.com/niwa-moves-to-partner-indigenous-boat-builders-for-water-transportation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=niwa-moves-to-partner-indigenous-boat-builders-for-water-transportation</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/niwa-moves-to-partner-indigenous-boat-builders-for-water-transportation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=niwa-moves-to-partner-indigenous-boat-builders-for-water-transportation</guid>
-      <pubDate>Wed, 15 Jul 2026 14:27:22 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>&amp;#8230;to repair dilapidated jetties and infrastructure The Chairman of the Governing Board of the National Inland Waterways Authority (NIWA), Barrister Mukhtar Shehu Shagari, has said that the authority would collaborate with indigenous boat builders and other stakeholders to improve the quality of</description>
-    </item>
-    <item>
-      <title>Court orders final forfeiture of 48 properties linked to Malami</title>
-      <link>https://dailypost.ng/2026/07/15/court-orders-final-forfeiture-of-48-properties-linked-to-malami/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/court-orders-final-forfeiture-of-48-properties-linked-to-malami/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:27:12 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Federal High Court sitting in Abuja has ordered the final forfeiture of no fewer than 48 properties linked to former Attorney General of the Federation and Minister of Justice, Abubakar Malami.The presiding judge, Joyce Abdulmalik granted the forfeiture application by the Economic and Financial</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2025/12/Malami-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>‘Stay with your people, not in state capital’ – Fintiri tells new LG chairmen</title>
-      <link>https://dailypost.ng/2026/07/15/stay-with-your-people-not-in-state-capital-fintiri-tells-new-lg-chairmen/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/stay-with-your-people-not-in-state-capital-fintiri-tells-new-lg-chairmen/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:26:42 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>Governor Ahmadu Fintiri on Wednesday inaugurated new chairmen for Adamawa State’s 21 local government areas, charging them to always be available to their people. During the inauguration ceremony in Yola, Fintiri stressed that the new chairmen must remember that they were not elected to stay in the</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2024/08/IMG-20240205-WA0006-768x600-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Fiorentina submit bid for Super Eagles striker Arokodare</title>
-      <link>https://sportinglife.ng/fiorentina-submit-bid-for-super-eagles-striker-arokodare/</link>
-      <guid isPermaLink="true">https://sportinglife.ng/fiorentina-submit-bid-for-super-eagles-striker-arokodare/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:26:32 +0000</pubDate>
-      <dc:creator>SportingLife NG</dc:creator>
-      <category>Football</category>
-      <description>Serie A side Fiorentina have submitted an improved offer to Wolverhampton Wanderers for Nigeria international Tolu Arokodare as they step up their pursuit of the striker. The Italian club saw their initial bid for the 25-year-old rejected by Wolves last week but have now returned with a revised prop</description>
-      <media:content url="https://sportinglife.ng/wp-content/uploads/2026/04/Arokodare.jpeg" medium="image"/>
-    </item>
-    <item>
-      <title>NACCIMA Seeks Stronger PPPs To Bridge $2.3tn Infrastructure Gap</title>
-      <link>https://thewhistler.ng/naccima-seeks-stronger-ppps-to-bridge-2-3tn-infrastructure-gap/</link>
-      <guid isPermaLink="true">https://thewhistler.ng/naccima-seeks-stronger-ppps-to-bridge-2-3tn-infrastructure-gap/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:26:11 +0000</pubDate>
-      <dc:creator>The Whistler</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Nigerian Association of Chambers of Commerce, Industry, Mines and Agriculture (NACCIMA) has called for stronger public-private partnerships (PPPs), policy reforms and innovative financing to bridge Nigeria&amp;#8217;s estimated $2.3tn infrastructure financing gap, saying private capital will be crit</description>
-      <media:content url="https://thewhistler.ng/wp-content/uploads/2026/07/Untitled-design-1-23.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Is McDonald’s (MCD) the Worst Blue Chip Stock to Buy Now?</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/mcdonald-mcd-worst-blue-chip-142515408.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/mcdonald-mcd-worst-blue-chip-142515408.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:25:15 +0000</pubDate>
-      <dc:creator>Yahoo Finance</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <media:content url="https://media.zenfs.com/en/insidermonkey.com/917c769eea3833eef5d91eab922df679" medium="image"/>
-    </item>
-    <item>
-      <title>RBC Capital Keeps Sector Perform Rating on PepsiCo (PEP)</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/rbc-capital-keeps-sector-perform-142508470.html</link>
-      <guid isPermaLink="true">https://finance.yahoo.com/markets/stocks/articles/rbc-capital-keeps-sector-perform-142508470.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:25:08 +0000</pubDate>
-      <dc:creator>Yahoo Finance</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <media:content url="https://media.zenfs.com/en/insidermonkey.com/4d2b5385e0c0c7c499839d19acf24ec1" medium="image"/>
-    </item>
-    <item>
-      <title>These are the toughest places in America to sell a home right now</title>
-      <link>https://www.marketwatch.com/story/these-are-the-toughest-places-in-america-to-sell-a-home-right-now-724bff2a?mod=mw_rss_topstories</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/these-are-the-toughest-places-in-america-to-sell-a-home-right-now-724bff2a?mod=mw_rss_topstories</guid>
-      <pubDate>Wed, 15 Jul 2026 14:25:00 +0000</pubDate>
-      <dc:creator>MarketWatch</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>From Miami to Seattle, homeowners are seeing their homes sit on the market for longer before getting an offer.</description>
-      <media:content url="https://images.mktw.net/im-429977" medium="image"/>
-    </item>
-    <item>
-      <title>Legal challenge says Trump ICC sanctions tread on US citizens’ rights</title>
-      <link>https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/news/2026/7/15/legal-challenge-says-trump-icc-sanctions-tread-on-us-citizens-rights?traffic_source=rss</guid>
-      <pubDate>Wed, 15 Jul 2026 14:24:53 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>Groups charge that sanctions against ICC, Palestinian rights organisations stifle freedom of speech and expression.</description>
-    </item>
-    <item>
-      <title>How to avoid electrical hazards during rainy season – Electricity company</title>
-      <link>https://www.premiumtimesng.com/regional/ssouth-east/895526-how-to-avoid-electrical-hazards-during-rainy-season-electricity-company.html</link>
-      <guid isPermaLink="true">https://www.premiumtimesng.com/regional/ssouth-east/895526-how-to-avoid-electrical-hazards-during-rainy-season-electricity-company.html</guid>
-      <pubDate>Wed, 15 Jul 2026 14:24:04 +0000</pubDate>
-      <dc:creator>Premium Times</dc:creator>
-      <category>Nigerian News</category>
-      <description>The company warned residents against taking refuge beneath trees or standing close to electricity poles, power lines and other electrical installations during storms.
-The post How to avoid electrical hazards during rainy season – Electricity company appeared first on Premium Times Nigeria.</description>
-      <media:content url="https://i0.wp.com/media.premiumtimesng.com/wp-content/files/2026/03/IMG_6691-1.jpeg?fit=1424%2C802&amp;amp;ssl=1" medium="image"/>
-    </item>
-    <item>
-      <title>Nwabali stepped away from football after family tragedies, says agent</title>
-      <link>https://sportinglife.ng/nwabali-stepped-away-from-football-after-family-tragedies-says-agent/</link>
-      <guid isPermaLink="true">https://sportinglife.ng/nwabali-stepped-away-from-football-after-family-tragedies-says-agent/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:24:03 +0000</pubDate>
-      <dc:creator>SportingLife NG</dc:creator>
-      <category>Football</category>
-      <description>Super Eagles goalkeeper Stanley Nwabali temporarily stepped away from football earlier this year to cope with the devastating loss of close family members, his agent, Mohammed Lawal, has revealed. Nwabali requested to be released from his contract with South African club Chippa United in February as</description>
-      <media:content url="https://sportinglife.ng/wp-content/uploads/2025/06/Nwabali.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>JUST IN: NCAA suspends pilots, grounds jet involved in Asaba road-landing incident</title>
-      <link>https://punchng.com/just-in-ncaa-suspends-pilots-grounds-jet-involved-in-asaba-road-landing-incident/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/just-in-ncaa-suspends-pilots-grounds-jet-involved-in-asaba-road-landing-incident/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:23:41 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>The NCAA has suspended pilots and grounded the jet involved in the Asaba plane incident, launching an independent investigation into the unusual road landi
-
-Read More: https://punchng.com/just-in-ncaa-suspends-pilots-grounds-jet-involved-in-asaba-road-landing-incident/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>The Golden Age of Strategic PR: Why strategy, human intelligence matter more than ever</title>
-      <link>https://dailypost.ng/2026/07/15/the-golden-age-of-strategic-pr-why-strategy-human-intelligence-matter-more-than-ever/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/the-golden-age-of-strategic-pr-why-strategy-human-intelligence-matter-more-than-ever/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:23:08 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>Every year, World PR Day offers an opportunity to reflect on how the public relations profession continues to evolve. This year&amp;#8217;s theme, &amp;#8220;The Golden Age of Strategic PR,&amp;#8221; is more than just a celebration of the industry; it is a recognition that public relations has entered one of i</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2026/07/Screenshot_20260715_145120_Gallery.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>WAFU B U-20 Championship: Flying Eagles Draw Ghana, Burkina Faso, Togo In Group B</title>
-      <link>https://www.completesports.com/wafu-b-u-20-championship-flying-eagles-draw-ghana-burkina-faso-togo-in-group-b/</link>
-      <guid isPermaLink="true">https://www.completesports.com/wafu-b-u-20-championship-flying-eagles-draw-ghana-burkina-faso-togo-in-group-b/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:23:06 +0000</pubDate>
-      <dc:creator>Completesports</dc:creator>
-      <category>Football</category>
-      <description>Nigeria&amp;#8217;s Flying Eagles have been drawn with Ghana, Togo, and Burkina Faso in Group B of the WAFU B U-20 Championship, Completesports.com reports. The draw for the regional tournament, which serves as the qualifying competition for the 2027 Africa U-20 Cup of Nations was held on Wednesday at t</description>
-    </item>
-    <item>
-      <title>How this small-cap stock picker’s ‘ownership’ approach has helped him beat the Russell 2000</title>
-      <link>https://www.marketwatch.com/story/how-this-small-cap-stock-pickers-ownership-approach-has-helped-him-beat-the-russell-2000-d2a789fc?mod=mw_rss_topstories</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/how-this-small-cap-stock-pickers-ownership-approach-has-helped-him-beat-the-russell-2000-d2a789fc?mod=mw_rss_topstories</guid>
-      <pubDate>Wed, 15 Jul 2026 14:23:00 +0000</pubDate>
-      <dc:creator>MarketWatch</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>An active value and quality-based approach can be an advantage in a part of the stock market dominated by index funds.</description>
-      <media:content url="https://images.mktw.net/im-04224733" medium="image"/>
-    </item>
-    <item>
-      <title>Man, 45, arraigned over alleged N3m visa fraud</title>
-      <link>https://pmnewsnigeria.com/2026/07/15/man-45-arraigned-over-alleged-n3m-visa-fraud/</link>
-      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/man-45-arraigned-over-alleged-n3m-visa-fraud/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:22:42 +0000</pubDate>
-      <dc:creator>PM News</dc:creator>
-      <category>Nigerian News</category>
-      <description>The prosecutor alleged that the defendant obtained the sum of three million naira from the complainant under the pretext of processing a Kuwait working visa for her, knowing same to be false.</description>
-    </item>
-    <item>
-      <title>US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims</title>
-      <link>https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:21:49 +0000</pubDate>
-      <dc:creator>TechCrunch</dc:creator>
-      <category>Naija Tech</category>
-      <description>The 2024 indictment, now unsealed, accuses three Russians and two web hosts of aiding hackers and profiting from cybercrime.</description>
-    </item>
-    <item>
-      <title>Everyone’s talking about data — but do you know the difference between Data Analytics, Business Intelligence, and Data Intelligence?</title>
-      <link>https://technext24.com/reviews/difference-data-analytics-business-intelligence/</link>
-      <guid isPermaLink="true">https://technext24.com/reviews/difference-data-analytics-business-intelligence/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:21:40 +0000</pubDate>
-      <dc:creator>Technext</dc:creator>
-      <category>Naija Tech</category>
-      <description>A no-jargon guide to Data Analytics, Business Intelligence, and Data Intelligence</description>
-      <media:content url="https://technext24.com/wp-content/uploads/2026/07/image-50.png" medium="image"/>
-    </item>
-    <item>
-      <title>Belgian Defender Meunier Signs For EPL Side Sunderland</title>
-      <link>https://www.channelstv.com/2026/07/15/belgian-defender-meunier-signs-for-epl-side-sunderland/</link>
-      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/belgian-defender-meunier-signs-for-epl-side-sunderland/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:21:02 +0000</pubDate>
-      <dc:creator>Channels TV</dc:creator>
-      <category>Nigerian News</category>
-      <description>The 34-year-old -- one of Belgium's 'golden generation' whose last hurrah was a World Cup quarter-final exit to Spain -- signed a two-year contract.
-The post Belgian Defender Meunier Signs For EPL Side Sunderland appeared first on Channels Television.</description>
-      <media:content url="https://www.channelstv.com/wp-content/uploads/2026/07/Thomas-Meunier-1-150x150.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>US Republicans Unveil $95b Pre-Election Spending Push</title>
-      <link>https://www.channelstv.com/2026/07/15/us-republicans-unveil-95b-pre-election-spending-push/</link>
-      <guid isPermaLink="true">https://www.channelstv.com/2026/07/15/us-republicans-unveil-95b-pre-election-spending-push/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:20:26 +0000</pubDate>
-      <dc:creator>Channels TV</dc:creator>
-      <category>Nigerian News</category>
-      <description>The plan would provide $73 billion for the military and intelligence agencies, including funding tied to the war with Iran, along with $12 billion in aid for farmers hurt by President Donald Trump's trade war.
-The post US Republicans Unveil $95b Pre-Election Spending Push appeared first on Channels</description>
-    </item>
-    <item>
-      <title>2027: ADC makes urgent demand after armed men storm NDC meeting</title>
-      <link>https://pmnewsnigeria.com/2026/07/15/2027-adc-makes-urgent-demand-after-armed-men-storm-ndc-meeting/</link>
-      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/2027-adc-makes-urgent-demand-after-armed-men-storm-ndc-meeting/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:20:14 +0000</pubDate>
-      <dc:creator>PM News</dc:creator>
-      <category>Nigerian News</category>
-      <description>“We are all brothers and sisters. Imo State is our common home. Politics should not turn us into enemies. The blood of any Imolite is too precious to be spilled on the altar of ambition,” Amadi said.</description>
-    </item>
-    <item>
-      <title>NCAA bans pilot, suspends first officer over Asaba airport incident</title>
-      <link>https://thesun.ng/ncaa-bans-pilot-suspends-first-officer-over-asaba-airport-incident/</link>
-      <guid isPermaLink="true">https://thesun.ng/ncaa-bans-pilot-suspends-first-officer-over-asaba-airport-incident/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:19:55 +0000</pubDate>
-      <dc:creator>The Sun</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Director General of Nigeria Civil Aviation Authority (NCAA), Captain Chris Najomo, has imposed sanctions on the flight crew which operated the Bombardier Challenger CL601-3A, with registration N989BC, which mistakenly landed on road under construction near Asaba Airport in Delta State on June 10</description>
-    </item>
-    <item>
-      <title>FG assures Dangote Refinery of continued collaboration from policymakers, regulators</title>
-      <link>https://tribuneonlineng.com/fg-assures-dangote-refinery-of-continued-collaboration-from-policymakers-regulators/</link>
-      <guid isPermaLink="true">https://tribuneonlineng.com/fg-assures-dangote-refinery-of-continued-collaboration-from-policymakers-regulators/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:19:26 +0000</pubDate>
-      <dc:creator>Tribune</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Minister of State for Petroleum Resources (Gas), Rt. Hon. Ekperikpe Ekpo, has assured the management of Dangote Refinery &amp;#38; Petrochemicals of
-The post FG assures Dangote Refinery of continued collaboration from policymakers, regulators appeared first on Tribune Online.</description>
-      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2024/09/Dangote-refinery-e1737119176963.png" medium="image"/>
-    </item>
-    <item>
-      <title>FG completes evacuation of Nigerians from South Africa</title>
-      <link>https://dailypost.ng/2026/07/15/fg-completes-evacuation-of-nigerians-from-south-africa/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/fg-completes-evacuation-of-nigerians-from-south-africa/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:19:04 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Federal Government has completed the evacuation of Nigerians affected by xenophobic attacks in South Africa, with the last government-sponsored flight carrying 308 returnees arriving at the Murtala Muhammed International Airport in Lagos on Wednesday. The aircraft also brought back three Nigeria</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2025/07/Bianca-Odumegwu-Ojukwu.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Stripe, Advent seek to acquire PayPal in $53bn bid</title>
-      <link>https://businessday.ng/news/article/stripe-advent-seek-to-acquire-paypal-in-53bn-bid/</link>
-      <guid isPermaLink="true">https://businessday.ng/news/article/stripe-advent-seek-to-acquire-paypal-in-53bn-bid/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:19:04 +0000</pubDate>
-      <dc:creator>BusinessDay Tech</dc:creator>
-      <category>Naija Tech</category>
-      <description>Payments giant Stripe and private equity firm Advent International have made a joint $53 billion bid to acquire PayPal, in
-read more Stripe, Advent seek to acquire PayPal in $53bn bid</description>
-      <media:content url="https://cdn.businessday.ng/2021/03/Untitled-design-2021-03-16T164317.105.png" medium="image"/>
-    </item>
-    <item>
-      <title>Senate approves N50m to families of teachers, soldiers killed in Oyo abduction</title>
-      <link>https://www.vanguardngr.com/2026/07/senate-approves-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction/</link>
-      <guid isPermaLink="true">https://www.vanguardngr.com/2026/07/senate-approves-n50m-to-families-of-teachers-soldiers-killed-in-oyo-abduction/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:18:29 +0000</pubDate>
-      <dc:creator>Vanguard</dc:creator>
-      <category>Nigerian News</category>
-      <description>Akpabio said the donation was meant to provide support to the grieving families while recognising the ultimate sacrifices made by the deceased during the tragic incident.
-The post Senate approves N50m to families of teachers, soldiers killed in Oyo abduction appeared first on Vanguard News.</description>
-      <media:content url="https://cdn.vanguardngr.com/wp-content/uploads/2026/02/senate-1024x540.webp" medium="image"/>
-    </item>
-    <item>
-      <title>Delta CP warns security outfits against torture, unlawful detention</title>
-      <link>https://punchng.com/delta-cp-warns-security-outfits-against-torture-unlawful-detention/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
-      <guid isPermaLink="true">https://punchng.com/delta-cp-warns-security-outfits-against-torture-unlawful-detention/?utm_source=rss.punchng.com&amp;utm_medium=web</guid>
-      <pubDate>Wed, 15 Jul 2026 14:17:19 +0000</pubDate>
-      <dc:creator>Punch</dc:creator>
-      <category>Nigerian News</category>
-      <description>Delta State Commissioner of Police warns security outfits against unlawful detention, torture, and using their power to settle personal disputes.
-
-Read More: https://punchng.com/delta-cp-warns-security-outfits-against-torture-unlawful-detention/</description>
-      <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Governor Fintiri swears in new LG chairmen</title>
-      <link>https://dailypost.ng/2026/07/15/governor-fintiri-swears-in-new-lg-chairmen/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/governor-fintiri-swears-in-new-lg-chairmen/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:16:37 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>Governor of Adamawa State, Ahmadu Fintiri, on Wednesday, swore in 21 newly elected council chairmen to administer the local governments in the state for the next three years. The News Agency of Nigeria, NAN, reports that the ruling Peoples Democratic Party, PDP, in the state won the election conduct</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2025/06/Fintiri.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Senate takes major decision over five who died in Oyo school abduction crisis</title>
-      <link>https://pmnewsnigeria.com/2026/07/15/senate-takes-major-decision-over-five-who-died-in-oyo-school-abduction-crisis/</link>
-      <guid isPermaLink="true">https://pmnewsnigeria.com/2026/07/15/senate-takes-major-decision-over-five-who-died-in-oyo-school-abduction-crisis/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:16:22 +0000</pubDate>
-      <dc:creator>PM News</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Senate President said the donation was intended to recognise their sacrifices and provide financial support to their dependants.</description>
-    </item>
-    <item>
-      <title>France move from Deschamps to Zidane wondering wha...</title>
-      <link>https://www.espn.com/soccer/story/_/id/49364445/france-move-deschamps-zidane-wondering-couldve-been</link>
-      <guid isPermaLink="true">https://www.espn.com/soccer/story/_/id/49364445/france-move-deschamps-zidane-wondering-couldve-been</guid>
-      <pubDate>Wed, 15 Jul 2026 14:16:14 +0000</pubDate>
-      <dc:creator>ESPN Soccer</dc:creator>
-      <category>Football</category>
-      <description>France's Didier Deschamps era ended with a shock World Cup semifinal defeat to Spain. Is Zinedine Zidane better placed to get more out of this clearly talented group?</description>
-    </item>
-    <item>
-      <title>FCT: Houses for judge’ll be on owner-occupier basis, subject to Tinubu’s approval – Wike</title>
-      <link>https://dailypost.ng/2026/07/15/fct-houses-for-judgell-be-on-owner-occupier-basis-subject-to-tinubus-approval-wike/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/fct-houses-for-judgell-be-on-owner-occupier-basis-subject-to-tinubus-approval-wike/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:15:39 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Minister of the Federal Capital Territory, FCT, Nyesom Wike, on Wednesday, revealed that the newly inaugurated judges quarters would be given to Judges at an owner-occupier basis. Wike, however, noted that the structures would be given to judges following President Bola Tinubu&amp;#8217;s approval a</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2026/02/Wike-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>‘They cut off online access’: My mother’s bank balance plummeted after her death. What’s going on?</title>
-      <link>https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories</link>
-      <guid isPermaLink="true">https://www.marketwatch.com/story/they-cut-off-online-access-my-mothers-bank-balance-plummeted-after-her-death-whats-going-on-8e8f3aa2?mod=mw_rss_topstories</guid>
-      <pubDate>Wed, 15 Jul 2026 14:15:00 +0000</pubDate>
-      <dc:creator>MarketWatch</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>“Since her death, her bank balance fell to $9,000 from $16,000.”</description>
-      <media:content url="https://images.mktw.net/im-29458227" medium="image"/>
-    </item>
-    <item>
-      <title>Kano/Jigawa Customs Generates N63.78bn In 6-Month – Controller</title>
-      <link>https://newtelegraphng.com/kano-jigawa-customs-generates-n63-78bn-in-6-month-controller/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kano-jigawa-customs-generates-n63-78bn-in-6-month-controller</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/kano-jigawa-customs-generates-n63-78bn-in-6-month-controller/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kano-jigawa-customs-generates-n63-78bn-in-6-month-controller</guid>
-      <pubDate>Wed, 15 Jul 2026 14:13:43 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Kano/Jigawa Command of the Nigeria Customs Service (NCS) has, in the first half of the 2026 fiscal year, generated 63,078,655,523.44 billion Naira from January to June 2026. Speaking in a press briefing, the Command Controller, UU Adamu, said the generation of revenue surpassed the 58,389,838,28</description>
-    </item>
-    <item>
-      <title>We submitted names of our presidential candidates before INEC deadline – Wike-backed PDP</title>
-      <link>https://dailypost.ng/2026/07/15/we-submitted-names-of-our-presidential-candidates-before-inec-deadline-wike-backed-pdp/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/we-submitted-names-of-our-presidential-candidates-before-inec-deadline-wike-backed-pdp/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:13:22 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Nyesom Wike-led Peoples Democratic Party, PDP, has insisted that it submitted its presidential name before the Independent National Electoral Commission, INEC, issued an official deadline.The faction’s National Publicity Secretary, Jungudo Mohammed, said this in a statement, dismissing the claim</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2026/01/pdp-1.jpg-image.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Arsenal explore Alvarez deal as Atletico Madrid forward eyes summer exit</title>
-      <link>https://sportinglife.ng/arsenal-explore-alvarez-deal-as-atletico-madrid-forward-eyes-summer-exit/</link>
-      <guid isPermaLink="true">https://sportinglife.ng/arsenal-explore-alvarez-deal-as-atletico-madrid-forward-eyes-summer-exit/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:12:40 +0000</pubDate>
-      <dc:creator>SportingLife NG</dc:creator>
-      <category>Football</category>
-      <description>Arsenal are monitoring the situation of Argentina forward Julian Alvarez after he informed Atletico Madrid of his desire to leave the club this summer.. The 26-year-old is understood to prefer a move to Barcelona, but Atletico are unwilling to negotiate with their LaLiga rivals. The Spanish club hav</description>
-      <media:content url="https://sportinglife.ng/wp-content/uploads/2026/07/Alvarez-1.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Troops rescue five kidnap victims in Zamfara</title>
-      <link>https://dailypost.ng/2026/07/15/troops-rescue-five-kidnap-victims-in-zamfara/</link>
-      <guid isPermaLink="true">https://dailypost.ng/2026/07/15/troops-rescue-five-kidnap-victims-in-zamfara/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:11:11 +0000</pubDate>
-      <dc:creator>Daily Post</dc:creator>
-      <category>Nigerian News</category>
-      <description>Nigerian troops have rescued five kidnapped victims after overrunning a suspected terrorist camp in Anka Local Government Area of Zamfara State. According to security sources, the operation was carried out by troops of Sector 2, Operation Fansan Yamma, after they received intelligence that armed ter</description>
-      <media:content url="https://dailypost.ng/wp-content/uploads/2025/12/Troops.jpeg" medium="image"/>
+      <description>Super Falcons striker Chinwendu Ihezuo has said the upcoming 2026 Women’s Africa Cup of Nations (WAFCON) in Morocco will be more difficult than the last edition, but she is confident Nigeria can defend the title and qualify for the 2027 FIFA Women’s World Cup.</description>
     </item>
   </channel>
 </rss>

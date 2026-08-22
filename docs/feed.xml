@@ -8,7 +8,7 @@
     <link>https://naijadigest.ng/</link>
     <description>Nigeria&#x2019;s one-stop hub for breaking news, tech, football, celebrity gossip, Naija music, live TV, exchange rates and trending topics.</description>
     <language>en-ng</language>
-    <lastBuildDate>Sat, 22 Aug 2026 02:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:37:25 +0000</lastBuildDate>
     <ttl>60</ttl>
     <atom:link href="https://naijadigest.ng/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
@@ -16,6 +16,53 @@
       <title>Naija Digest Online</title>
       <link>https://naijadigest.ng/</link>
     </image>
+    <item>
+      <title>Abia ‌‌Disability Commission Demands Inclusive Implementation Of Gender Law</title>
+      <link>https://leadership.ng/abia-disability-commission-demands-inclusive-implementation-of-gender-law/</link>
+      <guid isPermaLink="true">https://leadership.ng/abia-disability-commission-demands-inclusive-implementation-of-gender-law/</guid>
+      <pubDate>Sat, 22 Aug 2026 03:34:53 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>The Abia State Disability Commission has called for deliberate inclusion of women and girls with disabilities in the implementation of the 2026 Gender-Based Violence (GBV) rehabilitation law. Chairman of the commission, Dr David Anyaele, made the call in Umuahia during a stakeholders’ engagement org</description>
+    </item>
+    <item>
+      <title>ICPC Uncovers Another Fake Agency Operating In SGF Office</title>
+      <link>https://leadership.ng/icpc-uncovers-another-fake-agency-operating-in-sgf-office-2/</link>
+      <guid isPermaLink="true">https://leadership.ng/icpc-uncovers-another-fake-agency-operating-in-sgf-office-2/</guid>
+      <pubDate>Sat, 22 Aug 2026 03:31:07 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Tinubu suspends 3 Perm Secs, orders Nwabueze’s arrest The Independent Corrupt Practices and Other Related Offences Commission (ICPC) has uncovered another fake agency operating under the name National Brands Development and Made in Nigeria Special Project Office within the premises of the Office of</description>
+    </item>
+    <item>
+      <title>Dozens Abducted During Friday Prayers In Niger</title>
+      <link>https://leadership.ng/dozens-abducted-during-friday-prayers-in-niger/</link>
+      <guid isPermaLink="true">https://leadership.ng/dozens-abducted-during-friday-prayers-in-niger/</guid>
+      <pubDate>Sat, 22 Aug 2026 03:27:48 +0000</pubDate>
+      <dc:creator>Leadership</dc:creator>
+      <category>Nigerian News</category>
+      <description>Many worshippers  who attended the Friday (Jumma’ah) prayers at the central mosque in Dekara community in Borgu local government area of Niger State were abducted by bandits yesterday. A resident, Mohammed Haruna, told  LEADERSHIP Weekend on telephone that the worshippers were abducted shortly after</description>
+    </item>
+    <item>
+      <title>Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall</title>
+      <link>https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss</link>
+      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss</guid>
+      <pubDate>Sat, 22 Aug 2026 03:17:29 +0000</pubDate>
+      <dc:creator>BBC News World</dc:creator>
+      <category>World News</category>
+      <description>Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.</description>
+      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png" medium="image"/>
+    </item>
+    <item>
+      <title>Abesan demolition: Residents set up building compliance committee, seek compensation for victims</title>
+      <link>https://tribuneonlineng.com/abesan-demolition-residents-set-up-building-compliance-committee-seek-compensation-for-victims/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/abesan-demolition-residents-set-up-building-compliance-committee-seek-compensation-for-victims/</guid>
+      <pubDate>Sat, 22 Aug 2026 03:15:00 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>For residents of Abesan Estate in Ipaja, Saturday, July 11, began like any other weekend. After the mental and emotional toll of the working week in Lagos, residents had looked forward to a restful and peaceful Saturday. But that particular morning turned out differently. Rather than provide the muc</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/08/demolition.jpg" medium="image"/>
+    </item>
     <item>
       <title>Subsidy: Your reforms worsening hardship, Atiku lashes at Tinubu</title>
       <link>https://punchng.com/subsidy-your-reforms-worsening-hardship-atiku-lashes-at-tinubu/?utm_source=rss.punchng.com&amp;utm_medium=web</link>
@@ -77,13 +124,123 @@ Read More: https://punchng.com/fg-targets-80-electricity-access-within-five-year
       <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
     </item>
     <item>
-      <title>Electoral Violence, Impunity and Nigeria’s Democracy</title>
-      <link>https://www.thisdaylive.com/2026/08/22/electoral-violence-impunity-and-nigerias-democracy/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/electoral-violence-impunity-and-nigerias-democracy/</guid>
-      <pubDate>Sat, 22 Aug 2026 02:10:23 +0000</pubDate>
+      <title>ICPC Uncovers Another Fake Agency, Tinubu Orders Arrest, Suspension of 3 Perm Secs</title>
+      <link>https://www.thisdaylive.com/2026/08/22/icpc-uncovers-another-fake-agency-tinubu-orders-arrest-suspension-of-3-perm-secs/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/icpc-uncovers-another-fake-agency-tinubu-orders-arrest-suspension-of-3-perm-secs/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:55:49 +0000</pubDate>
       <dc:creator>ThisDay</dc:creator>
       <category>Nigerian News</category>
-      <description>EDGY OPTIMIST By Obinna Chima &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160;</description>
+      <description>*Nwabueze for arrest, Danjuma, Gagare, Pheelangwah suspended*Fake entity secured office inside SGF complex without presidential approval *ICPC links discovery to probe of fictitious PFIPC *President directs wider audit of MDAs,</description>
+    </item>
+    <item>
+      <title>Breastfeeding more than child nutrition —Prof. Tabansi, PAN President</title>
+      <link>https://tribuneonlineng.com/breastfeeding-more-than-child-nutrition-prof-tabansi-pan-president/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/breastfeeding-more-than-child-nutrition-prof-tabansi-pan-president/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:55:00 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>For generations, breastfeeding has been regarded primarily as the natural way to feed a newborn. But breast milk represents much more than nourishment; it is the foundation for healthier children, stronger families, improved national productivity and sustainable development. The President of the Pae</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2025/12/IMG_2397-768x576-1.jpeg" medium="image"/>
+    </item>
+    <item>
+      <title>Atiku’s Subsidy Proposal Sparks Pro-poor Storm Ahead of 2027</title>
+      <link>https://www.thisdaylive.com/2026/08/22/atikus-subsidy-proposal-sparks-pro-poor-storm-ahead-of-2027/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/atikus-subsidy-proposal-sparks-pro-poor-storm-ahead-of-2027/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:54:20 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>*ADC presidential candidate fires back at Tinubu: You removed subsidy, retained the racket, handed Nigerians the bill Chuks Okocha in Abuja, Dike Onwuamaeze, Sunday Ehigiator and Peter Uzoho in Lagos</description>
+    </item>
+    <item>
+      <title>Yari Blames Otedola, Akinfemiwa for Geregu N40bn Bond Default, Assures Investors</title>
+      <link>https://www.thisdaylive.com/2026/08/22/yari-blames-otedola-akinfemiwa-for-geregu-n40bn-bond-default-assures-investors/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/yari-blames-otedola-akinfemiwa-for-geregu-n40bn-bond-default-assures-investors/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:52:20 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>*Demands ‘fair treatment or reimbursement of funds’   *Lawyer: Escrow fund meant for repayment allegedly utilised before ownership changeInsists they left disappointing legacy Demands ‘fair treatment or reimbursement of funds’</description>
+    </item>
+    <item>
+      <title>Dangote Offers East African Nations 30% Stake in Planned $16bn Refinery</title>
+      <link>https://www.thisdaylive.com/2026/08/22/dangote-offers-east-african-nations-30-stake-in-planned-16bn-refinery/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/dangote-offers-east-african-nations-30-stake-in-planned-16bn-refinery/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:50:36 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>Emmanuel Addeh&amp;#160;in Abuja The Dangote Group has offered East African countries a combined 30 per cent equity stake in its planned refinery in Kenya, with Kenya, Ethiopia and Rwanda expressing</description>
+    </item>
+    <item>
+      <title>Obi Challenges Presidential Rivals to Face Nigerians, Defend Records</title>
+      <link>https://www.thisdaylive.com/2026/08/22/obi-challenges-presidential-rivals-to-face-nigerians-defend-records/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/obi-challenges-presidential-rivals-to-face-nigerians-defend-records/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:50:03 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>*Marshals out manifesto for six political zones in Nigeria  *Pledges to Run campaign devoid of ethnicity, religion Sunday Aborisade in Abuja and David-Chyddy Eleke in Awka The presidential candidate of</description>
+    </item>
+    <item>
+      <title>Imo Performs First Robotic-assisted Surgery</title>
+      <link>https://www.thisdaylive.com/2026/08/22/imo-performs-first-robotic-assisted-surgery/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/imo-performs-first-robotic-assisted-surgery/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:47:11 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>·Uzodimma: Landmark procedure will make advanced healthcare more accessible, affordable Imo State has recorded a major breakthrough in healthcare delivery with the successful completion of its first robotic-assisted surgery, making</description>
+    </item>
+    <item>
+      <title>Osun Guber: APC Candidate, Oyebamiji Visits Tinubu At State House</title>
+      <link>https://www.thisdaylive.com/2026/08/22/osun-guber-apc-candidate-oyebamiji-visits-tinubu-at-state-house/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/osun-guber-apc-candidate-oyebamiji-visits-tinubu-at-state-house/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:45:35 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>.Says party&amp;#160;reviewing results, to announce next move shortly&amp;#160; .Tasks supporters to remain calm, amid fresh attacks on party members Deji Elumoye&amp;#160;in Abuja&amp;#160; The All Progressives Congress (APC) candidate in the</description>
+    </item>
+    <item>
+      <title>Graduating with First Class not luck, requires determination — Oluwatobi Ayodeji, LAUTECH First Class Nursing graduate</title>
+      <link>https://tribuneonlineng.com/graduating-with-first-class-not-luck-requires-determination-oluwatobi-ayodeji-lautech-first-class-nursing-graduate/</link>
+      <guid isPermaLink="true">https://tribuneonlineng.com/graduating-with-first-class-not-luck-requires-determination-oluwatobi-ayodeji-lautech-first-class-nursing-graduate/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:45:00 +0000</pubDate>
+      <dc:creator>Tribune</dc:creator>
+      <category>Nigerian News</category>
+      <description>Oluwatobi Deborah Ayodeji graduated with a First Class from the Department of Nursing Sciences at Ladoke Akintola University of Technology (LAUTECH), Ogbomoso, Oyo State, in the 2024 – 2025 session. She finished with a cumulative grade point average (CGPA) of 4.56 on a scale of 5.0. In this intervie</description>
+      <media:content url="https://tribuneonlineng.com/wp-content/uploads/2026/08/Oluwatobi-Ayodeji.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Alleged Cybercrime: Olukoyede Orders Withdrawal of Charges against Maryam Shehu, Abubakar Abdulhamad</title>
+      <link>https://www.thisdaylive.com/2026/08/22/alleged-cybercrime-olukoyede-orders-withdrawal-of-charges-against-maryam-shehu-abubakar-abdulhamad/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/alleged-cybercrime-olukoyede-orders-withdrawal-of-charges-against-maryam-shehu-abubakar-abdulhamad/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:43:43 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>Alex Enumah&amp;#160;in Abuja&amp;#160; The Executive Chairman of the Economic and Financial Crimes Commission (EFCC), Mr. Ola Olukoyede, has ordered the withdrawal of charges preferred against Maryam Isah Shehu and Abubakar</description>
+    </item>
+    <item>
+      <title>NDIC: Depositors of 46 Revoked MFBs Protected, Payments Ongoing</title>
+      <link>https://www.thisdaylive.com/2026/08/22/ndic-depositors-of-46-revoked-mfbs-protected-payments-ongoing/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/ndic-depositors-of-46-revoked-mfbs-protected-payments-ongoing/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:43:37 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>Nume Ekeghe The Managing Director/Chief Executive Officer, Nigeria Deposit Insurance Corporation (NDIC), Mr. Thompson Oludare, has assured depositors of microfinance banks (MFBs) whose licences were revoked by the Central Bank</description>
+    </item>
+    <item>
+      <title>Wike: Adeleke Now Part of Tinubu’s National Rainbow Coalition</title>
+      <link>https://www.thisdaylive.com/2026/08/22/wike-adeleke-now-part-of-tinubus-national-rainbow-coalition/</link>
+      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/wike-adeleke-now-part-of-tinubus-national-rainbow-coalition/</guid>
+      <pubDate>Sat, 22 Aug 2026 02:42:05 +0000</pubDate>
+      <dc:creator>ThisDay</dc:creator>
+      <category>Nigerian News</category>
+      <description>.Adeleke won’t join APC, will work with FG, says campaign spokesman .Osun poll: lawyers give INEC, police seven-day ultimatum to probe alleged inciting statements, killings Olawale Ajimotokan&amp;#160;and&amp;#160;Sunday Aborisade&amp;#160;in Abuja&amp;#160; The</description>
+    </item>
+    <item>
+      <title>Peru rescues people trapped by landslides on highway for nearly a week</title>
+      <link>https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss</link>
+      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/22/peru-rescues-people-trapped-by-landslides-on-highway-for-nearly-a-week?traffic_source=rss</guid>
+      <pubDate>Sat, 22 Aug 2026 02:09:58 +0000</pubDate>
+      <dc:creator>Al Jazeera</dc:creator>
+      <category>World News</category>
+      <description>Peru rescues people trapped by landslides on highway for nearly a week.</description>
     </item>
     <item>
       <title>My basketball dream ended after visa denial — Ex-BBNaija star Hermes</title>
@@ -96,16 +253,6 @@ Read More: https://punchng.com/fg-targets-80-electricity-access-within-five-year
 
 Read More: https://punchng.com/my-basketball-dream-ended-after-visa-denial-ex-bbnaija-star-hermes/</description>
       <media:content url="https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png" medium="image"/>
-    </item>
-    <item>
-      <title>Russian double-tap drone strike kills 16 in Ukrainian mall, officials say</title>
-      <link>https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Sat, 22 Aug 2026 01:47:54 +0000</pubDate>
-      <dc:creator>BBC News World</dc:creator>
-      <category>World News</category>
-      <description>At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.</description>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png" medium="image"/>
     </item>
     <item>
       <title>Palestinian-British girl, 6, dies days after family drowned off UK coast</title>
@@ -126,6 +273,15 @@ Read More: https://punchng.com/my-basketball-dream-ended-after-visa-denial-ex-bb
       <description>The Youth Wing of Ohanaeze Ndigbo Worldwide has passed a resounding vote of confidence on the President General, Senator Azuta Mbata, at its National Secretariat in Enugu, in recognition of his sterling leadership, wisdom, statesmanship and unwavering commitment to the unity and advancement of Ndigb</description>
     </item>
     <item>
+      <title>South-West monarchs meet Igboho to strengthen security in Yorubaland</title>
+      <link>https://www.ripplesnigeria.com/south-west-monarchs-meet-igboho-to-strengthen-security-in-yorubaland/</link>
+      <guid isPermaLink="true">https://www.ripplesnigeria.com/south-west-monarchs-meet-igboho-to-strengthen-security-in-yorubaland/</guid>
+      <pubDate>Sat, 22 Aug 2026 01:12:14 +0000</pubDate>
+      <dc:creator>Ripples Nigeria</dc:creator>
+      <category>Nigerian News</category>
+      <description>In efforts to strengthen security in their region, traditional rulers across the South-West are set to hold a high-level security meeting with Yoruba nation activist and founder of the Iru Ekun Security Network, Sunday Adeyemo, popularly known as Sunday Igboho. The crucial meeting, scheduled for Fri</description>
+    </item>
+    <item>
       <title>There's no reason for software to be slow anymore</title>
       <link>https://danluu.com/perf-opt/</link>
       <guid isPermaLink="true">https://danluu.com/perf-opt/</guid>
@@ -134,8 +290,8 @@ Read More: https://punchng.com/my-basketball-dream-ended-after-visa-denial-ex-bb
       <category>Naija Tech</category>
       <description>Article URL: https://danluu.com/perf-opt/
 Comments URL: https://news.ycombinator.com/item?id=49395628
-Points: 40
-# Comments: 26</description>
+Points: 102
+# Comments: 107</description>
     </item>
     <item>
       <title>Initial focus for our partnership with Motorola is a regular non-folding device</title>
@@ -146,8 +302,8 @@ Points: 40
       <category>Naija Tech</category>
       <description>Article URL: https://grapheneos.social/@GrapheneOS/117136278553665985
 Comments URL: https://news.ycombinator.com/item?id=49395605
-Points: 11
-# Comments: 3</description>
+Points: 28
+# Comments: 8</description>
     </item>
     <item>
       <title>Why we left America for Nigeria with five children — US professor, wife</title>
@@ -257,15 +413,6 @@ The post Cancún, the city hotter than Lagos appeared first on The Sun Nigeria.<
       <description>Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.</description>
     </item>
     <item>
-      <title>Carloha Introduces Another Chinese EV Chery Q into Nigeria’s Market</title>
-      <link>https://www.thisdaylive.com/2026/08/22/carloha-introduces-another-chinese-ev-chery-q-into-nigerias-market/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/carloha-introduces-another-chinese-ev-chery-q-into-nigerias-market/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:37:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Bennett Oghifo&amp;#160; Cinese automotive brands are steadily expanding their presence in the Nigerian market, bringing new technologies, innovative vehicle designs, and more diverse mobility options to consumers.  The latest in</description>
-    </item>
-    <item>
       <title>Shock as landslide consumes Calabar community</title>
       <link>https://thesun.ng/shock-as-landslide-consumes-calabar-community/</link>
       <guid isPermaLink="true">https://thesun.ng/shock-as-landslide-consumes-calabar-community/</guid>
@@ -306,15 +453,6 @@ T</description>
 The post At 50, I can</description>
     </item>
     <item>
-      <title>WMotors Brings Jetour Africa Expedition to Lagos, Tests T1, T2, G700</title>
-      <link>https://www.thisdaylive.com/2026/08/22/wmotors-brings-jetour-africa-expedition-to-lagos-tests-t1-t2-g700/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/wmotors-brings-jetour-africa-expedition-to-lagos-tests-t1-t2-g700/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:28:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>1Bennett Oghifo  Jetour WMotors, the official distributor of Jetour vehicles in Nigeria, has brought the 2026 Jetour Africa Expedition to Lagos, putting the T1, T2 and G700 SUVs through a</description>
-    </item>
-    <item>
       <title>Specdo set for musical comeback with new album</title>
       <link>https://thesun.ng/specdo-set-for-musical-comeback-with-new-album/</link>
       <guid isPermaLink="true">https://thesun.ng/specdo-set-for-musical-comeback-with-new-album/</guid>
@@ -322,33 +460,6 @@ The post At 50, I can</description>
       <dc:creator>The Sun</dc:creator>
       <category>Nigerian News</category>
       <description>Nigerian recording artist Ajayi Solomon, popularly known as Specdo, is preparing to re-enter the music scene in 2026 with a new body of work and a fresh creative direction.The artist, who has released numerous songs and albums and collaborated with notable acts over the years, is beginning what his</description>
-    </item>
-    <item>
-      <title>How to Make Your Savings Work for You</title>
-      <link>https://www.thisdaylive.com/2026/08/22/how-to-make-your-savings-work-for-you/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/how-to-make-your-savings-work-for-you/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:25:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Omolabake Fasogbon The Central Bank of Nigeria (CBN) has urged commercial banks to expand credit creation, following the N4.65 trillion raised in the just concluded recapitalisation exercise. Specifically, the apex</description>
-    </item>
-    <item>
-      <title>Guinness Posts N25.3bn Profit as Debt Plummets in H1 2026</title>
-      <link>https://www.thisdaylive.com/2026/08/22/guinness-posts-n25-3bn-profit-as-debt-plummets-in-h1-2026/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/guinness-posts-n25-3bn-profit-as-debt-plummets-in-h1-2026/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:24:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Omolabake Fasogbon&amp;#160; Guinness Nigeria Plc has cut its net debt nearly in half while growing its half-year (H1) profit after tax by 53 percent to N25.3 billion. The firm disclosed</description>
-    </item>
-    <item>
-      <title>ARISE Africa Summit Spotlights Innovation, Investment In Real Estate</title>
-      <link>https://www.thisdaylive.com/2026/08/22/arise-africa-summit-spotlights-innovation-investment-in-real-estate/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/arise-africa-summit-spotlights-innovation-investment-in-real-estate/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:23:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Omolabake Fasogbon&amp;#160; Nigeria’s Billionaires Realtors Group (BRG) Network has hosted the inaugural Africa Real Estate Innovation Summit of Excellence (ARISE Africa) 2026 in Lagos, bringing together stakeholders to discuss innovation,</description>
     </item>
     <item>
       <title>KamDebbie celebrates elder sister, Presh Dera</title>
@@ -361,33 +472,6 @@ The post At 50, I can</description>
 The post KamDebbie celebrates elder sister, Presh Dera appeared first on The Sun Nigeria.</description>
     </item>
     <item>
-      <title>Secure Infrastructure, Precursor to Closing Digital Divide, Says Expert</title>
-      <link>https://www.thisdaylive.com/2026/08/22/secure-infrastructure-precursor-to-closing-digital-divide-says-expert/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/secure-infrastructure-precursor-to-closing-digital-divide-says-expert/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:19:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Omolabake Fasogbon&amp;#160; Quomodo Systems Africa has stressed the need for stronger investment in secure digital infrastructure to sustain efforts in bridging digital divide in the country. &amp;#160;Chief Financial Officer and</description>
-    </item>
-    <item>
-      <title>CBN Governor, NADDC DG Set for LCCI Symposium on  Vehicle Financing</title>
-      <link>https://www.thisdaylive.com/2026/08/22/cbn-governor-naddc-dg-set-for-lcci-symposium-on-vehicle-financing/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/cbn-governor-naddc-dg-set-for-lcci-symposium-on-vehicle-financing/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:18:00 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>Bennett Oghifo&amp;#160; The Auto Sectoral Group of the Lagos Chamber of Commerce and Industry (LCCI) is set to bring together key stakeholders in Nigeria’s automotive, financial and transport sectors for</description>
-    </item>
-    <item>
-      <title>Detty December Fest Returns, Promises Best of African Cultural Experience</title>
-      <link>https://www.thisdaylive.com/2026/08/22/detty-december-fest-returns-promises-best-of-african-cultural-experience/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/detty-december-fest-returns-promises-best-of-african-cultural-experience/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:17:25 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>&amp;#160;Ferdinand Ekechukwu December in Lagos is traditionally one of the busiest and most energetic periods of the year, as residents, diaspora visitors, tourists and entertainers converge on the city. Detty</description>
-    </item>
-    <item>
       <title>Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel</title>
       <link>https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel</link>
       <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel</guid>
@@ -395,15 +479,6 @@ The post KamDebbie celebrates elder sister, Presh Dera appeared first on The Sun
       <dc:creator>Bloomberg Markets</dc:creator>
       <category>Investment &amp; Stocks</category>
       <description>Mexico’s top trade negotiator expressed optimism he can secure less burdensome tariff terms from the US on Mexican automobile and steel exports, similar to revised measures Washington is discussing with Canada.</description>
-    </item>
-    <item>
-      <title>Ayra Starr’s ‘Starrgirl’ Sets Trend, Records Biggest Opening-day Album</title>
-      <link>https://www.thisdaylive.com/2026/08/22/ayra-starrs-starrgirl-sets-trend-records-biggest-opening-day-album/</link>
-      <guid isPermaLink="true">https://www.thisdaylive.com/2026/08/22/ayra-starrs-starrgirl-sets-trend-records-biggest-opening-day-album/</guid>
-      <pubDate>Sat, 22 Aug 2026 00:09:50 +0000</pubDate>
-      <dc:creator>ThisDay</dc:creator>
-      <category>Nigerian News</category>
-      <description>&amp;#160;Ferdinand Ekechukwu Since the release of ‘Starrgirl’, Ayra Starr‘s third full-length studio album, the two-times Grammy-nominated, three-times MOBO award-winning artiste has recorded an impressive 1.82 million streams on its first</description>
     </item>
     <item>
       <title>Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall</title>
@@ -452,7 +527,7 @@ The post KamDebbie celebrates elder sister, Presh Dera appeared first on The Sun
       <category>Naija Tech</category>
       <description>Article URL: https://danluu.com/hn-comments/
 Comments URL: https://news.ycombinator.com/item?id=49395171
-Points: 20
+Points: 23
 # Comments: 6</description>
     </item>
     <item>
@@ -540,15 +615,6 @@ Points: 20
       <category>Football</category>
       <description>The top stories and transfer rumours from Saturday's newspapers...</description>
       <media:content url="https://e2.365dm.com/26/08/1920x1080/skysports-paper-talk-football_7317647.jpg?20260809160824" medium="image"/>
-    </item>
-    <item>
-      <title>US debt tops $40 trillion, Americans left with the bill</title>
-      <link>https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss</link>
-      <guid isPermaLink="true">https://www.aljazeera.com/video/newsfeed/2026/8/21/us-debt-tops-40-trillion-americans-left-with-the-bill-3?traffic_source=rss</guid>
-      <pubDate>Fri, 21 Aug 2026 23:19:48 +0000</pubDate>
-      <dc:creator>Al Jazeera</dc:creator>
-      <category>World News</category>
-      <description>The US national debt has officially surpassed $40 trillion for the first time in history, and it’s growing fast.</description>
     </item>
     <item>
       <title>Lessons learned, but Coventry's top-flight return about more than result</title>
@@ -763,8 +829,8 @@ The post Why I left Kwara APC for PDP — Mustapha appeared first on Vanguard Ne
       <category>Naija Tech</category>
       <description>Article URL: https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/
 Comments URL: https://news.ycombinator.com/item?id=49394496
-Points: 56
-# Comments: 14</description>
+Points: 80
+# Comments: 19</description>
     </item>
     <item>
       <title>Over 46 Bodies Recovered In Sokoto Boat Accident</title>
@@ -937,70 +1003,6 @@ read more Arsenal make perfect title defence start with 3-0 demolition of Covent
       <dc:creator>Leadership</dc:creator>
       <category>Nigerian News</category>
       <description>The  All Progressives Congress (APC) candidate Bola Oyebamiji, in the Osun State governorship election, has called on Governor Ademola Adeleke to speak to his people and ensure that violence against APC members is stopped. Oyebamiji made the call after meeting with President Bola Tinubu at the Presi</description>
-    </item>
-    <item>
-      <title>Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election</title>
-      <link>https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election</guid>
-      <pubDate>Fri, 21 Aug 2026 21:57:02 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>President Luiz Inácio Lula da Silva maintained his lead over right-wing challenger Flávio Bolsonaro ahead of Brazil’s October election, a new poll found.</description>
-    </item>
-    <item>
-      <title>'A lot to like!' Arteta delighted with opening win for Arsenal</title>
-      <link>https://www.bbc.co.uk/sport/football/videos/c4gjn9j3d47o?at_medium=RSS&amp;at_campaign=rss</link>
-      <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/videos/c4gjn9j3d47o?at_medium=RSS&amp;at_campaign=rss</guid>
-      <pubDate>Fri, 21 Aug 2026 21:56:44 +0000</pubDate>
-      <dc:creator>BBC Sport Football</dc:creator>
-      <category>Football</category>
-      <description>Arsenal manager Mikel Arteta gives his thoughts on his side's 3-0 win over Coventry City in the opening game of the Premier League season.</description>
-      <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3669/live/490c4210-9da9-11f1-aed2-8d6da8d75094.jpg" medium="image"/>
-    </item>
-    <item>
-      <title>Edo Govt Denies Banning Davido From Performing In The State</title>
-      <link>https://newtelegraphng.com/edo-govt-denies-banning-davido-from-performing-in-the-state/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=edo-govt-denies-banning-davido-from-performing-in-the-state</link>
-      <guid isPermaLink="true">https://newtelegraphng.com/edo-govt-denies-banning-davido-from-performing-in-the-state/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=edo-govt-denies-banning-davido-from-performing-in-the-state</guid>
-      <pubDate>Fri, 21 Aug 2026 21:56:32 +0000</pubDate>
-      <dc:creator>New Telegraph</dc:creator>
-      <category>Nigerian News</category>
-      <description>The Edo State Government has dismissed reports claiming that popular Nigerian musician David Adeleke, popularly known as Davido, has been banned from entering or performing in the state. This followed a comment made by Apostle Kassy Chukwu, a Senior Special Assistant on Digital Media to the State Go</description>
-    </item>
-    <item>
-      <title>78-Year-Old Freight Agent Faces Trial Over Alleged 20.4kg Cocaine Export</title>
-      <link>https://leadership.ng/78-year-old-freight-agent-faces-trial-over-alleged-20-4kg-cocaine-export/</link>
-      <guid isPermaLink="true">https://leadership.ng/78-year-old-freight-agent-faces-trial-over-alleged-20-4kg-cocaine-export/</guid>
-      <pubDate>Fri, 21 Aug 2026 21:55:37 +0000</pubDate>
-      <dc:creator>Leadership</dc:creator>
-      <category>Nigerian News</category>
-      <description>A 78-year-old freight agent, Akinlawon Alani, has been arraigned before the Federal High Court in Lagos for allegedly attempting to export 20.40 kilogrammes of cocaine to Malaysia. Alani was docked before Justice Akintayo Aluko on a three-count charge of conspiracy, unlawful exportation of cocaine,</description>
-    </item>
-    <item>
-      <title>Osimhen scores brace as Galatasaray seal first season win</title>
-      <link>https://dailytrust.com/osimhen-scores-brace-as-galatasaray-seal-first-season-win/</link>
-      <guid isPermaLink="true">https://dailytrust.com/osimhen-scores-brace-as-galatasaray-seal-first-season-win/</guid>
-      <pubDate>Fri, 21 Aug 2026 21:55:01 +0000</pubDate>
-      <dc:creator>Daily Trust</dc:creator>
-      <category>Nigerian News</category>
-      <description>Victor Osimhen scored twice &amp;#8211; once in each half- and provided an assist to ensure Galatasaray claimed their first three points of the season with a 4-0 win at Erzurumspor FK on Friday. The Turkish Super Lig champions had uncharacteristically dropped points in their opening match of the season</description>
-    </item>
-    <item>
-      <title>Moderna, Merck Cancer Vax Gives Hope</title>
-      <link>https://www.bloomberg.com/news/videos/2026-08-21/moderna-merck-cancer-vax-gives-hope-video</link>
-      <guid isPermaLink="true">https://www.bloomberg.com/news/videos/2026-08-21/moderna-merck-cancer-vax-gives-hope-video</guid>
-      <pubDate>Fri, 21 Aug 2026 21:53:36 +0000</pubDate>
-      <dc:creator>Bloomberg Markets</dc:creator>
-      <category>Investment &amp; Stocks</category>
-      <description>Scientists are on the cusp of fulfilling a decades-long quest: to use vaccines to teach the immune system to spot and destroy cancer cells. News that an mRNA cancer vaccine developed by Merck &amp; Co. and Moderna Inc. kept melanoma from returning in a large, late-stage trial marks a critical next chapt</description>
-    </item>
-    <item>
-      <title>Alia Swears In 7 Commissioners, Charges Them To Serve Benue</title>
-      <link>https://leadership.ng/alia-swears-in-7-commissioners-charges-them-to-serve-benue/</link>
-      <guid isPermaLink="true">https://leadership.ng/alia-swears-in-7-commissioners-charges-them-to-serve-benue/</guid>
-      <pubDate>Fri, 21 Aug 2026 21:53:33 +0000</pubDate>
-      <dc:creator>Leadership</dc:creator>
-      <category>Nigerian News</category>
-      <description>Benue State governor, Rev. Fr. Hyacinth Alia, has sworn in seven newly appointed commissioners, charging them to serve the people of the state rather than themselves or particular interest groups. Alia gave the charge on Friday in Makurdi during the swearing-in ceremony, urging the commissioners to</description>
     </item>
   </channel>
 </rss>
